@@ -38,12 +38,12 @@ The goal is to standardize hotel room names received from different suppliers. D
 
 ```mermaid
 graph TD
-    A[Supplier Data (JSON)] --> B[Data Loader]
-    B --> C[SQLite Database]
-    C --> D[Matching Service]
-    D --> E[Standardized Room Names]
-    E --> F[FastAPI Endpoints]
-    F --> G[Consumers / Frontend]
+    A["Supplier Data (JSON)"] --> B["Data Loader"]
+    B --> C["SQLite Database"]
+    C --> D["Matching Service"]
+    D --> E["Standardized Room Names"]
+    E --> F["FastAPI Endpoints"]
+    F --> G["Consumers / Frontend"]
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style C fill:#bbf,stroke:#333,stroke-width:2px
     style F fill:#9f6,stroke:#333,stroke-width:2px
