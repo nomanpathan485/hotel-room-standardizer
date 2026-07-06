@@ -46,7 +46,7 @@ graph TD
     F --> G[Consumers / Frontend]
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style C fill:#bbf,stroke:#333,stroke-width:2px
-    style F #9f6,stroke:#333,stroke-width:2px
+    style F fill:#9f6,stroke:#333,stroke-width:2px
 ```
 
 ## Installation
@@ -119,7 +119,7 @@ Please ensure your code follows the project's style and includes appropriate tes
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is intended to be licensed under the MIT License. A `LICENSE` file has not yet been added to the repository — please add one before publishing or accepting external contributions.
 
 ---
 
