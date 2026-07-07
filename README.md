@@ -27,9 +27,12 @@ The goal is to standardize hotel room names received from different suppliers. D
 - [x] Database models defined
 - [x] Supplier data loaded into SQLite
 - [x] Basic FastAPI endpoint (`/`) operational
-- [ ] Room matching algorithm implementation
+- [x] `GET /rooms` endpoint returning list of rooms
+- [x] Pydantic response schemas defined
+- [x] Project structured into `routers`, `services`, and `models` modules
+- [ ] Room matching algorithm implementation (`app/services/matcher.py` is a placeholder)
 - [ ] Standardized room name generation
-- [ ] API endpoints for matching and retrieval
+- [ ] API endpoints for matching, retrieval, update, and delete
 - [ ] API documentation (Swagger UI)
 - [ ] Testing suite
 - [ ] Deployment preparation
@@ -47,6 +50,27 @@ graph TD
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style C fill:#bbf,stroke:#333,stroke-width:2px
     style F fill:#9f6,stroke:#333,stroke-width:2px
+```
+
+## Project Structure
+
+```
+hotel-room-standardizer/
+├── app/
+│   ├── main.py              # FastAPI app entry point
+│   ├── database.py          # SQLAlchemy engine & session
+│   ├── models.py            # SQLAlchemy ORM models
+│   ├── schemes.py           # Pydantic response/request schemas
+│   ├── routers/
+│   │   └── rooms.py         # Room-related API routes
+│   └── services/
+│       ├── loader.py        # JSON → DB loader
+│       └── matcher.py       # Room matching (not yet implemented)
+├── data/
+│   └── rooms.json           # Supplier room data
+├── hotel.db                 # SQLite database
+├── requirements.txt
+└── README.md
 ```
 
 ## Installation
@@ -70,36 +94,45 @@ graph TD
 
 4. Ensure the data file exists (`data/rooms.json`). It should already be present.
 
-5. Run the application:
+5. (Optional) Reload supplier data into the database by running the loader:
+   ```bash
+   python -m app.services.loader
+   ```
+
+6. Run the application:
    ```bash
    uvicorn app.main:app --reload
    ```
 
-6. Open your browser at `http://127.0.0.1:8000` to see the welcome message.
+7. Open your browser at `http://127.0.0.1:8000` to see the welcome message, or visit `http://127.0.0.1:8000/docs` for the interactive Swagger UI.
 
 ## Usage
 
-- The API currently provides a root endpoint returning a welcome message.
+- The API currently provides:
+  - `GET /` – Welcome message confirming the API is running.
+  - `GET /rooms` – Returns a JSON list of all rooms currently stored in the database.
 - Future endpoints will include:
   - `POST /rooms/match` – Submit a room name and receive standardized suggestions.
   - `GET /rooms/{id}` – Retrieve a specific room record.
-  - `GET /rooms` – List all stored rooms with filtering options.
+  - `PUT /rooms/{id}` – Update a room record.
+  - `DELETE /rooms/{id}` – Delete a room record.
 
-## API Endpoints (Planned)
+## API Endpoints
 
-| Method | Endpoint          | Description                          |
-|--------|-------------------|--------------------------------------|
-| GET    | `/`               | Welcome message                      |
-| GET    | `/rooms`          | List all rooms (with pagination)     |
-| GET    | `/rooms/{id}`     | Get a specific room by ID            |
-| POST   | `/rooms/match`    | Match a supplier room name to standard |
-| PUT    | `/rooms/{id}`     | Update a room record                 |
-| DELETE | `/rooms/{id}`     | Delete a room record                 |
+| Method | Endpoint          | Status        | Description                          |
+|--------|-------------------|---------------|--------------------------------------|
+| GET    | `/`               | ✅ Implemented | Welcome message                      |
+| GET    | `/rooms`          | ✅ Implemented | List all stored rooms                |
+| GET    | `/rooms/{id}`     | ⏳ Planned     | Get a specific room by ID            |
+| POST   | `/rooms/match`    | ⏳ Planned     | Match a supplier room name to standard |
+| PUT    | `/rooms/{id}`     | ⏳ Planned     | Update a room record                 |
+| DELETE | `/rooms/{id}`     | ⏳ Planned     | Delete a room record                 |
 
 ## Roadmap
 
-- [ ] Implement fuzzy matching algorithm (e.g., fuzzywuzzy, rapidfuzz, or custom NLP)
+- [ ] Implement fuzzy matching algorithm in `app/services/matcher.py` (e.g., fuzzywuzzy, rapidfuzz, or custom NLP)
 - [ ] Develop standardization logic (canonical room names)
+- [ ] Add remaining CRUD endpoints for rooms
 - [ ] Add comprehensive API documentation with Swagger UI
 - [ ] Write unit and integration tests
 - [ ] Dockerize the application
