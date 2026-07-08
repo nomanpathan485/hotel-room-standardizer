@@ -1,5 +1,5 @@
-from app.services.normalizer import normalize_room_name
+from app.services.standardizer import standardize_room_name
 
-room = "Bed     in 6-Bed Mixed Dormitory"
+room = "DOUBLE ROOM"
 
-print(normalize_room_name(room))
+print(standardize_room_name(room))
