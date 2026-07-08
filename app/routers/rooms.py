@@ -5,6 +5,10 @@ from app.models import Room
 from app.schemes import RoomCreate, RoomResponse
 
 router = APIRouter()
+@router.get("/rooms", response_model=list[RoomResponse])
+def get_rooms(db: Session = Depends(get_db)):
+    return db.query(Room).all()
+
 @router.get("/rooms/{room_id}", response_model=RoomResponse)
 def get_room(room_id: int, db: Session = Depends(get_db)):
     room = db.query(Room).filter(Room.id == room_id).first()
@@ -25,3 +29,31 @@ def create_room(room: RoomCreate, db: Session = Depends(get_db)):
     db.refresh(new_room)
 
     return new_room
+
+@router.put("/rooms/{room_id}", response_model=RoomResponse)
+def update_room(room_id: int, room: RoomCreate, db: Session = Depends(get_db)):
+    db_room = db.query(Room).filter(Room.id == room_id).first()
+
+    if db_room is None:
+        raise HTTPException(status_code=404, detail="Room not found")
+
+    db_room.supplier_code = room.supplier_code
+    db_room.supplier_name = room.supplier_name
+    db_room.supplier_room_name = room.supplier_room_name
+
+    db.commit()
+    db.refresh(db_room)
+
+    return db_room
+
+@router.delete("/rooms/{room_id}")
+def delete_room(room_id: int, db: Session = Depends(get_db)):
+    db_room = db.query(Room).filter(Room.id == room_id).first()
+
+    if db_room is None:
+        raise HTTPException(status_code=404, detail="Room not found")
+
+    db.delete(db_room)
+    db.commit()
+
+    return {"message": "Room deleted successfully"}

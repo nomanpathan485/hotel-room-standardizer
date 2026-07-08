@@ -6,6 +6,10 @@ from app.models import Room
 
 def import_rooms():
     db = SessionLocal()
+    if db.query(Room).count() > 0:
+        print("Rooms already imported.")
+        db.close()
+        return
 
     try:
         # Open the JSON file
