@@ -3,6 +3,7 @@ from sqlalchemy.orm import Session
 from app.database import get_db
 from app.models import Room
 from app.schemes import RoomCreate, RoomResponse
+from app.services.grouping_engine import group_rooms
 
 router = APIRouter()
 @router.get("/rooms", response_model=list[RoomResponse])
@@ -57,3 +58,17 @@ def delete_room(room_id: int, db: Session = Depends(get_db)):
     db.commit()
 
     return {"message": "Room deleted successfully"}
+
+@router.post("/group-rooms")
+def group_rooms_api(db: Session = Depends(get_db)):
+    rooms = db.query(Room).all()
+    room_data = [
+    {
+        "id": room.id,
+        "supplier": room.supplier_name,
+        "room_name": room.supplier_room_name,
+    }
+    for room in rooms
+]
+    groups = group_rooms(room_data)
+    return groups

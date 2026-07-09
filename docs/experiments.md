@@ -80,52 +80,29 @@ More experiments are required before selecting the final algorithm.
 
 ---
 
-# Planned Experiments
+## Progress Update
 
-Experiment 2
+### Semantic Matching Research
 
-Run RapidFuzz against the complete dataset.
+- Integrated Ollama locally.
+- Using `nomic-embed-text` for generating embeddings.
+- Built an embedding pipeline:
+  - Load room names from SQLite.
+  - Generate embeddings in a single batch.
+  - Store embeddings in memory (`room_id -> embedding`).
+- Implemented cosine similarity for semantic room matching.
+- Added text normalization before embedding generation, which improved similarity scores.
+- Initial testing shows the pipeline works, but `nomic-embed-text` struggles with generic room names (e.g., "ROOM", "STANDARD ROOM").
+- Next step is benchmarking better embedding models (BGE-M3, E5, etc.) to compare accuracy, latency, and feasibility as a replacement for the current Vervotech workflow.
 
----
+### Update
 
-Experiment 3
+- Implemented semantic search using cosine similarity.
+- Added normalization before embedding generation.
+- Next optimization: remove duplicate room names before generating embeddings to reduce unnecessary embedding computations.
 
-Rule-based standardization.
+### Update
 
----
-
-Experiment 4
-
-Sentence Embeddings (MiniLM)
-
----
-
-Experiment 5
-
-BGE Embeddings
-
----
-
-Experiment 6
-
-E5 Embeddings
-
----
-
-Experiment 7
-
-Local LLM (Qwen/Llama)
-
----
-
-# Final Evaluation
-
-Each approach will be evaluated on:
-
-- Accuracy
-- Latency
-- Memory Usage
-- Ease of Deployment
-- Cost
-
-The goal is to determine whether a local solution can replace or reduce dependence on Vervotech for hotel room-name standardization.
+- Decided to introduce an evaluation dataset.
+- Purpose: compare different matching approaches using the same test cases.
+- This will allow objective comparison of RapidFuzz, embedding models, and future LLM-based approaches.

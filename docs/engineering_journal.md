@@ -268,6 +268,16 @@ Backend Foundation ✅
 - Dataset Exploration
 - RapidFuzz Baseline Started
 
-Next Step
+## Day 9 - RapidFuzz Baseline
 
-Build a room matching engine and compare different techniques.
+### Completed
+- Compared every room against every other room using `token_set_ratio()`.
+- Found the highest similarity match for each room.
+
+### Observations
+- Correctly matched rooms with different capitalization and word order.
+- Produced false positives for some semantically different room names.
+- Concluded that string similarity alone is insufficient for perfect room standardization.
+
+### Next Step
+Improve normalization and evaluate its impact before introducing embeddings.
