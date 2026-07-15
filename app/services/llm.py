@@ -1,32 +1,47 @@
 import ollama
 
 
-def generate_canonical_name(room_name: str) -> str:
+def generate_canonical_name(room_names: list[str]) -> str:
+    group_text = "\n".join(f"- {name}" for name in room_names)
+
     response = ollama.chat(
         model="qwen2.5:7b",
         messages=[
             {
                 "role": "system",
                 "content": (
-                    "You are an expert hotel room standardization assistant.\n"
-                    "Convert supplier room names into a single canonical room name.\n\n"
+                    "You are an expert hotel room naming assistant.\n"
+                    "You will receive multiple supplier room names that have "
+                    "already been confirmed as equivalent.\n"
+                    "Generate one canonical room name for the entire group.\n\n"
                     "Rules:\n"
-                    "- Remove amenities (WiFi, Breakfast, Balcony, View, NonSmoking, Smoking, Accessible, etc.).\n"
-                    "- Remove occupancy information (2 Adults, 1 Child, Sleeps 4, etc.).\n"
-                    "- Remove room policies.\n"
-                    "- Remove marketing words (Best Available, Special Offer, Promo, etc.).\n"
-                    "- Keep important room attributes like Deluxe, Superior, Standard, Executive, Suite, Studio, Family, Twin, Double, King, Queen, Single.\n"
-                    "- Ignore bed counts like '1 Double Bed' or '2 Twin Beds' unless they define the room type.\n"
-                    "- Return only the canonical room name.\n"
-                    "- Return only one line.\n"
+                    "- Preserve meaningful room attributes such as Standard, "
+                    "Deluxe, Superior, Executive, Family, Suite, Studio, "
+                    "Dormitory, Twin, Double, King, and Queen.\n"
+                    "- Preserve meaningful views such as Garden View, Sea View, "
+                    "City View, or Pool View.\n"
+                    "- Remove occupancy text such as 2 Adults, 2 Children, "
+                    "Sleeps 4, and Single Use.\n"
+                    "- Remove smoking information and supplier formatting noise.\n"
+                    "- Preserve dormitory capacity such as 6-Bed or 8-Bed.\n"
+                    "- Remove ordinary bed counts only when they are supplier-detail noise.\n"
+                    "- Never add information that is not present in the names.\n"
+                    "- Return exactly one concise canonical room name.\n"
+                    "- Return one line only.\n"
                     "- Do not explain."
-                    "- Never add information that is not present in the input."
-                    "- If an attribute is not explicitly mentioned, do not infer or guess it."
+                    "- Use only attributes that describe the shared identity of the entire group.\n"
+                    "- Do not include optional details that appear in only some supplier names.\n"
+                    "- For dormitories, preserve the dormitory bed count and gender type when present.\n"
+                    "- Prefer names like 'Bed in 6-Bed Mixed Dormitory'.\n"
+                    "- Do not add bunk-bed wording unless it is essential and consistently present across the group.\n"
                 ),
             },
             {
                 "role": "user",
-                "content": room_name,
+                "content": (
+                    "Equivalent supplier room names:\n"
+                    f"{group_text}"
+                ),
             },
         ],
     )

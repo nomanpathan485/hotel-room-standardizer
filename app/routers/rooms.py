@@ -4,6 +4,7 @@ from app.database import get_db
 from app.models import Room
 from app.schemes import RoomCreate, RoomResponse
 from app.services.grouping_engine import group_rooms
+from app.services.response_formatter import format_grouped_response
 
 router = APIRouter()
 @router.get("/rooms", response_model=list[RoomResponse])
@@ -59,16 +60,63 @@ def delete_room(room_id: int, db: Session = Depends(get_db)):
 
     return {"message": "Room deleted successfully"}
 
+def save_room_mapping(db: Session, groups: list[dict]) -> None:
+    for group in groups:
+        standard_room_name =group["standard_room_name"]
+        for grouped_room in group["rooms"]:
+            room = (
+                db.query(Room)
+                .filter(Room.id == grouped_room["id"])
+                .first()
+            )
+
+            if room:
+                room.standard_room_name = standard_room_name
+    db.commit()
+
+
+
 @router.post("/group-rooms")
-def group_rooms_api(db: Session = Depends(get_db)):
+def group_rooms_api(
+    generate_standard_name: bool = False,
+    db: Session = Depends(get_db),
+    
+):
     rooms = db.query(Room).all()
+
     room_data = [
     {
         "id": room.id,
         "supplier": room.supplier_name,
         "room_name": room.supplier_room_name,
+        "standard_room_name": room.standard_room_name,
+
+        "code": room.code,
+        "provider_hotel_id": room.provider_hotel_id,
+        "board_basis": room.board_basis,
+        "beds": room.beds,
+        "room_description": room.room_description,
     }
     for room in rooms
 ]
-    groups = group_rooms(room_data)
-    return groups
+
+    groups = group_rooms(
+        room_data,
+        generate_standard_name=generate_standard_name,
+    )
+
+    if generate_standard_name:
+        save_room_mapping(db, groups)
+
+    return format_grouped_response(groups)
+
+@router.get("/room-names")
+def get_room_names(db: Session = Depends(get_db)):
+    rows = (
+        db.query(Room.supplier_room_name)
+        .distinct()
+        .order_by(Room.supplier_room_name)
+        .all()
+    )
+
+    return [row[0] for row in rows]
