@@ -44,7 +44,6 @@ def get_room_category(room_name: str) -> str:
 
 def get_room_class(room_name: str) -> str:
     room_name = normalize_room_name(room_name)
-
     # Defensive: even though the normalizer strips "standard rate", make
     # sure a residual substring cannot turn a Club/Superior room into a
     # Standard room by accident. The literal phrase `standard rate` (or
@@ -54,7 +53,6 @@ def get_room_class(room_name: str) -> str:
         # Treat the rest of the string as if `standard` were not a class.
         room_name = room_name.replace("standard rate", " ")
         room_name = room_name.replace("standard bedroom", " ")
-
     room_classes = {
         "standard": ["standard"],
         "superior": ["superior"],
@@ -75,19 +73,15 @@ def get_room_class(room_name: str) -> str:
         "panoramic": ["panoramic"],
         "diplomatic": ["diplomatic"],
     }
-
     for room_class, keywords in room_classes.items():
         if any(keyword in room_name for keyword in keywords):
             return room_class
-
     return "unknown"
 
 def get_suite_type(room_name: str) -> str:
     room_name = normalize_room_name(room_name)
-
     if "suite" not in room_name:
         return "not_applicable"
-
     suite_types = {
         "presidential": ["presidential suite"],
         "royal": ["royal suite"],
@@ -102,25 +96,26 @@ def get_suite_type(room_name: str) -> str:
         "penthouse": ["penthouse suite"],
         "duplex": ["duplex suite"],
     }
-
     for suite_type, keywords in suite_types.items():
         if any(keyword in room_name for keyword in keywords):
             return suite_type
-
     return "standard"
 
 def get_bed_type(room_name: str) -> str:
-    room_name = normalize_room_name(room_name)
+    if re.search(r"\bdouble\s+twin\b", room_name):
+        print("MATCHED DOUBLE_OR_TWIN")
+        return "double_or_twin"
+    if re.search(r"\btwin\s+double\b", room_name):
+        print("MATCHED DOUBLE_OR_TWIN")
+        return "double_or_twin"
 
     # Bed style has priority over bed size.
     if re.search(r"\bbunk beds?\b", room_name):
         return "bunk"
-
     if re.search(r"\bsofa beds?\b", room_name) and not re.search(
         r"\b(?:king|queen|double|twin|single)\s+bed\b", room_name
     ):
         return "sofa"
-
     bed_patterns = {
         "king": [
             r"\bking beds?\b",
@@ -154,11 +149,9 @@ def get_bed_type(room_name: str) -> str:
             r"\bdouble\b",
         ],
     }
-
     for bed_type, patterns in bed_patterns.items():
         if any(re.search(pattern, room_name) for pattern in patterns):
             return bed_type
-
     return "unknown"
 
 def get_bedroom_count(room_name: str) -> int | None:
@@ -206,11 +199,12 @@ def get_view_type(room_name: str) -> str:
         "partial_sea": [
             "partial sea view",
             "partial seaview",
-        ],
-        "side_sea": [
             "side sea view",
             "side seaview",
+            "limited sea view",
+            "limited seaview",
         ],
+
         "lateral_sea": [
             "lateral sea view",
             "lateral seaview",
@@ -411,6 +405,14 @@ def get_bed_configuration(room_name: str) -> list[dict]:
             (
                 r"\bdouble\s*[/-]\s*twin\b",
                 ["double", "twin"],
+            ),
+            (
+                r"\bdouble\s+twin\b",
+                ["double", "twin"],
+            ),
+            (
+                r"\btwin\s+double\b",
+                ["twin", "double"],
             ),
         ]
 

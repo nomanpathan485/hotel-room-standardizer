@@ -79,7 +79,10 @@ def format_grouped_response(groups: list[dict]) -> dict:
                 {
                     "inputIndex": room.get("index", room.get("id")),
                     "roomCode": room.get("code"),
-                    "boardBasis": room.get("board_basis"),
+                    "boardBasis": room.get(
+                        "boardBasis",
+                        room.get("board_basis")
+                    ),
                     "refundability": "Unknown",
                     "isDefault": False,
                     "matchScore": 100,

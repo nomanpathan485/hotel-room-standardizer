@@ -5,6 +5,7 @@ from app.models import Room
 from app.schemes import RoomCreate, RoomResponse
 from app.services.grouping_engine import group_rooms
 from app.services.response_formatter import format_grouped_response
+from app.services.group_comparator import compare_group_outputs
 
 router = APIRouter()
 @router.get("/rooms", response_model=list[RoomResponse])
@@ -119,4 +120,34 @@ def get_room_names(db: Session = Depends(get_db)):
         .all()
     )
 
-    return [row[0] for row in rows]
+@router.post("/group-rooms-direct")
+def group_rooms_direct(payload: dict):
+    room_rates = payload.get("roomRates", [])
+
+    room_data = [
+        {
+            **room,
+            "id": room.get("index"),
+            "supplier": room.get("provider"),
+            "room_name": room.get("roomName", ""),
+            "standard_room_name": None,
+        }
+        for room in room_rates
+    ]
+
+    groups = group_rooms(
+        room_data,
+        generate_standard_name=False,
+    )
+
+    return format_grouped_response(groups)
+
+@router.post("/compare-groups")
+def compare_groups(payload: dict):
+    vervotech_response = payload.get("vervotech_response", {})
+    our_response = payload.get("our_response", {})
+
+    return compare_group_outputs(
+        vervotech_response,
+        our_response,
+    )

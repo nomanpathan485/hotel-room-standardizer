@@ -11,11 +11,19 @@ def _same_view(view_a: str, view_b: str) -> bool:
 
 
 def _same_bed_configuration(config_a: list, config_b: list) -> bool:
-    # Only meaningful when both sides actually describe a bed layout.
-    # When one side is empty (older supplier names that omit the
-    # breakdown), fall back to the bed_type / fuzzy check.
-    if not config_a or not config_b:
+    if not config_a and not config_b:
         return True
+
+    # One side has no bed layout, the other has a detailed multi-bed layout.
+    # Treat that as different because the detailed room is a more specific product.
+    if not config_a or not config_b:
+        detailed = config_a or config_b
+
+        if len(detailed) > 1:
+            return False
+
+        return True
+
     return config_a == config_b
 
 def get_bed_signature(features: dict) -> set[tuple[str, int | None]]:
@@ -24,6 +32,25 @@ def get_bed_signature(features: dict) -> set[tuple[str, int | None]]:
         for bed in features.get("bed_configuration", [])
     }
 
+def _compatible_standard_view_room(
+    features_a: dict,
+    features_b: dict,
+) -> bool:
+    same_view = features_a["view"] == features_b["view"]
+
+    allowed_classes = {"standard", "unknown"}
+    class_compatible = (
+        features_a["room_class"] in allowed_classes
+        and features_b["room_class"] in allowed_classes
+    )
+
+    allowed_beds = {"double", "unknown"}
+    bed_compatible = (
+        features_a["bed_type"] in allowed_beds
+        and features_b["bed_type"] in allowed_beds
+    )
+
+    return same_view and class_compatible and bed_compatible
 
 def is_match(room_a, room_b, threshold=90):
     normalized_a = room_a["normalized_name"]
@@ -78,7 +105,8 @@ def is_match(room_a, room_b, threshold=90):
         return False
 
     if room_class_a != room_class_b:
-        return False
+            return False
+        
     if suite_type_a != suite_type_b:
         return False
     if bedroom_count_a != bedroom_count_b:
@@ -124,9 +152,13 @@ def is_match(room_a, room_b, threshold=90):
 
     # Bed configuration: only reject when both sides actually specify one
     # and they disagree. Empty lists fall through to bed_type / fuzzy.
-    if not _same_bed_configuration(bed_configuration_a, bed_configuration_b):
+    if not _same_bed_configuration(
+        bed_configuration_a,
+        bed_configuration_b
+    ):
         return False
-    
+        
+# Bed signature mismatch
     if bed_signature_a and bed_signature_b:
         if bed_signature_a != bed_signature_b:
             return False
