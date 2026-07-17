@@ -240,6 +240,9 @@ def get_view_type(room_name: str) -> str:
         "river": [
             "river view",
         ],
+        "eiger": [
+            "eiger view",
+        ],
         "mountain": [
             "mountain view",
             "mountainside view",
@@ -271,6 +274,7 @@ def get_view_type(room_name: str) -> str:
         "pool": [
             "pool view",
         ],
+        
     }
 
     for view_type, patterns in view_patterns.items():
@@ -526,6 +530,28 @@ def has_connecting_room(room_name: str) -> bool:
     room_name = normalize_room_name(room_name)
     return "connecting" in room_name
 
+def has_swim_up(room_name: str) -> bool:
+    room_name = normalize_room_name(room_name)
+
+    return (
+        "swim up" in room_name
+        or "swimup" in room_name
+    )
+def has_annex(room_name: str) -> bool:
+    room_name = normalize_room_name(room_name)
+
+    return (
+        "annex" in room_name
+        or "anex" in room_name
+    )
+def has_jacuzzi(room_name: str) -> bool:
+    room_name = normalize_room_name(room_name)
+    return "jacuzzi" in room_name
+
+
+def has_hot_tub(room_name: str) -> bool:
+    room_name = normalize_room_name(room_name)
+    return "hot tub" in room_name
 
 def extract_features(room_name: str) -> dict:
     return {
@@ -541,4 +567,9 @@ def extract_features(room_name: str) -> dict:
         "bed_type": get_bed_type(room_name),
         "bedroom_count": get_bedroom_count(room_name),
         "bed_configuration": get_bed_configuration(room_name),
+        "connecting_room": has_connecting_room(room_name),
+        "swim_up":has_swim_up(room_name), 
+        "annex": has_annex(room_name),
+        "jacuzzi": has_jacuzzi(room_name),
+        "hot_tub": has_hot_tub(room_name),
     }

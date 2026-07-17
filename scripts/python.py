@@ -1,5 +1,13 @@
 from app.services.feature_extractor import extract_features
 
-room_name = "Standard Room Side Sea View 1 Double Bed and 2 Twin Sofa Beds NonSmoking"
+tests = [
+    "Duplex Suite",
+    "Duplex Suite 2 Sofa Beds",
+]
 
-print(extract_features(room_name))
+for room_name in tests:
+    features = extract_features(room_name)
+
+    print("\nROOM:", room_name)
+    print("BED TYPE:", features.get("bed_type"))
+    print("BED CONFIG:", features.get("bed_configuration"))

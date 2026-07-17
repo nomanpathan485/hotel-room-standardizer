@@ -3,10 +3,18 @@ from sqlalchemy.orm import Session
 from app.database import get_db
 from app.models import Room
 from app.schemes import RoomCreate, RoomResponse
-from app.services.grouping_engine import group_rooms
 from app.services.response_formatter import format_grouped_response
-from app.services.group_comparator import compare_group_outputs
-
+from app.services.group_comparator import (
+    compare_group_outputs,
+    diagnose_false_splits,
+    diagnose_wrong_merges,
+)
+from app.services.grouping_engine import (
+    group_rooms,
+    group_rooms_v2,
+    group_rooms_v3,
+    group_rooms_v4
+)
 router = APIRouter()
 @router.get("/rooms", response_model=list[RoomResponse])
 def get_rooms(db: Session = Depends(get_db)):
@@ -144,10 +152,93 @@ def group_rooms_direct(payload: dict):
 
 @router.post("/compare-groups")
 def compare_groups(payload: dict):
+    input_data = payload.get("input_data", {})
     vervotech_response = payload.get("vervotech_response", {})
     our_response = payload.get("our_response", {})
 
-    return compare_group_outputs(
+    comparison = compare_group_outputs(
         vervotech_response,
         our_response,
     )
+
+    false_split_diagnostics = diagnose_false_splits(
+        input_data,
+        vervotech_response,
+    )
+
+    wrong_merge_diagnostics = diagnose_wrong_merges(
+        input_data,
+        vervotech_response,
+        our_response,
+    )
+
+    return {
+        "comparison": comparison,
+        "false_split_diagnostics": false_split_diagnostics,
+        "wrong_merge_diagnostics": wrong_merge_diagnostics,
+    }
+@router.post("/group-rooms-direct-v2")
+def group_rooms_direct_v2(payload: dict):
+    room_rates = payload.get("roomRates", [])
+
+    room_data = [
+        {
+            **room,
+            "id": room.get("index"),
+            "supplier": room.get("provider"),
+            "room_name": room.get("roomName", ""),
+            "standard_room_name": None,
+        }
+        for room in room_rates
+    ]
+
+    groups = group_rooms_v2(
+        room_data,
+        generate_standard_name=False,
+    )
+
+    return format_grouped_response(groups)
+
+@router.post("/group-rooms-direct-v3")
+def group_rooms_direct_v3(payload: dict):
+    room_rates = payload.get("roomRates", [])
+
+    room_data = [
+        {
+            **room,
+            "id": room.get("index"),
+            "supplier": room.get("provider"),
+            "room_name": room.get("roomName", ""),
+            "standard_room_name": None,
+        }
+        for room in room_rates
+    ]
+
+    groups = group_rooms_v3(
+        room_data,
+        generate_standard_name=False,
+    )
+
+    return format_grouped_response(groups)
+
+@router.post("/group-rooms-direct-v4")
+def group_rooms_direct_v4(payload: dict):
+    room_rates = payload.get("roomRates", [])
+
+    room_data = [
+        {
+            **room,
+            "id": room.get("index"),
+            "supplier": room.get("provider"),
+            "room_name": room.get("roomName", ""),
+            "standard_room_name": None,
+        }
+        for room in room_rates
+    ]
+
+    groups = group_rooms_v4(
+        room_data,
+        generate_standard_name=False,
+    )
+
+    return format_grouped_response(groups)
