@@ -935,12 +935,7 @@ def is_match_v4(room_a, room_b, threshold=90):
 
     # V4 change:
     # unknown bed type is treated as missing information
-    if (
-        bed_type_a != "unknown"
-        and bed_type_b != "unknown"
-        and bed_type_a != bed_type_b
-    ):
-        return False
+    
     if category_a == "suite":
         sofa_a = has_explicit_sofa_bed(
             bed_configuration_a
@@ -951,6 +946,21 @@ def is_match_v4(room_a, room_b, threshold=90):
 
         if sofa_a != sofa_b:
             return False
+    if (
+        bed_type_a != "unknown"
+        and bed_type_b != "unknown"
+        and bed_type_a != bed_type_b
+    ):
+        return False
+    if (
+        "double land view" in normalized_a
+        and "double land view" in normalized_b
+    ):
+        print("DEBUG A:", normalized_a)
+        print("BED CONFIG A:", bed_configuration_a)
+
+        print("DEBUG B:", normalized_b)
+        print("BED CONFIG B:", bed_configuration_b)
 
     # Bed configuration stays exactly like V1
     if not _same_bed_configuration(

@@ -348,6 +348,24 @@ def get_bed_configuration(room_name: str) -> list[dict]:
 
     found: list[tuple[int, dict]] = []
 
+    # Supplier shorthand:
+    # "DOUBLE Double Land View" can mean 2 Double beds.
+    if re.search(r"\bdouble\s+double\b", room_name):
+        return [
+            {
+                "type": "double",
+                "count": 2,
+            }
+        ]
+
+    if re.search(r"\btwin\s+twin\b", room_name):
+        return [
+            {
+                "type": "twin",
+                "count": 2,
+            }
+        ]
+
     # Beds with explicit counts, for example:
     # 1 King, 2 Queen, 2 Twin Beds, 1 Sofa Bed
     for bed_type, pattern in patterns:
