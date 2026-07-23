@@ -1,0 +1,1987 @@
+{
+    "standardRooms": [
+        {
+            "standardName": "Superior, Land View",
+            "category": "Superior",
+            "view": "Land",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 1,
+                    "roomCode": "{\"roomCode\":\"CGISBzI5NTI1NjQaBTIyOTE1\",\"boardCode\":\"CgE1\"}",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 14,
+                    "roomCode": "42V2DDOG2:AI:STD::iTqsWpQm9hcmRDb2RlPUNnRTEqKip8fnwqKipCb2FyZFR5cGU9NSoqKnx+fCoqKk5ldENvc3RBbW91bnQ9MjIxOS4zNCoqKnx+fCoqKk5ldENvc3RDdXJyZW5jeT1FVVIqKip8fnwqKipSb29tQ29kZT1TVVBFUklPUiBST09NIExBTkQgU0lERSoqKnx+fCoqKlJvb21Db2RlT3JpZ2luYWw9Q0dJU0J6STVOVEkxTmpRYUJUSXlPVEUxKioqfH58KioqUm9vbURlc2NyaXB0aW9uPVNVUEVSSU9SIFJPT00gTEFORCBTSURFIyZAJiMxMDkyMzAzIyZAJiMyMDI2LTEwLTAxI0BAQCMyMDI2LTEwLTA3IyZAJiM2MzgtODU5LTg1M2FhYjk0NjAxN2Y0IyZAJiMyMDA4LjU4IyZAJiNlbiMmQCYjUkxVV1VJ",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 45,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1359883!~|eAll Inclusive!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m1359883!~|nAll Inclusive!~|nTLD!~|o1!~|p1!~|x22071153!~|M2639.34!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Asuperior land side room!~|Bsuperior land side room!~|C30|30!~|Esuperior land side room!~|Fsuperior land side room!~|G1!~|U2,1482.62,1789120800|1,100,1790762400!~|HtimeStamp!~|I7/22/2026 11:53:47 AM!~|HtimeParam!~|I2026-07-22T12:23:47!~|HoptionidFirstDispo!~|I783017706458!~|Hcurrency!~|IUSD!~|HroomId#1!~|I3017706458-1-0!~|HoptionToken!~|IMXx8MTU3Mjc0fHwyNjM5fHxVU0R8fGU1ODVkYWRlNDEyZjAyNDQxYTA0NDI2OTRiMzU4NDM5N2U3Y2IxMGU=!~|Hnumadults!~|I1#2!~|Htgx_price!~|I2639.34!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 55,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d384947!~|e5!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m384947!~|n5!~|nDIDA!~|o1!~|p1!~|x22071153!~|r-2751252122753821848!~|s-2751252122753821848!~|M10687.56!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-2751252122753821848!~|A24090261!~|B24090261!~|C30|30!~|ESUPERIOR ROOM LAND SIDE!~|FSUPERIOR ROOM LAND SIDE!~|G1!~|U2,10687.56,1790060400!~|Hcurrency!~|IAED!~|Htgx_price!~|I10687.56!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 69,
+                    "roomCode": "1164432!TB!25!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 73,
+                    "roomCode": "1164432!TB!9!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Superior, Partial Sea/Sea View",
+            "category": "Superior",
+            "view": "Partial Sea/Sea",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 2,
+                    "roomCode": "{\"roomCode\":\"CGISBzI5NTI1NjQaBTIyOTE0\",\"boardCode\":\"CgE1\"}",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 97,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 83,
+                    "roomCode": "1164432!TB!42!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 97,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Superior, Seaside",
+            "category": "Superior",
+            "roomLocation": "Seaside",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 3,
+                    "roomCode": "{\"roomCode\":\"CIg7EgYxNTcyNzQaFDE1NzI3NDpEQkwuU1MtU1U6MTIw\",\"boardCode\":\"CpgBMjAyNjEwMDF8MjAyNjEwMDd8V3w3NnwxNTcyNzR8REJMLlNTLVNVfEZJVC1HQlB8QUl8fDF+Mn4wfHxOQDA3fkEtU0lDfjIzYzhiNH4tMjEzNTg5MTUxNX5Ofn5+Tk9Sfn44MzEwNEU1ODEyMTc0RjIxNzg0NzE2OTUyMzk3MDVBV1VLMDAzMDAwMTUwMDA2MDgyM2M4YjQ=\"}",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 46,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1359883!~|eAll Inclusive!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m1359883!~|nAll Inclusive!~|nTLD!~|o1!~|p1!~|x22071153!~|M2695.76!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Asuperior sea side room!~|Bsuperior sea side room!~|C30|30!~|Esuperior sea side room!~|Fsuperior sea side room!~|G1!~|U2,1514.35,1789120800|1,100,1790762400!~|HtimeStamp!~|I7/22/2026 11:53:47 AM!~|HtimeParam!~|I2026-07-22T12:23:47!~|HoptionidFirstDispo!~|I782484061608!~|Hcurrency!~|IUSD!~|HroomId#1!~|I2484061608-1-0!~|HoptionToken!~|IMXx8MTU3Mjc0fHwyNjk2fHxVU0R8fGIxNzc0MTQ2YzAxYmNhMWY5YTc4ZWU1ODYzYzM0N2U5N2FmM2JiYTE=!~|Hnumadults!~|I1#2!~|Htgx_price!~|I2695.76!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 76,
+                    "roomCode": "1164432!TB!53!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 99,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Junior Suite, Partial Sea View",
+            "category": "Junior Suite",
+            "view": "Partial Sea",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 4,
+                    "roomCode": "{\"roomCode\":\"CGISBzI5NTI1NjQaBzE2MzY4MTE=\",\"boardCode\":\"CgE1\"}",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 15,
+                    "roomCode": "42V3A1S82:AI:STD::uLDwFrQm9hcmRDb2RlPUNnRTEqKip8fnwqKipCb2FyZFR5cGU9NSoqKnx+fCoqKk5ldENvc3RBbW91bnQ9MzQwMC4yMyoqKnx+fCoqKk5ldENvc3RDdXJyZW5jeT1FVVIqKip8fnwqKipSb29tQ29kZT1KVU5JT1IgU1VJVEUgU0lERSBTRUEgVklFVyoqKnx+fCoqKlJvb21Db2RlT3JpZ2luYWw9Q0dJU0J6STVOVEkxTmpRYUJ6RTJNelk0TVRFPSoqKnx+fCoqKlJvb21EZXNjcmlwdGlvbj1KVU5JT1IgU1VJVEUgU0lERSBTRUEgVklFVyMmQCYjMTA5MjMwMyMmQCYjMjAyNi0xMC0wMSNAQEAjMjAyNi0xMC0wNyMmQCYjNjM4LTg1OS04NTNhYWI5NDYwMTdmNCMmQCYjMzA3Ny4zMyMmQCYjZW4jJkAmI0pxYldOdQ==",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 49,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1359883!~|eAll Inclusive!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m1359883!~|nAll Inclusive!~|nTLD!~|o1!~|p1!~|x22071153!~|M4043.78!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Ajunior suite side sea view!~|Bjunior suite side sea view!~|C30|30!~|Ejunior suite side sea view!~|Fjunior suite side sea view!~|G1!~|U2,2271.50,1789120800|1,100,1790762400!~|HtimeStamp!~|I7/22/2026 11:53:47 AM!~|HtimeParam!~|I2026-07-22T12:23:47!~|HoptionidFirstDispo!~|I783982289946!~|Hcurrency!~|IUSD!~|HroomId#1!~|I3982289946-1-0!~|HoptionToken!~|IMXx8MTU3Mjc0fHw0MDQ0fHxVU0R8fGQ2NjEyNjE2OTY2MGRkZDBhYWY0ZDZkN2I4MmZkM2FlMjU2ZWNkYmM=!~|Hnumadults!~|I1#2!~|Htgx_price!~|I4043.78!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 60,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d9999-19720866!~|e17!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32796!~|m9999-19720866!~|n17!~|nILS!~|o1!~|p0!~|x22071153!~|M20444.21!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A33754606!~|B33754606!~|C30|30!~|EJunior Suite with Side Sea View!~|FJunior Suite with Side Sea View!~|G1!~|HcityCode!~|IANTALYA!~|HtokenNumber!~|ITRA_STG: 20260722_115345!~|HroomConfig!~|I1#17#33754606#5100/H4sIAAAAAAAAAy1QybKCMBD8JRax5MiTLRQJFRYj3AzRMiSoVaAsX_-G0sMcpme6q7uvS_JXW-TDmavqc_7ilpM0R7THK7ZJSa30mNC2d5VgxCgYlZlEK15bk_j1RPRhxV29wyvdkU7ccHjYkdNhQnKSlM0Dt8hdRPrDJdpfl8S_RHpo4kRvOzONASnH5CzRrXJ7ynKTx_mKuudyK4BvuSNnem0t4Ktw5PbpLcAX8ZGTdtUCvkjDwqGK5jtX5NNElcy6wAa84MAF_rvp9UOck68HpRVoz3AvRRQuIsgBr7Y8C_aRlZbBlJbefPK9Keu-s-XImaPyKDSaAu1RhybIO-LSG7EvKux7-99I0EXczjUPfl4kcrJSOaDrkBVNmV9bm17Zh8aFue-azS8RK_hLYioRdBFCx7MBvk3-gJ67DSPPC5sVZUK3y9aZ6f4Dn_b93LABAAA!~|Htgx_price!~|I20444.21!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 63,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d9999-19720866!~|e17!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32796!~|m9999-19720866!~|n17!~|nILS!~|o1!~|p1!~|x22071153!~|M22715.82!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A33754606!~|B33754606!~|C30|30!~|EJunior Suite with Side Sea View!~|FJunior Suite with Side Sea View!~|G1!~|U2,964.13,1790157600!~|HcityCode!~|IANTALYA!~|HtokenNumber!~|ITRA_STG: 20260722_115345!~|HroomConfig!~|I1#17#33754606#5100/H4sIAAAAAAAAAy2QS5OCMBCE_xKEhZKjawRCmVAgGOFmiK55oFah8vj1O5Qe5pCedNc3fZ7S3xqxt-ChqY_FQyA_bTYkoDP1WJmj3SbN2y40kjNnz3OVKTLTuXUZrgdmVw7VdGT4DzEdXWi0-mGH1UDUoHI-9gKxq4ztWygSnKcUn2LbN0lqlzd3nZ4Y3xU8ta0Ju5wXrkiKmej7dNmDH4VPwe3cIvCb6Cm8w0sCF8Ott9PEAS7W8Kiv4vEqDHs3caUyvfVA3wvwgv_VdPYmj-mHwVgD2SPsSxlHk9wWoFfLPRPFBO3K7bAr1-MBr4dMf2a5o-C-KeLIafYkIJoMVNdPWq6fFMuK4nXwHQW5RHiFFdsviyJ-Vhofcn02kyHDNVryyi5yTjx81Xx8yMTAvzTJFYEuIuh4dIDbFTfoWS8au5_4aHIubTstnbnhP3LJF2SwAQAA!~|Htgx_price!~|I22715.82!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 96,
+                    "roomCode": "1164432!TB!51!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 98,
+                    "roomCode": "1164432!TB!33!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 99,
+                    "roomCode": "1164432!TB!41!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Junior Suite",
+            "category": "Junior Suite",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 5,
+                    "roomCode": "{\"roomCode\":\"CJBFEgU5Mjk4OBoDSlNU\",\"boardCode\":\"CgJBSQ==\"}",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 25,
+                    "roomCode": "43R3LD8K2:AI:STD::SrqsMeTm9uUmVmdW5kYWJsZT1mYWxzZSoqKnx+fCoqKk9wdFR5cGU9QXZhaWwqKip8fnwqKipQcm9kdWN0SWQ9MTE1MjExOCoqKnx+fCoqKlJhdGVCYXNpc0lkPTEzMzYqKip8fnwqKipSYXRlVHlwZT0xKioqfH58KioqUm9vbUNvZGU9SlVOSU9SIFNVSVRFKioqfH58KioqUm9vbUNvZGVPcmlnaW5hbD0xNTY2MDI3OCoqKnx+fCoqKlJvb21EZXNjcmlwdGlvbj1KVU5JT1IgU1VJVEUqKip8fnwqKipUb3RhbD00NjAzLjUzODcjJkAmIzE1ODg4MTcjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzYzOC04NTktODUzYWFiOTQ2MDE3ZjQjJkAmIzQxNjYuMzcjJkAmI2VuIyZAJiNPZlBsWFc=",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 27,
+                    "roomCode": "44B323CG2:AI:STD::MmnJHkUm9vbUNvZGVPcmlnaW5hbD04MSoqKnx+fCoqKlJvb21UeXBlQ29kZT1KVU5JT1IgU1VJVEUqKip8fnwqKipSb29tVHlwZURlc2NyaXB0aW9uPUpVTklPUiBTVUlURSoqKnx+fCoqKmJvYXJkRGVzY3JpcHRpb249QWxsIGluY2x1c2l2ZSoqKnx+fCoqKm1lYWxJZD02KioqfH58KioqcHJpY2U9NDUzNSoqKnx+fCoqKnJhdGVDb2RlPVNURCoqKnx+fCoqKnJvb21JZD0xMDY4NTg3NTUjJkAmIzExMTE2MTMjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzYzOC04NTktODUzYWFiOTQ2MDE3ZjQjJkAmIzQxMDQuMzQjJkAmI2VuIyZAJiNwUUVWcEQ=",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 30,
+                    "roomCode": "47H5KJJC2:AI:STD::TxsEojYW1vdW50TmV0PTM1MTYuNTgqKip8fnwqKiphbW91bnRQdnA9MzUxNi41OCoqKnx+fCoqKmJvYXJkQ29kZT0xKioqfH58KioqaG90ZWxDb2RlPVRSMzYqKip8fnwqKippc0JpbmRpbmc9ZmFsc2UqKip8fnwqKipvZmZlcnM9KioqfH58Kioqb3B0VHlwZT1BdmFpbCoqKnx+fCoqKm9wdGlvbkNvbmZpcm1JZD11bmRlZmluZWQqKip8fnwqKipvcHRpb25SZWZJZD0zMyF+fGEwIX58YjI2MTAwMSF+fGMyNjEwMDchfnxkMjUzMjExIX58ZXRpbiF+fGYwIX58Z0dCIX58aEdCIX58aWVuIX58akVVUiF+fGswIX58bDM0Mjc3IX58bVRSMzYhfnxuMSF+fG5UR1ghfnxvMSF+fHAxIX58eDIyMDcxMTUzIX58TTM1MTYuNTghfnxOMCF+fE9mYWxzZSF+fFBFVVIhfnxRIX58UjAhfnxTIX58VCF+fHoxIzQ2MyF+fEE0NjMhfnxCanVzdS0tLS0tLSF+fEMzMHwzMCF+fEVKdW5pb3IgU3VpdGUhfnxGSnVuaW9yIFN1aXRlIX58RzEhfnxVMiwzNTE2LjU4LDE3OTAyMDA4MDAhfnxIMSF+fElNelkxTk5NenRhZ3hNekF4TktveE1qVTJNalNzTWF3eE1qT3dOREtKTjRiS2xtVG0xWmlZR2RmazUrVms1cVhXR05RWUF3QT0hfnxKMSF+fEswIX58TDAhfnxIODAwIX58STB8MTc4NDcyMTIxOHxUT1J8MzQyNzd8MjUzMjExfDIwMjYxMDAxfDZ8MzYxfEdCfEdCfEVVUnwzNTE2LjU4IX58SjEhfnxLMCF+fEwwIX58SDcwMyF+fEkxIyMhfnxKMCF+fEsxIX58TDAhfnxINzEwIX58STcwMzMuMTYhfnxKMCF+fEswIX58TDAhfnxINzA4IX58SWY4NmY3MGVkLWM0ZjgtNGU5Yy1iYjg4LWM0OTk1NjllNzIzZCF+fEowIX58SzAhfnxMMCF+fHRPSyF+fHVDb25uZWN0b3JzIX58djAhfnx3IX58eSF+fHEhfnxxMSF+fHkhfnwqKip8fnwqKipwYXltZW50VHlwZT1NRVJDSEFOVCoqKnx+fCoqKnJhdGVDb2RlPU5PUk1BTCoqKnx+fCoqKnJvb21OZXRQcmljZT0zNTE2LjU4KioqfH58Kioqcm9vbVB2cFByaWNlPTM1MTYuNTgqKip8fnwqKipyb29tVHlwZUNvZGU9SlVOSU9SIFNVSVRFKioqfH58Kioqcm9vbVR5cGVDb2RlT3JpZ2luYWw9anVzdS0tLS0tLSoqKnx+fCoqKnJvb21UeXBlTmFtZT1KVU5JT1IgU1VJVEUqKip8fnwqKipzdXBwbGllckNvZGU9VE9SIyZAJiM0MjAwMTI1IyZAJiMyMDI2LTEwLTAxI0BAQCMyMDI2LTEwLTA3IyZAJiM2MzgtODU5LTg1M2FhYjk0NjAxN2Y0IyZAJiMzMTgyLjYzIyZAJiNlbiMmQCYjVEtBWkVv",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 37,
+                    "roomCode": "4818IL3O2:AI:STD::ntmGRWYW1vdW50TmV0PTM0ODUuMCoqKnx+fCoqKmFtb3VudFB2cD0zNDg1LjAqKip8fnwqKipib2FyZENvZGU9YWxsLWluY2x1c2l2ZSoqKnx+fCoqKmhvdGVsQ29kZT03NzYwODM2KioqfH58KioqaXNCaW5kaW5nPWZhbHNlKioqfH58Kioqb2ZmZXJzPSoqKnx+fCoqKm9wdFR5cGU9QXZhaWwqKip8fnwqKipvcHRpb25Db25maXJtSWQ9dW5kZWZpbmVkKioqfH58Kioqb3B0aW9uUmVmSWQ9MzMhfnxhMCF+fGIyNjEwMDEhfnxjMjYxMDA3IX58ZDc3NjA4MzYhfnxlYWxsLWluY2x1c2l2ZSF+fGYwIX58Z0dCIX58aEdCIX58aWVuIX58akVVUiF+fGswIX58bDM2NTM1IX58bTc3NjA4MzYhfnxuYWxsLWluY2x1c2l2ZSF+fG5PVFYhfnxvMSF+fHAxIX58eDIyMDcxMTUzIX58TTM0ODUhfnxOMCF+fE9mYWxzZSF+fFBFVVIhfnxRIX58UjAhfnxTIX58VCF+fHoxIzIwMDQwMDAwMDAwMCF+fEEyMDA0MDAwMDAwMDAhfnxCMjAwNDAwMDAwMDAwIX58QzMwfDMwIX58RUp1bmlvciBTdWl0ZSF+fEZKdW5pb3IgU3VpdGUhfnxHMSF+fFUyLDE5NTcsMTc4OTU5MjM0MHwyLDM0ODUsMTc5MDg5OTIwMCF+fEhjdXJyZW5jeSF+fElFVVIhfnxIb3B0UHJpY2UhfnxJMzQ4NS4wMCF+fEhjb21pc3Npb24hfnxJMC4wMCF+fEhsYW5ndWFnZUF2YWlsQ29kZSF+fEllbiF+fEhyZXNpZGVuY3khfnxJR0IhfnxIZGFpbHlQcmljZXMhfnxJRmFsc2UhfnxIbmV3Um9vbUNvZGVzIX58SXRydWUhfnxIaXNfcGFja2FnZSF+fElmYWxzZSF+fEhBdmFpbF9IYXNoIX58SXNyLTAxOWY4OWFjLTllZDEtNzhkMi05NTRkLWRjYWNjOGY2NTRlNCF+fEhOb1JlZW1ib2xzYWJsZSF+fElGYWxzZSF+fEh0Z3hfcHJpY2UhfnxJMzQ4NSF+fHRPSyF+fHVTaXRoIX58djAhfnx3IX58eSF+fHFIT1RFTCF+fHEwIX58eSF+fCoqKnx+fCoqKnBheW1lbnRUeXBlPU1FUkNIQU5UKioqfH58KioqcmF0ZUNvZGU9Tk9STUFMKioqfH58Kioqcm9vbU5ldFByaWNlPTM0ODUuMCoqKnx+fCoqKnJvb21QdnBQcmljZT0zNDg1LjAqKip8fnwqKipyb29tVHlwZUNvZGU9SlVOSU9SIFNVSVRFKioqfH58Kioqcm9vbVR5cGVDb2RlT3JpZ2luYWw9MjAwNDAwMDAwMDAwKioqfH58Kioqcm9vbVR5cGVOYW1lPUpVTklPUiBTVUlURSoqKnx+fCoqKnN1cHBsaWVyQ29kZT1PVFYjJkAmIzQ1NTM4MzcjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzYzOC04NTktODUzYWFiOTQ2MDE3ZjQjJkAmIzMxNTQuMDUjJkAmI2VuIyZAJiNiamNYRHc=",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 43,
+                    "roomCode": "JST:AI:STD::LMieSmNTVjYjg2MDQtNzY4ZS00MjQ3LTlkNWEtNTcwYTMyYzYzZWZmIyZAJiM5Nzc3MDEjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzYzOC04NTktODUzYWFiOTQ2MDE3ZjQjJkAmIzMwMTYuNTkjJkAmI2VuIyZAJiNpa2V3cUk=",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 52,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1359883!~|eAll Inclusive!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m1359883!~|nAll Inclusive!~|nTLD!~|o1!~|p1!~|x22071153!~|M5387.19!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Ajunior suite!~|Bjunior suite!~|C30|30!~|Ejunior suite!~|Fjunior suite!~|G1!~|U1,100,1789725600|1,100,1790762400!~|HtimeStamp!~|I7/22/2026 11:53:47 AM!~|HtimeParam!~|I2026-07-22T12:23:47!~|HoptionidFirstDispo!~|I780752476582!~|Hcurrency!~|IUSD!~|HroomId#1!~|I752476582-1-0!~|HoptionToken!~|IMTEwfHwyNzgwMXx8NTM4N3x8VVNEfHwxMzlhMzUyODNiZDEwMWM0YzU2YzU2NjY0MjhmYzMyMWMyYWJmNjg3!~|Hnumadults!~|I1#2!~|Htgx_price!~|I5387.19!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 95,
+                    "roomCode": "1164432!TB!22!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 100,
+                    "roomCode": "1164432!TB!52!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 101,
+                    "roomCode": "1164432!TB!15!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 127,
+                    "roomCode": "1164432!TB!6!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 130,
+                    "roomCode": "1164432!TB!58!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Junior Suite, Partial Sea View, Balcony",
+            "category": "Junior Suite",
+            "view": "Partial Sea",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 6,
+                    "roomCode": "{\"roomCode\":\"CIg7EgYxNTcyNzQaFDE1NzI3NDpKU1UuQkwtU1M6MTIw\",\"boardCode\":\"CqABMjAyNjEwMDF8MjAyNjEwMDd8V3w3NnwxNTcyNzR8SlNVLkJMLVNTfElEX0IyQl82NXxBSXxCMkNUUlhYfDF+Mn4wfHxOQDA3fkEtU0lDfjIzY2Q1ZH4xNTQ3NzgzMDE3fk5+fn5OT1J+fjgzMTA0RTU4MTIxNzRGMjE3ODQ3MTY5NTIzOTcwNUFXVUswMDMwMDAxNTAwMDYwODIzY2Q1ZA==\"}",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 104,
+                    "roomCode": "1164432!TB!47!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 21,
+                    "roomCode": "43174M782:AI:STD::UinxECQ2hlY2tJbj0yMDI2LTEwLTAxKioqfH58KioqQ2hlY2tPdXQ9MjAyNi0xMC0wNyoqKnx+fCoqKk5vblJlZnVuZGFibGU9ZmFsc2UqKip8fnwqKipSYXRlQ29kZT1TVEQqKip8fnwqKipSYXRlUGxhbkNvZGU9RjBDZUUrNEdoWTl6T2ZJekRzQUlnczF3N2JWUFZ1Y1dSUTZBNUZPMzM3T2IzL2VUTm5uaXV5b3ZTUHA4bk0rR0xiRzBaNkRGVnMvZkFxQk95ckdnOVVieGZwTWJha2R2eHpVT04xQjRJbTAvaVJOY0sxczhDSnRsZ3NnRXM0VlN4QWxvV01FekoyUEtVTXh2UzVaRll2Ymg4ckFrT1EzQkFVQ0R5UTBuV3F3Qk0xUFBlME5jcWpsclJFb3JTSFdsSzRtQ2lFL0dIU3JGSkdDRnJEdVlieEVZOGgxSm9jeEpqQlJYb0dQWjNZSjNTRlphMWRMZEZxc2hJZ0tqcytuSkNDaDhuMHk2OTZBQzhmTEQyRUpkd010SXJYS1VpOGZLNXRUbFVVS2JVTzdLSGF5cWpqZnR3SndhMk1TT0xqWjJZSGltcDBKVU1sR1BBc1R4SmFQVk1VMloyNEJWUUNjRUJ3TzF2WE8xa0QyZDBPeTFxV09pUHBFbEJ0eCtrRjZFa3k1bDhndkFKTWNLOHRsKzM1dXczK2ZRb3c5UjZnMzRiU0Jqa21YYVhSMUYrcCtUNWhPcDB0YXZIMk1ROExaUSoqKnx+fCoqKlJvb21UeXBlQ2F0ZWdvcnlDb2RlPUFaQyoqKnx+fCoqKlJvb21UeXBlQ2F0ZWdvcnlEZXNjcmlwdGlvbj1KVU5JT1IgU1VJVEUgTEFURVJBTCBTRUEgVklFVyBXSVRIIEJBTENPTlkqKip8fnwqKipSb29tVHlwZUNvZGU9SlVOSU9SIFNVSVRFIDEgQkVEUk9PTSBTSURFIFNFQSBWSUVXIEJBTENPTlkqKip8fnwqKipSb29tVHlwZURlc2NyaXB0aW9uPUpVTklPUiBTVUlURSAxIEJFRFJPT00gU0lERSBTRUEgVklFVyBCQUxDT05ZIyZAJiM4MTkwNzIjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzYzOC04NTktODUzYWFiOTQ2MDE3ZjQjJkAmIzMyMDguMTQjJkAmI2VuIyZAJiNzTXFZQk0=",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 103,
+                    "roomCode": "1164432!TB!5!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "HasBalcony",
+                    "value": "Yes"
+                }
+            ]
+        },
+        {
+            "standardName": "Lagoon, Partial Sea View, Pool Access",
+            "category": "Lagoon",
+            "view": "Partial Sea",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 7,
+                    "roomCode": "{\"roomCode\":\"CGISBzI5NTI1NjQaBTIyOTIw\",\"boardCode\":\"CgE1\"}",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 16,
+                    "roomCode": "42V75TG82:AI:STD::omMvKzQm9hcmRDb2RlPUNnRTEqKip8fnwqKipCb2FyZFR5cGU9NSoqKnx+fCoqKk5ldENvc3RBbW91bnQ9MzYyNi45MioqKnx+fCoqKk5ldENvc3RDdXJyZW5jeT1FVVIqKip8fnwqKipSb29tQ29kZT1MQUdPT04gUk9PTSBXSVRIIERJUkVDVCBQT09MIEFDQ0VTUyBTSURFIFNFQSBWSUVXKioqfH58KioqUm9vbUNvZGVPcmlnaW5hbD1DR0lTQnpJNU5USTFOalFhQlRJeU9USXcqKip8fnwqKipSb29tRGVzY3JpcHRpb249TEFHT09OIFJPT00gV0lUSCBESVJFQ1QgUE9PTCBBQ0NFU1MgU0lERSBTRUEgVklFVyMmQCYjMTA5MjMwMyMmQCYjMjAyNi0xMC0wMSNAQEAjMjAyNi0xMC0wNyMmQCYjNjM4LTg1OS04NTNhYWI5NDYwMTdmNCMmQCYjMzI4Mi40OSMmQCYjZW4jJkAmI2RSdnl6ZA==",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 106,
+                    "roomCode": "1164432!TB!34!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 113,
+                    "roomCode": "1164432!TB!20!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "HasPoolAccess",
+                    "value": "Yes"
+                }
+            ]
+        },
+        {
+            "standardName": "Family, Partial Sea View",
+            "category": "Family",
+            "view": "Partial Sea",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 8,
+                    "roomCode": "{\"roomCode\":\"CGISBzI5NTI1NjQaBTIyOTI3\",\"boardCode\":\"CgE1\"}",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 13,
+                    "roomCode": "42V2D71C2:AI:STD::hiFhwuQm9hcmRDb2RlPUNnRTEqKip8fnwqKipCb2FyZFR5cGU9NSoqKnx+fCoqKk5ldENvc3RBbW91bnQ9NDE5My42MSoqKnx+fCoqKk5ldENvc3RDdXJyZW5jeT1FVVIqKip8fnwqKipSb29tQ29kZT1GQU1JTFkgUk9PTSBTSURFIFNFQSBWSUVXKioqfH58KioqUm9vbUNvZGVPcmlnaW5hbD1DR0lTQnpJNU5USTFOalFhQlRJeU9USTMqKip8fnwqKipSb29tRGVzY3JpcHRpb249RkFNSUxZIFJPT00gU0lERSBTRUEgVklFVyMmQCYjMTA5MjMwMyMmQCYjMjAyNi0xMC0wMSNAQEAjMjAyNi0xMC0wNyMmQCYjNjM4LTg1OS04NTNhYWI5NDYwMTdmNCMmQCYjMzc5NS4zNyMmQCYjZW4jJkAmI3JpVmxpag==",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 51,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1359883!~|eAll Inclusive!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m1359883!~|nAll Inclusive!~|nTLD!~|o1!~|p1!~|x22071153!~|M4987.36!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Afamily room side sea view!~|Bfamily room side sea view!~|C30|30!~|Efamily room side sea view!~|Ffamily room side sea view!~|G1!~|U2,2801.51,1789120800|1,100,1790762400!~|HtimeStamp!~|I7/22/2026 11:53:47 AM!~|HtimeParam!~|I2026-07-22T12:23:47!~|HoptionidFirstDispo!~|I782701315637!~|Hcurrency!~|IUSD!~|HroomId#1!~|I2701315637-1-0!~|HoptionToken!~|IMXx8MTU3Mjc0fHw0OTg3fHxVU0R8fDkwOTI3Yzk0YWEzYTI4Njk2YjEyZjNkZjNmZWNkNDdhMzg2ZWNiOGI=!~|Hnumadults!~|I1#2!~|Htgx_price!~|I4987.36!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 121,
+                    "roomCode": "1164432!TB!24!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 122,
+                    "roomCode": "1164432!TB!71!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 123,
+                    "roomCode": "1164432!TB!4!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Family",
+            "category": "Family",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 9,
+                    "roomCode": "{\"roomCode\":\"CJBFEgU5Mjk4OBoDNFIz\",\"boardCode\":\"CgJBSQ==\"}",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 24,
+                    "roomCode": "43R3LCTK2:AI:STD::yGMOaFTm9uUmVmdW5kYWJsZT1mYWxzZSoqKnx+fCoqKk9wdFR5cGU9QXZhaWwqKip8fnwqKipQcm9kdWN0SWQ9MTE1MjExOCoqKnx+fCoqKlJhdGVCYXNpc0lkPTEzMzYqKip8fnwqKipSYXRlVHlwZT0xKioqfH58KioqUm9vbUNvZGU9RkFNSUxZKioqfH58KioqUm9vbUNvZGVPcmlnaW5hbD0xMjQzNjY3NDc1KioqfH58KioqUm9vbURlc2NyaXB0aW9uPUZBTUlMWSoqKnx+fCoqKlRvdGFsPTU2NzcuMTUxNyMmQCYjMTU4ODgxNyMmQCYjMjAyNi0xMC0wMSNAQEAjMjAyNi0xMC0wNyMmQCYjNjM4LTg1OS04NTNhYWI5NDYwMTdmNCMmQCYjNTEzOC4wMyMmQCYjZW4jJkAmI2JMQ0dVSw==",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 98,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 26,
+                    "roomCode": "44B31LSC2:AI:STD::nAVGLVUm9vbUNvZGVPcmlnaW5hbD0xMDQ5KioqfH58KioqUm9vbVR5cGVDb2RlPUZBTUlMWSBST09NKioqfH58KioqUm9vbVR5cGVEZXNjcmlwdGlvbj1GQU1JTFkgUk9PTSoqKnx+fCoqKmJvYXJkRGVzY3JpcHRpb249QWxsIGluY2x1c2l2ZSoqKnx+fCoqKm1lYWxJZD02KioqfH58KioqcHJpY2U9NTU5MyoqKnx+fCoqKnJhdGVDb2RlPVNURCoqKnx+fCoqKnJvb21JZD0xMjU1NTEyNjMjJkAmIzExMTE2MTMjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzYzOC04NTktODUzYWFiOTQ2MDE3ZjQjJkAmIzUwNjEuODcjJkAmI2VuIyZAJiNLUHZ2Q0k=",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 33,
+                    "roomCode": "47H7TEBO2:AI:STD::pyKphfYW1vdW50TmV0PTQ2ODguNzgqKip8fnwqKiphbW91bnRQdnA9NDY4OC43OCoqKnx+fCoqKmJvYXJkQ29kZT0xKioqfH58KioqaG90ZWxDb2RlPVRSMzYqKip8fnwqKippc0JpbmRpbmc9ZmFsc2UqKip8fnwqKipvZmZlcnM9KioqfH58Kioqb3B0VHlwZT1BdmFpbCoqKnx+fCoqKm9wdGlvbkNvbmZpcm1JZD11bmRlZmluZWQqKip8fnwqKipvcHRpb25SZWZJZD0zMyF+fGEwIX58YjI2MTAwMSF+fGMyNjEwMDchfnxkMjUzMjExIX58ZXRpbiF+fGYwIX58Z0dCIX58aEdCIX58aWVuIX58akVVUiF+fGswIX58bDM0Mjc3IX58bVRSMzYhfnxuMSF+fG5UR1ghfnxvMSF+fHAxIX58eDIyMDcxMTUzIX58TTQ2ODguNzghfnxOMCF+fE9mYWxzZSF+fFBFVVIhfnxRIX58UjAhfnxTIX58VCF+fHoxIzY1MiF+fEE2NTIhfnxCc3RyLTMtLS1mLS0hfnxDMzB8MzAhfnxFU3RhbmRhcmQgRmFtaWx5IFJvb20gQ29ubmVjdGVkIX58RkZhbWlseSBDb25uZWN0aW5nIFJvb20hfnxHMSF+fFUyLDQ2ODguNzgsMTc5MDIwMDgwMCF+fEgxIX58SU16R3pzTkF6dDZneE16QXhOS294TWpVMk1qU3NNYXd4TWpPd05ES0pONEhLbG1UbTFaaVpHdFhrNStWazVxWFdHTlFZQXdBPSF+fEoxIX58SzAhfnxMMCF+fEg4MDAhfnxJMHwxNzg0NzIxMjE4fFRPUnwzNDI3N3wyNTMyMTF8MjAyNjEwMDF8NnwzNjF8R0J8R0J8RVVSfDQ2ODguNzghfnxKMSF+fEswIX58TDAhfnxINzAzIX58STEjIyF+fEowIX58SzEhfnxMMCF+fEg3MTAhfnxJOTM3Ny41NiF+fEowIX58SzAhfnxMMCF+fEg3MDghfnxJZjg2ZjcwZWQtYzRmOC00ZTljLWJiODgtYzQ5OTU2OWU3MjNkIX58SjAhfnxLMCF+fEwwIX58dE9LIX58dUNvbm5lY3RvcnMhfnx2MCF+fHchfnx5IX58cSF+fHExIX58eSF+fCoqKnx+fCoqKnBheW1lbnRUeXBlPU1FUkNIQU5UKioqfH58KioqcmF0ZUNvZGU9Tk9STUFMKioqfH58Kioqcm9vbU5ldFByaWNlPTQ2ODguNzgqKip8fnwqKipyb29tUHZwUHJpY2U9NDY4OC43OCoqKnx+fCoqKnJvb21UeXBlQ29kZT1GQU1JTFkgQ09OTkVDVElORyBST09NKioqfH58Kioqcm9vbVR5cGVDb2RlT3JpZ2luYWw9c3RyLTMtLS1mLS0qKip8fnwqKipyb29tVHlwZU5hbWU9RkFNSUxZIENPTk5FQ1RJTkcgUk9PTSoqKnx+fCoqKnN1cHBsaWVyQ29kZT1UT1IjJkAmIzQyMDAxMjUjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzYzOC04NTktODUzYWFiOTQ2MDE3ZjQjJkAmIzQyNDMuNTIjJkAmI2VuIyZAJiNPRnlXSEU=",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 93,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 34,
+                    "roomCode": "47H7TES42:AI:STD::AFQqzkYW1vdW50TmV0PTQzMzcuMTIqKip8fnwqKiphbW91bnRQdnA9NDMzNy4xMioqKnx+fCoqKmJvYXJkQ29kZT0xKioqfH58KioqaG90ZWxDb2RlPVRSMzYqKip8fnwqKippc0JpbmRpbmc9ZmFsc2UqKip8fnwqKipvZmZlcnM9KioqfH58Kioqb3B0VHlwZT1BdmFpbCoqKnx+fCoqKm9wdGlvbkNvbmZpcm1JZD11bmRlZmluZWQqKip8fnwqKipvcHRpb25SZWZJZD0zMyF+fGEwIX58YjI2MTAwMSF+fGMyNjEwMDchfnxkMjUzMjExIX58ZXRpbiF+fGYwIX58Z0dCIX58aEdCIX58aWVuIX58akVVUiF+fGswIX58bDM0Mjc3IX58bVRSMzYhfnxuMSF+fG5UR1ghfnxvMSF+fHAxIX58eDIyMDcxMTUzIX58TTQzMzcuMTIhfnxOMCF+fE9mYWxzZSF+fFBFVVIhfnxRIX58UjAhfnxTIX58VCF+fHoxIzY4NyF+fEE2ODchfnxCc3RyLS0tLWYtLSF+fEMzMHwzMCF+fEVTdGFuZGFyZCBGYW1pbHkgUm9vbSF+fEZGYW1pbHkgUm9vbSF+fEcxIX58VTIsNDMzNy4xMiwxNzkwMjAwODAwIX58SDEhfnxJTXpFMk50Y3pOS294TXpBQmtrYW14a2FHaGpXR05VWm1CcFpHSnZFbVVObVN6THdhTXd2em12eThuTXk4MUJxREdtTUEhfnxKMSF+fEswIX58TDAhfnxIODAwIX58STB8MTc4NDcyMTIxOHxUT1J8MzQyNzd8MjUzMjExfDIwMjYxMDAxfDZ8MzYxfEdCfEdCfEVVUnw0MzM3LjEyIX58SjEhfnxLMCF+fEwwIX58SDcwMyF+fEkxIyMhfnxKMCF+fEsxIX58TDAhfnxINzEwIX58STg2NzQuMjQhfnxKMCF+fEswIX58TDAhfnxINzA4IX58SWY4NmY3MGVkLWM0ZjgtNGU5Yy1iYjg4LWM0OTk1NjllNzIzZCF+fEowIX58SzAhfnxMMCF+fHRPSyF+fHVDb25uZWN0b3JzIX58djAhfnx3IX58eSF+fHEhfnxxMSF+fHkhfnwqKip8fnwqKipwYXltZW50VHlwZT1NRVJDSEFOVCoqKnx+fCoqKnJhdGVDb2RlPU5PUk1BTCoqKnx+fCoqKnJvb21OZXRQcmljZT00MzM3LjEyKioqfH58Kioqcm9vbVB2cFByaWNlPTQzMzcuMTIqKip8fnwqKipyb29tVHlwZUNvZGU9RkFNSUxZIFJPT00qKip8fnwqKipyb29tVHlwZUNvZGVPcmlnaW5hbD1zdHItLS0tZi0tKioqfH58Kioqcm9vbVR5cGVOYW1lPUZBTUlMWSBST09NKioqfH58Kioqc3VwcGxpZXJDb2RlPVRPUiMmQCYjNDIwMDEyNSMmQCYjMjAyNi0xMC0wMSNAQEAjMjAyNi0xMC0wNyMmQCYjNjM4LTg1OS04NTNhYWI5NDYwMTdmNCMmQCYjMzkyNS4yNSMmQCYjZW4jJkAmI3V1eElTdw==",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 36,
+                    "roomCode": "4818IHPS2:AI:STD::efiLCqYW1vdW50TmV0PTQyOTcuMCoqKnx+fCoqKmFtb3VudFB2cD00Mjk3LjAqKip8fnwqKipib2FyZENvZGU9YWxsLWluY2x1c2l2ZSoqKnx+fCoqKmhvdGVsQ29kZT03NzYwODM2KioqfH58KioqaXNCaW5kaW5nPWZhbHNlKioqfH58Kioqb2ZmZXJzPSoqKnx+fCoqKm9wdFR5cGU9QXZhaWwqKip8fnwqKipvcHRpb25Db25maXJtSWQ9dW5kZWZpbmVkKioqfH58Kioqb3B0aW9uUmVmSWQ9MzMhfnxhMCF+fGIyNjEwMDEhfnxjMjYxMDA3IX58ZDc3NjA4MzYhfnxlYWxsLWluY2x1c2l2ZSF+fGYwIX58Z0dCIX58aEdCIX58aWVuIX58akVVUiF+fGswIX58bDM2NTM1IX58bTc3NjA4MzYhfnxuYWxsLWluY2x1c2l2ZSF+fG5PVFYhfnxvMSF+fHAxIX58eDIyMDcxMTUzIX58TTQyOTchfnxOMCF+fE9mYWxzZSF+fFBFVVIhfnxRIX58UjAhfnxTIX58VCF+fHoxIzIwMDMwMDI1MDAwMDAhfnxBMjAwMzAwMjUwMDAwMCF+fEIyMDAzMDAyNTAwMDAwIX58QzMwfDMwIX58RUZhbWlseSByb29tIX58RkZhbWlseSByb29tIX58RzEhfnxVMiwyNDEzLDE3ODk1OTIzNDB8Miw0Mjk3LDE3OTA4OTkyMDAhfnxIY3VycmVuY3khfnxJRVVSIX58SG9wdFByaWNlIX58STQyOTcuMDAhfnxIY29taXNzaW9uIX58STAuMDAhfnxIbGFuZ3VhZ2VBdmFpbENvZGUhfnxJZW4hfnxIcmVzaWRlbmN5IX58SUdCIX58SGRhaWx5UHJpY2VzIX58SUZhbHNlIX58SG5ld1Jvb21Db2RlcyF+fEl0cnVlIX58SGlzX3BhY2thZ2UhfnxJZmFsc2UhfnxIQXZhaWxfSGFzaCF+fElzci0wMTlmODlhYy05ZWQxLTc4ZDUtYmM0Mi0xNTc3ZTVkNTZmOTMhfnxITm9SZWVtYm9sc2FibGUhfnxJRmFsc2UhfnxIdGd4X3ByaWNlIX58STQyOTchfnx0T0shfnx1U2l0aCF+fHYwIX58dyF+fHkhfnxxSE9URUwhfnxxMCF+fHkhfnwqKip8fnwqKipwYXltZW50VHlwZT1NRVJDSEFOVCoqKnx+fCoqKnJhdGVDb2RlPU5PUk1BTCoqKnx+fCoqKnJvb21OZXRQcmljZT00Mjk3LjAqKip8fnwqKipyb29tUHZwUHJpY2U9NDI5Ny4wKioqfH58Kioqcm9vbVR5cGVDb2RlPUZBTUlMWSBST09NKioqfH58Kioqcm9vbVR5cGVDb2RlT3JpZ2luYWw9MjAwMzAwMjUwMDAwMCoqKnx+fCoqKnJvb21UeXBlTmFtZT1GQU1JTFkgUk9PTSoqKnx+fCoqKnN1cHBsaWVyQ29kZT1PVFYjJkAmIzQ1NTM4MzcjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzYzOC04NTktODUzYWFiOTQ2MDE3ZjQjJkAmIzM4ODguOTQjJkAmI2VuIyZAJiNVbkp0a3o=",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 42,
+                    "roomCode": "4R3:AI:STD::mVdDmgYzE4NmEyOTctNDk2OS00M2I1LTg2MWYtNzRkMTYyMGVlYWJmIyZAJiM5Nzc3MDEjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzYzOC04NTktODUzYWFiOTQ2MDE3ZjQjJkAmIzM3MjAuNDQjJkAmI2VuIyZAJiNTd0dqVkE=",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 54,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1359883!~|eAll Inclusive!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m1359883!~|nAll Inclusive!~|nTLD!~|o1!~|p1!~|x22071153!~|M6643.65!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Afamily room!~|Bfamily room!~|C30|30!~|Efamily room!~|Ffamily room!~|G1!~|U1,100,1789725600|1,100,1790762400!~|HtimeStamp!~|I7/22/2026 11:53:47 AM!~|HtimeParam!~|I2026-07-22T12:23:47!~|HoptionidFirstDispo!~|I782788465539!~|Hcurrency!~|IUSD!~|HroomId#1!~|I2788465539-1-0!~|HoptionToken!~|IMTEwfHwyNzgwMXx8NjY0NHx8VVNEfHw3ZDNmZmUyN2Y3YmZhNzJiMTVhYjhhNGU5NjY0NTAwNGJhZjc1Mzlj!~|Hnumadults!~|I1#2!~|Htgx_price!~|I6643.65!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 119,
+                    "roomCode": "1164432!TB!50!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 124,
+                    "roomCode": "1164432!TB!59!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 97,
+                    "cfs": 95,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 125,
+                    "roomCode": "1164432!TB!57!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 97,
+                    "cfs": 95,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 134,
+                    "roomCode": "1164432!TB!7!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 135,
+                    "roomCode": "1164432!TB!29!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 136,
+                    "roomCode": "1164432!TB!66!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Family, Partial Sea View, Balcony",
+            "category": "Family",
+            "view": "Partial Sea",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 10,
+                    "roomCode": "{\"roomCode\":\"CIg7EgYxNTcyNzQaFDE1NzI3NDpGQU0uQkwtU1M6MTIw\",\"boardCode\":\"CqIBMjAyNjEwMDF8MjAyNjEwMDd8V3w3NnwxNTcyNzR8RkFNLkJMLVNTfElEX0IyQl82NXxBSXxCMkNUUlhYfDF+Mn4wfHxOQDA3fkEtU0lDfjI1ZTEwN2J+LTU2MTI1MzQ2N35Ofn5+Tk9Sfn44MzEwNEU1ODEyMTc0RjIxNzg0NzE2OTUyMzk3MDVBV1VLMDAzMDAwMTUwMDA2MDgyNWUxMDdi\"}",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "HasBalcony",
+                    "value": "Yes"
+                }
+            ]
+        },
+        {
+            "standardName": "Family, 2 Bedroom",
+            "category": "Family",
+            "beds": [],
+            "bedroomCount": 2,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 11,
+                    "roomCode": "07L:AI:M03::hiVvnYYTcyMGZiNDktNmY5OS00ZGI2LWJlNmEtYWVmYTU4YTVhODY5IyZAJiM0MzI3NzkjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzYzOC04NTktODUzYWFiOTQ2MDE3ZjQjJkAmIzM3MzguNjQjJkAmI2VuIyZAJiNOVnllTEg=",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 53,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1359883!~|eAll Inclusive!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m1359883!~|nAll Inclusive!~|nTLD!~|o1!~|p1!~|x22071153!~|M5455.5!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Afamily room capacity 4 two bedrooms!~|Bfamily room capacity 4 two bedrooms!~|C30|30!~|Efamily room capacity 4 two bedrooms!~|Ffamily room capacity 4 two bedrooms!~|G1!~|U2,5455.50,1790071200|1,100,1790762400!~|HtimeStamp!~|I7/22/2026 11:53:47 AM!~|HtimeParam!~|I2026-07-22T12:23:47!~|HoptionidFirstDispo!~|I780800609551!~|Hcurrency!~|IUSD!~|HroomId#1!~|I800609551-1-0!~|HoptionToken!~|IMXx8MTU3Mjc0fHw1NDU2fHxVU0R8fGE0ZGQ4MDQ3MDhjMTdiZDIzNGI3ZTYzNWE4YzRiNmUzZThiODkyODM=!~|Hnumadults!~|I1#2!~|Htgx_price!~|I5455.5!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 98,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 120,
+                    "roomCode": "1164432!TB!62!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 131,
+                    "roomCode": "1164432!TB!68!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 99,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Quadruple"
+        },
+        {
+            "standardName": "Superior, Double or Twin",
+            "category": "Superior",
+            "beds": [
+                {
+                    "type": "Double"
+                },
+                {
+                    "type": "Twin"
+                }
+            ],
+            "bedInfo": "Double or 2 Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 12,
+                    "roomCode": "2QJ:AI:M03::oALGldYTI3Mzk5OWUtYjNhZC00OWRjLTgzYWYtY2E5NWM0MWRkZjRhIyZAJiM0MzI3NzkjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzYzOC04NTktODUzYWFiOTQ2MDE3ZjQjJkAmIzE5NzguNjMjJkAmI2VuIyZAJiNuamRCbHU=",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 44,
+                    "roomCode": "UC2:AI:STD::DSkaseZjkwODI2M2YtY2I1ZC00YTEyLTgyNjktOTIxNTBiOWMwYzBlIyZAJiM5Nzc3MDEjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzYzOC04NTktODUzYWFiOTQ2MDE3ZjQjJkAmIzE5NjguOTMjJkAmI2VuIyZAJiNKcVdrZFk=",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 95,
+                    "cfs": 95,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 47,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1359883!~|eAll Inclusive!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m1359883!~|nAll Inclusive!~|nTLD!~|o1!~|p1!~|x22071153!~|M2887.26!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Atwin superior with double bed!~|Btwin superior with double bed!~|C30|30!~|Etwin superior with double bed!~|Ftwin superior with double bed!~|G1!~|U2,2887.26,1790071200|1,100,1790762400!~|HtimeStamp!~|I7/22/2026 11:53:47 AM!~|HtimeParam!~|I2026-07-22T12:23:47!~|HoptionidFirstDispo!~|I783914712458!~|Hcurrency!~|IUSD!~|HroomId#1!~|I3914712458-1-0!~|HoptionToken!~|IMXx8MTU3Mjc0fHwyODg3fHxVU0R8fGNmYTQzYTVmYzRkN2VmNjAzOTYwNmY4ODE0ZTQ2OTM3ZmM1NWJkNjQ=!~|Hnumadults!~|I1#2!~|Htgx_price!~|I2887.26!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 99,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 65,
+                    "roomCode": "1164432!TB!43!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 95,
+                    "cfs": 95,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 66,
+                    "roomCode": "1164432!TB!45!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 71,
+                    "roomCode": "1164432!TB!63!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 99,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 74,
+                    "roomCode": "1164432!TB!44!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 95,
+                    "cfs": 95,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 85,
+                    "roomCode": "1164432!TB!32!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 95,
+                    "cfs": 95,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Triple"
+        },
+        {
+            "standardName": "Junior Suite, Lateral Sea View, Balcony",
+            "category": "Junior Suite",
+            "view": "Lateral Sea",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 17,
+                    "roomCode": "4312FG8O2:AI:STD::wKGgfbQ2hlY2tJbj0yMDI2LTEwLTAxKioqfH58KioqQ2hlY2tPdXQ9MjAyNi0xMC0wNyoqKnx+fCoqKk5vblJlZnVuZGFibGU9ZmFsc2UqKip8fnwqKipSYXRlQ29kZT1TVEQqKip8fnwqKipSYXRlUGxhbkNvZGU9eURmZE4zak5vRVV6bUowRGlXWks0OTFQWDR4VlMwU1pGU0RabnkzQVFpdHVzRDNtWEhmTEpaR2FHL0JsN09ZdHVENDVkMzgvc0hRaFhTY213RDNQR1dCN0ZqRVRmVEpnUVczcE1IdHVpbk5JTXR2bUlJdU9rVCtSR3Vqa0R1cnZWbnVha3NncVRZeTIzaGZYTjVsblBFMTRzTlc0WGFONCtSaTN4c3RTWkVTa2RicDNObW14QWJBWTZlaHN1RUlyd25mR1IwV29ISXVkckhkNGhSRWFWZGZodk52UHZUemI5Wm9YYzNUSGkwb2NxTXJrYnBCeDN1R25ML2h1MUlBemZPTWVDKzMwSjJxbkJHdVpXTEo1MjFCcDF0MFo0bnZ1OE9iQlVRWGxZc0NTOTFGeG9qUWFqQUJqV1NESmtYSE5iZ28vdGJSancrZEl0MldCK014Y0dpbmJsdDVHak1CaFprUlFrRkQwVHpDSy9rU3NMK1JveHVCWGkxcFBza2ZsSzJQR2l5ajNUQTllSU1GdExyV3UvY0trWXNFbkg3dWlRNEZxTTU2Qk5GZG5LZzU5U0hjMkpQdW5rbVIrN3hXVyoqKnx+fCoqKlJvb21UeXBlQ2F0ZWdvcnlDb2RlPUFaQyoqKnx+fCoqKlJvb21UeXBlQ2F0ZWdvcnlEZXNjcmlwdGlvbj1KVU5JT1IgU1VJVEUgTEFURVJBTCBTRUEgVklFVyBXSVRIIEJBTENPTlkqKip8fnwqKipSb29tVHlwZUNvZGU9RE9VQkxFIEpVTklPUiBTVUlURSBMQVRFUkFMIFNFQSBWSUVXIFdJVEggQkFMQ09OWSoqKnx+fCoqKlJvb21UeXBlRGVzY3JpcHRpb249RE9VQkxFIEpVTklPUiBTVUlURSBMQVRFUkFMIFNFQSBWSUVXIFdJVEggQkFMQ09OWSMmQCYjODE5MDcyIyZAJiMyMDI2LTEwLTAxI0BAQCMyMDI2LTEwLTA3IyZAJiM2MzgtODU5LTg1M2FhYjk0NjAxN2Y0IyZAJiMyOTcyLjgxIyZAJiNlbiMmQCYjUHhVQ0Ro",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 94,
+                    "roomCode": "1164432!TB!21!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "HasBalcony",
+                    "value": "Yes"
+                }
+            ],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Superior, Seaside, Balcony",
+            "category": "Superior",
+            "roomLocation": "Seaside",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 18,
+                    "roomCode": "4312FHKO2:AI:STD::uLochbQ2hlY2tJbj0yMDI2LTEwLTAxKioqfH58KioqQ2hlY2tPdXQ9MjAyNi0xMC0wNyoqKnx+fCoqKk5vblJlZnVuZGFibGU9ZmFsc2UqKip8fnwqKipSYXRlQ29kZT1TVEQqKip8fnwqKipSYXRlUGxhbkNvZGU9eURmZE4zak5vRVV6bUowRGlXWks0OTFQWDR4VlMwU1pGU0RabnkzQVFpczJXc0M2YXg4VmJmTWNHNzBoeW9ScDVJUFI4NGhkQmtIRjNDeG1ycU5YMFVDQllrOUtLc2tnQ0NIcGtxT0RqN20vMGZ0WUFkVndJRUo1eHRiMURSakNZT0FvV3dqTUlGcWdvY1FXNklwME9OSWlERk0zckFvUEJQRFpZS01xQmRRb1l2ekxZU3hFWTFLZGp1VjNKcFhJd1ZWTHpCZDc1OHMvU0wwUGRIVGc4VjQrS2xmaEduK3h1aE1QWlNsZlhRY1g0ZzJNb0dySjBoWHovcktqYlVuZ2hXTXhXVzdOTXpMenVCZGJuZUNYekNrcmdHRzhJdmREMWxwUGUxOXp4R1U3b2txZFRHQjM4SkszMDFEWXhqV2tCQmFKQjIxeUdFWk5FMi9ldXlBRkpWUnF6ZXkwUlhHNHQySUxJdzZ6b0ErcXJxUm9RUER5UEk0OTMxTFlKQXJkdklORWJyQWExdjE1RCtSa3psUm5GTWhxMyt5cFhjMkF5RU1HL0N6SzV4c3hOZXRNSHNhb3ZWL1FFQTVubW9GdyoqKnx+fCoqKlJvb21UeXBlQ2F0ZWdvcnlDb2RlPUJCVioqKnx+fCoqKlJvb21UeXBlQ2F0ZWdvcnlEZXNjcmlwdGlvbj1ET1VCTEUgU1VQRVJJT1IgUk9PTSBMQVRFUkFMIFNFQSBWSUVXIFdJVEggQkFMQ09OWSoqKnx+fCoqKlJvb21UeXBlQ29kZT1ET1VCTEUgU1VQRVJJT1IgU0VBIFNJREUgV0lUSCBCQUxDT05ZKioqfH58KioqUm9vbVR5cGVEZXNjcmlwdGlvbj1ET1VCTEUgU1VQRVJJT1IgU0VBIFNJREUgV0lUSCBCQUxDT05ZIyZAJiM4MTkwNzIjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzYzOC04NTktODUzYWFiOTQ2MDE3ZjQjJkAmIzE5ODEuODgjJkAmI2VuIyZAJiNBd2lORWU=",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 67,
+                    "roomCode": "1164432!TB!67!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "HasBalcony",
+                    "value": "Yes"
+                }
+            ],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Superior, Double or Twin, Land View, Balcony",
+            "category": "Superior",
+            "view": "Land",
+            "beds": [],
+            "bedInfo": "Double or 2 Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 19,
+                    "roomCode": "4312GFUK2:AI:STD::ejQwydQ2hlY2tJbj0yMDI2LTEwLTAxKioqfH58KioqQ2hlY2tPdXQ9MjAyNi0xMC0wNyoqKnx+fCoqKk5vblJlZnVuZGFibGU9ZmFsc2UqKip8fnwqKipSYXRlQ29kZT1TVEQqKip8fnwqKipSYXRlUGxhbkNvZGU9eURmZE4zak5vRVV6bUowRGlXWks0OTFQWDR4VlMwU1pGU0RabnkzQVFpdGFnWWxDVVBMSlJLVFJlNVM1Nk1aNVFiRndDZU9hOTltNXJlMFBpU1JjeXhmNVZ0MjE2aXdGdjV4dXkxNEIzWDZWVjFSOXNSOFVydkk5cGRpY3VBNlI3UWJ4aGhpV0ZMSG44K1I5aGVQQ2NBTzJyVXY4OFE3VVFSUTBRdlFnbTFJM3dGakVmdW1pVXRWL1U3ckRtQmF3SzduWmFCRDIwRFJOa2QzYXdhYVdwZEliV3dWblM2clJ4QWtucjRma0w4OE1BeURvWXZIVk1FSWtKSnBRS0s1VmgwbDcxd3cwcjJGTmpOYllISGl6ODRHeU1SdDZudXhjQ2pmRndZd1Nuc0VtN0Y0MlRSc2liU2VjVWlGc1NJYSt2aDFpOFg0QW9pSlFOeUJaV2ozNHlzUFBzL0hpczk4R3hvMUFSUTg2dmx6YXhUbGZHYXZxemNQai9OOEg2cndmU2ZjWkcrZDJGVndYNW05dHRncFJoelFOOWJHaU5QcUliTHk2R3Q0R0c2MD0qKip8fnwqKipSb29tVHlwZUNhdGVnb3J5Q29kZT1TVVAqKip8fnwqKipSb29tVHlwZUNhdGVnb3J5RGVzY3JpcHRpb249RE9VQkxFIFNVUEVSSU9SIFJPT00qKip8fnwqKipSb29tVHlwZUNvZGU9RE9VQkxFIFNVUEVSSU9SIExBTkQgVklFVyBXSVRIIEJBTENPTlkqKip8fnwqKipSb29tVHlwZURlc2NyaXB0aW9uPURPVUJMRSBTVVBFUklPUiBMQU5EIFZJRVcgV0lUSCBCQUxDT05ZIyZAJiM4MTkwNzIjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzYzOC04NTktODUzYWFiOTQ2MDE3ZjQjJkAmIzE5NDAuNDAjJkAmI2VuIyZAJiNrT1lPdWM=",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 22,
+                    "roomCode": "43175E3O2:AI:STD::VlNnlMQ2hlY2tJbj0yMDI2LTEwLTAxKioqfH58KioqQ2hlY2tPdXQ9MjAyNi0xMC0wNyoqKnx+fCoqKk5vblJlZnVuZGFibGU9ZmFsc2UqKip8fnwqKipSYXRlQ29kZT1TVEQqKip8fnwqKipSYXRlUGxhbkNvZGU9RjBDZUUrNEdoWTl6T2ZJekRzQUlnczF3N2JWUFZ1Y1dSUTZBNUZPMzM3TXdDamFsbFZyZTNTRFJzenk4aDVQWjZjSFBCNjdhWnRBbnF1d3dHckVPMHRYT0FMUkFtMVVkUDdDeEF5WmVQZUlBRWNjR2RhTFNSeHArN1ZWM3k4c1QvTlhFSzBqSlBjbko4NVZBV2dkdGNLMGhkMElINVVjY21lcm9GNGJVcjJzRGJHT2d3aDNGWnZWZVcxc244MExUSlRjdUQrbFZXeGxUZTY5SU9BWHJzd2hmZEkxLzN5THU0ODRjQUtwdDgvT1FDQmM3ZC9LRHlEZ2FldllPdThFWlNaL2tvQm9Nb1NkNk9FUGF4UGk3VGNjUks2TUI1N1RBc01QVWdWOTQzNVd3aU9jN2lPTmYwa2s4eGlRR1hjNENMY0pKZVVRWjU1bmVuWVpET2F4cUJ4ZUl1UGsvUHNHNDhmbGFRMFdJYnlyREF0UzVQZkVNSzd0cmJTVkJzc3BDbEtZZlFPYXVYa3ZjbVYvK2grTEJYNlB5R3JTSkEwVEUrR1VSY0xTRlVWdEZkSWpFR0lhQUhucUhKU1ovV1Q5RyoqKnx+fCoqKlJvb21UeXBlQ2F0ZWdvcnlDb2RlPUREQioqKnx+fCoqKlJvb21UeXBlQ2F0ZWdvcnlEZXNjcmlwdGlvbj1ET1VCTEUgU1RBTkRBUkQgUk9PTSBHQVJERU4gVklFVyBXSVRIIEJBTENPTlkqKip8fnwqKipSb29tVHlwZUNvZGU9U1VQRVJJT1IgRE9VQkxFIE9SIFRXSU4gTEFORCBWSUVXIEJBTENPTlkqKip8fnwqKipSb29tVHlwZURlc2NyaXB0aW9uPVNVUEVSSU9SIERPVUJMRSBPUiBUV0lOIExBTkQgVklFVyBCQUxDT05ZIyZAJiM4MTkwNzIjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzYzOC04NTktODUzYWFiOTQ2MDE3ZjQjJkAmIzIwOTQuMDQjJkAmI2VuIyZAJiNVaFlMaEo=",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 95,
+                    "cfs": 95,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 64,
+                    "roomCode": "1164432!TB!65!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 77,
+                    "roomCode": "1164432!TB!38!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 95,
+                    "cfs": 95,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 82,
+                    "roomCode": "1164432!TB!56!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 90,
+                    "roomCode": "1164432!TB!30!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 95,
+                    "cfs": 95,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "HasBalcony",
+                    "value": "Yes"
+                }
+            ],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Family, Lateral Sea View, Balcony",
+            "category": "Family",
+            "view": "Lateral Sea",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 20,
+                    "roomCode": "4312GK7C2:AI:STD::IjlPwLQ2hlY2tJbj0yMDI2LTEwLTAxKioqfH58KioqQ2hlY2tPdXQ9MjAyNi0xMC0wNyoqKnx+fCoqKk5vblJlZnVuZGFibGU9ZmFsc2UqKip8fnwqKipSYXRlQ29kZT1TVEQqKip8fnwqKipSYXRlUGxhbkNvZGU9eURmZE4zak5vRVV6bUowRGlXWks0OTFQWDR4VlMwU1pGU0RabnkzQVFpdFVkSDVORVg4QTJFM3AyVnFtbi9TWXlVOUNEd2I3UnBpKzNHMVNiVXNxQTNaUFkxWEdOM3dHT3FZdlpJbHNMQ0IxUS82Z0dmakxzNlpsT3poMlhHcjFlalUyRW8rdUpKOG4zc2RZSkl2T1Urem1DaGwydFVCWHg2UXhKSnY2TWVOTTlzSnBGa2Z6WEpqSnFaUWw3M1NteGNSdFZBbTM1Z2djTVl3a2xBaVZ4cjU2d3A4R25mSGo1NkJ3US8yc1dxSmlVUlM1MFhiMzBkSUdSQlZWUVVacE5DZnBDNTdpb1U1L0QzYjNkVTB5c3k4dzFOdGtKdmdYSXNOcmhWWlRKL2VNY0VNTDMrTE1BUTlvWUFqWXNxZWQzRmxjRFBLOVh5bXRQT0tNNDF4ZVcwVzJlU1pJUFlQOWlwaU5zditFN0ZtZjU4ZENWdnVlYjdWWHo5b2ZuVElRenMxMHNwOWlVcFJGK2Y2NFVXSXRrNXBab1hGSkowVnFvTC93azNydlpDM01oQXhZcWkvUzl1ZVFBY21KblhXbCoqKnx+fCoqKlJvb21UeXBlQ2F0ZWdvcnlDb2RlPUZWSyoqKnx+fCoqKlJvb21UeXBlQ2F0ZWdvcnlEZXNjcmlwdGlvbj1TVEFOREFSRCBGQU1JTFkgUk9PTSBMQVRFUkFMIFNFQSBWSUVXIFdJVEggQkFMQ09OWSoqKnx+fCoqKlJvb21UeXBlQ29kZT1GQU1JTFkgMiBST09NUyBMQVRFUkFMIFNFQSBWSUVXIFdJVEggQkFMQ09OWSoqKnx+fCoqKlJvb21UeXBlRGVzY3JpcHRpb249RkFNSUxZIDIgUk9PTVMgTEFURVJBTCBTRUEgVklFVyBXSVRIIEJBTENPTlkjJkAmIzgxOTA3MiMmQCYjMjAyNi0xMC0wMSNAQEAjMjAyNi0xMC0wNyMmQCYjNjM4LTg1OS04NTNhYWI5NDYwMTdmNCMmQCYjMzY2Ni40MyMmQCYjZW4jJkAmI3VycG5jSA==",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 118,
+                    "roomCode": "1164432!TB!8!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "HasBalcony",
+                    "value": "Yes"
+                }
+            ]
+        },
+        {
+            "standardName": "Superior, Double or Twin, Partial Sea View, Balcony",
+            "category": "Superior",
+            "view": "Partial Sea",
+            "beds": [],
+            "bedInfo": "Double or 2 Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 23,
+                    "roomCode": "43175E402:AI:STD::JytmRKQ2hlY2tJbj0yMDI2LTEwLTAxKioqfH58KioqQ2hlY2tPdXQ9MjAyNi0xMC0wNyoqKnx+fCoqKk5vblJlZnVuZGFibGU9ZmFsc2UqKip8fnwqKipSYXRlQ29kZT1TVEQqKip8fnwqKipSYXRlUGxhbkNvZGU9RjBDZUUrNEdoWTl6T2ZJekRzQUlnczF3N2JWUFZ1Y1dSUTZBNUZPMzM3T29SamJWQWFzSzN6YnFhUzVCQWRZZFRHNGhCaGo0cFVFcjFyVDRDTXBELzE1a2E2a3BrSFVJV25xNFNwc2hRVXdXRHRvYkZUWWg1MXM4VjZWTSt1dzNFbDBZNGw2M3BlZk05bXlUOVFGWHQ3dStOZUJZUWdLcGdnOGJtc1g0T3Iwb1pvODZlR0U3Q1Q0U2x3aFptV2hhaDRQL2xqNjlwS3BMWTh3ZGlvVmJ0WEJlS1JpN1BjVW90b0wvdXFCOGthems3cElmNCtRY1RzQmI1dUljZEExc3lmVlFIQit1Nlhkc1B4OWNpNW4wL2lJTGFPY3pZRzhEdzJERmlXVmcvamI5VTlidHZXM0Q0NDRYQTVIMDlVTXl2STZzSW96MGJtZ0lSOUlmT2dSWnJjOVZzUThFSkd1YWxsRFo4VGZOOVQyOG94WjFZSDFTRTUvMTd6bUM0ZmtaNXgxOVRjaS84cldZbklLL0dFQzUydmJCcklOMVpjODZxb2ZOMnI5WGdidXpJcGZMdys4eFBSY0N2ZEtWNDBKcSoqKnx+fCoqKlJvb21UeXBlQ2F0ZWdvcnlDb2RlPUJCVioqKnx+fCoqKlJvb21UeXBlQ2F0ZWdvcnlEZXNjcmlwdGlvbj1ET1VCTEUgU1VQRVJJT1IgUk9PTSBMQVRFUkFMIFNFQSBWSUVXIFdJVEggQkFMQ09OWSoqKnx+fCoqKlJvb21UeXBlQ29kZT1TVVBFUklPUiBET1VCTEUgT1IgVFdJTiBTSURFIFNFQSBWSUVXIEJBTENPTlkqKip8fnwqKipSb29tVHlwZURlc2NyaXB0aW9uPVNVUEVSSU9SIERPVUJMRSBPUiBUV0lOIFNJREUgU0VBIFZJRVcgQkFMQ09OWSMmQCYjODE5MDcyIyZAJiMyMDI2LTEwLTAxI0BAQCMyMDI2LTEwLTA3IyZAJiM2MzgtODU5LTg1M2FhYjk0NjAxN2Y0IyZAJiMyMTM4LjgyIyZAJiNlbiMmQCYjT05Vbk1G",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 84,
+                    "roomCode": "1164432!TB!36!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 86,
+                    "roomCode": "1164432!TB!46!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "HasBalcony",
+                    "value": "Yes"
+                }
+            ],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Superior",
+            "category": "Superior",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 28,
+                    "roomCode": "46P3OU6G2:AI:STD::fozQgUYW1vdW50TmV0PTI2MzEuMCoqKnx+fCoqKmFtb3VudFB2cD0yNjMxLjAqKip8fnwqKipib2FyZENvZGU9QUkqKip8fnwqKipob3RlbENvZGU9MjMzMzIqKip8fnwqKippc0JpbmRpbmc9ZmFsc2UqKip8fnwqKipvZmZlcnM9KioqfH58Kioqb3B0VHlwZT1BdmFpbCoqKnx+fCoqKm9wdGlvbkNvbmZpcm1JZD11bmRlZmluZWQqKip8fnwqKipvcHRpb25SZWZJZD0zMyF+fGEwIX58YjI2MTAwMSF+fGMyNjEwMDchfnxkMjMzMzIhfnxlQUkhfnxmMCF+fGdHQiF+fGhHQiF+fGllbiF+fGpFVVIhfnxrMCF+fGwyMjQ0MCF+fG0yMzMzMiF+fG5BSSF+fG5TTUJPIX58bzEhfnxwMSF+fHgyMjA3MTE1MyF+fE0yNjMxIX58TjAhfnxPZmFsc2UhfnxQRVVSIX58USF+fFIwIX58UyF+fFQhfnx6MSNzdXBlcmlvciByb29tIX58QXN1cGVyaW9yIHJvb20hfnxCc3VwZXJpb3Igcm9vbSF+fEMzMHwzMCF+fEVzdXBlcmlvciByb29tIX58RnN1cGVyaW9yIHJvb20hfnxHMSF+fFUyLDEzMTYsMTc5MDQxNjc5OSF+fEgwIX58STNBQVEwUUFNb2tkQ3dNREF3OElBMGdBQUFBR2xNak16TXpMQzB3amZIMDd2dmNBQTB3amZKQVh1T0VBQXBqRXdNRGsyTjhRUUlySHpNOV90Wm5HaXMwU3R6WklPTlpHUkFwR2MwczhxNGpPM01qSXhOeTFCYkd3Z1NXNWpiSFZ6YVhabElGQnNkWE9qUlZWU3hCQUFBQUFBQUFBQUFFY0tBQUFBQUFBQW8wVlZVc1FRQUFBRkFBQUFBQUNXS2U4T0FBQUFBTk1JM3h3cVJYNHBnSkVDQ0x4emRYQmxjbWx2Y2lCeWIyOXRMQ0JCYkd3Z1NXNWpiSFZ6YVhabGtwVFRBQUFBQUFBQUFBQ1N4QkFBQUFBQUFBQUFBQUFBQUFBQUFBQUFvMFZWVXNLblVHRjRhVzExYlpUVENOOGNLa1YtS1lDU3hCQUFBQUFBQUFBQUFDUUZBQUFBQUFBQW8wVlZVc0tuVUdGNGFXMTFiWkRBd0tWSVZFeFRWTkVBQU1EQ3JYTjFjR1Z5YVc5eUlISnZiMjNPQUJtMmFnLi4hfnxKMSF+fEswIX58TDAhfnxINzAzIX58STEjIyF+fEowIX58SzEhfnxMMCF+fEg3MTAhfnxJNTI2MiF+fEowIX58SzAhfnxMMCF+fEg3MDghfnxJNjA2M2VhNTEtYTAwNS00YmMwLWExMDQtNTM4OTRmYzRjYzNkIX58SjAhfnxLMCF+fEwwIX58dE9LIX58dUNvbm5lY3RvcnMhfnx2MCF+fHchfnx5IX58cSF+fHEwIX58eSF+fCoqKnx+fCoqKnBheW1lbnRUeXBlPU1FUkNIQU5UKioqfH58KioqcmF0ZUNvZGU9Tk9STUFMKioqfH58Kioqcm9vbU5ldFByaWNlPTI2MzEuMCoqKnx+fCoqKnJvb21QdnBQcmljZT0yNjMxLjAqKip8fnwqKipyb29tVHlwZUNvZGU9U1VQRVJJT1IgUk9PTSoqKnx+fCoqKnJvb21UeXBlQ29kZU9yaWdpbmFsPXN1cGVyaW9yIHJvb20qKip8fnwqKipyb29tVHlwZU5hbWU9U1VQRVJJT1IgUk9PTSoqKnx+fCoqKnN1cHBsaWVyQ29kZT1TTUJPIyZAJiMzNDU0NTIwIyZAJiMyMDI2LTEwLTAxI0BAQCMyMDI2LTEwLTA3IyZAJiM2MzgtODU5LTg1M2FhYjk0NjAxN2Y0IyZAJiMyMzgxLjE1IyZAJiNlbiMmQCYjSm1SUGZz",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 31,
+                    "roomCode": "47H5Q3DO2:AI:STD::wokqWxYW1vdW50TmV0PTIyOTUuMjkqKip8fnwqKiphbW91bnRQdnA9MjI5NS4yOSoqKnx+fCoqKmJvYXJkQ29kZT0xKioqfH58KioqaG90ZWxDb2RlPVRSMzYqKip8fnwqKippc0JpbmRpbmc9ZmFsc2UqKip8fnwqKipvZmZlcnM9KioqfH58Kioqb3B0VHlwZT1BdmFpbCoqKnx+fCoqKm9wdGlvbkNvbmZpcm1JZD11bmRlZmluZWQqKip8fnwqKipvcHRpb25SZWZJZD0zMyF+fGEwIX58YjI2MTAwMSF+fGMyNjEwMDchfnxkMjUzMjExIX58ZXRpbiF+fGYwIX58Z0dCIX58aEdCIX58aWVuIX58akVVUiF+fGswIX58bDM0Mjc3IX58bVRSMzYhfnxuMSF+fG5UR1ghfnxvMSF+fHAxIX58eDIyMDcxMTUzIX58TTIyOTUuMjkhfnxOMCF+fE9mYWxzZSF+fFBFVVIhfnxRIX58UjAhfnxTIX58VCF+fHoxIzE5MyF+fEExOTMhfnxCc3VyLS0tLS0tIX58QzMwfDMwIX58RVN1cGVyaW9yIFJvb20hfnxGU3VwZXJpb3IgUm9vbSF+fEcxIX58VTIsMjI5NS4yOSwxNzkwMjAwODAwIX58SDEhfnxJTXpLeU5OVXpzcXd4TXpBeE5Lb3hNalUyTWpTc01hd3hNak93TkRLSk40TEtsbVRtMVJoYUd0Zms1K1ZrNXFYV0dOUVlBd0E9IX58SjEhfnxLMCF+fEwwIX58SDgwMCF+fEkwfDE3ODQ3MjEyMTh8VE9SfDM0Mjc3fDI1MzIxMXwyMDI2MTAwMXw2fDM2MXxHQnxHQnxFVVJ8MjI5NS4yOSF+fEoxIX58SzAhfnxMMCF+fEg3MDMhfnxJMSMjIX58SjAhfnxLMSF+fEwwIX58SDcxMCF+fEk0NTkwLjU4IX58SjAhfnxLMCF+fEwwIX58SDcwOCF+fElmODZmNzBlZC1jNGY4LTRlOWMtYmI4OC1jNDk5NTY5ZTcyM2QhfnxKMCF+fEswIX58TDAhfnx0T0shfnx1Q29ubmVjdG9ycyF+fHYwIX58dyF+fHkhfnxxIX58cTEhfnx5IX58KioqfH58KioqcGF5bWVudFR5cGU9TUVSQ0hBTlQqKip8fnwqKipyYXRlQ29kZT1OT1JNQUwqKip8fnwqKipyb29tTmV0UHJpY2U9MjI5NS4yOSoqKnx+fCoqKnJvb21QdnBQcmljZT0yMjk1LjI5KioqfH58Kioqcm9vbVR5cGVDb2RlPVNVUEVSSU9SIFJPT00qKip8fnwqKipyb29tVHlwZUNvZGVPcmlnaW5hbD1zdXItLS0tLS0qKip8fnwqKipyb29tVHlwZU5hbWU9U1VQRVJJT1IgUk9PTSoqKnx+fCoqKnN1cHBsaWVyQ29kZT1UT1IjJkAmIzQyMDAxMjUjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzYzOC04NTktODUzYWFiOTQ2MDE3ZjQjJkAmIzIwNzcuMzIjJkAmI2VuIyZAJiNTZXlLbE4=",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 70,
+                    "roomCode": "1164432!TB!2!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 75,
+                    "roomCode": "1164432!TB!69!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 92,
+                    "roomCode": "1164432!TB!39!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Junior Suite, Seaside View",
+            "category": "Junior Suite",
+            "view": "Seaside",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 29,
+                    "roomCode": "47D779542:AI:STD::itCPbWQ2hlY2tJbj0yMDI2LTEwLTAxKioqfH58KioqQ2hlY2tPdXQ9MjAyNi0xMC0wNyoqKnx+fCoqKk5vblJlZnVuZGFibGU9ZmFsc2UqKip8fnwqKipSYXRlQ29kZT1TVEQqKip8fnwqKipSYXRlUGxhbkNvZGU9cFp1WUM5M1MzNXVkY0JqYXgrLzVZem9KaFdJNGZaWkladEtjb3FPNjRTVlovZ09sM0xzd3A1ZnRZUGl6TVBqWGhSNTlnUXk5RldYMjFCeXdhMTZCQWNJMEpWMHhmV3o2aVlqNFA5dzlMNmtyK05EY1VEL2ZqUnMzUmlmQWxnUFlJMGh0aVlsZ2dJUVdUdkV0OU5WWWg3OWc5NE15N3VLRFFveDFoN2pTWXRPbjc0VzVmelFxRnpnbXhtVGhLMmI0bU5QS1o1TU0rc2loajFTbWNUMVJmZDNuWkV6dXM0RFhBbTZ5U1RJWEk0aklZZDVyNEtGS1Zjd0FEUkNVaGhwNWN5dENxc05HMk0xc0ZvU1haemt5TTNuMUYrV2VNZGVpZWRYL2xkZFlKTndIZm5zZ21oSlNTT3pEemtVYnVoQzlPc0p2NkpuVVlERlNUQzBjZVJyTjdkWWYzMUp2cGFBalFNWVZ2aGlnbFNkRGZ0dkZWd1Z2N21iOENwazhaYlhZTUpVZ1VIUU0rc2hsbE05ODg2aXVMVjF4d2Y2bUxRbXFBTWFFd1pNRFJCRVVyWkNYVXNGdmE2YXZoRVhHZEpnN1NBaEFtM0cybDVMUlozUGhsUXdNa3BMZWt4MXNFa3FpclZCMDBuK1JDOG5QL0RhNWIwcTVMQXI2OFl0YTBPRmFQS0JCTThYRy9qMm9GeFEzcTZLR0xjSkNjSjhCekdQVndUMTd1R0JqZ1BlVkdYZ255YSt4dUVjd0gzRzNLZHBCcUJDdDFoS2lJTitGR01SVVJRZFFPQ1lpRkd6Ym51ZHlYbDUxc1V2SXBvMjRqdkltYjhQUDRBMGlJTXFDRVJya1ZjeW1DWHhPeDVibEdOT0owWWh0d29PZDdnNnM2QWtBa3UvVkhxYzBJWEVnZS9rSDVEZEJQZjZxSjBzWmpHWmVoaGh0L3RzTW1valg1cUhmQVBCS3l5c0Q3NElscFQ0SlgzVVpud28wdFBkdTQ0NHdRSDNzZWdQMHMwdjlSRTBMVGpFMHVDK0JiNDBkV3A2emRRM202b3p1R0lkOWsweWdaZlhNem5FQUdEQmV1UVlTRnF0NkZuZm9jZVF3NU9iUFNXa1kvOHY5MEY2UVMwYUk0ek5zc2Q0elZVb21mQjFia2R6cjVsQ1YxTkZWaEtiODBNOG1SL1RMZW4rQWZOYjNoelNVcHVMTFU3Q1F2L0JoaEJua2tHZVRyclZ0bTlxaW9lSTdMUVVZa0dWR2xTb3V1V3ByemNwN1pTRm1WVEpUTENJcmp4Rk1nZUFGWWpEVGRMK3RlUmN6V1FGeXNnLzl1VjN5cjh5T1BlYVZWU3hvU1ROQjFRR3c1MDlrWDJrWHluekV0TEpWWEowSjI5UTJLaGRMWFFmMXVla0ZrNWcwL01ZdGxuZWVqaEdzV2pvL3AzQkJWUEppaXlHRE1pQlhWamF1aVF0OENzRVc4TDF2ZXpGWUNnPT0qKip8fnwqKipSb29tVHlwZUNhdGVnb3J5Q29kZT1KNjEyI0pOUioqKnx+fCoqKlJvb21UeXBlQ2F0ZWdvcnlEZXNjcmlwdGlvbj0qKip8fnwqKipSb29tVHlwZUNvZGU9SlVOSU9SIFNVSVRFIFNFQSBTSURFIFZJRVcqKip8fnwqKipSb29tVHlwZURlc2NyaXB0aW9uPUpVTklPUiBTVUlURSBTRUEgU0lERSBWSUVXIyZAJiM0NDMwOTMxIyZAJiMyMDI2LTEwLTAxI0BAQCMyMDI2LTEwLTA3IyZAJiM2MzgtODU5LTg1M2FhYjk0NjAxN2Y0IyZAJiMzMTQ0LjMwIyZAJiNlbiMmQCYjb1RKcWpX",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 97,
+                    "roomCode": "1164432!TB!49!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Deluxe Family",
+            "category": "Deluxe Family",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 32,
+                    "roomCode": "47H5RUEC2:AI:STD::LXNUZdYW1vdW50TmV0PTQ2ODguNzgqKip8fnwqKiphbW91bnRQdnA9NDY4OC43OCoqKnx+fCoqKmJvYXJkQ29kZT0xKioqfH58KioqaG90ZWxDb2RlPVRSMzYqKip8fnwqKippc0JpbmRpbmc9ZmFsc2UqKip8fnwqKipvZmZlcnM9KioqfH58Kioqb3B0VHlwZT1BdmFpbCoqKnx+fCoqKm9wdGlvbkNvbmZpcm1JZD11bmRlZmluZWQqKip8fnwqKipvcHRpb25SZWZJZD0zMyF+fGEwIX58YjI2MTAwMSF+fGMyNjEwMDchfnxkMjUzMjExIX58ZXRpbiF+fGYwIX58Z0dCIX58aEdCIX58aWVuIX58akVVUiF+fGswIX58bDM0Mjc3IX58bVRSMzYhfnxuMSF+fG5UR1ghfnxvMSF+fHAxIX58eDIyMDcxMTUzIX58TTQ2ODguNzghfnxOMCF+fE9mYWxzZSF+fFBFVVIhfnxRIX58UjAhfnxTIX58VCF+fHoxIzg1MCF+fEE4NTAhfnxCZGVyLS0tLWYtLSF+fEMzMHwzMCF+fEVEZWx1eGUgRmFtaWx5IFJvb20hfnxGRGVsdXhlIEZhbWlseSBSb29tIX58RzEhfnxVMiw0Njg4Ljc4LDE3OTAyMDA4MDAhfnxIMSF+fElNekd6c05BenQ2Z3hNekF4TktveE1qVTJNalNzTWF3eE1qT3dOREtKTjRIS2xtVG0xVmlZR3RUazUrVms1cVhXR05RWUF3QT0hfnxKMSF+fEswIX58TDAhfnxIODAwIX58STB8MTc4NDcyMTIxOHxUT1J8MzQyNzd8MjUzMjExfDIwMjYxMDAxfDZ8MzYxfEdCfEdCfEVVUnw0Njg4Ljc4IX58SjEhfnxLMCF+fEwwIX58SDcwMyF+fEkxIyMhfnxKMCF+fEsxIX58TDAhfnxINzEwIX58STkzNzcuNTYhfnxKMCF+fEswIX58TDAhfnxINzA4IX58SWY4NmY3MGVkLWM0ZjgtNGU5Yy1iYjg4LWM0OTk1NjllNzIzZCF+fEowIX58SzAhfnxMMCF+fHRPSyF+fHVDb25uZWN0b3JzIX58djAhfnx3IX58eSF+fHEhfnxxMSF+fHkhfnwqKip8fnwqKipwYXltZW50VHlwZT1NRVJDSEFOVCoqKnx+fCoqKnJhdGVDb2RlPU5PUk1BTCoqKnx+fCoqKnJvb21OZXRQcmljZT00Njg4Ljc4KioqfH58Kioqcm9vbVB2cFByaWNlPTQ2ODguNzgqKip8fnwqKipyb29tVHlwZUNvZGU9REVMVVhFIEZBTUlMWSBST09NKioqfH58Kioqcm9vbVR5cGVDb2RlT3JpZ2luYWw9ZGVyLS0tLWYtLSoqKnx+fCoqKnJvb21UeXBlTmFtZT1ERUxVWEUgRkFNSUxZIFJPT00qKip8fnwqKipzdXBwbGllckNvZGU9VE9SIyZAJiM0MjAwMTI1IyZAJiMyMDI2LTEwLTAxI0BAQCMyMDI2LTEwLTA3IyZAJiM2MzgtODU5LTg1M2FhYjk0NjAxN2Y0IyZAJiM0MjQzLjUyIyZAJiNlbiMmQCYjTmtZVUJN",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Superior, Partial Sea View",
+            "category": "Superior",
+            "view": "Partial Sea",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 35,
+                    "roomCode": "47H7UH4G2:AI:STD::zqEBbxYW1vdW50TmV0PTIzNDQuMzkqKip8fnwqKiphbW91bnRQdnA9MjM0NC4zOSoqKnx+fCoqKmJvYXJkQ29kZT0xKioqfH58KioqaG90ZWxDb2RlPVRSMzYqKip8fnwqKippc0JpbmRpbmc9ZmFsc2UqKip8fnwqKipvZmZlcnM9KioqfH58Kioqb3B0VHlwZT1BdmFpbCoqKnx+fCoqKm9wdGlvbkNvbmZpcm1JZD11bmRlZmluZWQqKip8fnwqKipvcHRpb25SZWZJZD0zMyF+fGEwIX58YjI2MTAwMSF+fGMyNjEwMDchfnxkMjUzMjExIX58ZXRpbiF+fGYwIX58Z0dCIX58aEdCIX58aWVuIX58akVVUiF+fGswIX58bDM0Mjc3IX58bVRSMzYhfnxuMSF+fG5UR1ghfnxvMSF+fHAxIX58eDIyMDcxMTUzIX58TTIzNDQuMzkhfnxOMCF+fE9mYWxzZSF+fFBFVVIhfnxRIX58UjAhfnxTIX58VCF+fHoxIzY3NSF+fEE2NzUhfnxCc3VyLS1FQS0tLS0hfnxDMzB8MzAhfnxFU3VwZXJpb3IgUm9vbSB2aWV3cyBQYXJ0aWFsIFNlYSF+fEZTdXBlcmlvciBSb29tIFNpZGUgU2VhIFZpZXchfnxHMSF+fFUyLDIzNDQuMzksMTc5MDIwMDgwMCF+fEgxIX58SUxjbXhEUUFnQ0FUQWpRdzhpSEVhS3dzVGc0M2xEMi9qdFFkekw5WVo0Z3FpR2xTcFJFaUhEL3k5S3htdDh1UmVPU20wQnc9PSF+fEoxIX58SzAhfnxMMCF+fEg4MDAhfnxJMHwxNzg0NzIxMjE4fFRPUnwzNDI3N3wyNTMyMTF8MjAyNjEwMDF8NnwzNjF8R0J8R0J8RVVSfDIzNDQuMzkhfnxKMSF+fEswIX58TDAhfnxINzAzIX58STEjIyF+fEowIX58SzEhfnxMMCF+fEg3MTAhfnxJNDY4OC43OCF+fEowIX58SzAhfnxMMCF+fEg3MDghfnxJZjg2ZjcwZWQtYzRmOC00ZTljLWJiODgtYzQ5OTU2OWU3MjNkIX58SjAhfnxLMCF+fEwwIX58dE9LIX58dUNvbm5lY3RvcnMhfnx2MCF+fHchfnx5IX58cSF+fHExIX58eSF+fCoqKnx+fCoqKnBheW1lbnRUeXBlPU1FUkNIQU5UKioqfH58KioqcmF0ZUNvZGU9Tk9STUFMKioqfH58Kioqcm9vbU5ldFByaWNlPTIzNDQuMzkqKip8fnwqKipyb29tUHZwUHJpY2U9MjM0NC4zOSoqKnx+fCoqKnJvb21UeXBlQ29kZT1TVVBFUklPUiBST09NIFNJREUgU0VBIFZJRVcqKip8fnwqKipyb29tVHlwZUNvZGVPcmlnaW5hbD1zdXItLUVBLS0tLSoqKnx+fCoqKnJvb21UeXBlTmFtZT1TVVBFUklPUiBST09NIFNJREUgU0VBIFZJRVcqKip8fnwqKipzdXBwbGllckNvZGU9VE9SIyZAJiM0MjAwMTI1IyZAJiMyMDI2LTEwLTAxI0BAQCMyMDI2LTEwLTA3IyZAJiM2MzgtODU5LTg1M2FhYjk0NjAxN2Y0IyZAJiMyMTIxLjc2IyZAJiNlbiMmQCYjeWZ0SUxO",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 80,
+                    "roomCode": "1164432!TB!70!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Superior, Double or Twin, Partial Sea View",
+            "category": "Superior",
+            "view": "Partial Sea",
+            "beds": [
+                {
+                    "type": "Double"
+                }
+            ],
+            "bedInfo": "Double or 2 Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 38,
+                    "roomCode": "4818ITBG2:AI:STD::nKIQSKYW1vdW50TmV0PTIzNzguMCoqKnx+fCoqKmFtb3VudFB2cD0yMzc4LjAqKip8fnwqKipib2FyZENvZGU9YWxsLWluY2x1c2l2ZSoqKnx+fCoqKmhvdGVsQ29kZT03NzYwODM2KioqfH58KioqaXNCaW5kaW5nPWZhbHNlKioqfH58Kioqb2ZmZXJzPSoqKnx+fCoqKm9wdFR5cGU9QXZhaWwqKip8fnwqKipvcHRpb25Db25maXJtSWQ9dW5kZWZpbmVkKioqfH58Kioqb3B0aW9uUmVmSWQ9MzMhfnxhMCF+fGIyNjEwMDEhfnxjMjYxMDA3IX58ZDc3NjA4MzYhfnxlYWxsLWluY2x1c2l2ZSF+fGYwIX58Z0dCIX58aEdCIX58aWVuIX58akVVUiF+fGswIX58bDM2NTM1IX58bTc3NjA4MzYhfnxuYWxsLWluY2x1c2l2ZSF+fG5PVFYhfnxvMSF+fHAxIX58eDIyMDcxMTUzIX58TTIzNzghfnxOMCF+fE9mYWxzZSF+fFBFVVIhfnxRIX58UjAhfnxTIX58VCF+fHoxIzIzMjMwMDUwMDAyNzAhfnxBMjMyMzAwNTAwMDI3MCF+fEIyMzIzMDA1MDAwMjcwIX58QzMwfDMwIX58RVN1cGVyaW9yIERvdWJsZSByb29tIHdpdGggcGFydGlhbCBzZWEgdmlldyAoZnVsbCBkb3VibGUgYmVkKSF+fEZTdXBlcmlvciBEb3VibGUgcm9vbSB3aXRoIHBhcnRpYWwgc2VhIHZpZXcgKGZ1bGwgZG91YmxlIGJlZCkhfnxHMSF+fFUyLDIzNzgsMTc5MDMzMDQwMCF+fEhjdXJyZW5jeSF+fElFVVIhfnxIb3B0UHJpY2UhfnxJMjM3OC4wMCF+fEhjb21pc3Npb24hfnxJMC4wMCF+fEhsYW5ndWFnZUF2YWlsQ29kZSF+fEllbiF+fEhyZXNpZGVuY3khfnxJR0IhfnxIZGFpbHlQcmljZXMhfnxJRmFsc2UhfnxIbmV3Um9vbUNvZGVzIX58SXRydWUhfnxIaXNfcGFja2FnZSF+fElmYWxzZSF+fEhBdmFpbF9IYXNoIX58SXNyLTAxOWY4OWFjLTllZDEtNzhjZi04ZDllLWI4ODFhMjhlZDM5MCF+fEhOb1JlZW1ib2xzYWJsZSF+fElGYWxzZSF+fEh0Z3hfcHJpY2UhfnxJMjM3OCF+fHRPSyF+fHVTaXRoIX58djAhfnx3IX58eSF+fHFIT1RFTCF+fHEwIX58eSF+fCoqKnx+fCoqKnBheW1lbnRUeXBlPU1FUkNIQU5UKioqfH58KioqcmF0ZUNvZGU9Tk9STUFMKioqfH58Kioqcm9vbU5ldFByaWNlPTIzNzguMCoqKnx+fCoqKnJvb21QdnBQcmljZT0yMzc4LjAqKip8fnwqKipyb29tVHlwZUNvZGU9U1VQRVJJT1IgRE9VQkxFIFJPT00gV0lUSCBQQVJUSUFMIFNFQSBWSUVXIChGVUxMIERPVUJMRSBCRUQpKioqfH58Kioqcm9vbVR5cGVDb2RlT3JpZ2luYWw9MjMyMzAwNTAwMDI3MCoqKnx+fCoqKnJvb21UeXBlTmFtZT1TVVBFUklPUiBET1VCTEUgUk9PTSBXSVRIIFBBUlRJQUwgU0VBIFZJRVcgKEZVTEwgRE9VQkxFIEJFRCkqKip8fnwqKipzdXBwbGllckNvZGU9T1RWIyZAJiM0NTUzODM3IyZAJiMyMDI2LTEwLTAxI0BAQCMyMDI2LTEwLTA3IyZAJiM2MzgtODU5LTg1M2FhYjk0NjAxN2Y0IyZAJiMyMTUyLjE4IyZAJiNlbiMmQCYjVFZycVV3",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 41,
+                    "roomCode": "4AZ:AI:M03::MCWCxPMGI5OGQzNWEtYTlmYi00NDcyLWE0MWQtOTQ2MjQ1ZTg1NTgyIyZAJiM0MzI3NzkjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzYzOC04NTktODUzYWFiOTQ2MDE3ZjQjJkAmIzIwMjAuOTkjJkAmI2VuIyZAJiNtTWhmV2g=",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 95,
+                    "cfs": 93,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 61,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d9999-19720866!~|e17!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32796!~|m9999-19720866!~|n17!~|nILS!~|o1!~|p0!~|x22071153!~|M13629.46!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A33754601!~|B33754601!~|C30|30!~|ESuperior Double or Twin Room with Side Sea View!~|FSuperior Double or Twin Room with Side Sea View!~|G1!~|HcityCode!~|IANTALYA!~|HtokenNumber!~|ITRA_STG: 20260722_115345!~|HroomConfig!~|I1#17#33754601#5100/H4sIAAAAAAAAAy1QybKCMBD8JQhCydEnWygTijUPboboMwtqlQvL17-h9DCH6Znu6u7TnP60iL4583X7W9w5ctNujz2yEIdWOTrs07wffC0YtUqWy0zihSy9TYN2JM12IardkCXfUCXOxGw3tNmOWI4yZ9ODI3oRsXlzib3TnAbH2Dy6JDXrzmzrgbVrc5aaXvtDzgqbJ8WC1W0-l8BH_pMzs_QI-Dp6cqd5idWX-kMHRWzwRTsWPep4unBN311cy0yFDuAlBy7wX91gruI3_XjQRoP2BPdKxNEswgLwes0zkwCjQxWOh2o3NcFuzNRn1hwFc3URR1ZXYg8rPELeJ6l2TxKImgQ77zsSdDF3CsPDrxeJ3azSLui6dMFjFrRo1auGyDoy_9Wy6S4SDX9pkksMXUTQ8WSBb5tfoWe1YvR2ZJPOmTD9vHZm-_-msCf7sAEAAA!~|Htgx_price!~|I13629.46!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 95,
+                    "cfs": 94,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 62,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d9999-19720866!~|e17!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32796!~|m9999-19720866!~|n17!~|nILS!~|o1!~|p1!~|x22071153!~|M15143.86!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A33754601!~|B33754601!~|C30|30!~|ESuperior Double or Twin Room with Side Sea View!~|FSuperior Double or Twin Room with Side Sea View!~|G1!~|U2,642.75,1790157600!~|HcityCode!~|IANTALYA!~|HtokenNumber!~|ITRA_STG: 20260722_115345!~|HroomConfig!~|I1#17#33754601#5100/H4sIAAAAAAAAAy2QSZOCMBSE_xIEseTIyBaKhGKNcDNExyyoVaAsv37C6OEd0i_d9b2-LPFPA_CbEkc2p_xJgR23R7hHK7JwmYHkGGdd70hGsFGQjKccrmjtTOw1E6oPBhJoxt4vwCK4InXY4fowQT7xjMwDBfjGQvWmHO4vS-ydQzW0Uay2NzGNAUrbpCRWnXT6jOQmjfIVisdyLbQfOCMlau2A9stgpFb9Yv9c_i4R_saFWxIMVTjfqMTvNqx4KnxL6wXVXu1_tb26s1P8YZBK6uxZ70sWBgvzc61X2z0L8iBISn9KSneuPXdKxWe2O3JiyzwMjLaAeyjghEQzotIdkccq5Ln773CdC6mVK-p_WTi001LaOtfGK5xSrwFbXtkHxpk4r4bMTxZJ_S-OMg51F4HueDY0t0nvumexafhxJrPMCFPdsnVmOn9oJp5CsAEAAA!~|Htgx_price!~|I15143.86!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 95,
+                    "cfs": 94,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 68,
+                    "roomCode": "1164432!TB!37!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 95,
+                    "cfs": 93,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Superior, Double or Twin, Land View",
+            "category": "Superior",
+            "view": "Land",
+            "beds": [
+                {
+                    "type": "Double"
+                }
+            ],
+            "bedInfo": "Double or 2 Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 39,
+                    "roomCode": "4819C5PO2:AI:STD::opupzXYW1vdW50TmV0PTIyNzUuMCoqKnx+fCoqKmFtb3VudFB2cD0yMjc1LjAqKip8fnwqKipib2FyZENvZGU9YWxsLWluY2x1c2l2ZSoqKnx+fCoqKmhvdGVsQ29kZT03NzYwODM2KioqfH58KioqaXNCaW5kaW5nPWZhbHNlKioqfH58Kioqb2ZmZXJzPSoqKnx+fCoqKm9wdFR5cGU9QXZhaWwqKip8fnwqKipvcHRpb25Db25maXJtSWQ9dW5kZWZpbmVkKioqfH58Kioqb3B0aW9uUmVmSWQ9MzMhfnxhMCF+fGIyNjEwMDEhfnxjMjYxMDA3IX58ZDc3NjA4MzYhfnxlYWxsLWluY2x1c2l2ZSF+fGYwIX58Z0dCIX58aEdCIX58aWVuIX58akVVUiF+fGswIX58bDM2NTM1IX58bTc3NjA4MzYhfnxuYWxsLWluY2x1c2l2ZSF+fG5PVFYhfnxvMSF+fHAxIX58eDIyMDcxMTUzIX58TTIyNzUhfnxOMCF+fE9mYWxzZSF+fFBFVVIhfnxRIX58UjAhfnxTIX58VCF+fHoxIzIzMjMwMDUwMDAyMTAhfnxBMjMyMzAwNTAwMDIxMCF+fEIyMzIzMDA1MDAwMjEwIX58QzMwfDMwIX58RVN1cGVyaW9yIERvdWJsZSByb29tIHdpdGggbGFuZCB2aWV3IChmdWxsIGRvdWJsZSBiZWQpIX58RlN1cGVyaW9yIERvdWJsZSByb29tIHdpdGggbGFuZCB2aWV3IChmdWxsIGRvdWJsZSBiZWQpIX58RzEhfnxVMiwxMjc3LDE3ODk1OTIzNDB8MiwyMjc1LDE3OTA4OTkyMDAhfnxIY3VycmVuY3khfnxJRVVSIX58SG9wdFByaWNlIX58STIyNzUuMDAhfnxIY29taXNzaW9uIX58STAuMDAhfnxIbGFuZ3VhZ2VBdmFpbENvZGUhfnxJZW4hfnxIcmVzaWRlbmN5IX58SUdCIX58SGRhaWx5UHJpY2VzIX58SUZhbHNlIX58SG5ld1Jvb21Db2RlcyF+fEl0cnVlIX58SGlzX3BhY2thZ2UhfnxJZmFsc2UhfnxIQXZhaWxfSGFzaCF+fElzci0wMTlmODlhYy05ZWQxLTc4Y2UtYmJjNS03NTk5N2E0YzUxNmUhfnxITm9SZWVtYm9sc2FibGUhfnxJRmFsc2UhfnxIdGd4X3ByaWNlIX58STIyNzUhfnx0T0shfnx1U2l0aCF+fHYwIX58dyF+fHkhfnxxSE9URUwhfnxxMCF+fHkhfnwqKip8fnwqKipwYXltZW50VHlwZT1NRVJDSEFOVCoqKnx+fCoqKnJhdGVDb2RlPU5PUk1BTCoqKnx+fCoqKnJvb21OZXRQcmljZT0yMjc1LjAqKip8fnwqKipyb29tUHZwUHJpY2U9MjI3NS4wKioqfH58Kioqcm9vbVR5cGVDb2RlPVNVUEVSSU9SIERPVUJMRSBST09NIFdJVEggTEFORCBWSUVXIChGVUxMIERPVUJMRSBCRUQpKioqfH58Kioqcm9vbVR5cGVDb2RlT3JpZ2luYWw9MjMyMzAwNTAwMDIxMCoqKnx+fCoqKnJvb21UeXBlTmFtZT1TVVBFUklPUiBET1VCTEUgUk9PTSBXSVRIIExBTkQgVklFVyAoRlVMTCBET1VCTEUgQkVEKSoqKnx+fCoqKnN1cHBsaWVyQ29kZT1PVFYjJkAmIzQ1NTM4MzcjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzYzOC04NTktODUzYWFiOTQ2MDE3ZjQjJkAmIzIwNTguOTYjJkAmI2VuIyZAJiN4TklrRlI=",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 56,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d9999-19720866!~|e17!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32796!~|m9999-19720866!~|n17!~|nILS!~|o1!~|p1!~|x22071153!~|M14868.49!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A33754602!~|B33754602!~|C30|30!~|ESuperior Double or Twin Room with Land View!~|FSuperior Double or Twin Room with Land View!~|G1!~|U2,631.07,1790157600!~|HcityCode!~|IANTALYA!~|HtokenNumber!~|ITRA_STG: 20260722_115345!~|HroomConfig!~|I1#17#33754602#5100/H4sIAAAAAAAAAy2QSZOCMBCF_xIEoeToyBbKhGIzws0QHbO4VImy_PppRg996Je8V1-_05T-NIi-OfN1cygeHLlpu8UemYlDqxzttmneXX0tGLVKlstM4pnMnU2DZiBmbRFFRhr8IqqiM-wrul8PWA4yZ-OTI3oRsXlzib3TlAbH2DzbJDXLzmzribVrc5aaTvvXnBU2T4oZq_t0LsGP_J4zM3cI_DrqubN_iX-ucNopsgIu2rLoWcfjhWv6buNaZip0QC85eMH_aq_mJg7ph0EbDdkjvFcijiYRFqDXyz0TCTDaVeGwqzbjPtgMmfrMckfBXF3EkdWW2MMKD0Q1Pak2PQlETYKN9x0JuZg7heHhl0ViN6u0C7kunfGQBQ1a8qprZB2Z_2rY-BCJhn9pkksMXUTQ8WgBt81v0LNaNHo_slHnTJhuWjqz_T9AjeB4sAEAAA!~|Htgx_price!~|I14868.49!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 95,
+                    "cfs": 94,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 57,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d9999-19720866!~|e17!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32796!~|m9999-19720866!~|n17!~|nILS!~|o1!~|p0!~|x22071153!~|M13381.69!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A33754602!~|B33754602!~|C30|30!~|ESuperior Double or Twin Room with Land View!~|FSuperior Double or Twin Room with Land View!~|G1!~|HcityCode!~|IANTALYA!~|HtokenNumber!~|ITRA_STG: 20260722_115345!~|HroomConfig!~|I1#17#33754602#5100/H4sIAAAAAAAAAy1Qya6CQBD8JRYxcuTJNoQZwuY8uDmMPmdBTUBZvv410UMfurqrUlWXJflpLPJm1FXNb_FklpO0R7THK7ZJlVvpMcm73lWcEqOkucgEWvHamcRvJqwPK5bNDq_5jkh-hX1HTocJiUnkdB6YRW480m8m0P6yJP450kMbJ3rbqWkMSDkmo4nulNvntDBZXKxIPpZrCXzLHRnVa2cBX4Ujs08vvvmSf3MqAwN8kZaGQx3NN6bIu41qkcnABrxkwAX-q-31nf8mHw9KK9Ce4V7xKFx4UABeb3kW7CMrrYIprbz55HtTJj-z5Sioo4ooNNoS7ZFEE-QdceWN2Oc19r39dwToImYXmgVfLwI5WaUc0HXIiqbMb6xNr-pD40zdV0PnJ48V_CVxLhB0EULHswG-TXaHnuWGkceZziqnXHfL1pnp_gMjPnF0sAEAAA!~|Htgx_price!~|I13381.69!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 95,
+                    "cfs": 94,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 72,
+                    "roomCode": "1164432!TB!61!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 95,
+                    "cfs": 94,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Superior, Twin, Partial Sea View",
+            "category": "Superior",
+            "view": "Partial Sea",
+            "beds": [
+                {
+                    "type": "Twin"
+                }
+            ],
+            "bedInfo": "Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 40,
+                    "roomCode": "4819C5TK2:AI:STD::xAoyhcYW1vdW50TmV0PTI1ODEuMCoqKnx+fCoqKmFtb3VudFB2cD0yNTgxLjAqKip8fnwqKipib2FyZENvZGU9YWxsLWluY2x1c2l2ZSoqKnx+fCoqKmhvdGVsQ29kZT03NzYwODM2KioqfH58KioqaXNCaW5kaW5nPWZhbHNlKioqfH58Kioqb2ZmZXJzPSoqKnx+fCoqKm9wdFR5cGU9QXZhaWwqKip8fnwqKipvcHRpb25Db25maXJtSWQ9dW5kZWZpbmVkKioqfH58Kioqb3B0aW9uUmVmSWQ9MzMhfnxhMCF+fGIyNjEwMDEhfnxjMjYxMDA3IX58ZDc3NjA4MzYhfnxlYWxsLWluY2x1c2l2ZSF+fGYwIX58Z0dCIX58aEdCIX58aWVuIX58akVVUiF+fGswIX58bDM2NTM1IX58bTc3NjA4MzYhfnxuYWxsLWluY2x1c2l2ZSF+fG5PVFYhfnxvMSF+fHAxIX58eDIyMDcxMTUzIX58TTI1ODEhfnxOMCF+fE9mYWxzZSF+fFBFVVIhfnxRIX58UjAhfnxTIX58VCF+fHoxIzI0MjMwMDUwMDAyNzAhfnxBMjQyMzAwNTAwMDI3MCF+fEIyNDIzMDA1MDAwMjcwIX58QzMwfDMwIX58RVN1cGVyaW9yIERvdWJsZSByb29tIHdpdGggcGFydGlhbCBzZWEgdmlldyAodHdpbiBiZWRzKSF+fEZTdXBlcmlvciBEb3VibGUgcm9vbSB3aXRoIHBhcnRpYWwgc2VhIHZpZXcgKHR3aW4gYmVkcykhfnxHMSF+fFUyLDI1ODEsMTc5MDUwMzIwMCF+fEhjdXJyZW5jeSF+fElFVVIhfnxIb3B0UHJpY2UhfnxJMjU4MS4wMCF+fEhjb21pc3Npb24hfnxJMC4wMCF+fEhsYW5ndWFnZUF2YWlsQ29kZSF+fEllbiF+fEhyZXNpZGVuY3khfnxJR0IhfnxIZGFpbHlQcmljZXMhfnxJRmFsc2UhfnxIbmV3Um9vbUNvZGVzIX58SXRydWUhfnxIaXNfcGFja2FnZSF+fElmYWxzZSF+fEhBdmFpbF9IYXNoIX58SXNyLTAxOWY4OWFjLTllZDEtNzhkMS04ODkxLTlmMjhhNDZjNGRlYiF+fEhOb1JlZW1ib2xzYWJsZSF+fElGYWxzZSF+fEh0Z3hfcHJpY2UhfnxJMjU4MSF+fHRPSyF+fHVTaXRoIX58djAhfnx3IX58eSF+fHFIT1RFTCF+fHEwIX58eSF+fCoqKnx+fCoqKnBheW1lbnRUeXBlPU1FUkNIQU5UKioqfH58KioqcmF0ZUNvZGU9Tk9STUFMKioqfH58Kioqcm9vbU5ldFByaWNlPTI1ODEuMCoqKnx+fCoqKnJvb21QdnBQcmljZT0yNTgxLjAqKip8fnwqKipyb29tVHlwZUNvZGU9U1VQRVJJT1IgRE9VQkxFIFJPT00gV0lUSCBQQVJUSUFMIFNFQSBWSUVXIChUV0lOIEJFRFMpKioqfH58Kioqcm9vbVR5cGVDb2RlT3JpZ2luYWw9MjQyMzAwNTAwMDI3MCoqKnx+fCoqKnJvb21UeXBlTmFtZT1TVVBFUklPUiBET1VCTEUgUk9PTSBXSVRIIFBBUlRJQUwgU0VBIFZJRVcgKFRXSU4gQkVEUykqKip8fnwqKipzdXBwbGllckNvZGU9T1RWIyZAJiM0NTUzODM3IyZAJiMyMDI2LTEwLTAxI0BAQCMyMDI2LTEwLTA3IyZAJiM2MzgtODU5LTg1M2FhYjk0NjAxN2Y0IyZAJiMyMzM1LjkwIyZAJiNlbiMmQCYjcWVjTFVG",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 48,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1359883!~|eAll Inclusive!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m1359883!~|nAll Inclusive!~|nTLD!~|o1!~|p1!~|x22071153!~|M2949!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Atwin superior side sea view!~|Btwin superior side sea view!~|C30|30!~|Etwin superior side sea view!~|Ftwin superior side sea view!~|G1!~|U2,2949,1790071200|1,100,1790762400!~|HtimeStamp!~|I7/22/2026 11:53:47 AM!~|HtimeParam!~|I2026-07-22T12:23:47!~|HoptionidFirstDispo!~|I783127108628!~|Hcurrency!~|IUSD!~|HroomId#1!~|I3127108628-1-0!~|HoptionToken!~|IMXx8MTU3Mjc0fHwyOTQ5fHxVU0R8fDkyMTM2N2YyNjNlNjM2MzAzZDRhZDJlYmRlMGMwODdiN2RjNTA1NTQ=!~|Hnumadults!~|I1#2!~|Htgx_price!~|I2949!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 99,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 91,
+                    "roomCode": "1164432!TB!40!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 99,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Lagoon, Pool Access",
+            "category": "Lagoon",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 50,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1359883!~|eAll Inclusive!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m1359883!~|nAll Inclusive!~|nTLD!~|o1!~|p1!~|x22071153!~|M4313.38!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Alagoon room pool access!~|Blagoon room pool access!~|C30|30!~|Elagoon room pool access!~|Flagoon room pool access!~|G1!~|U2,2422.94,1789120800|1,100,1790762400!~|HtimeStamp!~|I7/22/2026 11:53:47 AM!~|HtimeParam!~|I2026-07-22T12:23:47!~|HoptionidFirstDispo!~|I782249569451!~|Hcurrency!~|IUSD!~|HroomId#1!~|I2249569451-1-0!~|HoptionToken!~|IMXx8MTU3Mjc0fHw0MzEzfHxVU0R8fDBiZDg0OTkyODFhZjQ3Mzk3NzUyNWQ2NDg4OWMxMjNlYTkzZmUyZjA=!~|Hnumadults!~|I1#2!~|Htgx_price!~|I4313.38!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 110,
+                    "roomCode": "1164432!TB!12!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 112,
+                    "roomCode": "1164432!TB!23!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "HasPoolAccess",
+                    "value": "Yes"
+                }
+            ]
+        },
+        {
+            "standardName": "Family, Quadruple",
+            "category": "Family",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 58,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d9999-19720866!~|e17!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32796!~|m9999-19720866!~|n17!~|nILS!~|o1!~|p1!~|x22071153!~|M31802.14!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A33754605!~|B33754605!~|C30|30!~|EFamily Room (4 Adults)!~|FFamily Room (4 Adults)!~|G1!~|U2,1349.78,1790157600!~|HcityCode!~|IANTALYA!~|HtokenNumber!~|ITRA_STG: 20260722_115345!~|HroomConfig!~|I1#17#33754605#5100/H4sIAAAAAAAAAy2QS5OCMBCE_xIEseTIyisUCQWiWbgZomseqFWgPH79DqWHOaQn3fVNX-b0p0b0zZmn69_yyZGbNnu8JQtxaFWgbJ8Wbedpwah1YIXMJV7I0to0qEd62llEkYkGf4iq6Eqi3Qa0EctRFmzqOaI3EZs3l3h7mdPgHJu-SVKzvplt9Vi7NmepabXXFay0eVIuWD3m6wH8yBs4M0uLwK-jgTunlwAuqupNpkILuGjDov4YTzeu6buJjzJXoQP6gYMX_K-mM3fxm34YtNGQPcG-EnE0i7AE_bjeM5MAo6wKx6zyp1Pgj7n6zHpHyVxdxpHVHPAWKzwSVQ-k8gcSiCMJ_O13JORi7pSGh18Wid280i7kunTBYx7UaM2rusg6M-9Vs-kpEg3_0qSQGLqIoOPJAm6b36FntWr0cWaTLpgw7bx2Znv_mwfhXLABAAA!~|Htgx_price!~|I31802.14!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 59,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d9999-19720866!~|e17!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32796!~|m9999-19720866!~|n17!~|nILS!~|o1!~|p0!~|x22071153!~|M28621.9!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A33754605!~|B33754605!~|C30|30!~|EFamily Room (4 Adults)!~|FFamily Room (4 Adults)!~|G1!~|HcityCode!~|IANTALYA!~|HtokenNumber!~|ITRA_STG: 20260722_115345!~|HroomConfig!~|I1#17#33754605#5100/H4sIAAAAAAAAAy1Q266CMBD8JS5i5JEjAiW0BAQrvFmqsRfUBBTo158l-rAPO7szmZnrkv41Dvkw6qvmXL6Y46XtHm2xwS6pCifbp0XX-4pTYh1pIXKBDDadTcJmIqedwbLZYFNsiOQ3HO02gE1ITKKg88Accuex_jCBttclDS-xHtok1etObWtAyrMZTXWn_L6gpc2S0iD5XG5H4Dv-yKg2nQN8FY3MPb05-CIymDOJDfgiLY2GOp7vTJFPG9cilwcX8CMDLvDfba8f_Jx-PSitQHuGe8XjaOGHEvB6zbPgEDlZdZiyKphPYTDl8jtrjpJ6qowjqz2iLZJogrwjroIRh7zGYbD9jQBdxNxSs8PPi0BeXikPdD1i0JSHjbPqVX1kXaj_buj84omCvzQpBIIuIuh4tsC3zR7Qs1wx8rzQWRWU625ZO7P9f-7vR66wAQAA!~|Htgx_price!~|I28621.9!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Quadruple"
+        },
+        {
+            "standardName": "Superior, Limited Sea View",
+            "category": "Superior",
+            "view": "Limited Sea",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 78,
+                    "roomCode": "1164432!TB!48!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 81,
+                    "roomCode": "1164432!TB!16!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Superior, Twin, Limited Sea View",
+            "category": "Superior",
+            "view": "Limited Sea",
+            "beds": [
+                {
+                    "type": "Twin"
+                }
+            ],
+            "bedInfo": "Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 79,
+                    "roomCode": "1164432!TB!27!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Superior, Sea View",
+            "category": "Superior",
+            "view": "Sea",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 87,
+                    "roomCode": "1164432!TB!73!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Superior, Double or Twin, Limited Sea View, Balcony",
+            "category": "Superior",
+            "view": "Limited Sea",
+            "beds": [],
+            "bedInfo": "Double or 2 Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 88,
+                    "roomCode": "1164432!TB!72!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 93,
+                    "roomCode": "1164432!TB!10!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 95,
+                    "cfs": 95,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "HasBalcony",
+                    "value": "Yes"
+                }
+            ],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Superior, Twin",
+            "category": "Superior",
+            "beds": [
+                {
+                    "type": "Twin"
+                }
+            ],
+            "bedInfo": "Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 89,
+                    "roomCode": "1164432!TB!1!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Junior Suite, Limited Sea View",
+            "category": "Junior Suite",
+            "view": "Limited Sea",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 102,
+                    "roomCode": "1164432!TB!13!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 108,
+                    "roomCode": "1164432!TB!28!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Junior Suite, Limited Sea View, Balcony",
+            "category": "Junior Suite",
+            "view": "Limited Sea",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 105,
+                    "roomCode": "1164432!TB!11!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 107,
+                    "roomCode": "1164432!TB!26!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 115,
+                    "roomCode": "1164432!TB!55!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "HasBalcony",
+                    "value": "Yes"
+                }
+            ],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Junior Suite, Sea View",
+            "category": "Junior Suite",
+            "view": "Sea",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 109,
+                    "roomCode": "1164432!TB!54!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Lagoon, Limited Sea View",
+            "category": "Lagoon",
+            "view": "Limited Sea",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 111,
+                    "roomCode": "1164432!TB!60!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 117,
+                    "roomCode": "1164432!TB!35!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Standard, Double, Sea View",
+            "category": "Standard",
+            "view": "Sea",
+            "beds": [
+                {
+                    "type": "Double"
+                }
+            ],
+            "bedInfo": "Double",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 114,
+                    "roomCode": "1164432!TB!64!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Premium, Sea View",
+            "category": "Premium",
+            "view": "Sea",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 116,
+                    "roomCode": "1164432!TB!31!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Family, Limited Sea View",
+            "category": "Family",
+            "view": "Limited Sea",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 126,
+                    "roomCode": "1164432!TB!19!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 129,
+                    "roomCode": "1164432!TB!14!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 97,
+                    "cfs": 97,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Family, Limited Sea View, Balcony",
+            "category": "Family",
+            "view": "Limited Sea",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 128,
+                    "roomCode": "1164432!TB!3!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "HasBalcony",
+                    "value": "Yes"
+                }
+            ]
+        },
+        {
+            "standardName": "Superior Family, 2 Bedroom",
+            "category": "Superior Family",
+            "beds": [],
+            "bedroomCount": 2,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 132,
+                    "roomCode": "1164432!TB!17!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Superior Family, 2 Bedroom, Limited Sea View, Balcony",
+            "category": "Superior Family",
+            "view": "Limited Sea",
+            "beds": [],
+            "bedroomCount": 2,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 133,
+                    "roomCode": "1164432!TB!18!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "HasBalcony",
+                    "value": "Yes"
+                }
+            ]
+        }
+    ],
+    "success": true,
+    "statusCode": 1000,
+    "message": "Success"
+}

@@ -14,6 +14,7 @@ _NOISE_PHRASES = [
     r"\d+\s*ch",
     r"bed and breakfast",
     r"breakfast",
+    r"package rate",
     r"happy hour",
     r"afternoon tea",
     r"non smoking",

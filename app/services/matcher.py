@@ -326,6 +326,8 @@ def _compatible_standard_view_room(
 
     return same_view and class_compatible and bed_compatible
 
+
+
 def is_match(room_a, room_b, threshold=90):
     normalized_a = room_a["normalized_name"]
     normalized_b = room_b["normalized_name"]
@@ -810,12 +812,11 @@ def has_explicit_sofa_bed(
         for bed in bed_configuration
     )
 
+
+
 def is_match_v4(room_a, room_b, threshold=90):
     normalized_a = room_a["normalized_name"]
     normalized_b = room_b["normalized_name"]
-
-    if normalized_a == normalized_b:
-        return True
 
     features_a = room_a["features"]
     features_b = room_b["features"]
@@ -855,6 +856,9 @@ def is_match_v4(room_a, room_b, threshold=90):
 
     jacuzzi_a = features_a.get("jacuzzi", False)
     jacuzzi_b = features_b.get("jacuzzi", False)
+
+    bed_relation_a = features_a.get("bed_relation", "unknown")
+    bed_relation_b = features_b.get("bed_relation", "unknown")
 
     bed_count_a = features_a["dormitory_bed_count"]
     bed_count_b = features_b["dormitory_bed_count"]
@@ -929,6 +933,16 @@ def is_match_v4(room_a, room_b, threshold=90):
         return False
     if jacuzzi_a != jacuzzi_b:
         return False
+    if (
+        bed_relation_a != "unknown"
+        and bed_relation_b != "unknown"
+        and bed_relation_a != bed_relation_b
+    ):
+        return False
+    # Exact normalized names can match only after
+    # all semantic contradictions have been checked.
+    if normalized_a == normalized_b:
+        return True
     
     bed_type_a = features_a["bed_type"]
     bed_type_b = features_b["bed_type"]
@@ -979,6 +993,27 @@ def is_match_v4(room_a, room_b, threshold=90):
         normalized_a,
         normalized_b,
     )
+
+    # Narrow suite rule:
+    # same explicit suite subtype can tolerate lower name similarity.
+    if (
+        category_a == "suite"
+        and category_b == "suite"
+        and suite_type_a == suite_type_b
+        and suite_type_a not in {"unknown", "standard", "not_applicable"}
+    ):
+        return score >= 70
+    if (
+        category_a == "room"
+        and category_b == "room"
+        and view_a == view_b
+        and view_a != "unknown"
+        and {
+            room_class_a,
+            room_class_b,
+        }.issubset({"standard", "unknown"})
+    ):
+        return score >= 89
 
     return score >= threshold
 
@@ -1151,11 +1186,47 @@ def diagnose_match_v4(
         normalized_b,
     )
 
+    # Same explicit suite subtype can tolerate lower fuzzy similarity.
+    if (
+        category_a == "suite"
+        and category_b == "suite"
+        and suite_type_a == suite_type_b
+        and suite_type_a not in {
+            "unknown",
+            "standard",
+            "not_applicable",
+        }
+    ):
+        matched = score >= 70
+
+    # Standard/unknown room class with the same explicit view
+    # can tolerate a very small fuzzy drop.
+    elif (
+        category_a == "room"
+        and category_b == "room"
+        and view_a == view_b
+        and view_a != "unknown"
+        and {
+            room_class_a,
+            room_class_b,
+        }.issubset(
+            {
+                "standard",
+                "unknown",
+            }
+        )
+    ):
+        matched = score >= 89
+
+    else:
+        matched = score >= threshold
+
+
     return {
-        "matched": score >= threshold,
+        "matched": matched,
         "reason": (
             "fuzzy_pass"
-            if score >= threshold
+            if matched
             else "fuzzy_score"
         ),
         "score": score,

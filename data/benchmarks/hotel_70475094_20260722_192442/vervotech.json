@@ -1,0 +1,74 @@
+{
+    "standardRooms": [
+        {
+            "standardName": "Deluxe Double Room",
+            "category": "Deluxe",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 1,
+                    "roomCode": "{\"roomCode\":\"CE4SCDE1MTA0MjY1GgcxNzkxMDQ2\",\"boardCode\":\"CgE0\"}",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 99,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 2,
+                    "roomCode": "{\"roomCode\":\"CE4SCDE1OTU3OTkyGgcxODEwOTgx\",\"boardCode\":\"CgI2Mg==\"}",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 99,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 4,
+                    "roomCode": "{\"roomCode\":\"CE4SCDE1MTA0MjY1GgcxNzkxMDQ5\",\"boardCode\":\"CgE0\"}",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 5,
+                    "roomCode": "{\"roomCode\":\"CE4SCDE1OTU3OTkyGgcxODExMjM5\",\"boardCode\":\"CgI2Mg==\"}",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Themed Deluxe Suite",
+            "category": "Themed Deluxe Suite",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 3,
+                    "roomCode": "{\"roomCode\":\"CE4SCDE1OTU3OTkyGgcxODExMTQx\",\"boardCode\":\"CgI2Mg==\"}",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        }
+    ],
+    "success": true,
+    "statusCode": 1000,
+    "message": "Success"
+}

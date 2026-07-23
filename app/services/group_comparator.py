@@ -222,7 +222,7 @@ def diagnose_false_splits(
         representative = valid_rooms[0]
 
         for candidate in valid_rooms[1:]:
-            result = diagnose_match(
+            result = diagnose_match_v4(
                 representative,
                 candidate,
             )

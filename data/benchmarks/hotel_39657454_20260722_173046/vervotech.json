@@ -1,0 +1,352 @@
+{
+    "standardRooms": [
+        {
+            "standardName": "Annex Double Room",
+            "category": "Annex",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 1,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d2734411!~|eAll Inclusive!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m2734411!~|nAll Inclusive!~|nTLD!~|o1!~|p1!~|x22071153!~|M2404.6!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Adouble anex room!~|Bdouble anex room!~|C30|30!~|Edouble anex room!~|Fdouble anex room!~|G1!~|U2,354.81,1789725600|1,100,1790762400!~|HtimeStamp!~|I7/22/2026 11:53:47 AM!~|HtimeParam!~|I2026-07-22T12:23:47!~|HoptionidFirstDispo!~|I783008249092!~|Hcurrency!~|IUSD!~|HroomId#1!~|I3008249092-1-0!~|HoptionToken!~|IMXx8NDAxOHx8MjQwNXx8VVNEfHxhY2I5ZDZlMDI0Nzg0MjZjMDA4ODk5ZDQyNTM0NTA3OTkwYWIwNTY3!~|Hnumadults!~|I1#2!~|Htgx_price!~|I2404.6!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 14,
+                    "roomCode": "18114316/6530360429283423313/307",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Double Room, Partial Sea View",
+            "category": "",
+            "view": "Partial Sea",
+            "beds": [
+                {
+                    "type": "Double"
+                }
+            ],
+            "bedInfo": "Double",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 2,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d2734411!~|eAll Inclusive!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m2734411!~|nAll Inclusive!~|nTLD!~|o1!~|p1!~|x22071153!~|M2465.4!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Adouble side sea view!~|Bdouble side sea view!~|C30|30!~|Edouble side sea view!~|Fdouble side sea view!~|G1!~|U2,364.94,1789725600|1,100,1790762400!~|HtimeStamp!~|I7/22/2026 11:53:47 AM!~|HtimeParam!~|I2026-07-22T12:23:47!~|HoptionidFirstDispo!~|I783266156031!~|Hcurrency!~|IUSD!~|HroomId#1!~|I3266156031-1-0!~|HoptionToken!~|IMXx8NDAxOHx8MjQ2NXx8VVNEfHxlYjMzNTVhZmM0MDI2ZWNiZjBkYzUzNzliZGZiNjE4Y2RiZjAyMDQz!~|Hnumadults!~|I1#2!~|Htgx_price!~|I2465.4!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 95,
+                    "cfs": 95,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 15,
+                    "roomCode": "18114316/6530360429283423313/305",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 95,
+                    "cfs": 95,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 9,
+                    "roomCode": "1003408!TB!1!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Double Room, Sea View",
+            "category": "",
+            "view": "Sea",
+            "beds": [
+                {
+                    "type": "Double"
+                }
+            ],
+            "bedInfo": "Double",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 3,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d2734411!~|eAll Inclusive!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m2734411!~|nAll Inclusive!~|nTLD!~|o1!~|p1!~|x22071153!~|M2550.58!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Adouble sea view!~|Bdouble sea view!~|C30|30!~|Edouble sea view!~|Fdouble sea view!~|G1!~|U2,379.14,1789725600|1,100,1790762400!~|HtimeStamp!~|I7/22/2026 11:53:47 AM!~|HtimeParam!~|I2026-07-22T12:23:47!~|HoptionidFirstDispo!~|I781288740365!~|Hcurrency!~|IUSD!~|HroomId#1!~|I1288740365-1-0!~|HoptionToken!~|IMXx8NDAxOHx8MjU1MXx8VVNEfHxhZWI5NmE4NjUyZDJiZDJkNWY0MjJkYmM3NDI4OWQyYzY4NWQ2YWU3!~|Hnumadults!~|I1#2!~|Htgx_price!~|I2550.58!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 10,
+                    "roomCode": "1003408!TB!2!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 16,
+                    "roomCode": "18114316/6530360429283423313/304",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Junior Suite Annex, Lakeside",
+            "category": "Junior Suite Annex",
+            "roomLocation": "Lakeside",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 4,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d2734411!~|eAll Inclusive!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m2734411!~|nAll Inclusive!~|nTLD!~|o1!~|p1!~|x22071153!~|M3122.32!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Ajunior suite lake side annex!~|Bjunior suite lake side annex!~|C30|30!~|Ejunior suite lake side annex!~|Fjunior suite lake side annex!~|G1!~|U2,460.24,1789725600|1,100,1790762400!~|HtimeStamp!~|I7/22/2026 11:53:47 AM!~|HtimeParam!~|I2026-07-22T12:23:47!~|HoptionidFirstDispo!~|I783588246731!~|Hcurrency!~|IUSD!~|HroomId#1!~|I3588246731-1-0!~|HoptionToken!~|IMXx8NDAxOHx8MzEyMnx8VVNEfHxiZjI2MTE3YzIxN2M1MWUyNGQ1ODU4YmY4MDdmMjEyNzFhMjA4MmE2!~|Hnumadults!~|I1#2!~|Htgx_price!~|I3122.32!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 18,
+                    "roomCode": "18114316/6530360429283423313/303",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Junior Suite Swim Up",
+            "category": "Junior Suite Swim Up",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 5,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d2734411!~|eAll Inclusive!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m2734411!~|nAll Inclusive!~|nTLD!~|o1!~|p1!~|x22071153!~|M3304.78!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Ajunior suite swim up!~|Bjunior suite swim up!~|C30|30!~|Ejunior suite swim up!~|Fjunior suite swim up!~|G1!~|U2,490.65,1789725600|1,100,1790762400!~|HtimeStamp!~|I7/22/2026 11:53:47 AM!~|HtimeParam!~|I2026-07-22T12:23:47!~|HoptionidFirstDispo!~|I782919440689!~|Hcurrency!~|IUSD!~|HroomId#1!~|I2919440689-1-0!~|HoptionToken!~|IMXx8NDAxOHx8MzMwNXx8VVNEfHxjMzMzYzgxOGQ1MjVhZDk3MWQ0Y2ViMjFkZjY5NmQ2Y2NiNjlmOTE0!~|Hnumadults!~|I1#2!~|Htgx_price!~|I3304.78!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 19,
+                    "roomCode": "18114316/6530360429283423313/302",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Family, Partial Sea View",
+            "category": "Family",
+            "view": "Partial Sea",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 6,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d2734411!~|eAll Inclusive!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m2734411!~|nAll Inclusive!~|nTLD!~|o1!~|p1!~|x22071153!~|M4065.1!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Afamily room side sea view!~|Bfamily room side sea view!~|C30|30!~|Efamily room side sea view!~|Ffamily room side sea view!~|G1!~|U2,601.15,1789725600|1,100,1790762400!~|HtimeStamp!~|I7/22/2026 11:53:47 AM!~|HtimeParam!~|I2026-07-22T12:23:47!~|HoptionidFirstDispo!~|I781961264933!~|Hcurrency!~|IUSD!~|HroomId#1!~|I1961264933-1-0!~|HoptionToken!~|IMXx8NDAxOHx8NDA2NXx8VVNEfHw5MDkyN2M5NGFhM2EyODY5NmIxMmYzZGYzZmVjZDQ3YTM4NmVjYjhi!~|Hnumadults!~|I1#2!~|Htgx_price!~|I4065.1!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 21,
+                    "roomCode": "18114316/6530360429283423313/301",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Suite Deluxe",
+            "category": "Suite Deluxe",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 7,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d2734411!~|eAll Inclusive!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m2734411!~|nAll Inclusive!~|nTLD!~|o1!~|p1!~|x22071153!~|M5099.12!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Asuite deluxe!~|Bsuite deluxe!~|C30|30!~|Esuite deluxe!~|Fsuite deluxe!~|G1!~|U2,757.26,1789725600|1,100,1790762400!~|HtimeStamp!~|I7/22/2026 11:53:47 AM!~|HtimeParam!~|I2026-07-22T12:23:47!~|HoptionidFirstDispo!~|I780305168165!~|Hcurrency!~|IUSD!~|HroomId#1!~|I305168165-1-0!~|HoptionToken!~|IMXx8NDAxOHx8NTA5OXx8VVNEfHxiMzYzYjdlNzBkZmUzZGVmNzIyMjc4MDMwMTg5MTUxZWJjODJhYjli!~|Hnumadults!~|I1#2!~|Htgx_price!~|I5099.12!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 22,
+                    "roomCode": "18114316/6530360429283423313/306",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Standard Garden, Double or Twin",
+            "category": "Standard Garden",
+            "beds": [],
+            "bedInfo": "Double or 2 Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 8,
+                    "roomCode": "1003408!TB!3!TB!f9f1ed9f-85c3-11f1-8f24-eea5da08d2c7!TB!N!TB!AFF!",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 11,
+                    "roomCode": "24315604/6530360429283423313/1319",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 95,
+                    "cfs": 94,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Standard, Double or Twin, Partial Sea View",
+            "category": "Standard",
+            "view": "Partial Sea",
+            "beds": [],
+            "bedInfo": "Double or 2 Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 12,
+                    "roomCode": "24315604/6530360429283423313/1317",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Standard, Double or Twin, Sea View",
+            "category": "Standard",
+            "view": "Sea",
+            "beds": [],
+            "bedInfo": "Double or 2 Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 13,
+                    "roomCode": "24315604/6530360429283423313/1316",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Family Duplex, Partial Sea View",
+            "category": "Family Duplex",
+            "view": "Partial Sea",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 17,
+                    "roomCode": "24315604/6530360429283423313/1315",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Suite Deluxe, Sea View",
+            "category": "Suite Deluxe",
+            "view": "Sea",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 20,
+                    "roomCode": "24315604/6530360429283423313/1318",
+                    "boardBasis": "All Inclusive",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Double"
+        }
+    ],
+    "success": true,
+    "statusCode": 1000,
+    "message": "Success"
+}

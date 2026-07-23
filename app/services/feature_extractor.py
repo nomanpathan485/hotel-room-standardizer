@@ -336,9 +336,9 @@ def get_bed_configuration(room_name: str) -> list[dict]:
     patterns = [
         ("king", r"\b(\d+)\s+king\b"),
         ("queen", r"\b(\d+)\s+queen\b"),
-        ("twin", r"\b(\d+)\s+twin beds?\b"),
+        ("twin", r"\b(\d+)\s+twin(?!\s+sofa)\s+beds?\b"),
         ("double", r"\b(\d+)\s+double beds?\b"),
-        ("single", r"\b(\d+)\s+single beds?\b"),
+        ("single", r"\b(\d+)\s+single(?!\s+sofa)\s+beds?\b"),
         ("bunk", r"\b(\d+)\s+(?:twin\s+)?bunk\s+beds?\b"),
         (
             "sofa",
@@ -571,6 +571,23 @@ def has_hot_tub(room_name: str) -> bool:
     room_name = normalize_room_name(room_name)
     return "hot tub" in room_name
 
+def get_bed_relation(room_name: str) -> str:
+    room_name = normalize_room_name(room_name)
+
+    # Alternative layouts
+    if (
+        " or " in f" {room_name} "
+        or re.search(r"\bdouble\s+twin\b", room_name)
+        or re.search(r"\btwin\s+double\b", room_name)
+    ):
+        return "alternative"
+
+    # Combined layouts
+    if " and " in f" {room_name} ":
+        return "combined"
+
+    return "unknown"
+
 def extract_features(room_name: str) -> dict:
     return {
         "category": get_room_category(room_name),
@@ -590,4 +607,5 @@ def extract_features(room_name: str) -> dict:
         "annex": has_annex(room_name),
         "jacuzzi": has_jacuzzi(room_name),
         "hot_tub": has_hot_tub(room_name),
+        "bed_relation": get_bed_relation(room_name),
     }

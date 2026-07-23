@@ -1,0 +1,55 @@
+{
+    "vervotechHotelId": "70475094",
+    "roomRates": [
+        {
+            "index": 1,
+            "code": "{\"roomCode\":\"CE4SCDE1MTA0MjY1GgcxNzkxMDQ2\",\"boardCode\":\"CgE0\"}",
+            "roomName": "Themed Deluxe Room Double",
+            "provider": "Yalago",
+            "providerHotelId": "15104266",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 2,
+            "code": "{\"roomCode\":\"CE4SCDE1OTU3OTkyGgcxODEwOTgx\",\"boardCode\":\"CgI2Mg==\"}",
+            "roomName": "Themed Deluxe Room",
+            "provider": "Yalago",
+            "providerHotelId": "15104266",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 3,
+            "code": "{\"roomCode\":\"CE4SCDE1OTU3OTkyGgcxODExMTQx\",\"boardCode\":\"CgI2Mg==\"}",
+            "roomName": "Themed Deluxe Suite Room(Up To 3+2 Inf.)",
+            "provider": "Yalago",
+            "providerHotelId": "15104266",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 4,
+            "code": "{\"roomCode\":\"CE4SCDE1MTA0MjY1GgcxNzkxMDQ5\",\"boardCode\":\"CgE0\"}",
+            "roomName": "Themed Deluxe Room Connection 2 Pax",
+            "provider": "Yalago",
+            "providerHotelId": "15104266",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 5,
+            "code": "{\"roomCode\":\"CE4SCDE1OTU3OTkyGgcxODExMjM5\",\"boardCode\":\"CgI2Mg==\"}",
+            "roomName": "Themed Deluxe Room Connection(Up To 4+2 Inf.)",
+            "provider": "Yalago",
+            "providerHotelId": "15104266",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        }
+    ]
+}
