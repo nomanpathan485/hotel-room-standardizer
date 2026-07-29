@@ -38,6 +38,15 @@ def has_hard_conflict(features_a: dict, features_b: dict) -> bool:
 
     if suite_type_result == CONFLICT:
         return True
+    # Physical layout
+    layout_result = compare_feature(
+        features_a.get("layout"),
+        features_b.get("layout"),
+        unknown_values={"unknown", None},
+    )
+
+    if layout_result == CONFLICT:
+        return True
     
     #view
 
@@ -285,21 +294,45 @@ def _same_view(view_a: str, view_b: str) -> bool:
     return view_a == view_b
 
 
-def _same_bed_configuration(config_a: list, config_b: list) -> bool:
+def _same_bed_configuration(
+    config_a: list[dict],
+    config_b: list[dict],
+) -> bool:
     if not config_a and not config_b:
         return True
 
-    # One side has no bed layout, the other has a detailed multi-bed layout.
-    # Treat that as different because the detailed room is a more specific product.
     if not config_a or not config_b:
-        detailed = config_a or config_b
+        detailed_config = config_a or config_b
 
-        if len(detailed) > 1:
-            return False
+        detailed_types = {
+            bed.get("type")
+            for bed in detailed_config
+            if bed.get("type")
+        }
 
-        return True
+        # Missing bed information should not conflict with
+        # one simple explicit bed type.
+        return len(detailed_types) <= 1
 
-    return config_a == config_b
+    signature_a = {
+        (
+            bed.get("type"),
+            bed.get("count"),
+        )
+        for bed in config_a
+        if bed.get("type")
+    }
+
+    signature_b = {
+        (
+            bed.get("type"),
+            bed.get("count"),
+        )
+        for bed in config_b
+        if bed.get("type")
+    }
+
+    return signature_a == signature_b
 
 def get_bed_signature(features: dict) -> set[tuple[str, int | None]]:
     return {
@@ -833,6 +866,8 @@ def is_match_v4(room_a, room_b, threshold=90):
 
     suite_type_a = features_a["suite_type"]
     suite_type_b = features_b["suite_type"]
+    layout_a = features_a.get("layout", "unknown")
+    layout_b = features_b.get("layout", "unknown")
 
     bedroom_count_a = features_a["bedroom_count"]
     bedroom_count_b = features_b["bedroom_count"]
@@ -877,8 +912,13 @@ def is_match_v4(room_a, room_b, threshold=90):
         [],
     )
 
-    # Category stays strict
-    if category_a != category_b:
+    # Different explicit accommodation categories are a hard conflict.
+    # "unknown" means the supplier did not mention the category.
+    if (
+        category_a != "unknown"
+        and category_b != "unknown"
+        and category_a != category_b
+    ):
         return False
 
     # V3 change:
@@ -890,7 +930,22 @@ def is_match_v4(room_a, room_b, threshold=90):
     ):
         return False
 
-    if suite_type_a != suite_type_b:
+    # Different explicit suite subtypes are a hard conflict.
+    # "unknown" means the supplier did not provide the subtype.
+    if (
+        category_a == "suite"
+        and suite_type_a not in {"unknown", "not_applicable"}
+        and suite_type_b not in {"unknown", "not_applicable"}
+        and suite_type_a != suite_type_b
+    ):
+        return False
+    # Different explicit layouts are a hard conflict.
+    # "unknown" means the supplier did not mention the layout.
+    if (
+        layout_a != "unknown"
+        and layout_b != "unknown"
+        and layout_a != layout_b
+    ):
         return False
 
     if bedroom_count_a != bedroom_count_b:

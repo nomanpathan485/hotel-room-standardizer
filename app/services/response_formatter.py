@@ -25,26 +25,40 @@ def format_category(features: dict, standard_name: str) -> str:
     room_class = features.get("room_class")
     category = features.get("category")
     suite_type = features.get("suite_type")
+    layout = features.get("layout", "unknown")
 
     if category == "suite":
-        if suite_type and suite_type not in {"standard", "not_applicable"}:
-            return f"{display_text(suite_type)} Suite"
+        if suite_type not in {
+            "unknown",
+            "standard",
+            "not_applicable",
+            None,
+        }:
+            category_text = f"{display_text(suite_type)} Suite"
+        else:
+            category_text = "Suite"
 
-        return "Suite"
+    elif category == "family":
+        category_text = "Family Room"
 
-    if category == "family":
-        return "Family Room"
-
-    if category == "room":
+    elif category == "room":
         if room_class and room_class != "unknown":
             if "guest room" in standard_name.lower():
-                return f"{display_text(room_class)} Guest Room"
+                category_text = (
+                    f"{display_text(room_class)} Guest Room"
+                )
+            else:
+                category_text = f"{display_text(room_class)} Room"
+        else:
+            category_text = "Room"
 
-            return f"{display_text(room_class)} Room"
+    else:
+        category_text = display_text(category)
 
-        return "Room"
+    if layout != "unknown":
+        return f"{display_text(layout)} {category_text}"
 
-    return display_text(category)
+    return category_text
 
 def format_bed_info(beds: list[dict]) -> str | None:
     bed_types = [

@@ -64,41 +64,28 @@ def get_occupancy(room_name: str):
 def get_room_category(room_name: str) -> str:
     room_name = normalize_room_name(room_name)
 
-    # Order matters: first match wins. Compound categories (e.g. "suite")
-    # come before their bare word (e.g. "duplex suite" -> suite, not duplex).
-    # Patterns are anchored as compound phrases ("triple room") or as
-    # standalone words at the start of the name to avoid catching bed
-    # descriptions like "1 Single Sofa Bed" or "2 Twin Beds".
-    #
-    # `single room` is intentionally NOT a category: a name like
-    # "Deluxe 1 Single Room with 1 King Bed" describes a room with a single
-    # bed in it, not a single-occupancy room category. Single-occupancy
-    # rooms are extremely rare in the dataset and the bed-quantity is more
-    # useful as a bed_type / bed_configuration signal.
-    categories = {
-        "dormitory": ["dormitory"],
-        "family": ["family room", "family"],
-        "quadruple": ["quadruple", "quad room"],
-        "triple": ["triple room"],
-        "suite": ["suite"],
-        "studio": ["studio"],
-        "penthouse": ["penthouse"],
-        "duplex": ["duplex"],
-        "loft": ["loft"],
-        "chalet": ["chalet"],
-        "cabin": ["cabin"],
-        "cabana": ["cabana"],
-        "bungalow": ["bungalow"],
-        "villa": ["villa"],
-        "apartment": ["apartment"],
-        "annex": ["annex"],
-    }
+    category_patterns = [
+        ("dormitory", r"\b(?:dormitory|dorm)\b"),
+        ("suite", r"\bsuite\b"),
+        ("studio", r"\bstudio\b"),
+        ("apartment", r"\b(?:apartment|apartments|apt)\b"),
+        ("villa", r"\bvilla\b"),
+        ("bungalow", r"\bbungalow\b"),
+        ("chalet", r"\bchalet\b"),
+        ("cabin", r"\bcabin\b"),
+        ("cabana", r"\bcabana\b"),
+        ("capsule", r"\b(?:capsule|pod)\b"),
+        ("cottage", r"\bcottage\b"),
+        ("tent", r"\btent\b"),
+        ("penthouse", r"\bpenthouse\b"),
+        ("room", r"\broom\b"),
+    ]
 
-    for category, keywords in categories.items():
-        if any(keyword in room_name for keyword in keywords):
+    for category, pattern in category_patterns:
+        if re.search(pattern, room_name):
             return category
 
-    return "room"
+    return "unknown"
 
 def get_room_class(room_name: str) -> str:
     room_name = normalize_room_name(room_name)
@@ -137,27 +124,50 @@ def get_room_class(room_name: str) -> str:
     return "unknown"
 
 def get_suite_type(room_name: str) -> str:
+
     room_name = normalize_room_name(room_name)
-    if "suite" not in room_name:
+
+    if not re.search(r"\bsuite\b", room_name):
         return "not_applicable"
-    suite_types = {
-        "presidential": ["presidential suite"],
-        "royal": ["royal suite"],
-        "junior": ["junior suite"],
-        "senior": ["senior suite"],
-        "family": ["family suite"],
-        "prestige": ["prestige suite"],
-        "emirates": ["emirates suite"],
-        "signature": ["signature suite"],
-        "honeymoon": ["honeymoon suite"],
-        "bridal": ["bridal suite"],
-        "penthouse": ["penthouse suite"],
-        "duplex": ["duplex suite"],
+
+    suite_type_patterns = {
+        "presidential": r"\bpresidential\b",
+        "royal": r"\broyal\b",
+        "junior": r"\bjunior\b",
+        "senior": r"\bsenior\b",
+        "family": r"\bfamily\b",
+        "executive": r"\bexecutive\b",
+        "honeymoon": r"\bhoneymoon\b",
+        "bridal": r"\bbridal\b",
+        "penthouse": r"\bpenthouse\b",
+        "prestige": r"\bprestige\b",
+        "signature": r"\bsignature\b",
+        "diplomatic": r"\bdiplomatic\b",
+        "ambassador": r"\bambassador\b",
+        "emirates": r"\bemirates\b",
     }
-    for suite_type, keywords in suite_types.items():
-        if any(keyword in room_name for keyword in keywords):
+
+    for suite_type, pattern in suite_type_patterns.items():
+        if re.search(pattern, room_name):
             return suite_type
-    return "standard"
+
+    return "unknown"
+def get_layout(room_name: str) -> str:
+    room_name = normalize_room_name(room_name)
+
+    layout_patterns = [
+        ("duplex", r"\b(?:duplex|dublex)\b"),
+        ("split_level", r"\b(?:split level|bi level)\b"),
+        ("maisonette", r"\bmaisonette\b"),
+        ("loft", r"\bloft\b"),
+        ("mezzanine", r"\bmezzanine\b"),
+    ]
+
+    for layout, pattern in layout_patterns:
+        if re.search(pattern, room_name):
+            return layout
+
+    return "unknown"
 
 def get_bed_type(room_name: str) -> str:
     if re.search(r"\bdouble\s+twin\b", room_name):
@@ -651,6 +661,7 @@ def extract_features(room_name: str) -> dict:
         "category": get_room_category(room_name),
         "room_class": get_room_class(room_name),
         "suite_type": get_suite_type(room_name),
+        "layout": get_layout(room_name),
         "club_access": has_club_access(room_name),
         "view": get_view_type(room_name),
         "balcony": has_balcony(room_name),
