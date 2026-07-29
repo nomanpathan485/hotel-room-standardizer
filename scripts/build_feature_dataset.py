@@ -1,5 +1,7 @@
 import csv
+import json
 
+from app.services.feature_extractor import extract_features
 from app.services.pair_feature_extractor import extract_pair_features
 
 
@@ -18,6 +20,8 @@ def build_feature_dataset():
         reader = csv.DictReader(file)
 
         for row in reader:
+            room_a_features = extract_features(row["room_a_name"])
+            room_b_features = extract_features(row["room_b_name"])
             pair_features = extract_pair_features(
                 room_a_name=row["room_a_name"],
                 room_b_name=row["room_b_name"],
@@ -31,6 +35,14 @@ def build_feature_dataset():
                     "room_b_index": row["room_b_index"],
                     "room_a_name": row["room_a_name"],
                     "room_b_name": row["room_b_name"],
+                    "room_a_features": json.dumps(
+                        room_a_features,
+                        ensure_ascii=False,
+                    ),
+                    "room_b_features": json.dumps(
+                        room_b_features,
+                        ensure_ascii=False,
+                    ),
                     **pair_features,
                     "label": int(row["label"]),
                 }

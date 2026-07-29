@@ -26,6 +26,17 @@ def extract_pair_features(
         normalized_b,
     )
 
+    occupancy_both_known = (
+        features_a["occupancy"] is not None
+        and features_b["occupancy"] is not None
+    )
+
+    same_occupancy = (
+        occupancy_both_known
+        and features_a["occupancy"]
+        == features_b["occupancy"]
+    )
+
     return {
         "fuzzy_score": fuzzy_score,
 
@@ -69,18 +80,38 @@ def extract_pair_features(
             and features_a["bed_type"]
             == features_b["bed_type"]
         ),
+
         "bed_config_both_present": int(
-            has_bed_configuration(features_a["bed_configuration"])
-            and has_bed_configuration(features_b["bed_configuration"])
+            has_bed_configuration(
+                features_a["bed_configuration"]
+            )
+            and has_bed_configuration(
+                features_b["bed_configuration"]
+            )
         ),
 
         "same_bed_configuration": int(
-            has_bed_configuration(features_a["bed_configuration"])
-            and has_bed_configuration(features_b["bed_configuration"])
+            has_bed_configuration(
+                features_a["bed_configuration"]
+            )
+            and has_bed_configuration(
+                features_b["bed_configuration"]
+            )
             and features_a["bed_configuration"]
             == features_b["bed_configuration"]
         ),
 
+        "occupancy_both_known": int(
+            occupancy_both_known
+        ),
+
+        "same_occupancy": int(
+            same_occupancy
+        ),
+        "same_single_use": int(
+            features_a["single_use"]
+            == features_b["single_use"]
+        ),
         "same_balcony": int(
             features_a["balcony"]
             == features_b["balcony"]

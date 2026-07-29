@@ -1,7 +1,65 @@
 import re
 
 from app.services.normalizer import normalize_room_name
+SINGLE_USE_KEYWORDS = [
+    "single use",
+    "single occupancy",
+    "sgl",
+    "su",
+]
+def is_single_use(room_name: str):
+    text = room_name.lower()
 
+    for keyword in SINGLE_USE_KEYWORDS:
+        if re.search(rf"\b{re.escape(keyword)}\b", text):
+            return True
+
+    return False
+
+OCCUPANCY_KEYWORDS = {
+
+    "single": 1,
+    "double": 2,
+    "twin": 2,
+    "triple": 3,
+    "quad": 4,
+    "quadruple": 4,
+}
+def get_occupancy(room_name: str):
+    text = room_name.lower()
+
+    numeric_match = re.search(
+        r"\b(\d+)\s*(person|persons|adult|adults|guest|guests|pax)\b",
+        text,
+    )
+
+    if numeric_match:
+        return int(numeric_match.group(1))
+
+    occupancy_text = text
+
+    for keyword in SINGLE_USE_KEYWORDS:
+        occupancy_text = re.sub(
+            rf"\b{re.escape(keyword)}\b",
+            " ",
+            occupancy_text,
+        )
+
+    # Check explicit room-capacity words before bed descriptions.
+    capacity_patterns = [
+        (r"\bquadruple\b", 4),
+        (r"\bquad\b", 4),
+        (r"\btriple\b", 3),
+        (r"\bdouble\b", 2),
+        (r"\btwin\b", 2),
+        (r"\bsingle\b", 1),
+    ]
+
+    for pattern, occupancy in capacity_patterns:
+        if re.search(pattern, occupancy_text):
+            return occupancy
+
+    return None
 
 def get_room_category(room_name: str) -> str:
     room_name = normalize_room_name(room_name)
@@ -607,5 +665,7 @@ def extract_features(room_name: str) -> dict:
         "annex": has_annex(room_name),
         "jacuzzi": has_jacuzzi(room_name),
         "hot_tub": has_hot_tub(room_name),
+        "occupancy": get_occupancy(room_name),
+        "single_use": is_single_use(room_name),
         "bed_relation": get_bed_relation(room_name),
     }

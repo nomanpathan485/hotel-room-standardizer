@@ -1,0 +1,15 @@
+FEATURE_COLUMNS = [
+    "fuzzy_score",
+    "same_category",
+    "room_class_both_known",
+    "same_room_class",
+    "view_both_known",
+    "same_view",
+    "bed_type_both_known",
+    "same_bed_type",
+    "bed_config_both_present",
+    "same_bed_configuration",
+    "occupancy_both_known",
+    "same_occupancy",
+    "same_balcony",
+]

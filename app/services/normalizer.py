@@ -1,5 +1,11 @@
 import html
 import re
+NORMALIZATION_ALIASES = {
+    r"\bde\s+luxe\b": "deluxe",
+    r"\bdlx\b": "deluxe",
+    r"\bstd\b": "standard",
+    r"\bsup\b": "superior",
+}
 
 
 # Supplier-rate noise that the matcher/feature extractor should never see.
@@ -35,24 +41,22 @@ _NOISE_RE = re.compile("|".join(_NOISE_PHRASES), re.IGNORECASE)
 
 def normalize_room_name(room_name: str) -> str:
     """
-    Normalize a supplier room name for grouping.
-
-    Pipeline:
-        1. Decode HTML entities (`&amp;` -> `&`, etc.).
-        2. Strip supplier-rate noise phrases (board basis, occupancy, etc.).
-        3. Lowercase, replace dashes with spaces, drop punctuation, collapse
-           whitespace.
-
-    The result is suitable for keyword/regex feature extraction and for
-    token-set fuzzy comparison in the matcher.
+    Normalize a supplier room name for grouping and feature extraction.
     """
     if not room_name:
         return ""
 
     text = html.unescape(room_name)
-    text = _NOISE_RE.sub(" ", text)
     text = text.lower()
     text = text.replace("-", " ")
     text = re.sub(r"[^a-z0-9 ]", " ", text)
     text = " ".join(text.split())
+
+   
+    for pattern, replacement in NORMALIZATION_ALIASES.items():
+        text = re.sub(pattern, replacement, text)
+
+    text = _NOISE_RE.sub(" ", text)
+    text = " ".join(text.split())
+
     return text

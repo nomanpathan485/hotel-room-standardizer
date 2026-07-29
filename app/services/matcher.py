@@ -1,4 +1,5 @@
 from rapidfuzz import fuzz
+from app.services.ml_matcher import predict_room_match
 
 MATCH = "match"
 CONFLICT = "conflict"
@@ -1231,3 +1232,29 @@ def diagnose_match_v4(
         ),
         "score": score,
     }
+def is_match_ml(
+    room_a: dict,
+    room_b: dict,
+    probability_threshold: float = 0.85,
+) -> bool:
+    normalized_a = room_a["normalized_name"]
+    normalized_b = room_b["normalized_name"]
+
+    if normalized_a == normalized_b:
+        return True
+
+    features_a = room_a["features"]
+    features_b = room_b["features"]
+
+    if has_hard_conflict(features_a, features_b):
+        return False
+
+    prediction = predict_room_match(
+        room_a_name=normalized_a,
+        room_b_name=normalized_b,
+    )
+
+    return (
+        prediction["match_probability"]
+        >= probability_threshold
+    )

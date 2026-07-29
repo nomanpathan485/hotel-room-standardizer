@@ -5,7 +5,7 @@ from app.services.llm import generate_canonical_name
 from app.services.matcher import is_match_v2
 from app.services.matcher import is_match_v3
 from app.services.matcher import is_match_v4
-
+from app.services.matcher import is_match_ml
 
 def group_rooms_v2(
     rooms: list[dict],
@@ -204,6 +204,60 @@ def group_rooms_v4(
             representative_room = group["rooms"][0]
 
             if is_match_v4(
+                room_with_features,
+                representative_room,
+            ):
+                group["rooms"].append(room_with_features)
+                placed = True
+                break
+
+        if not placed:
+            groups.append(
+                {
+                    "group_id": len(groups) + 1,
+                    "standard_room_name": (
+                        room_with_features["normalized_name"]
+                    ),
+                    "rooms": [room_with_features],
+                }
+            )
+
+    if generate_standard_name:
+        for group in groups:
+            room_names = [
+                room["room_name"]
+                for room in group["rooms"]
+            ]
+
+            group["standard_room_name"] = (
+                generate_canonical_name(room_names)
+            )
+
+    return groups
+
+def group_rooms_ml(
+    rooms: list[dict],
+    generate_standard_name: bool = False,
+) -> list[dict]:
+    groups = []
+
+    for room in rooms:
+        room_with_features = {
+            **room,
+            "normalized_name": normalize_room_name(
+                room["room_name"]
+            ),
+            "features": extract_features(
+                room["room_name"]
+            ),
+        }
+
+        placed = False
+
+        for group in groups:
+            representative_room = group["rooms"][0]
+
+            if is_match_ml(
                 room_with_features,
                 representative_room,
             ):

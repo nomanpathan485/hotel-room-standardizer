@@ -15,14 +15,6 @@ def extract_index_set(group: dict) -> set[int]:
         for room in group.get("mappedRoomRates", [])
     }
 
-
-def extract_index_set(group: dict) -> set[int]:
-    return {
-        room["inputIndex"]
-        for room in group.get("mappedRoomRates", [])
-    }
-
-
 def compare_group_outputs(
     vervotech_response: dict,
     our_response: dict,
@@ -36,13 +28,21 @@ def compare_group_outputs(
     total_missing_indexes = 0
     total_extra_indexes = 0
 
+    # Prevent one ML group from matching multiple Vervotech groups
+    used_our_group_indexes = set()
+
     for vervotech_group in vervotech_groups:
         expected_indexes = extract_index_set(vervotech_group)
 
         best_match = None
-        best_score = 0.0
+        best_match_index = None
+        best_score = -1.0
 
-        for our_group in our_groups:
+        for our_group_index, our_group in enumerate(our_groups):
+
+            if our_group_index in used_our_group_indexes:
+                continue
+
             actual_indexes = extract_index_set(our_group)
 
             intersection = len(
@@ -62,6 +62,7 @@ def compare_group_outputs(
             if score > best_score:
                 best_score = score
                 best_match = our_group
+                best_match_index = our_group_index
 
         if best_match is None:
             missing_indexes = sorted(expected_indexes)
@@ -88,6 +89,9 @@ def compare_group_outputs(
             )
 
             continue
+
+        # Mark this group as already matched
+        used_our_group_indexes.add(best_match_index)
 
         actual_indexes = extract_index_set(
             best_match
@@ -137,6 +141,10 @@ def compare_group_outputs(
                 "missing_indexes": missing_indexes,
                 "extra_indexes": extra_indexes,
                 "exact_match": exact_match,
+                "similarity_score": round(
+                    best_score,
+                    3,
+                ),
             }
         )
 
@@ -164,12 +172,8 @@ def compare_group_outputs(
             exact_match_percentage,
             2,
         ),
-        "total_missing_indexes": (
-            total_missing_indexes
-        ),
-        "total_extra_indexes": (
-            total_extra_indexes
-        ),
+        "total_missing_indexes": total_missing_indexes,
+        "total_extra_indexes": total_extra_indexes,
     }
 
     return {

@@ -4,6 +4,7 @@ from app.database import get_db
 from datetime import datetime
 from app.models import Room
 from fastapi import HTTPException
+from app.services.grouping_engine import group_rooms_ml
 from app.services.dataset_store import save_benchmark_case
 from app.schemes import RoomCreate, RoomResponse
 from app.services.response_formatter import format_grouped_response
@@ -241,6 +242,27 @@ def group_rooms_direct_v4(payload: dict):
     ]
 
     groups = group_rooms_v4(
+        room_data,
+        generate_standard_name=False,
+    )
+
+    return format_grouped_response(groups)
+@router.post("/group-rooms-direct-ml")
+def group_rooms_direct_ml(payload: dict):
+    room_rates = payload.get("roomRates", [])
+
+    room_data = [
+        {
+            **room,
+            "id": room.get("index"),
+            "supplier": room.get("provider"),
+            "room_name": room.get("roomName", ""),
+            "standard_room_name": None,
+        }
+        for room in room_rates
+    ]
+
+    groups = group_rooms_ml(
         room_data,
         generate_standard_name=False,
     )
