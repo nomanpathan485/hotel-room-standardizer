@@ -1,0 +1,1227 @@
+{
+    "standardRooms": [
+        {
+            "standardName": "Junior Suite",
+            "category": "Junior Suite",
+            "beds": [],
+            "bedInfo": "Double or 2 Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 1,
+                    "roomCode": "1336999599-337",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 99,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 2,
+                    "roomCode": "1336999599-338",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 99,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 3,
+                    "roomCode": "1336999599-339",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 99,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 35,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|dJP223075!~|eAD!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP223075!~|nAD!~|nEDMC!~|o1!~|p1!~|x30071149!~|M23391.76!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR000769!~|AJR000769!~|BJR000769!~|C30|30!~|EJunior Suite Twin Double!~|FJunior Suite Twin Double!~|G1!~|U2,0,1785319200|2,23391.76,1815559200|2,23391.76,1815732000|2,23391.76,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IUlSrTvnF0nPBiApEFm5y4hmDbrWT5zf5bO32B6VV328uJ3kQb8BKsSpqGm7et3dF2iAiazKWbgbB/D8dsu0oXEgrPx5paPbER5zzqT1yusN64B0I2Cw00DGRqhrnzLao0o0uG3NTtbR9PT/fX7Ok5SHMCc21RoMsEchJYfW5KMolyHDJCDzfpJqqFdSEYN0w4/h31BacKZrll0N9IwW9PazqLYhY2X2QJFz9RSd8ZKsw8sVGoTJDtPJKiZ0BD18peeAjIiKHc8VHplw14qWQ8377h7C1t6bEFVbrPUo+kIk6z+UD26yvpNi/hZuYn9GrRMdaocWyZkZ3NgdEIgGwAlfrUAqvBrv/VasyueTpRUprFMt0D+whP8+rv5vbBNT2whG/iGsNsWwaBGgNg3YLWnb6bfi+WcvlN4fjhBC8EQVHxxG8eerChA6NQmSGxsnX!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I23391.76!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 39,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|dJP223075!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP223075!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071149!~|M29810.2!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR000769!~|AJR000769!~|BJR000769!~|C30|30!~|EJunior Suite Twin Double!~|FJunior Suite Twin Double!~|G1!~|U2,0,1785319200|2,29810.20,1815559200|2,29810.20,1815732000|2,29810.20,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IUlSrTvnF0nPBiApEFm5y4hmDbrWT5zf5bO32B6VV32/uVu7zG21MKmLtC/T2rkqOrfYWKs6j97TqQiIhSFE3v+E8gW3eNjqjZq52S0mFNtUE2gkeI8jAxLi0PpYZePeTL8VlIKM1QOO43DvEOVr4lYxSSQNDnpqCegZpjwK4iO65eTbRLB8OVe2cpi/JG49UsHuLvT1MJvShBpMBv4itMMFyzWGnTtubgf/VxirvKQtM0LV2E//N1QFuFgoTENQjX5PGT28SfD+QMr/BmSoZscBtuFHEkMMOJFdavUQVOq2HnzfX4xPWRyr3E1KuvHB4vwm44199zOfy9jqV1vqYtvxxNeK40w07j0QavBo3+9iZ/To2BGlWFb4PkftRp3SVc73HwQPRUNHRtkjE6ycdMvr54CAixJ/QC4fZsBe9p2YOr+Y1nI7VPpnFY3odlK6G!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I29810.2!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 43,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|dJP223075!~|ePC!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP223075!~|nPC!~|nEDMC!~|o1!~|p1!~|x30071149!~|M32662.84!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR000769!~|AJR000769!~|BJR000769!~|C30|30!~|EJunior Suite Twin Double!~|FJunior Suite Twin Double!~|G1!~|U2,0,1785319200|2,32662.84,1815559200|2,32662.84,1815732000|2,32662.84,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IUlSrTvnF0nPBiApEFm5y4hmDbrWT5zf5bO32B6VV32+jVIhqqmUMirujWtDHPzqwpuNTe6xG5hkzNlQeM/qQFtgu7csL1nNDlbVl6ujZkyhsHi/r39X1mPlwRFLhDJfE/um2OeLL039V/nn2B0RcSiXpHqqn/pVUas71XFAsdsgsiPf/DsVBQth4ZkKlLZuF6UoYxbaDCQFuS8exWIkMUjdmhGfSHMIfCpDjjgJs/cKDpGWageWUEwM5t85BsYF5naYuw6WXF0eIma1JC4u5TirAU331T8FyL7Q1bOA9dleiDKoWaTWSskVST02GNEaUPRdNbOA9eoD4s0UaawE253A5vloWDk7GyLvLK3VbyER3gspHnz/NXZ2GVJWX2gpMMD5WztlYpwiXZoT74+2P4N0J61UgeSJLFpwLdwr4745A+oRaMADUesM8a5OArrZQ!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I32662.84!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 46,
+                    "roomCode": "27307041/244248695322177924/399",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 99,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 47,
+                    "roomCode": "27307041/244248695322177924/400",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 99,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 67,
+                    "roomCode": "27307041/244248695322177924/387",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 99,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Ocean Junior Suite",
+            "category": "Ocean Junior Suite",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 4,
+                    "roomCode": "1336999599-340",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 5,
+                    "roomCode": "1336999599-341",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 6,
+                    "roomCode": "1336999599-342",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 52,
+                    "roomCode": "27307041/244248695322177924/397",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 53,
+                    "roomCode": "27307041/244248695322177924/398",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 72,
+                    "roomCode": "27307041/244248695322177924/384",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Ocean Haven Junior Suite, Balcony",
+            "category": "Ocean Haven Junior Suite",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 7,
+                    "roomCode": "1336999599-343",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 8,
+                    "roomCode": "1336999599-344",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 9,
+                    "roomCode": "1336999599-345",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 58,
+                    "roomCode": "27307041/244248695322177924/395",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 59,
+                    "roomCode": "27307041/244248695322177924/396",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 77,
+                    "roomCode": "27307041/244248695322177924/381",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "HasBalcony",
+                    "value": "Yes"
+                }
+            ]
+        },
+        {
+            "standardName": "Manor House Spa Suite, Spa",
+            "category": "Manor House Spa Suite",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 10,
+                    "roomCode": "1336999599-346",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 11,
+                    "roomCode": "1336999599-347",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 12,
+                    "roomCode": "1336999599-348",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 60,
+                    "roomCode": "27307041/244248695322177924/393",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 61,
+                    "roomCode": "27307041/244248695322177924/394",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 78,
+                    "roomCode": "27307041/244248695322177924/380",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Ocean Haven Junior Suite",
+            "category": "Ocean Haven Junior Suite",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 13,
+                    "roomCode": "1336999599-349",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 14,
+                    "roomCode": "1336999599-350",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 15,
+                    "roomCode": "1336999599-351",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 62,
+                    "roomCode": "27307041/244248695322177924/390",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 63,
+                    "roomCode": "27307041/244248695322177924/391",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 79,
+                    "roomCode": "27307041/244248695322177924/379",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Heritage Junior Suite, Balcony",
+            "category": "Heritage Junior Suite",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 16,
+                    "roomCode": "1336999599-352",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 17,
+                    "roomCode": "1336999599-353",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 18,
+                    "roomCode": "1336999599-354",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 37,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|dJP223075!~|eAD!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP223075!~|nAD!~|nEDMC!~|o1!~|p1!~|x30071149!~|M32948.09!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR015821!~|AJR015821!~|BJR015821!~|C30|30!~|EHeritage Balcony Junior Suite Double!~|FHeritage Balcony Junior Suite Double!~|G1!~|U2,0,1785319200|2,32948.09,1815559200|2,32948.09,1815732000|2,32948.09,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IUlSrTvnF0nPBiApEFm5y4hmDbrWT5zf5bO32B6VV329ZbyAJwiciNR7s0JEelBfO4x/8lJLFvY4c1N/BL6FUaRzH4/BEhnhoHIWVIWj7flj+a52MlXfAk7oYM6LQtXdVtEshnphnssIEWxGDbZtsGP8rbz5U9ydpDxDoTWxKWhcdH3oxyOb2W4p4OngxyS9RQBm7R8ENXxK0J2AfN9i5KaWJUOw0kbYKQDpEKW23CsVhRx87riiJWKTj7/cdH0YiQ62XrVMqH7ZUjGrgFsYOoLnq7O7g4VZ/nl7imsX5f7QhROOFuKbtwg815b6ijt7XgD+kPC+S+ir4StppvosEtGF1Ye0Ta8XIKcsudlBocLdMleSQHO6ogytNtg3bbDqiVlXB30+fr7aIJScExfaQjhZWe2HYd0+uVOD53ahF5DQVlqF/tuLZE94O6loJXIC0!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I32948.09!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 41,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|dJP223075!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP223075!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071149!~|M39366.53!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR015821!~|AJR015821!~|BJR015821!~|C30|30!~|EHeritage Balcony Junior Suite Double!~|FHeritage Balcony Junior Suite Double!~|G1!~|U2,0,1785319200|2,39366.53,1815559200|2,39366.53,1815732000|2,39366.53,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IUlSrTvnF0nPBiApEFm5y4hmDbrWT5zf5bO32B6VV329St5jESzn5ltTLpDHpCtsoaKWL4srOtQXydP3CZ+4IOQOf0qC6IXa3rd2ga5839QJoGII3vhblEG97bzfIuNuyXm7WPDNOnwzXzNVfLkH1ZAQXuTMOR6cNPivMvhApqyJeo3I4XRbZ06xuF7f4HqLXDXvkYERZeeQaex7Plc4tJtXTqC2v08vioQIIR3zW8EB/6j4SQl6TqO0dm6oJnLmPBmZXlm+1T9AvrwoWeDiMavmUus+haw8EkYM3Dol4E6DQ9MTE90ek6JdEs/aWFWuYsjkdO3Eh9Ax2/Awxg16bPL6dNmiq/+gBLyDC81ALu7ymKIrdHe6OH1VzV6KZMgpVBGGA+CbZPHst6ycnR4rl7lgAhripF5Y0xqCakKdctZB8mDiU54FvwiCRcRfKGoGG!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I39366.53!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 45,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|dJP223075!~|ePC!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP223075!~|nPC!~|nEDMC!~|o1!~|p1!~|x30071149!~|M42219.17!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR015821!~|AJR015821!~|BJR015821!~|C30|30!~|EHeritage Balcony Junior Suite Double!~|FHeritage Balcony Junior Suite Double!~|G1!~|U2,0,1785319200|2,42219.17,1815559200|2,42219.17,1815732000|2,42219.17,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IUlSrTvnF0nPBiApEFm5y4hmDbrWT5zf5bO32B6VV32+hmVdFoeRKW4CtkiJyizV4Cscn8xWyLws3y848wvJlTRETudoL8W8qUodxHOFiJlZheAUDJsBI5qoL1hXcd6YCElbRi+5L5a4dmMkJepdjUORJbpZkhmziQlAi9V6KONFilS4XgbXxpaQbf1hRfMmcemKDOb33kUE1IXbcPn1Eq5kRNTmftvGtTI2GVIzx8cI1oNOZhBvFIRbJwpxMPo/Kyy8G8xl4H71QOfHAK3d3M/gXhXZkGiYpMNMDgyVJZk7T7p4eGDtVYRZQb8qwh4Xpzfhhc+fEEq0ZpPXevfDE4P/zM180DRnn197ejWVdtyQoJPEMmGiFCkQY48OWT26BvmTTWDlYnMGweY+KtTODR0YAtVnnSut3PNMohY1gOt2fturvMi2O5XiPETBMxV5p!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I42219.17!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 65,
+                    "roomCode": "27307041/244248695322177924/388",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 66,
+                    "roomCode": "27307041/244248695322177924/389",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 82,
+                    "roomCode": "27307041/244248695322177924/376",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "HasBalcony",
+                    "value": "Yes"
+                }
+            ],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Heritage Beach Junior Suite",
+            "category": "Heritage Beach Junior Suite",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 19,
+                    "roomCode": "1336999599-355",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 20,
+                    "roomCode": "1336999599-356",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 21,
+                    "roomCode": "1336999599-357",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 70,
+                    "roomCode": "27307041/244248695322177924/385",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 71,
+                    "roomCode": "27307041/244248695322177924/386",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 85,
+                    "roomCode": "27307041/244248695322177924/373",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Peninsula Suite, Balcony",
+            "category": "Peninsula Suite",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 22,
+                    "roomCode": "1336999599-358",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 23,
+                    "roomCode": "1336999599-359",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 24,
+                    "roomCode": "1336999599-360",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 75,
+                    "roomCode": "27307041/244248695322177924/382",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 76,
+                    "roomCode": "27307041/244248695322177924/383",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 86,
+                    "roomCode": "27307041/244248695322177924/372",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "HasBalcony",
+                    "value": "Yes"
+                }
+            ]
+        },
+        {
+            "standardName": "Peninsula Suite, Beach Access",
+            "category": "Peninsula Suite",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 25,
+                    "roomCode": "1336999599-361",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 26,
+                    "roomCode": "1336999599-362",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 27,
+                    "roomCode": "1336999599-363",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 80,
+                    "roomCode": "27307041/244248695322177924/377",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 81,
+                    "roomCode": "27307041/244248695322177924/378",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 89,
+                    "roomCode": "27307041/244248695322177924/369",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "HasBeachAccess",
+                    "value": "Yes"
+                }
+            ]
+        },
+        {
+            "standardName": "Le Morne Suite, Balcony",
+            "category": "Le Morne Suite",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 28,
+                    "roomCode": "1336999599-364",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 29,
+                    "roomCode": "1336999599-365",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 30,
+                    "roomCode": "1336999599-366",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 83,
+                    "roomCode": "27307041/244248695322177924/374",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 84,
+                    "roomCode": "27307041/244248695322177924/375",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 90,
+                    "roomCode": "27307041/244248695322177924/368",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": [
+                        {
+                            "key": "HasBalcony",
+                            "value": "Yes"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "HasBalcony",
+                    "value": "Yes"
+                }
+            ]
+        },
+        {
+            "standardName": "Le Morne Suite, Beach Access",
+            "category": "Le Morne Suite",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 31,
+                    "roomCode": "1336999599-367",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 32,
+                    "roomCode": "1336999599-368",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 33,
+                    "roomCode": "1336999599-369",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 87,
+                    "roomCode": "27307041/244248695322177924/370",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 88,
+                    "roomCode": "27307041/244248695322177924/371",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 91,
+                    "roomCode": "27307041/244248695322177924/392",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "HasBeachAccess",
+                    "value": "Yes"
+                }
+            ]
+        },
+        {
+            "standardName": "Junior Suite, King",
+            "category": "Junior Suite",
+            "beds": [
+                {
+                    "type": "King"
+                }
+            ],
+            "bedInfo": "King",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 34,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|dJP223075!~|eAD!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP223075!~|nAD!~|nEDMC!~|o1!~|p1!~|x30071149!~|M23391.76!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR000836!~|AJR000836!~|BJR000836!~|C30|30!~|EJunior Suite King Double!~|FJunior Suite King Double!~|G1!~|U2,0,1785319200|2,23391.76,1815559200|2,23391.76,1815732000|2,23391.76,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IUlSrTvnF0nPBiApEFm5y4hmDbrWT5zf5bO32B6VV328uJ3kQb8BKsSpqGm7et3dF2iAiazKWbgbB/D8dsu0oXEgrPx5paPbER5zzqT1yusN64B0I2Cw00DGRqhrnzLao0o0uG3NTtbR9PT/fX7Ok5SHMCc21RoMsEchJYfW5KMolyHDJCDzfpJqqFdSEYN0w4/h31BacKZrll0N9IwW9PazqLYhY2X2QJFz9RSd8ZKsw8sVGoTJDtPJKiZ0BD18peeAjIiKHc8VHplw14qWQ8377h7C1t6bEFVbrPUo+kIk6z+UD26yvpNi/hZuYn9GrRMdaocWyZkZ3NgdEIgGwAlfrUAqvBrv/VasyueTpRUprFMt0D+whP8+rv5vbBNT2whG/iGsNsWwaBGgNg3YLWmalvrsiFCcKspfjSSdRjqUPA71iQ6hVadqcSgcHgAFP!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I23391.76!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 38,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|dJP223075!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP223075!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071149!~|M29810.2!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR000836!~|AJR000836!~|BJR000836!~|C30|30!~|EJunior Suite King Double!~|FJunior Suite King Double!~|G1!~|U2,0,1785319200|2,29810.20,1815559200|2,29810.20,1815732000|2,29810.20,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IUlSrTvnF0nPBiApEFm5y4hmDbrWT5zf5bO32B6VV32/uVu7zG21MKmLtC/T2rkqOrfYWKs6j97TqQiIhSFE3v+E8gW3eNjqjZq52S0mFNtUE2gkeI8jAxLi0PpYZePeTL8VlIKM1QOO43DvEOVr4lYxSSQNDnpqCegZpjwK4iO65eTbRLB8OVe2cpi/JG49UsHuLvT1MJvShBpMBv4itMMFyzWGnTtubgf/VxirvKQtM0LV2E//N1QFuFgoTENQjX5PGT28SfD+QMr/BmSoZscBtuFHEkMMOJFdavUQVOq2HnzfX4xPWRyr3E1KuvHB4vwm44199zOfy9jqV1vqYtvxxNeK40w07j0QavBo3+9iZ/To2BGlWFb4PkftRp3SVfAF1LM9+4UHPF3/EW2a8OPJ1GOJr1DZVCtYnsvYKjx0EVRb3Kx+gb7J5Xp8iDM2O!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I29810.2!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 42,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|dJP223075!~|ePC!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP223075!~|nPC!~|nEDMC!~|o1!~|p1!~|x30071149!~|M32662.84!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR000836!~|AJR000836!~|BJR000836!~|C30|30!~|EJunior Suite King Double!~|FJunior Suite King Double!~|G1!~|U2,0,1785319200|2,32662.84,1815559200|2,32662.84,1815732000|2,32662.84,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IUlSrTvnF0nPBiApEFm5y4hmDbrWT5zf5bO32B6VV32+jVIhqqmUMirujWtDHPzqwpuNTe6xG5hkzNlQeM/qQFtgu7csL1nNDlbVl6ujZkyhsHi/r39X1mPlwRFLhDJfE/um2OeLL039V/nn2B0RcSiXpHqqn/pVUas71XFAsdsgsiPf/DsVBQth4ZkKlLZuF6UoYxbaDCQFuS8exWIkMUjdmhGfSHMIfCpDjjgJs/cKDpGWageWUEwM5t85BsYF5naYuw6WXF0eIma1JC4u5TirAU331T8FyL7Q1bOA9dleiDKoWaTWSskVST02GNEaUPRdNbOA9eoD4s0UaawE253A5vloWDk7GyLvLK3VbyER3gspHnz/NXZ2GVJWX2gpMMD5WztlYpwiXZoT74+2P4N2G1+gC7Dr1gLMNx+U4rqcy9HMvwW1wFWtzkdxhFecA!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I32662.84!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 50,
+                    "roomCode": "23888786/244248695322177924/203",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 98,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 51,
+                    "roomCode": "23888786/244248695322177924/204",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 98,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 64,
+                    "roomCode": "19659509/244248695322177924/5",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 69,
+                    "roomCode": "23888786/244248695322177924/196",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 98,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Ocean Junior Suite, King",
+            "category": "Ocean Junior Suite",
+            "beds": [
+                {
+                    "type": "King"
+                }
+            ],
+            "bedInfo": "King",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 36,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|dJP223075!~|eAD!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP223075!~|nAD!~|nEDMC!~|o1!~|p1!~|x30071149!~|M25388.58!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#Ocean Junior Suite King Double!~|AOcean Junior Suite King Double!~|BOcean Junior Suite King Double!~|C30|30!~|EOcean Junior Suite King Double!~|FOcean Junior Suite King Double!~|G1!~|U2,0,1785319200|2,25388.58,1815559200|2,25388.58,1815732000|2,25388.58,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IUlSrTvnF0nPBiApEFm5y4hmDbrWT5zf5bO32B6VV329V/7V42QUIe8wV/hvIOUhziDOKo3t3z2b4mnzvngKr35z8F8gpsR/sEvunMojkBHw+A/6/KrOrm2d+egSF2uEU8pNNkLhOhRGv7oQ0ePNaf+HEd6WVtXVa6/F5Axcuy+SWhVSt7AkazekAWV534ziBah9yIrsL+HLCRBKxW2eiVdZ5Twk+jtBmysAT70+PSHKr3azKKd9XgkmQ3RXvl0wCbN6TTNsHe9YUQR9/NOjuJ2txfd8a8jg3VRh46Tu+GVdNNxKVWk/KxfB4l+j3IErQ3p7R3W2uhVx9pKrAysVXSMW5fZxxGDTHfWiaV0H+aCZ/l4Khu+U/vydq0osKK6kRbeZpwyOCJ+sNCJ/t+68G7+otajUrJmv3UF1oXjk24svXjxQ1JBlliEUspWJvlKE2!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I25388.58!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 40,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|dJP223075!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP223075!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071149!~|M31807.02!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#Ocean Junior Suite King Double!~|AOcean Junior Suite King Double!~|BOcean Junior Suite King Double!~|C30|30!~|EOcean Junior Suite King Double!~|FOcean Junior Suite King Double!~|G1!~|U2,0,1785319200|2,31807.02,1815559200|2,31807.02,1815732000|2,31807.02,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IUlSrTvnF0nPBiApEFm5y4hmDbrWT5zf5bO32B6VV32+9RG0aEhokhCptkE7PoZxX4gwXICT9XoTWaq03KmJXgivW35oQKJXcphZ3gbvLgcR+GhNYCX8W9bQZ6Dbuy/XRxnTjQ6/J4blUhdRoSWuvnz1wWqLHCF233rSPGywNoH9CM3dRow0pCKBQOxSo28VYiIsuQLTnDFVVC/R+FWbgUOEQ97HIACrUVAKvqMN9UFKSJbWWn1Hyjfc9Quw8oE4we5dc5Kh2/oW0tz9LhG4x5Zhwf6c0mbb6NwO4TaP4YlHXCLqKGn3NwbiJ7RExrCKVlikUHTkA6HVbLcA1zH/YpjWucDI/eKJ5u8w85hAduwcewC3wKSUtu8O7s+nkO8iuTnw35zak4pVMqJWpm0m4lBBH/Rqr8isAyOrTvi8wOJRvPGmUmxmQnGjgCiEh4ovE!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I31807.02!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 44,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|dJP223075!~|ePC!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP223075!~|nPC!~|nEDMC!~|o1!~|p1!~|x30071149!~|M34659.66!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#Ocean Junior Suite King Double!~|AOcean Junior Suite King Double!~|BOcean Junior Suite King Double!~|C30|30!~|EOcean Junior Suite King Double!~|FOcean Junior Suite King Double!~|G1!~|U2,0,1785319200|2,34659.66,1815559200|2,34659.66,1815732000|2,34659.66,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IUlSrTvnF0nPBiApEFm5y4hmDbrWT5zf5bO32B6VV32+CcoSpwzziM0Ig5UibAhg4o6bDFJ0zfUk1IK2iBObDcI95X9ZDslnTgNvtDFi8TjctvuFxAMrBmERVVQOGD+L7HesWBGxFM13Obg1Mwnq/YZ/5ycpaPyXkNP0LC2DVC8KDFlEwq+gfP+kbkID4FV2H1ZWFz/jI4Kj9XvjmrbudzYz7BiWjdnbL/kfS6wYaJmrf1I3ROHhjW96sUAnp5+TGtUeQhGs7ZFmeIaQafvK2N1PnTOtGOwmkBox0e9624D45VXgqyA+o15j5SlRsk8zTNPqvZcfClq/q6Q5QOYeUWoKBnG4psHEP9CFq9cwr9Czw3wfHxMRbi3NK7jXAuyLPah/QJxv4zgOfwRtXuzwibhM5r5kaLDkiNTWzkTqzy+uooGw2Q1hQUFFkexCYak3D!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I34659.66!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 56,
+                    "roomCode": "23888786/244248695322177924/199",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 98,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 57,
+                    "roomCode": "23888786/244248695322177924/200",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 98,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 74,
+                    "roomCode": "23888786/244248695322177924/186",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 98,
+                    "attributes": []
+                }
+            ],
+            "attributes": [],
+            "occupancyType": "Double"
+        },
+        {
+            "standardName": "Junior Suite, Twin",
+            "category": "Junior Suite",
+            "beds": [
+                {
+                    "type": "Twin"
+                }
+            ],
+            "bedInfo": "Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 48,
+                    "roomCode": "23888786/244248695322177924/201",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 49,
+                    "roomCode": "23888786/244248695322177924/202",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 68,
+                    "roomCode": "23888786/244248695322177924/195",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Ocean Junior Suite, Twin",
+            "category": "Ocean Junior Suite",
+            "beds": [
+                {
+                    "type": "Twin"
+                }
+            ],
+            "bedInfo": "Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 54,
+                    "roomCode": "23888786/244248695322177924/191",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 55,
+                    "roomCode": "23888786/244248695322177924/192",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 73,
+                    "roomCode": "23888786/244248695322177924/185",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        }
+    ],
+    "success": true,
+    "statusCode": 1000,
+    "message": "Success"
+}

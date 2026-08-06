@@ -1,0 +1,1385 @@
+{
+    "vervotechHotelId": "39939731",
+    "roomRates": [
+        {
+            "index": 1,
+            "code": "{\"roomCode\":\"CE4SCDE2ODM5OTU1GgcxODUyMDQ4\",\"boardCode\":\"CgEz\"}",
+            "roomName": "Deluxe Ocean View",
+            "provider": "Yalago",
+            "providerHotelId": "1602043",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 2,
+            "code": "{\"roomCode\":\"CE4SCDE2ODM5OTU1GgcxODUyMDQ4\",\"boardCode\":\"CgE0\"}",
+            "roomName": "Deluxe Ocean View",
+            "provider": "Yalago",
+            "providerHotelId": "1602043",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 3,
+            "code": "{\"roomCode\":\"CE4SCDE2ODM5OTU1GgcxODUyMDQ4\",\"boardCode\":\"CgE1\"}",
+            "roomName": "Deluxe Ocean View",
+            "provider": "Yalago",
+            "providerHotelId": "1602043",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 4,
+            "code": "{\"roomCode\":\"CE4SCDE2ODM5OTU1GgcxODUyMDUw\",\"boardCode\":\"CgEz\"}",
+            "roomName": "Prestige Room Ocean View",
+            "provider": "Yalago",
+            "providerHotelId": "1602043",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 5,
+            "code": "{\"roomCode\":\"CE4SCDE2ODM5OTU1GgcxODUyMDUw\",\"boardCode\":\"CgE0\"}",
+            "roomName": "Prestige Room Ocean View",
+            "provider": "Yalago",
+            "providerHotelId": "1602043",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 6,
+            "code": "{\"roomCode\":\"CE4SCDE2ODM5OTU1GgcxODUyMDUw\",\"boardCode\":\"CgE1\"}",
+            "roomName": "Prestige Room Ocean View",
+            "provider": "Yalago",
+            "providerHotelId": "1602043",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 7,
+            "code": "{\"roomCode\":\"CE4SCDE2ODM5OTU1GgcxODU2NzA1\",\"boardCode\":\"CgEz\"}",
+            "roomName": "Terrace Suite",
+            "provider": "Yalago",
+            "providerHotelId": "1602043",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 8,
+            "code": "{\"roomCode\":\"CE4SCDE2ODM5OTU1GgcxODU2NzA1\",\"boardCode\":\"CgE0\"}",
+            "roomName": "Terrace Suite",
+            "provider": "Yalago",
+            "providerHotelId": "1602043",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 9,
+            "code": "{\"roomCode\":\"CE4SCDE2ODM5OTU1GgcxODU2NzA1\",\"boardCode\":\"CgE1\"}",
+            "roomName": "Terrace Suite",
+            "provider": "Yalago",
+            "providerHotelId": "1602043",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 10,
+            "code": "{\"roomCode\":\"CE4SCDE2ODM5OTU1GgcxODUyMDQ5\",\"boardCode\":\"CgEz\"}",
+            "roomName": "Family Room",
+            "provider": "Yalago",
+            "providerHotelId": "1602043",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 11,
+            "code": "{\"roomCode\":\"CE4SCDE2ODM5OTU1GgcxODUyMDQ5\",\"boardCode\":\"CgE0\"}",
+            "roomName": "Family Room",
+            "provider": "Yalago",
+            "providerHotelId": "1602043",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 12,
+            "code": "{\"roomCode\":\"CE4SCDE2ODM5OTU1GgcxODUyMDQ5\",\"boardCode\":\"CgE1\"}",
+            "roomName": "Family Room",
+            "provider": "Yalago",
+            "providerHotelId": "1602043",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 13,
+            "code": "{\"roomCode\":\"CE4SCDE2ODM5OTU1GgcxODU2NzA4\",\"boardCode\":\"CgEz\"}",
+            "roomName": "Duplex Suite",
+            "provider": "Yalago",
+            "providerHotelId": "1602043",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 14,
+            "code": "{\"roomCode\":\"CE4SCDE2ODM5OTU1GgcxODU2NzA4\",\"boardCode\":\"CgE0\"}",
+            "roomName": "Duplex Suite",
+            "provider": "Yalago",
+            "providerHotelId": "1602043",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 15,
+            "code": "{\"roomCode\":\"CE4SCDE2ODM5OTU1GgcxODU2NzA4\",\"boardCode\":\"CgE1\"}",
+            "roomName": "Duplex Suite",
+            "provider": "Yalago",
+            "providerHotelId": "1602043",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 16,
+            "code": "42V2D6MC2:AI:STD::UszllvQm9hcmRDb2RlPUNnRTEqKip8fnwqKipCb2FyZFR5cGU9NSoqKnx+fCoqKk5ldENvc3RBbW91bnQ9MzUyOC44OSoqKnx+fCoqKk5ldENvc3RDdXJyZW5jeT1FVVIqKip8fnwqKipSb29tQ29kZT1ERUxVWEUgT0NFQU4gVklFVyoqKnx+fCoqKlJvb21Db2RlT3JpZ2luYWw9Q0U0U0NERTJPRE01T1RVMUdnY3hPRFV5TURRNCoqKnx+fCoqKlJvb21EZXNjcmlwdGlvbj1ERUxVWEUgT0NFQU4gVklFVyMmQCYjODQwNzU1IyZAJiMyMDI3LTA4LTAxI0BAQCMyMDI3LTA4LTA4IyZAJiM4NDAtNzAzMy04N2FmYTE1ZWY0ODk1OSMmQCYjMzIwOS4wOCMmQCYjZW4jJkAmI1BncHhoVA==",
+            "roomName": "DELUXE OCEAN VIEW",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 17,
+            "code": "42V2D6MC2:FB:STD::eJzhTXQm9hcmRDb2RlPUNnRTAqKip8fnwqKipCb2FyZFR5cGU9NCoqKnx+fCoqKk5ldENvc3RBbW91bnQ9MzA2OC42MCoqKnx+fCoqKk5ldENvc3RDdXJyZW5jeT1FVVIqKip8fnwqKipSb29tQ29kZT1ERUxVWEUgT0NFQU4gVklFVyoqKnx+fCoqKlJvb21Db2RlT3JpZ2luYWw9Q0U0U0NERTJPRE01T1RVMUdnY3hPRFV5TURRNCoqKnx+fCoqKlJvb21EZXNjcmlwdGlvbj1ERUxVWEUgT0NFQU4gVklFVyMmQCYjODQwNzU1IyZAJiMyMDI3LTA4LTAxI0BAQCMyMDI3LTA4LTA4IyZAJiM4NDAtNzAzMy04N2FmYTE1ZWY0ODk1OSMmQCYjMjc5MC41MSMmQCYjZW4jJkAmI2tRREtmeQ==",
+            "roomName": "DELUXE OCEAN VIEW",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 18,
+            "code": "42V2D6MC2:HB:STD::VdVgnHQm9hcmRDb2RlPUNnRXoqKip8fnwqKipCb2FyZFR5cGU9MyoqKnx+fCoqKk5ldENvc3RBbW91bnQ9MjQ1NC44OCoqKnx+fCoqKk5ldENvc3RDdXJyZW5jeT1FVVIqKip8fnwqKipSb29tQ29kZT1ERUxVWEUgT0NFQU4gVklFVyoqKnx+fCoqKlJvb21Db2RlT3JpZ2luYWw9Q0U0U0NERTJPRE01T1RVMUdnY3hPRFV5TURRNCoqKnx+fCoqKlJvb21EZXNjcmlwdGlvbj1ERUxVWEUgT0NFQU4gVklFVyMmQCYjODQwNzU1IyZAJiMyMDI3LTA4LTAxI0BAQCMyMDI3LTA4LTA4IyZAJiM4NDAtNzAzMy04N2FmYTE1ZWY0ODk1OSMmQCYjMjIzMi40MCMmQCYjZW4jJkAmI0hhQ2djcw==",
+            "roomName": "DELUXE OCEAN VIEW",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 19,
+            "code": "42V2D7202:AI:STD::wBtctwQm9hcmRDb2RlPUNnRTEqKip8fnwqKipCb2FyZFR5cGU9NSoqKnx+fCoqKk5ldENvc3RBbW91bnQ9NDc5NC42OSoqKnx+fCoqKk5ldENvc3RDdXJyZW5jeT1FVVIqKip8fnwqKipSb29tQ29kZT1GQU1JTFkgUk9PTSoqKnx+fCoqKlJvb21Db2RlT3JpZ2luYWw9Q0U0U0NERTJPRE01T1RVMUdnY3hPRFV5TURRNSoqKnx+fCoqKlJvb21EZXNjcmlwdGlvbj1GQU1JTFkgUk9PTSMmQCYjODQwNzU1IyZAJiMyMDI3LTA4LTAxI0BAQCMyMDI3LTA4LTA4IyZAJiM4NDAtNzAzMy04N2FmYTE1ZWY0ODk1OSMmQCYjNDM2MC4xNyMmQCYjZW4jJkAmI0R2cUpWaQ==",
+            "roomName": "FAMILY ROOM",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 20,
+            "code": "42V2D7202:FB:STD::rsaIXEQm9hcmRDb2RlPUNnRTAqKip8fnwqKipCb2FyZFR5cGU9NCoqKnx+fCoqKk5ldENvc3RBbW91bnQ9NDMzNC40MCoqKnx+fCoqKk5ldENvc3RDdXJyZW5jeT1FVVIqKip8fnwqKipSb29tQ29kZT1GQU1JTFkgUk9PTSoqKnx+fCoqKlJvb21Db2RlT3JpZ2luYWw9Q0U0U0NERTJPRE01T1RVMUdnY3hPRFV5TURRNSoqKnx+fCoqKlJvb21EZXNjcmlwdGlvbj1GQU1JTFkgUk9PTSMmQCYjODQwNzU1IyZAJiMyMDI3LTA4LTAxI0BAQCMyMDI3LTA4LTA4IyZAJiM4NDAtNzAzMy04N2FmYTE1ZWY0ODk1OSMmQCYjMzk0MS41OSMmQCYjZW4jJkAmI1FqRkphWA==",
+            "roomName": "FAMILY ROOM",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 21,
+            "code": "42V2D7202:HB:STD::UPYsQtQm9hcmRDb2RlPUNnRXoqKip8fnwqKipCb2FyZFR5cGU9MyoqKnx+fCoqKk5ldENvc3RBbW91bnQ9MzcyMC42OCoqKnx+fCoqKk5ldENvc3RDdXJyZW5jeT1FVVIqKip8fnwqKipSb29tQ29kZT1GQU1JTFkgUk9PTSoqKnx+fCoqKlJvb21Db2RlT3JpZ2luYWw9Q0U0U0NERTJPRE01T1RVMUdnY3hPRFV5TURRNSoqKnx+fCoqKlJvb21EZXNjcmlwdGlvbj1GQU1JTFkgUk9PTSMmQCYjODQwNzU1IyZAJiMyMDI3LTA4LTAxI0BAQCMyMDI3LTA4LTA4IyZAJiM4NDAtNzAzMy04N2FmYTE1ZWY0ODk1OSMmQCYjMzM4My40OSMmQCYjZW4jJkAmI0J4WkZQcg==",
+            "roomName": "FAMILY ROOM",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 22,
+            "code": "42V2DA582:AI:STD::XwfHYOQm9hcmRDb2RlPUNnRTEqKip8fnwqKipCb2FyZFR5cGU9NSoqKnx+fCoqKk5ldENvc3RBbW91bnQ9Njc1MC45MioqKnx+fCoqKk5ldENvc3RDdXJyZW5jeT1FVVIqKip8fnwqKipSb29tQ29kZT1EVVBMRVggU1VJVEUqKip8fnwqKipSb29tQ29kZU9yaWdpbmFsPUNFNFNDREUyT0RNNU9UVTFHZ2N4T0RVMk56QTQqKip8fnwqKipSb29tRGVzY3JpcHRpb249RFVQTEVYIFNVSVRFIyZAJiM4NDA3NTUjJkAmIzIwMjctMDgtMDEjQEBAIzIwMjctMDgtMDgjJkAmIzg0MC03MDMzLTg3YWZhMTVlZjQ4OTU5IyZAJiM2MTM5LjExIyZAJiNlbiMmQCYjdGJFbU5V",
+            "roomName": "DUPLEX SUITE",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 23,
+            "code": "42V2DA582:FB:STD::URfckqQm9hcmRDb2RlPUNnRTAqKip8fnwqKipCb2FyZFR5cGU9NCoqKnx+fCoqKk5ldENvc3RBbW91bnQ9NjI5MC42MyoqKnx+fCoqKk5ldENvc3RDdXJyZW5jeT1FVVIqKip8fnwqKipSb29tQ29kZT1EVVBMRVggU1VJVEUqKip8fnwqKipSb29tQ29kZU9yaWdpbmFsPUNFNFNDREUyT0RNNU9UVTFHZ2N4T0RVMk56QTQqKip8fnwqKipSb29tRGVzY3JpcHRpb249RFVQTEVYIFNVSVRFIyZAJiM4NDA3NTUjJkAmIzIwMjctMDgtMDEjQEBAIzIwMjctMDgtMDgjJkAmIzg0MC03MDMzLTg3YWZhMTVlZjQ4OTU5IyZAJiM1NzIwLjU0IyZAJiNlbiMmQCYjRmJxYlR3",
+            "roomName": "DUPLEX SUITE",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 24,
+            "code": "42V2DA582:HB:STD::wWYERUQm9hcmRDb2RlPUNnRXoqKip8fnwqKipCb2FyZFR5cGU9MyoqKnx+fCoqKk5ldENvc3RBbW91bnQ9NTY3Ni45MSoqKnx+fCoqKk5ldENvc3RDdXJyZW5jeT1FVVIqKip8fnwqKipSb29tQ29kZT1EVVBMRVggU1VJVEUqKip8fnwqKipSb29tQ29kZU9yaWdpbmFsPUNFNFNDREUyT0RNNU9UVTFHZ2N4T0RVMk56QTQqKip8fnwqKipSb29tRGVzY3JpcHRpb249RFVQTEVYIFNVSVRFIyZAJiM4NDA3NTUjJkAmIzIwMjctMDgtMDEjQEBAIzIwMjctMDgtMDgjJkAmIzg0MC03MDMzLTg3YWZhMTVlZjQ4OTU5IyZAJiM1MTYyLjQzIyZAJiNlbiMmQCYjcnBscVhv",
+            "roomName": "DUPLEX SUITE",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 25,
+            "code": "42V3A7942:AI:STD::OieSXrQm9hcmRDb2RlPUNnRTEqKip8fnwqKipCb2FyZFR5cGU9NSoqKnx+fCoqKk5ldENvc3RBbW91bnQ9NDAyNy41NCoqKnx+fCoqKk5ldENvc3RDdXJyZW5jeT1FVVIqKip8fnwqKipSb29tQ29kZT1URVJSQUNFIFNVSVRFKioqfH58KioqUm9vbUNvZGVPcmlnaW5hbD1DRTRTQ0RFMk9ETTVPVFUxR2djeE9EVTJOekExKioqfH58KioqUm9vbURlc2NyaXB0aW9uPVRFUlJBQ0UgU1VJVEUjJkAmIzg0MDc1NSMmQCYjMjAyNy0wOC0wMSNAQEAjMjAyNy0wOC0wOCMmQCYjODQwLTcwMzMtODdhZmExNWVmNDg5NTkjJkAmIzM2NjIuNTQjJkAmI2VuIyZAJiNiem1zRHk=",
+            "roomName": "TERRACE SUITE",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 26,
+            "code": "42V3A7942:FB:STD::qynZjrQm9hcmRDb2RlPUNnRTAqKip8fnwqKipCb2FyZFR5cGU9NCoqKnx+fCoqKk5ldENvc3RBbW91bnQ9MzU2Ny4yNSoqKnx+fCoqKk5ldENvc3RDdXJyZW5jeT1FVVIqKip8fnwqKipSb29tQ29kZT1URVJSQUNFIFNVSVRFKioqfH58KioqUm9vbUNvZGVPcmlnaW5hbD1DRTRTQ0RFMk9ETTVPVFUxR2djeE9EVTJOekExKioqfH58KioqUm9vbURlc2NyaXB0aW9uPVRFUlJBQ0UgU1VJVEUjJkAmIzg0MDc1NSMmQCYjMjAyNy0wOC0wMSNAQEAjMjAyNy0wOC0wOCMmQCYjODQwLTcwMzMtODdhZmExNWVmNDg5NTkjJkAmIzMyNDMuOTYjJkAmI2VuIyZAJiNYVHBtQUs=",
+            "roomName": "TERRACE SUITE",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 27,
+            "code": "42V3A7942:HB:STD::fETBKbQm9hcmRDb2RlPUNnRXoqKip8fnwqKipCb2FyZFR5cGU9MyoqKnx+fCoqKk5ldENvc3RBbW91bnQ9Mjk1My41MyoqKnx+fCoqKk5ldENvc3RDdXJyZW5jeT1FVVIqKip8fnwqKipSb29tQ29kZT1URVJSQUNFIFNVSVRFKioqfH58KioqUm9vbUNvZGVPcmlnaW5hbD1DRTRTQ0RFMk9ETTVPVFUxR2djeE9EVTJOekExKioqfH58KioqUm9vbURlc2NyaXB0aW9uPVRFUlJBQ0UgU1VJVEUjJkAmIzg0MDc1NSMmQCYjMjAyNy0wOC0wMSNAQEAjMjAyNy0wOC0wOCMmQCYjODQwLTcwMzMtODdhZmExNWVmNDg5NTkjJkAmIzI2ODUuODYjJkAmI2VuIyZAJiNydENTelg=",
+            "roomName": "TERRACE SUITE",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 28,
+            "code": "42V761U02:AI:STD::RwpaupQm9hcmRDb2RlPUNnRTEqKip8fnwqKipCb2FyZFR5cGU9NSoqKnx+fCoqKk5ldENvc3RBbW91bnQ9Mzg3NC4xMSoqKnx+fCoqKk5ldENvc3RDdXJyZW5jeT1FVVIqKip8fnwqKipSb29tQ29kZT1QUkVTVElHRSBST09NIE9DRUFOIFZJRVcqKip8fnwqKipSb29tQ29kZU9yaWdpbmFsPUNFNFNDREUyT0RNNU9UVTFHZ2N4T0RVeU1EVXcqKip8fnwqKipSb29tRGVzY3JpcHRpb249UFJFU1RJR0UgUk9PTSBPQ0VBTiBWSUVXIyZAJiM4NDA3NTUjJkAmIzIwMjctMDgtMDEjQEBAIzIwMjctMDgtMDgjJkAmIzg0MC03MDMzLTg3YWZhMTVlZjQ4OTU5IyZAJiMzNTIzLjAxIyZAJiNlbiMmQCYjRmRlTmtK",
+            "roomName": "PRESTIGE ROOM OCEAN VIEW",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 29,
+            "code": "42V761U02:FB:STD::fpZLLvQm9hcmRDb2RlPUNnRTAqKip8fnwqKipCb2FyZFR5cGU9NCoqKnx+fCoqKk5ldENvc3RBbW91bnQ9MzQxMy44MioqKnx+fCoqKk5ldENvc3RDdXJyZW5jeT1FVVIqKip8fnwqKipSb29tQ29kZT1QUkVTVElHRSBST09NIE9DRUFOIFZJRVcqKip8fnwqKipSb29tQ29kZU9yaWdpbmFsPUNFNFNDREUyT0RNNU9UVTFHZ2N4T0RVeU1EVXcqKip8fnwqKipSb29tRGVzY3JpcHRpb249UFJFU1RJR0UgUk9PTSBPQ0VBTiBWSUVXIyZAJiM4NDA3NTUjJkAmIzIwMjctMDgtMDEjQEBAIzIwMjctMDgtMDgjJkAmIzg0MC03MDMzLTg3YWZhMTVlZjQ4OTU5IyZAJiMzMTA0LjQ0IyZAJiNlbiMmQCYjUGVFb0JZ",
+            "roomName": "PRESTIGE ROOM OCEAN VIEW",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 30,
+            "code": "42V761U02:HB:STD::PVWtGYQm9hcmRDb2RlPUNnRXoqKip8fnwqKipCb2FyZFR5cGU9MyoqKnx+fCoqKk5ldENvc3RBbW91bnQ9MjgwMC4xMCoqKnx+fCoqKk5ldENvc3RDdXJyZW5jeT1FVVIqKip8fnwqKipSb29tQ29kZT1QUkVTVElHRSBST09NIE9DRUFOIFZJRVcqKip8fnwqKipSb29tQ29kZU9yaWdpbmFsPUNFNFNDREUyT0RNNU9UVTFHZ2N4T0RVeU1EVXcqKip8fnwqKipSb29tRGVzY3JpcHRpb249UFJFU1RJR0UgUk9PTSBPQ0VBTiBWSUVXIyZAJiM4NDA3NTUjJkAmIzIwMjctMDgtMDEjQEBAIzIwMjctMDgtMDgjJkAmIzg0MC03MDMzLTg3YWZhMTVlZjQ4OTU5IyZAJiMyNTQ2LjM0IyZAJiNlbiMmQCYjVm9Qakdq",
+            "roomName": "PRESTIGE ROOM OCEAN VIEW",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 31,
+            "code": "47F5B7F42:AI:STD::UWEURuYW1vdW50TmV0PTM2NDMuMDgqKip8fnwqKiphbW91bnRQdnA9MzY0My4wOCoqKnx+fCoqKmJvYXJkQ29kZT1USSoqKnx+fCoqKmhvdGVsQ29kZT0xMDcxMTc4KioqfH58KioqaXNCaW5kaW5nPWZhbHNlKioqfH58Kioqb2ZmZXJzPUVhcmx5IEJvb2tpbmcgb2ZmZXIgKioqfH58Kioqb3B0VHlwZT1BdmFpbCoqKnx+fCoqKm9wdGlvbkNvbmZpcm1JZD11bmRlZmluZWQqKip8fnwqKipvcHRpb25SZWZJZD0zMyF+fGEwIX58YjI3MDgwMSF+fGMyNzA4MDghfnxkMTA3MTE3OCF+fGVUSSF+fGYwIX58Z0dCIX58aEdCIX58aWVuIX58akVVUiF+fGswIX58bDIzMTEwIX58bTEwNzExNzghfnxuVEkhfnxuTE9HSSF+fG8xIX58cDEhfnx4MzAwNzExNDkhfnxNMzY0My4wOCF+fE4wIX58T2ZhbHNlIX58UEVVUiF+fFEhfnxSMCF+fFMhfnxUIX58ejEjMTEwMTY0IX58QTExMDE2NCF+fEIxMTAxNjQhfnxDMzB8MzAhfnxFRGVsdXhlIFJvb20gLSBTZWEgVmlldyF+fEZEZWx1eGUgUm9vbSAtIFNlYSBWaWV3IX58RzEhfnxVMiwxODIxLjU0LDE4MTYzODcyMDB8MiwzNjQzLjA4LDE4MTY5OTIwMDAhfnxIMCF+fElCQ0pOR0VCQXdEY0NBQUQwRGdvSE1UQTNNVEUzT0JJQ1ZFa2FDakF4THpBNEx6SXdNamNpQ2pBNERBRHlKaW9MVFdWeVkyaGhiblJRWVhreUEwVlZVam9SQ2dORlZWSVNCek0yTkRNdU1EQ2dpQVRCQ0d3b0lNU014TVRBeE5qUVFBUm9HQ2dEeEF5SUZNekF0TXpCS0R3b0JNUklFQ0I0UUFRWUE4U2tDV2dFeFloTXlNREkyTFRBM0xUTXdWREV4T2pNeE9qSXljaElJdGRPKy81SEY1cDhYRVBtZjdkY0xHRGg2V2dvc0NnTXhPVElTRUhZY0E4d1lRQWhvSE1UZ3lNUzQxTkJvVFVId3hPVEo4TW53UkFLZDhSVlZTQ2lvS0FqSTBMUUFEcFFDVEdoSlFmREkwZkRKOEVBRHpFWHhGVlZLQ0FRVkNRMDlPUjVJQkFrZEN3Z0VCTU1vQkVRb0VNamszTlJJSkNBRDNJZ0V3NGdFRlFFVlpCU1V6cUFRRXc4Z0VlTlM0M09EWTRNREk1T0RZNU16WXdNVEF5T0RRNU1UTTJNREV4TnpBeCtnSFlBUE1xSURFek9qUTVPakExaWdJSFBEVXdPVEFqUHBJQ0F6UXVNcG9DQXpNdU1LSUNBVERDQWdRMU1Ea3d5Z0lCTVBvQ0FUQ0NBd0V3b2dOQmxnSEJmREl3TWpjd09EQXhmRGQ4U1FHUmZFZENmRlJKZkVoOHRnQ2tmREI4Zkh4OFRYeElmREFBQW5ZQi95RjhmSHl5QXg0eExqRTJOalU0T0RnMU56azVNalUyTkRBeE5qUTRNVFF5TXpBNU9UTzZBd2NJbktMRFJ4Z1F3Z04xQVFBVjBoOEE4amphQXdvS0JIUnlkV1VTQWtkQzRnTVRFZ05IUWxBYUF3alNGaW9IQ0xUSnN3RVlCdW9ERWdudXJmRHBCYmRqU1JHemMxWmtNQlNLZ3BnRUFiQUVBc0FFQWVJRUVWUkpmQm9DOEFCOGZGSkdmSHhJZlBBRUFmZ0V1QmNBQUFBQSF+fEoxIX58SzEhfnxMMCF+fEg3MDMhfnxJMSMjIX58SjAhfnxLMSF+fEwwIX58SDcxMCF+fEk3Mjg2LjE2IX58SjAhfnxLMCF+fEwwIX58SDcwOCF+fEkzZjIxZTU1Yi0yZmU3LTRiMWUtODFmYS0wZjRlZWU4MjQyNTQhfnxKMCF+fEswIX58TDAhfnx0T0shfnx1Q29ubmVjdG9ycyF+fHYwIX58dyF+fHkhfnxxIX58cTAhfnx5IX58KioqfH58KioqcGF5bWVudFR5cGU9TUVSQ0hBTlQqKip8fnwqKipyYXRlQ29kZT1OT1JNQUwqKip8fnwqKipyb29tTmV0UHJpY2U9MzY0My4wOCoqKnx+fCoqKnJvb21QdnBQcmljZT0zNjQzLjA4KioqfH58Kioqcm9vbVR5cGVDb2RlPURFTFVYRSBST09NIC0gU0VBIFZJRVcqKip8fnwqKipyb29tVHlwZUNvZGVPcmlnaW5hbD0xMTAxNjQqKip8fnwqKipyb29tVHlwZU5hbWU9REVMVVhFIFJPT00gLSBTRUEgVklFVyoqKnx+fCoqKnN1cHBsaWVyQ29kZT1UVEhPVCMmQCYjMzc0MjQxNyMmQCYjMjAyNy0wOC0wMSNAQEAjMjAyNy0wOC0wOCMmQCYjODQwLTcwMzMtODdhZmExNWVmNDg5NTkjJkAmIzMzMTIuOTIjJkAmI2VuIyZAJiNjVWd2UHY=",
+            "roomName": "DELUXE ROOM - SEA VIEW",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 32,
+            "code": "47F5B7F42:FB:STD::rqBvNkYW1vdW50TmV0PTMxNjcuODkqKip8fnwqKiphbW91bnRQdnA9MzE2Ny44OSoqKnx+fCoqKmJvYXJkQ29kZT1QQyoqKnx+fCoqKmhvdGVsQ29kZT0xMDcxMTc4KioqfH58KioqaXNCaW5kaW5nPWZhbHNlKioqfH58Kioqb2ZmZXJzPUVhcmx5IEJvb2tpbmcgb2ZmZXIgKioqfH58Kioqb3B0VHlwZT1BdmFpbCoqKnx+fCoqKm9wdGlvbkNvbmZpcm1JZD11bmRlZmluZWQqKip8fnwqKipvcHRpb25SZWZJZD0zMyF+fGEwIX58YjI3MDgwMSF+fGMyNzA4MDghfnxkMTA3MTE3OCF+fGVQQyF+fGYwIX58Z0dCIX58aEdCIX58aWVuIX58akVVUiF+fGswIX58bDIzMTEwIX58bTEwNzExNzghfnxuUEMhfnxuTE9HSSF+fG8xIX58cDEhfnx4MzAwNzExNDkhfnxNMzE2Ny44OSF+fE4wIX58T2ZhbHNlIX58UEVVUiF+fFEhfnxSMCF+fFMhfnxUIX58ejEjMTEwMTY0IX58QTExMDE2NCF+fEIxMTAxNjQhfnxDMzB8MzAhfnxFRGVsdXhlIFJvb20gLSBTZWEgVmlldyF+fEZEZWx1eGUgUm9vbSAtIFNlYSBWaWV3IX58RzEhfnxVMiwxNTgzLjk1LDE4MTYzODcyMDB8MiwzMTY3Ljg5LDE4MTY5OTIwMDAhfnxIMCF+fElCQ0pOR0VCQXdEY0NBQUQwRGdvSE1UQTNNVEUzT0JJQ1VFTWFDakF4THpBNEx6SXdNamNpQ2pBNERBRHlKaW9MVFdWeVkyaGhiblJRWVhreUEwVlZVam9SQ2dORlZWSVNCek14TmpjdU9ENmtpQVRCQ0d3b0lNU014TVRBeE5qUVFBUm9HQ2dEeEF5SUZNekF0TXpCS0R3b0JNUklFQ0I0UUFRWUE4U2tDV2dFeFloTXlNREkyTFRBM0xUTXdWREV4T2pNeE9qSXljaElJc3RPKy81SEY1cDhYRVBtZjdkY0xHRGg2V2dvc0NnTXhPVElTRUhZRUE4d1lRQWhvSE1UVTRNeTQ1TlJvVFVId3hPVEo4TW53UkFLZDhSVlZTQ2lvS0FqSTBMUUFEcFFDVEdoSlFmREkwZkRKOEVBRHpFWHhGVlZLQ0FRVkNRMDlPUjVJQkFrZEN3Z0VCTU1vQkVRb0VNamszTlJJSkNBRDNJZ0V3NGdFRlFWVlpCU1V6cUFRRXc4Z0VlTlM0M09EWTRNREk1T0RZNU16WXdNVEF5T0RRNU1UTTJNREV4TmprNCtnSFlBUE1xSURFek9qUTVPakExaWdJSFBEVXdPVEFqUHBJQ0F6UXVNcG9DQXpNdU1LSUNBVERDQWdRMU1Ea3d5Z0lCTVBvQ0FUQ0NBd0V3b2dOQmxnSEJmREl3TWpjd09EQXhmRGQ4U1FHUmZFZENmRkJEZkVoOHRnQ2tmREI4Zkh4OFRYeElmREFBQW5ZQi95RjhmSHl5QXg0eExqRTJOalU0T0RnMU56azVNalUyTkRBeE5qUTRNVFF5TXpBNU9UTzZBd2NJbktMRFJ4Z1F3Z04xQVFBVjBoOEE4amphQXdvS0JIUnlkV1VTQWtkQzRnTVRFZ05IUWxBYUF3allFeW9IQ0tlVG5BRVlCdW9ERWdudXJmRHBCYmRqU1JHemMxWmtNQlNLZ3BnRUFiQUVBc0FFQWVJRUVWQkRmQm9DOEFCOGZGSkdmSHhJZlBBRUFmZ0V1QmNBQUFBQSF+fEoxIX58SzEhfnxMMCF+fEg3MDMhfnxJMSMjIX58SjAhfnxLMSF+fEwwIX58SDcxMCF+fEk2MzM1Ljc4IX58SjAhfnxLMCF+fEwwIX58SDcwOCF+fEkzZjIxZTU1Yi0yZmU3LTRiMWUtODFmYS0wZjRlZWU4MjQyNTQhfnxKMCF+fEswIX58TDAhfnx0T0shfnx1Q29ubmVjdG9ycyF+fHYwIX58dyF+fHkhfnxxIX58cTAhfnx5IX58KioqfH58KioqcGF5bWVudFR5cGU9TUVSQ0hBTlQqKip8fnwqKipyYXRlQ29kZT1OT1JNQUwqKip8fnwqKipyb29tTmV0UHJpY2U9MzE2Ny44OSoqKnx+fCoqKnJvb21QdnBQcmljZT0zMTY3Ljg5KioqfH58Kioqcm9vbVR5cGVDb2RlPURFTFVYRSBST09NIC0gU0VBIFZJRVcqKip8fnwqKipyb29tVHlwZUNvZGVPcmlnaW5hbD0xMTAxNjQqKip8fnwqKipyb29tVHlwZU5hbWU9REVMVVhFIFJPT00gLSBTRUEgVklFVyoqKnx+fCoqKnN1cHBsaWVyQ29kZT1UVEhPVCMmQCYjMzc0MjQxNyMmQCYjMjAyNy0wOC0wMSNAQEAjMjAyNy0wOC0wOCMmQCYjODQwLTcwMzMtODdhZmExNWVmNDg5NTkjJkAmIzI4ODAuODAjJkAmI2VuIyZAJiN2QldIdVI=",
+            "roomName": "DELUXE ROOM - SEA VIEW",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 33,
+            "code": "47F5B7F42:HB:STD::xrpSImYW1vdW50TmV0PTI1MzQuMzIqKip8fnwqKiphbW91bnRQdnA9MjUzNC4zMioqKnx+fCoqKmJvYXJkQ29kZT1NUCoqKnx+fCoqKmhvdGVsQ29kZT0xMDcxMTc4KioqfH58KioqaXNCaW5kaW5nPWZhbHNlKioqfH58Kioqb2ZmZXJzPUVhcmx5IEJvb2tpbmcgb2ZmZXIgKioqfH58Kioqb3B0VHlwZT1BdmFpbCoqKnx+fCoqKm9wdGlvbkNvbmZpcm1JZD11bmRlZmluZWQqKip8fnwqKipvcHRpb25SZWZJZD0zMyF+fGEwIX58YjI3MDgwMSF+fGMyNzA4MDghfnxkMTA3MTE3OCF+fGVNUCF+fGYwIX58Z0dCIX58aEdCIX58aWVuIX58akVVUiF+fGswIX58bDIzMTEwIX58bTEwNzExNzghfnxuTVAhfnxuTE9HSSF+fG8xIX58cDEhfnx4MzAwNzExNDkhfnxNMjUzNC4zMiF+fE4wIX58T2ZhbHNlIX58UEVVUiF+fFEhfnxSMCF+fFMhfnxUIX58ejEjMTEwMTY0IX58QTExMDE2NCF+fEIxMTAxNjQhfnxDMzB8MzAhfnxFRGVsdXhlIFJvb20gLSBTZWEgVmlldyF+fEZEZWx1eGUgUm9vbSAtIFNlYSBWaWV3IX58RzEhfnxVMiwxMjY3LjE2LDE4MTYzODcyMDB8MiwyNTM0LjMyLDE4MTY5OTIwMDAhfnxIMCF+fElCQ0pOR0VCQXdESUNBQUQwRGdvSE1UQTNNVEUzT0JJQ1RWQWFDakF4THpBNEx6SXdNamNpQ2pBNERBRHlKaW9MVFdWeVkyaGhiblJRWVhreUEwVlZVam9SQ2dORlZWSVNCekkxTXpRdU16Y0lpQVRCQ0d3b0lNU014TVRBeE5qUVFBUm9HQ2dEeEF5SUZNekF0TXpCS0R3b0JNUklFQ0I0UUFRWUE4U2tDV2dFeFloTXlNREkyTFRBM0xUTXdWREV4T2pNeE9qSXljaElJcTlPKy81SEY1cDhYRVBtZjdkY0xHRGg2V2dvc0NnTXhPVElTRUhZTUE4d1lRQWhvSE1USTJOeTR4TmhvVFVId3hPVEo4TW53UkFLZDhSVlZTQ2lvS0FqSTBMUUFEcFFDVEdoSlFmREkwZkRKOEVBRHpFWHhGVlZLQ0FRVkNRMDlPUjVJQkFrZEN3Z0VCTU1vQkVRb0VNamszTlJJSkNBRDNJZ0V3NGdFRlFnVlpCU1V6cUFRRXc4Z0VlTlM0M09EWTRNREk1T0RZNU16WXdNVEF5T0RRNU1UTTJNREV4TmpreCtnSFlBUE1xSURFek9qUTVPakExaWdJSFBEVXdPVEFqUHBJQ0F6UXVNcG9DQXpNdU1LSUNBVERDQWdRMU1Ea3d5Z0lCTVBvQ0FUQ0NBd0V3b2dOQmxnSEJmREl3TWpjd09EQXhmRGQ4U1FHUmZFZENmRTFRZkVoOHRnQ2tmREI4Zkh4OFRYeElmREFBQW5ZQi95RjhmSHl5QXg0eExqRTJOalU0T0RnMU56azVNalUyTkRBeE5qUTRNVFF5TXpBNU9UTzZBd2NJbktMRFJ4Z1F3Z04xQVFBVjBoOEE5VGJhQXdvS0JIUnlkV1VTQWtkQzRnTVNFZ05IUWxBYUF3amdEeW9HQ1BPZkFSZ0M2Z01TQ2U2dDhPa0Z0Mk5KRWJOelZtUXdGSXFDbUFRQnNBUUN3QVFCNGdRUlRWQ1pBTkJTUm54OFNIendCQUg0QkxnWEFBQUFBQT09IX58SjEhfnxLMSF+fEwwIX58SDcwMyF+fEkxIyMhfnxKMCF+fEsxIX58TDAhfnxINzEwIX58STUwNjguNjQhfnxKMCF+fEswIX58TDAhfnxINzA4IX58STNmMjFlNTViLTJmZTctNGIxZS04MWZhLTBmNGVlZTgyNDI1NCF+fEowIX58SzAhfnxMMCF+fHRPSyF+fHVDb25uZWN0b3JzIX58djAhfnx3IX58eSF+fHEhfnxxMCF+fHkhfnwqKip8fnwqKipwYXltZW50VHlwZT1NRVJDSEFOVCoqKnx+fCoqKnJhdGVDb2RlPU5PUk1BTCoqKnx+fCoqKnJvb21OZXRQcmljZT0yNTM0LjMyKioqfH58Kioqcm9vbVB2cFByaWNlPTI1MzQuMzIqKip8fnwqKipyb29tVHlwZUNvZGU9REVMVVhFIFJPT00gLSBTRUEgVklFVyoqKnx+fCoqKnJvb21UeXBlQ29kZU9yaWdpbmFsPTExMDE2NCoqKnx+fCoqKnJvb21UeXBlTmFtZT1ERUxVWEUgUk9PTSAtIFNFQSBWSUVXKioqfH58Kioqc3VwcGxpZXJDb2RlPVRUSE9UIyZAJiMzNzQyNDE3IyZAJiMyMDI3LTA4LTAxI0BAQCMyMDI3LTA4LTA4IyZAJiM4NDAtNzAzMy04N2FmYTE1ZWY0ODk1OSMmQCYjMjMwNC42NCMmQCYjZW4jJkAmI3FYZFBDSQ==",
+            "roomName": "DELUXE ROOM - SEA VIEW",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 34,
+            "code": "47F5BBBO2:AI:STD::drYxzHYW1vdW50TmV0PTY5NjkuMzYqKip8fnwqKiphbW91bnRQdnA9Njk2OS4zNioqKnx+fCoqKmJvYXJkQ29kZT1USSoqKnx+fCoqKmhvdGVsQ29kZT0xMDcxMTc4KioqfH58KioqaXNCaW5kaW5nPWZhbHNlKioqfH58Kioqb2ZmZXJzPUVhcmx5IEJvb2tpbmcgb2ZmZXIgKioqfH58Kioqb3B0VHlwZT1BdmFpbCoqKnx+fCoqKm9wdGlvbkNvbmZpcm1JZD11bmRlZmluZWQqKip8fnwqKipvcHRpb25SZWZJZD0zMyF+fGEwIX58YjI3MDgwMSF+fGMyNzA4MDghfnxkMTA3MTE3OCF+fGVUSSF+fGYwIX58Z0dCIX58aEdCIX58aWVuIX58akVVUiF+fGswIX58bDIzMTEwIX58bTEwNzExNzghfnxuVEkhfnxuTE9HSSF+fG8xIX58cDEhfnx4MzAwNzExNDkhfnxNNjk2OS4zNiF+fE4wIX58T2ZhbHNlIX58UEVVUiF+fFEhfnxSMCF+fFMhfnxUIX58ejEjMzcxNCF+fEEzNzE0IX58QjM3MTQhfnxDMzB8MzAhfnxFRHVwbGV4IFN1aXRlIX58RkR1cGxleCBTdWl0ZSF+fEcxIX58VTIsMzQ4NC42OCwxODE2Mzg3MjAwfDIsNjk2OS4zNiwxODE2OTkyMDAwIX58SDAhfnxJQkNKTkdFQkF3RE1DQUFEMERnb0hNVEEzTVRFM09CSUNWRWthQ2pBeEx6QTRMekl3TWpjaUNqQTREQUR4ZHlvTFRXVnlZMmhoYm5SUVlYa3lBMFZWVWpvUkNnTkZWVklTQnpZNU5qa3VNelZZaUFUQkNGd29HTVNNek56RTBFQUVhQkRNM01UUWlCVE13TFRNd1NnOEtBVEVTQkFnZUVBRVNCQWdlRUFKYUFURmlFekl3TWpZdE1EY3RNekJVTVRFNk16RTZNakp5RWdpWjA3Ny9rY1htbnhjUStaL3Qxd3NZT0hwYUNpd0tBekU1TWhJUWNnRDR6QmhBQ0dnY3pORGcwTGpZNEdoTlFmREU1TW53eWZCRUFwM3hGVlZJS0tnb0NNalF0QUFPaEFKTWFFbEI4TWpSOE1ud1FBUE1SZkVWVlVvSUJCVUpEVDA1SGtnRUNSMExDQVFFd3lnRVJDZ1F5T1RjMUVna0lBUGNpQVREaUFRVkJWNGtGSlRPb0JBVER5QVI0MUxqYzROamd3TWprNE5qa3pOakF4TURJNE5Ea3hNell3TVRFMk56UDZBZGdBOHlvZ01UTTZORGs2TURXS0FnYzhOVEE1TUNNK2tnSUROQzR5bWdJRE15NHdvZ0lCTU1JQ0JEVXdPVERLQWdFdytnSUJNSUlEQVRDaUF6K1NBY0Y4TWpBeU56QTRNREY4TjN4SkFaRjhSMEo4VkVsOFNIeTJBS1I4TUh4OGZIeE5mRWg4TUFEL0pUTTNNVFI4Zkh5eUF4NHhMakUyTmpVNE9EZzFOems1TWpVMk5EQXhOalE0TVRReU16QTVPVE82QXdjSW5LTERSeGdRd2dOekFRQVYwaDhBOHpmYUF3b0tCSFJ5ZFdVU0FrZEM0Z01URWdOSFFsQWFBd2lvS3lvSENJckUxd0lZQnVvREVnbnVyZkRwQmJkalNSR3pjMVprTUJTS2dwZ0VBYkFFQXNBRUFlSUVEMVJKbUFEUVVrWjhmRWg4OEFRQitBUzRGd0FBQUFBPSF+fEoxIX58SzEhfnxMMCF+fEg3MDMhfnxJMSMjIX58SjAhfnxLMSF+fEwwIX58SDcxMCF+fEkxMzkzOC43MiF+fEowIX58SzAhfnxMMCF+fEg3MDghfnxJM2YyMWU1NWItMmZlNy00YjFlLTgxZmEtMGY0ZWVlODI0MjU0IX58SjAhfnxLMCF+fEwwIX58dE9LIX58dUNvbm5lY3RvcnMhfnx2MCF+fHchfnx5IX58cSF+fHEwIX58eSF+fCoqKnx+fCoqKnBheW1lbnRUeXBlPU1FUkNIQU5UKioqfH58KioqcmF0ZUNvZGU9Tk9STUFMKioqfH58Kioqcm9vbU5ldFByaWNlPTY5NjkuMzYqKip8fnwqKipyb29tUHZwUHJpY2U9Njk2OS4zNioqKnx+fCoqKnJvb21UeXBlQ29kZT1EVVBMRVggU1VJVEUqKip8fnwqKipyb29tVHlwZUNvZGVPcmlnaW5hbD0zNzE0KioqfH58Kioqcm9vbVR5cGVOYW1lPURVUExFWCBTVUlURSoqKnx+fCoqKnN1cHBsaWVyQ29kZT1UVEhPVCMmQCYjMzc0MjQxNyMmQCYjMjAyNy0wOC0wMSNAQEAjMjAyNy0wOC0wOCMmQCYjODQwLTcwMzMtODdhZmExNWVmNDg5NTkjJkAmIzYzMzcuNzUjJkAmI2VuIyZAJiNFTVR0TnM=",
+            "roomName": "DUPLEX SUITE",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 35,
+            "code": "47F5BBBO2:FB:STD::UehcadYW1vdW50TmV0PTY0OTQuMTgqKip8fnwqKiphbW91bnRQdnA9NjQ5NC4xOCoqKnx+fCoqKmJvYXJkQ29kZT1QQyoqKnx+fCoqKmhvdGVsQ29kZT0xMDcxMTc4KioqfH58KioqaXNCaW5kaW5nPWZhbHNlKioqfH58Kioqb2ZmZXJzPUVhcmx5IEJvb2tpbmcgb2ZmZXIgKioqfH58Kioqb3B0VHlwZT1BdmFpbCoqKnx+fCoqKm9wdGlvbkNvbmZpcm1JZD11bmRlZmluZWQqKip8fnwqKipvcHRpb25SZWZJZD0zMyF+fGEwIX58YjI3MDgwMSF+fGMyNzA4MDghfnxkMTA3MTE3OCF+fGVQQyF+fGYwIX58Z0dCIX58aEdCIX58aWVuIX58akVVUiF+fGswIX58bDIzMTEwIX58bTEwNzExNzghfnxuUEMhfnxuTE9HSSF+fG8xIX58cDEhfnx4MzAwNzExNDkhfnxNNjQ5NC4xOCF+fE4wIX58T2ZhbHNlIX58UEVVUiF+fFEhfnxSMCF+fFMhfnxUIX58ejEjMzcxNCF+fEEzNzE0IX58QjM3MTQhfnxDMzB8MzAhfnxFRHVwbGV4IFN1aXRlIX58RkR1cGxleCBTdWl0ZSF+fEcxIX58VTIsMzI0Ny4wOSwxODE2Mzg3MjAwfDIsNjQ5NC4xOCwxODE2OTkyMDAwIX58SDAhfnxJQkNKTkdFQkF3RElDQUFEMERnb0hNVEEzTVRFM09CSUNVRU1hQ2pBeEx6QTRMekl3TWpjaUNqQTREQUR4ZHlvTFRXVnlZMmhoYm5SUVlYa3lBMFZWVWpvUkNnTkZWVklTQnpZME9UUXVNVGdnaUFUQkNGd29HTVNNek56RTBFQUVhQkRNM01UUWlCVE13TFRNd1NnOEtBVEVTQkFnZUVBRVNCQWdlRUFKYUFURmlFekl3TWpZdE1EY3RNekJVTVRFNk16RTZNakp5RWdpazA3Ny9rY1htbnhjUStaL3Qxd3NZT0hwYUNpd0tBekU1TWhJUWNnRE16QmhBQ0dnY3pNalEzTGpBNUdoTlFmREU1TW53eWZCRUFwM3hGVlZJS0tnb0NNalF0QUFPaEFKTWFFbEI4TWpSOE1ud1FBUE1SZkVWVlVvSUJCVUpEVDA1SGtnRUNSMExDQVFFd3lnRVJDZ1F5T1RjMUVna0lBUGNpQVREaUFRVkJWRWtGSlRPb0JBVER5QVI0MUxqYzROamd3TWprNE5qa3pOakF4TURJNE5Ea3hNell3TVRFMk9EVDZBZGdBOHlvZ01UTTZORGs2TURXS0FnYzhOVEE1TUNNK2tnSUROQzR5bWdJRE15NHdvZ0lCTU1JQ0JEVXdPVERLQWdFdytnSUJNSUlEQVRDaUF6K1NBY0Y4TWpBeU56QTRNREY4TjN4SkFaRjhSMEo4VUVOOFNIeTJBS1I4TUh4OGZIeE5mRWg4TUFEL0pUTTNNVFI4Zkh5eUF4NHhMakUyTmpVNE9EZzFOems1TWpVMk5EQXhOalE0TVRReU16QTVPVE82QXdjSW5LTERSeGdRd2dOekFRQVYwaDhBOHpiYUF3b0tCSFJ5ZFdVU0FrZEM0Z01TRWdOSFFsQWFBd2l1S0NvR0NMT0JJQmdFNmdNU0NlNnQ4T2tGdDJOSkViTnpWbVF3RklxQ21BUUJzQVFDd0FRQjRnUVBVRU9YQU5CU1JueDhTSHp3QkFINEJMZ1hBQUFBQUE9PSF+fEoxIX58SzEhfnxMMCF+fEg3MDMhfnxJMSMjIX58SjAhfnxLMSF+fEwwIX58SDcxMCF+fEkxMjk4OC4zNiF+fEowIX58SzAhfnxMMCF+fEg3MDghfnxJM2YyMWU1NWItMmZlNy00YjFlLTgxZmEtMGY0ZWVlODI0MjU0IX58SjAhfnxLMCF+fEwwIX58dE9LIX58dUNvbm5lY3RvcnMhfnx2MCF+fHchfnx5IX58cSF+fHEwIX58eSF+fCoqKnx+fCoqKnBheW1lbnRUeXBlPU1FUkNIQU5UKioqfH58KioqcmF0ZUNvZGU9Tk9STUFMKioqfH58Kioqcm9vbU5ldFByaWNlPTY0OTQuMTgqKip8fnwqKipyb29tUHZwUHJpY2U9NjQ5NC4xOCoqKnx+fCoqKnJvb21UeXBlQ29kZT1EVVBMRVggU1VJVEUqKip8fnwqKipyb29tVHlwZUNvZGVPcmlnaW5hbD0zNzE0KioqfH58Kioqcm9vbVR5cGVOYW1lPURVUExFWCBTVUlURSoqKnx+fCoqKnN1cHBsaWVyQ29kZT1UVEhPVCMmQCYjMzc0MjQxNyMmQCYjMjAyNy0wOC0wMSNAQEAjMjAyNy0wOC0wOCMmQCYjODQwLTcwMzMtODdhZmExNWVmNDg5NTkjJkAmIzU5MDUuNjQjJkAmI2VuIyZAJiN0VFNPVWo=",
+            "roomName": "DUPLEX SUITE",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 36,
+            "code": "47F5BBBO2:HB:STD::sLZvaLYW1vdW50TmV0PTU4NjAuNioqKnx+fCoqKmFtb3VudFB2cD01ODYwLjYqKip8fnwqKipib2FyZENvZGU9TVAqKip8fnwqKipob3RlbENvZGU9MTA3MTE3OCoqKnx+fCoqKmlzQmluZGluZz1mYWxzZSoqKnx+fCoqKm9mZmVycz1FYXJseSBCb29raW5nIG9mZmVyICoqKnx+fCoqKm9wdFR5cGU9QXZhaWwqKip8fnwqKipvcHRpb25Db25maXJtSWQ9dW5kZWZpbmVkKioqfH58Kioqb3B0aW9uUmVmSWQ9MzMhfnxhMCF+fGIyNzA4MDEhfnxjMjcwODA4IX58ZDEwNzExNzghfnxlTVAhfnxmMCF+fGdHQiF+fGhHQiF+fGllbiF+fGpFVVIhfnxrMCF+fGwyMzExMCF+fG0xMDcxMTc4IX58bk1QIX58bkxPR0khfnxvMSF+fHAxIX58eDMwMDcxMTQ5IX58TTU4NjAuNiF+fE4wIX58T2ZhbHNlIX58UEVVUiF+fFEhfnxSMCF+fFMhfnxUIX58ejEjMzcxNCF+fEEzNzE0IX58QjM3MTQhfnxDMzB8MzAhfnxFRHVwbGV4IFN1aXRlIX58RkR1cGxleCBTdWl0ZSF+fEcxIX58VTIsMjkzMC4zMCwxODE2Mzg3MjAwfDIsNTg2MC42MCwxODE2OTkyMDAwIX58SDAhfnxJQkNKTkdFQkF3RE1DQUFEMERnb0hNVEEzTVRFM09CSUNUVkFhQ2pBeEx6QTRMekl3TWpjaUNqQTREQUR4ZHlvTFRXVnlZMmhoYm5SUVlYa3lBMFZWVWpvUkNnTkZWVklTQnpVNE5qQXVOajhBaUFUQkNGd29HTVNNek56RTBFQUVhQkRNM01UUWlCVE13TFRNd1NnOEtBVEVTQkFnZUVBRVNCQWdlRUFKYUFURmlFekl3TWpZdE1EY3RNekJVTVRFNk16RTZNakp5RWdpZjA3Ny9rY1htbnhjUStaL3Qxd3NZT0hwYUNpd0tBekU1TWhJUWNnRGd6QmhBQ0dnY3lPVE13TGpNd0doTlFmREU1TW53eWZCRUFwM3hGVlZJS0tnb0NNalF0QUFPaEFKTWFFbEI4TWpSOE1ud1FBUE1SZkVWVlVvSUJCVUpEVDA1SGtnRUNSMExDQVFFd3lnRVJDZ1F5T1RjMUVna0lBUGNpQVREaUFRVkJWd2tGSlRPb0JBVER5QVI0MUxqYzROamd3TWprNE5qa3pOakF4TURJNE5Ea3hNell3TVRFMk56bjZBZGdBOHlvZ01UTTZORGs2TURXS0FnYzhOVEE1TUNNK2tnSUROQzR5bWdJRE15NHdvZ0lCTU1JQ0JEVXdPVERLQWdFdytnSUJNSUlEQVRDaUF6K1NBY0Y4TWpBeU56QTRNREY4TjN4SkFaRjhSMEo4VFZCOFNIeTJBS1I4TUh4OGZIeE5mRWg4TUFEL0pUTTNNVFI4Zkh5eUF4NHhMakUyTmpVNE9EZzFOems1TWpVMk5EQXhOalE0TVRReU16QTVPVE82QXdjSW5LTERSeGdRd2dOekFRQVYwaDhBOHpmYUF3b0tCSFJ5ZFdVU0FrZEM0Z01URWdOSFFsQWFBd2kySkNvSENNUHdvQUlZQnVvREVnbnVyZkRwQmJkalNSR3pjMVprTUJTS2dwZ0VBYkFFQXNBRUFlSUVEMDFRbUFEUVVrWjhmRWg4OEFRQitBUzRGd0FBQUFBPSF+fEoxIX58SzEhfnxMMCF+fEg3MDMhfnxJMSMjIX58SjAhfnxLMSF+fEwwIX58SDcxMCF+fEkxMTcyMS4yIX58SjAhfnxLMCF+fEwwIX58SDcwOCF+fEkzZjIxZTU1Yi0yZmU3LTRiMWUtODFmYS0wZjRlZWU4MjQyNTQhfnxKMCF+fEswIX58TDAhfnx0T0shfnx1Q29ubmVjdG9ycyF+fHYwIX58dyF+fHkhfnxxIX58cTAhfnx5IX58KioqfH58KioqcGF5bWVudFR5cGU9TUVSQ0hBTlQqKip8fnwqKipyYXRlQ29kZT1OT1JNQUwqKip8fnwqKipyb29tTmV0UHJpY2U9NTg2MC42KioqfH58Kioqcm9vbVB2cFByaWNlPTU4NjAuNioqKnx+fCoqKnJvb21UeXBlQ29kZT1EVVBMRVggU1VJVEUqKip8fnwqKipyb29tVHlwZUNvZGVPcmlnaW5hbD0zNzE0KioqfH58Kioqcm9vbVR5cGVOYW1lPURVUExFWCBTVUlURSoqKnx+fCoqKnN1cHBsaWVyQ29kZT1UVEhPVCMmQCYjMzc0MjQxNyMmQCYjMjAyNy0wOC0wMSNAQEAjMjAyNy0wOC0wOCMmQCYjODQwLTcwMzMtODdhZmExNWVmNDg5NTkjJkAmIzUzMjkuNDgjJkAmI2VuIyZAJiNkZENFa2Y=",
+            "roomName": "DUPLEX SUITE",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 37,
+            "code": "47F5BIDO2:AI:STD::IJZWWoYW1vdW50TmV0PTQ5NDkuODMqKip8fnwqKiphbW91bnRQdnA9NDk0OS44MyoqKnx+fCoqKmJvYXJkQ29kZT1USSoqKnx+fCoqKmhvdGVsQ29kZT0xMDcxMTc4KioqfH58KioqaXNCaW5kaW5nPWZhbHNlKioqfH58Kioqb2ZmZXJzPUVhcmx5IEJvb2tpbmcgb2ZmZXIgKioqfH58Kioqb3B0VHlwZT1BdmFpbCoqKnx+fCoqKm9wdGlvbkNvbmZpcm1JZD11bmRlZmluZWQqKip8fnwqKipvcHRpb25SZWZJZD0zMyF+fGEwIX58YjI3MDgwMSF+fGMyNzA4MDghfnxkMTA3MTE3OCF+fGVUSSF+fGYwIX58Z0dCIX58aEdCIX58aWVuIX58akVVUiF+fGswIX58bDIzMTEwIX58bTEwNzExNzghfnxuVEkhfnxuTE9HSSF+fG8xIX58cDEhfnx4MzAwNzExNDkhfnxNNDk0OS44MyF+fE4wIX58T2ZhbHNlIX58UEVVUiF+fFEhfnxSMCF+fFMhfnxUIX58ejEjMzg1MSF+fEEzODUxIX58QjM4NTEhfnxDMzB8MzAhfnxFRmFtaWx5IFJvb20hfnxGRmFtaWx5IFJvb20hfnxHMSF+fFUyLDI0NzQuOTIsMTgxNjM4NzIwMHwyLDQ5NDkuODMsMTgxNjk5MjAwMCF+fEgwIX58SUJDSk5HRUJBd0RrQ0FBRDBEZ29ITVRBM01URTNPQklDVkVrYUNqQXhMekE0THpJd01qY2lDakE0REFEeGR5b0xUV1Z5WTJoaGJuUlFZWGt5QTBWVlVqb1JDZ05GVlZJU0J6UTVORGt1T0RhTWlBVEJDRndvR01TTXpPRFV4RUFFYUJETTROVEVpQlRNd0xUTXdTZzhLQVRFU0JBZ2VFQUVTQkFnZUVBSmFBVEZpRXpJd01qWXRNRGN0TXpCVU1URTZNekU2TWpKeUVnaXowNzcva2NYbW54Y1ErWi90MXdzWU9IcGFDaXdLQXpFNU1oSVFjZ0RNekJoQUNHZ2N5TkRjMExqa3lHaE5RZkRFNU1ud3lmQkVBcDN4RlZWSUtLZ29DTWpRdEFBT2hBSk1hRWxCOE1qUjhNbndRQVBNUmZFVlZVb0lCQlVKRFQwNUhrZ0VDUjBMQ0FRRXd5Z0VSQ2dReU9UYzFFZ2tJQVBjaUFURGlBUVZCVmFrRkpUT29CQVREeUFSNDFMamM0Tmpnd01qazROamt6TmpBeE1ESTRORGt4TXpZd01URTJPVG42QWRnQTh5b2dNVE02TkRrNk1EV0tBZ2M4TlRBNU1DTStrZ0lETkM0eW1nSURNeTR3b2dJQk1NSUNCRFV3T1RES0FnRXcrZ0lCTUlJREFUQ2lBeitTQWZFTGZESXdNamN3T0RBeGZEZDhNekF0TXpCOFIwSjhWRWw4U0h5MkFLUjhNSHg4Zkh4TmZFaDhNQUQvSlRNNE5URjhmSHl5QXg0eExqRTJOalU0T0RnMU56azVNalUyTkRBeE5qUTRNVFF5TXpBNU9UTzZBd2NJbktMRFJ4Z1F3Z056QVFBVjBoOEE4enJhQXdvS0JIUnlkV1VTQWtkQzRnTVdFZ05IUWxBYUJnalBzd0lZQWlvSENKYis4d0VZQnVvREVnbnVyZkRwQmJkalNSR3pjMVprTUJTS2dwZ0VBYkFFQXNBRUFlSUVEMVJKbXdEUVVrWjhmRWg4OEFRQitBUzRGd0FBQUFBPSF+fEoxIX58SzEhfnxMMCF+fEg3MDMhfnxJMSMjIX58SjAhfnxLMSF+fEwwIX58SDcxMCF+fEk5ODk5LjY2IX58SjAhfnxLMCF+fEwwIX58SDcwOCF+fEkzZjIxZTU1Yi0yZmU3LTRiMWUtODFmYS0wZjRlZWU4MjQyNTQhfnxKMCF+fEswIX58TDAhfnx0T0shfnx1Q29ubmVjdG9ycyF+fHYwIX58dyF+fHkhfnxxIX58cTAhfnx5IX58KioqfH58KioqcGF5bWVudFR5cGU9TUVSQ0hBTlQqKip8fnwqKipyYXRlQ29kZT1OT1JNQUwqKip8fnwqKipyb29tTmV0UHJpY2U9NDk0OS44MyoqKnx+fCoqKnJvb21QdnBQcmljZT00OTQ5LjgzKioqfH58Kioqcm9vbVR5cGVDb2RlPUZBTUlMWSBST09NKioqfH58Kioqcm9vbVR5cGVDb2RlT3JpZ2luYWw9Mzg1MSoqKnx+fCoqKnJvb21UeXBlTmFtZT1GQU1JTFkgUk9PTSoqKnx+fCoqKnN1cHBsaWVyQ29kZT1UVEhPVCMmQCYjMzc0MjQxNyMmQCYjMjAyNy0wOC0wMSNAQEAjMjAyNy0wOC0wOCMmQCYjODQwLTcwMzMtODdhZmExNWVmNDg5NTkjJkAmIzQ1MDEuMjUjJkAmI2VuIyZAJiNOa2pCc3U=",
+            "roomName": "FAMILY ROOM",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 38,
+            "code": "47F5BIDO2:FB:STD::oryoqbYW1vdW50TmV0PTQ0NzQuNjUqKip8fnwqKiphbW91bnRQdnA9NDQ3NC42NSoqKnx+fCoqKmJvYXJkQ29kZT1QQyoqKnx+fCoqKmhvdGVsQ29kZT0xMDcxMTc4KioqfH58KioqaXNCaW5kaW5nPWZhbHNlKioqfH58Kioqb2ZmZXJzPUVhcmx5IEJvb2tpbmcgb2ZmZXIgKioqfH58Kioqb3B0VHlwZT1BdmFpbCoqKnx+fCoqKm9wdGlvbkNvbmZpcm1JZD11bmRlZmluZWQqKip8fnwqKipvcHRpb25SZWZJZD0zMyF+fGEwIX58YjI3MDgwMSF+fGMyNzA4MDghfnxkMTA3MTE3OCF+fGVQQyF+fGYwIX58Z0dCIX58aEdCIX58aWVuIX58akVVUiF+fGswIX58bDIzMTEwIX58bTEwNzExNzghfnxuUEMhfnxuTE9HSSF+fG8xIX58cDEhfnx4MzAwNzExNDkhfnxNNDQ3NC42NSF+fE4wIX58T2ZhbHNlIX58UEVVUiF+fFEhfnxSMCF+fFMhfnxUIX58ejEjMzg1MSF+fEEzODUxIX58QjM4NTEhfnxDMzB8MzAhfnxFRmFtaWx5IFJvb20hfnxGRmFtaWx5IFJvb20hfnxHMSF+fFUyLDIyMzcuMzMsMTgxNjM4NzIwMHwyLDQ0NzQuNjUsMTgxNjk5MjAwMCF+fEgwIX58SUJDSk5HRUJBd0RZQ0FBRDBEZ29ITVRBM01URTNPQklDVUVNYUNqQXhMekE0THpJd01qY2lDakE0REFEeGR5b0xUV1Z5WTJoaGJuUlFZWGt5QTBWVlVqb1JDZ05GVlZJU0J6UTBOelF1Tmp3VWlBVEJDRndvR01TTXpPRFV4RUFFYUJETTROVEVpQlRNd0xUTXdTZzhLQVRFU0JBZ2VFQUVTQkFnZUVBSmFBVEZpRXpJd01qWXRNRGN0TXpCVU1URTZNekU2TWpKeUVnaXYwNzcva2NYbW54Y1ErWi90MXdzWU9IcGFDaXdLQXpFNU1oSVFjZ0RnekJoQUNHZ2N5TWpNM0xqTXpHaE5RZkRFNU1ud3lmQkVBcDN4RlZWSUtLZ29DTWpRdEFBT2hBSk1hRWxCOE1qUjhNbndRQVBNUmZFVlZVb0lCQlVKRFQwNUhrZ0VDUjBMQ0FRRXd5Z0VSQ2dReU9UYzFFZ2tJQVBjaUFURGlBUVZCVnZrRkpUT29CQVREeUFSNDFMamM0Tmpnd01qazROamt6TmpBeE1ESTRORGt4TXpZd01URTJPVFg2QWRnQTh5b2dNVE02TkRrNk1EV0tBZ2M4TlRBNU1DTStrZ0lETkM0eW1nSURNeTR3b2dJQk1NSUNCRFV3T1RES0FnRXcrZ0lCTUlJREFUQ2lBeitTQWNGOE1qQXlOekE0TURGOE4zeEpBWkY4UjBKOFVFTjhTSHkyQUtSOE1IeDhmSHhOZkVoOE1BRC9KVE00TlRGOGZIeXlBeDR4TGpFMk5qVTRPRGcxTnprNU1qVTJOREF4TmpRNE1UUXlNekE1T1RPNkF3Y0luS0xEUnhnUXdnTnpBUUFWMGg4QTh6cmFBd29LQkhSeWRXVVNBa2RDNGdNV0VnTkhRbEFhQmdpTGxnSVlBaW9IQ0lySTNBRVlCdW9ERWdudXJmRHBCYmRqU1JHemMxWmtNQlNLZ3BnRUFiQUVBc0FFQWVJRUQxQkRtd0RRVWtaOGZFaDg4QVFCK0FTNEZ3QUFBQUE9IX58SjEhfnxLMSF+fEwwIX58SDcwMyF+fEkxIyMhfnxKMCF+fEsxIX58TDAhfnxINzEwIX58STg5NDkuMyF+fEowIX58SzAhfnxMMCF+fEg3MDghfnxJM2YyMWU1NWItMmZlNy00YjFlLTgxZmEtMGY0ZWVlODI0MjU0IX58SjAhfnxLMCF+fEwwIX58dE9LIX58dUNvbm5lY3RvcnMhfnx2MCF+fHchfnx5IX58cSF+fHEwIX58eSF+fCoqKnx+fCoqKnBheW1lbnRUeXBlPU1FUkNIQU5UKioqfH58KioqcmF0ZUNvZGU9Tk9STUFMKioqfH58Kioqcm9vbU5ldFByaWNlPTQ0NzQuNjUqKip8fnwqKipyb29tUHZwUHJpY2U9NDQ3NC42NSoqKnx+fCoqKnJvb21UeXBlQ29kZT1GQU1JTFkgUk9PTSoqKnx+fCoqKnJvb21UeXBlQ29kZU9yaWdpbmFsPTM4NTEqKip8fnwqKipyb29tVHlwZU5hbWU9RkFNSUxZIFJPT00qKip8fnwqKipzdXBwbGllckNvZGU9VFRIT1QjJkAmIzM3NDI0MTcjJkAmIzIwMjctMDgtMDEjQEBAIzIwMjctMDgtMDgjJkAmIzg0MC03MDMzLTg3YWZhMTVlZjQ4OTU5IyZAJiM0MDY5LjEzIyZAJiNlbiMmQCYjU21MZWlp",
+            "roomName": "FAMILY ROOM",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 39,
+            "code": "47F5BIDO2:HB:STD::wPpueVYW1vdW50TmV0PTM4NDEuMDYqKip8fnwqKiphbW91bnRQdnA9Mzg0MS4wNioqKnx+fCoqKmJvYXJkQ29kZT1NUCoqKnx+fCoqKmhvdGVsQ29kZT0xMDcxMTc4KioqfH58KioqaXNCaW5kaW5nPWZhbHNlKioqfH58Kioqb2ZmZXJzPUVhcmx5IEJvb2tpbmcgb2ZmZXIgKioqfH58Kioqb3B0VHlwZT1BdmFpbCoqKnx+fCoqKm9wdGlvbkNvbmZpcm1JZD11bmRlZmluZWQqKip8fnwqKipvcHRpb25SZWZJZD0zMyF+fGEwIX58YjI3MDgwMSF+fGMyNzA4MDghfnxkMTA3MTE3OCF+fGVNUCF+fGYwIX58Z0dCIX58aEdCIX58aWVuIX58akVVUiF+fGswIX58bDIzMTEwIX58bTEwNzExNzghfnxuTVAhfnxuTE9HSSF+fG8xIX58cDEhfnx4MzAwNzExNDkhfnxNMzg0MS4wNiF+fE4wIX58T2ZhbHNlIX58UEVVUiF+fFEhfnxSMCF+fFMhfnxUIX58ejEjMzg1MSF+fEEzODUxIX58QjM4NTEhfnxDMzB8MzAhfnxFRmFtaWx5IFJvb20hfnxGRmFtaWx5IFJvb20hfnxHMSF+fFUyLDE5MjAuNTMsMTgxNjM4NzIwMHwyLDM4NDEuMDYsMTgxNjk5MjAwMCF+fEgwIX58SUJDSk5HRUJBd0RZQ0FBRDBEZ29ITVRBM01URTNPQklDVFZBYUNqQXhMekE0THpJd01qY2lDakE0REFEeGR5b0xUV1Z5WTJoaGJuUlFZWGt5QTBWVlVqb1JDZ05GVlZJU0J6TTROREV1TURBWWlBVEJDRndvR01TTXpPRFV4RUFFYUJETTROVEVpQlRNd0xUTXdTZzhLQVRFU0JBZ2VFQUVTQkFnZUVBSmFBVEZpRXpJd01qWXRNRGN0TXpCVU1URTZNekU2TWpKeUVnaXIwNzcva2NYbW54Y1ErWi90MXdzWU9IcGFDaXdLQXpFNU1oSVFjZ0RBekJoQUNHZ2N4T1RJd0xqVXpHaE5RZkRFNU1ud3lmQkVBcDN4RlZWSUtLZ29DTWpRdEFBT2hBSk1hRWxCOE1qUjhNbndRQVBNUmZFVlZVb0lCQlVKRFQwNUhrZ0VDUjBMQ0FRRXd5Z0VSQ2dReU9UYzFFZ2tJQVBjaUFURGlBUVZCVkFrRkpUT29CQVREeUFSNDFMamM0Tmpnd01qazROamt6TmpBeE1ESTRORGt4TXpZd01URTJPVEg2QWRnQTh5b2dNVE02TkRrNk1EV0tBZ2M4TlRBNU1DTStrZ0lETkM0eW1nSURNeTR3b2dJQk1NSUNCRFV3T1RES0FnRXcrZ0lCTUlJREFUQ2lBeitTQWNGOE1qQXlOekE0TURGOE4zeEpBWkY4UjBKOFRWQjhTSHkyQUtSOE1IeDhmSHhOZkVoOE1BRC9KVE00TlRGOGZIeXlBeDR4TGpFMk5qVTRPRGcxTnprNU1qVTJOREF4TmpRNE1UUXlNekE1T1RPNkF3Y0luS0xEUnhnUXdnTnpBUUFWMGg4QTh6cmFBd29LQkhSeWRXVVNBa2RDNGdNV0VnTkhRbEFhQmdqYjdnRVlBaW9IQ00rcXZRRVlCdW9ERWdudXJmRHBCYmRqU1JHemMxWmtNQlNLZ3BnRUFiQUVBc0FFQWVJRUQwMVFtd0RRVWtaOGZFaDg4QVFCK0FTNEZ3QUFBQUE9IX58SjEhfnxLMSF+fEwwIX58SDcwMyF+fEkxIyMhfnxKMCF+fEsxIX58TDAhfnxINzEwIX58STc2ODIuMTIhfnxKMCF+fEswIX58TDAhfnxINzA4IX58STNmMjFlNTViLTJmZTctNGIxZS04MWZhLTBmNGVlZTgyNDI1NCF+fEowIX58SzAhfnxMMCF+fHRPSyF+fHVDb25uZWN0b3JzIX58djAhfnx3IX58eSF+fHEhfnxxMCF+fHkhfnwqKip8fnwqKipwYXltZW50VHlwZT1NRVJDSEFOVCoqKnx+fCoqKnJhdGVDb2RlPU5PUk1BTCoqKnx+fCoqKnJvb21OZXRQcmljZT0zODQxLjA2KioqfH58Kioqcm9vbVB2cFByaWNlPTM4NDEuMDYqKip8fnwqKipyb29tVHlwZUNvZGU9RkFNSUxZIFJPT00qKip8fnwqKipyb29tVHlwZUNvZGVPcmlnaW5hbD0zODUxKioqfH58Kioqcm9vbVR5cGVOYW1lPUZBTUlMWSBST09NKioqfH58Kioqc3VwcGxpZXJDb2RlPVRUSE9UIyZAJiMzNzQyNDE3IyZAJiMyMDI3LTA4LTAxI0BAQCMyMDI3LTA4LTA4IyZAJiM4NDAtNzAzMy04N2FmYTE1ZWY0ODk1OSMmQCYjMzQ5Mi45NiMmQCYjZW4jJkAmI1JWZm9scw==",
+            "roomName": "FAMILY ROOM",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 40,
+            "code": "47F5E3NG2:AI:STD::syuSEQYW1vdW50TmV0PTQxNTcuODYqKip8fnwqKiphbW91bnRQdnA9NDE1Ny44NioqKnx+fCoqKmJvYXJkQ29kZT1USSoqKnx+fCoqKmhvdGVsQ29kZT0xMDcxMTc4KioqfH58KioqaXNCaW5kaW5nPWZhbHNlKioqfH58Kioqb2ZmZXJzPUVhcmx5IEJvb2tpbmcgb2ZmZXIgKioqfH58Kioqb3B0VHlwZT1BdmFpbCoqKnx+fCoqKm9wdGlvbkNvbmZpcm1JZD11bmRlZmluZWQqKip8fnwqKipvcHRpb25SZWZJZD0zMyF+fGEwIX58YjI3MDgwMSF+fGMyNzA4MDghfnxkMTA3MTE3OCF+fGVUSSF+fGYwIX58Z0dCIX58aEdCIX58aWVuIX58akVVUiF+fGswIX58bDIzMTEwIX58bTEwNzExNzghfnxuVEkhfnxuTE9HSSF+fG8xIX58cDEhfnx4MzAwNzExNDkhfnxNNDE1Ny44NiF+fE4wIX58T2ZhbHNlIX58UEVVUiF+fFEhfnxSMCF+fFMhfnxUIX58ejEjMTEyNTAwIX58QTExMjUwMCF+fEIxMTI1MDAhfnxDMzB8MzAhfnxFU3VpdGUgd2l0aCBUZXJyYWNlIX58RlN1aXRlIHdpdGggVGVycmFjZSF+fEcxIX58VTIsMjA3OC45MywxODE2Mzg3MjAwfDIsNDE1Ny44NiwxODE2OTkyMDAwIX58SDAhfnxJQkNKTkdFQkF3RFlDQUFEMERnb0hNVEEzTVRFM09CSUNWRWthQ2pBeEx6QTRMekl3TWpjaUNqQTREQUR5SmlvTFRXVnlZMmhoYm5SUVlYa3lBMFZWVWpvUkNnTkZWVklTQnpReE5UY3VPRFZZaUFUQkNHd29JTVNNeE1USTFNREFRQVJvR0NnRHhBeUlGTXpBdE16QktEd29CTVJJRUNCNFFBUVlBOFNrQ1dnRXhZaE15TURJMkxUQTNMVE13VkRFeE9qTXhPakl5Y2hJSXJ0TysvNUhGNXA4WEVQbWY3ZGNMR0RoNldnb3NDZ014T1RJU0VIWTZBOHdZUUFob0hNakEzT0M0NU14b1RVSHd4T1RKOE1ud1JBS2Q4UlZWU0Npb0tBakkwTFFBRHBRQ1RHaEpRZkRJMGZESjhFQUR6RVh4RlZWS0NBUVZDUTA5T1I1SUJBa2RDd2dFQk1Nb0JFUW9FTWprM05SSUpDQUQzSWdFdzRnRUZRSVZaQlNVenFBUUV3OGdFZU5TNDNPRFk0TURJNU9EWTVNell3TVRBeU9EUTVNVE0yTURFeE5qazArZ0hZQVBNcUlERXpPalE1T2pBMWlnSUhQRFV3T1RBalBwSUNBelF1TXBvQ0F6TXVNS0lDQVREQ0FnUTFNRGt3eWdJQk1Qb0NBVENDQXdFd29nTkJsZ0hCZkRJd01qY3dPREF4ZkRkOFNRR1JmRWRDZkZSSmZFaDh0Z0NrZkRCOGZIeDhUWHhJZkRBQUFuWUIveUY4Zkh5eUF4NHhMakUyTmpVNE9EZzFOems1TWpVMk5EQXhOalE0TVRReU16QTVPVE82QXdjSW5LTERSeGdRd2dOMUFRQVYwaDhBOVRyYUF3b0tCSFJ5ZFdVU0FrZEM0Z01XRWdOSFFsQWFCZ2l6Z2dJWUFpb0hDS3o1ekFFWUJ1b0RFZ251cmZEcEJiZGpTUkd6YzFaa01CU0tncGdFQWJBRUFzQUVBZUlFRVZSSm5RRFFVa1o4ZkVoODhBUUIrQVM0RndBQUFBQT0hfnxKMSF+fEsxIX58TDAhfnxINzAzIX58STEjIyF+fEowIX58SzEhfnxMMCF+fEg3MTAhfnxJODMxNS43MiF+fEowIX58SzAhfnxMMCF+fEg3MDghfnxJM2YyMWU1NWItMmZlNy00YjFlLTgxZmEtMGY0ZWVlODI0MjU0IX58SjAhfnxLMCF+fEwwIX58dE9LIX58dUNvbm5lY3RvcnMhfnx2MCF+fHchfnx5IX58cSF+fHEwIX58eSF+fCoqKnx+fCoqKnBheW1lbnRUeXBlPU1FUkNIQU5UKioqfH58KioqcmF0ZUNvZGU9Tk9STUFMKioqfH58Kioqcm9vbU5ldFByaWNlPTQxNTcuODYqKip8fnwqKipyb29tUHZwUHJpY2U9NDE1Ny44NioqKnx+fCoqKnJvb21UeXBlQ29kZT1TVUlURSBXSVRIIFRFUlJBQ0UqKip8fnwqKipyb29tVHlwZUNvZGVPcmlnaW5hbD0xMTI1MDAqKip8fnwqKipyb29tVHlwZU5hbWU9U1VJVEUgV0lUSCBURVJSQUNFKioqfH58Kioqc3VwcGxpZXJDb2RlPVRUSE9UIyZAJiMzNzQyNDE3IyZAJiMyMDI3LTA4LTAxI0BAQCMyMDI3LTA4LTA4IyZAJiM4NDAtNzAzMy04N2FmYTE1ZWY0ODk1OSMmQCYjMzc4MS4wNSMmQCYjZW4jJkAmI0JwTU5CbA==",
+            "roomName": "SUITE WITH TERRACE",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 41,
+            "code": "47F5E3NG2:FB:STD::zpcDifYW1vdW50TmV0PTM2ODIuNjgqKip8fnwqKiphbW91bnRQdnA9MzY4Mi42OCoqKnx+fCoqKmJvYXJkQ29kZT1QQyoqKnx+fCoqKmhvdGVsQ29kZT0xMDcxMTc4KioqfH58KioqaXNCaW5kaW5nPWZhbHNlKioqfH58Kioqb2ZmZXJzPUVhcmx5IEJvb2tpbmcgb2ZmZXIgKioqfH58Kioqb3B0VHlwZT1BdmFpbCoqKnx+fCoqKm9wdGlvbkNvbmZpcm1JZD11bmRlZmluZWQqKip8fnwqKipvcHRpb25SZWZJZD0zMyF+fGEwIX58YjI3MDgwMSF+fGMyNzA4MDghfnxkMTA3MTE3OCF+fGVQQyF+fGYwIX58Z0dCIX58aEdCIX58aWVuIX58akVVUiF+fGswIX58bDIzMTEwIX58bTEwNzExNzghfnxuUEMhfnxuTE9HSSF+fG8xIX58cDEhfnx4MzAwNzExNDkhfnxNMzY4Mi42OCF+fE4wIX58T2ZhbHNlIX58UEVVUiF+fFEhfnxSMCF+fFMhfnxUIX58ejEjMTEyNTAwIX58QTExMjUwMCF+fEIxMTI1MDAhfnxDMzB8MzAhfnxFU3VpdGUgd2l0aCBUZXJyYWNlIX58RlN1aXRlIHdpdGggVGVycmFjZSF+fEcxIX58VTIsMTg0MS4zNCwxODE2Mzg3MjAwfDIsMzY4Mi42OCwxODE2OTkyMDAwIX58SDAhfnxJQkNKTkdFQkF3RFlDQUFEMERnb0hNVEEzTVRFM09CSUNVRU1hQ2pBeEx6QTRMekl3TWpjaUNqQTREQUR5SmlvTFRXVnlZMmhoYm5SUVlYa3lBMFZWVWpvUkNnTkZWVklTQnpNMk9ESXVOandnaUFUQkNHd29JTVNNeE1USTFNREFRQVJvR0NnRHhBeUlGTXpBdE16QktEd29CTVJJRUNCNFFBUVlBOFNrQ1dnRXhZaE15TURJMkxUQTNMVE13VkRFeE9qTXhPakl5Y2hJSXFkTysvNUhGNXA4WEVQbWY3ZGNMR0RoNldnb3NDZ014T1RJU0VIWWNBOHdZUUFob0hNVGcwTVM0ek5Cb1RVSHd4T1RKOE1ud1JBS2Q4UlZWU0Npb0tBakkwTFFBRHBRQ1RHaEpRZkRJMGZESjhFQUR6RVh4RlZWS0NBUVZDUTA5T1I1SUJBa2RDd2dFQk1Nb0JFUW9FTWprM05SSUpDQUQzSWdFdzRnRUZRZ1ZaQlNVenFBUUV3OGdFZU5TNDNPRFk0TURJNU9EWTVNell3TVRBeU9EUTVNVE0yTURFeE5qZzUrZ0hZQVBNcUlERXpPalE1T2pBMWlnSUhQRFV3T1RBalBwSUNBelF1TXBvQ0F6TXVNS0lDQVREQ0FnUTFNRGt3eWdJQk1Qb0NBVENDQXdFd29nTkJsZ0hCZkRJd01qY3dPREF4ZkRkOFNRR1JmRWRDZkZCRGZFaDh0Z0NrZkRCOGZIeDhUWHhJZkRBQUFuWUIveUY4Zkh5eUF4NHhMakUyTmpVNE9EZzFOems1TWpVMk5EQXhOalE0TVRReU16QTVPVE82QXdjSW5LTERSeGdRd2dOMUFRQVYwaDhBOVRyYUF3b0tCSFJ5ZFdVU0FrZEM0Z01XRWdOSFFsQWFCZ2p2NUFFWUFpb0hDS0REdFFFWUJ1b0RFZ251cmZEcEJiZGpTUkd6YzFaa01CU0tncGdFQWJBRUFzQUVBZUlFRVZCRG5RRFFVa1o4ZkVoODhBUUIrQVM0RndBQUFBQT0hfnxKMSF+fEsxIX58TDAhfnxINzAzIX58STEjIyF+fEowIX58SzEhfnxMMCF+fEg3MTAhfnxJNzM2NS4zNiF+fEowIX58SzAhfnxMMCF+fEg3MDghfnxJM2YyMWU1NWItMmZlNy00YjFlLTgxZmEtMGY0ZWVlODI0MjU0IX58SjAhfnxLMCF+fEwwIX58dE9LIX58dUNvbm5lY3RvcnMhfnx2MCF+fHchfnx5IX58cSF+fHEwIX58eSF+fCoqKnx+fCoqKnBheW1lbnRUeXBlPU1FUkNIQU5UKioqfH58KioqcmF0ZUNvZGU9Tk9STUFMKioqfH58Kioqcm9vbU5ldFByaWNlPTM2ODIuNjgqKip8fnwqKipyb29tUHZwUHJpY2U9MzY4Mi42OCoqKnx+fCoqKnJvb21UeXBlQ29kZT1TVUlURSBXSVRIIFRFUlJBQ0UqKip8fnwqKipyb29tVHlwZUNvZGVPcmlnaW5hbD0xMTI1MDAqKip8fnwqKipyb29tVHlwZU5hbWU9U1VJVEUgV0lUSCBURVJSQUNFKioqfH58Kioqc3VwcGxpZXJDb2RlPVRUSE9UIyZAJiMzNzQyNDE3IyZAJiMyMDI3LTA4LTAxI0BAQCMyMDI3LTA4LTA4IyZAJiM4NDAtNzAzMy04N2FmYTE1ZWY0ODk1OSMmQCYjMzM0OC45MyMmQCYjZW4jJkAmI1VtbldHRQ==",
+            "roomName": "SUITE WITH TERRACE",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 42,
+            "code": "47F5E3NG2:HB:STD::JJthZvYW1vdW50TmV0PTMwNDkuMSoqKnx+fCoqKmFtb3VudFB2cD0zMDQ5LjEqKip8fnwqKipib2FyZENvZGU9TVAqKip8fnwqKipob3RlbENvZGU9MTA3MTE3OCoqKnx+fCoqKmlzQmluZGluZz1mYWxzZSoqKnx+fCoqKm9mZmVycz1FYXJseSBCb29raW5nIG9mZmVyICoqKnx+fCoqKm9wdFR5cGU9QXZhaWwqKip8fnwqKipvcHRpb25Db25maXJtSWQ9dW5kZWZpbmVkKioqfH58Kioqb3B0aW9uUmVmSWQ9MzMhfnxhMCF+fGIyNzA4MDEhfnxjMjcwODA4IX58ZDEwNzExNzghfnxlTVAhfnxmMCF+fGdHQiF+fGhHQiF+fGllbiF+fGpFVVIhfnxrMCF+fGwyMzExMCF+fG0xMDcxMTc4IX58bk1QIX58bkxPR0khfnxvMSF+fHAxIX58eDMwMDcxMTQ5IX58TTMwNDkuMSF+fE4wIX58T2ZhbHNlIX58UEVVUiF+fFEhfnxSMCF+fFMhfnxUIX58ejEjMTEyNTAwIX58QTExMjUwMCF+fEIxMTI1MDAhfnxDMzB8MzAhfnxFU3VpdGUgd2l0aCBUZXJyYWNlIX58RlN1aXRlIHdpdGggVGVycmFjZSF+fEcxIX58VTIsMTUyNC41NSwxODE2Mzg3MjAwfDIsMzA0OS4xMCwxODE2OTkyMDAwIX58SDAhfnxJQkNKTkdFQkF3RFlDQUFEMERnb0hNVEEzTVRFM09CSUNUVkFhQ2pBeEx6QTRMekl3TWpjaUNqQTREQUR5SmlvTFRXVnlZMmhoYm5SUVlYa3lBMFZWVWpvUkNnTkZWVklTQnpNd05Ea3VNVDRBaUFUQkNHd29JTVNNeE1USTFNREFRQVJvR0NnRHhBeUlGTXpBdE16QktEd29CTVJJRUNCNFFBUVlBOFNrQ1dnRXhZaE15TURJMkxUQTNMVE13VkRFeE9qTXhPakl5Y2hJSXdOTysvNUhGNXA4WEVQbWY3ZGNMR0RoNldnb3NDZ014T1RJU0VIWWdBOHdZUUFob0hNVFV5TkM0MU5Sb1RVSHd4T1RKOE1ud1JBS2Q4UlZWU0Npb0tBakkwTFFBRHBRQ1RHaEpRZkRJMGZESjhFQUR6RVh4RlZWS0NBUVZDUTA5T1I1SUJBa2RDd2dFQk1Nb0JFUW9FTWprM05SSUpDQUQzSWdFdzRnRUZRQVZaQlNVenFBUUV3OGdFZU5TNDNPRFk0TURJNU9EWTVNell3TVRBeU9EUTVNVE0yTURFeE56RXkrZ0hZQVBNcUlERXpPalE1T2pBMWlnSUhQRFV3T1RBalBwSUNBelF1TXBvQ0F6TXVNS0lDQVREQ0FnUTFNRGt3eWdJQk1Qb0NBVENDQXdFd29nTkJsZ0hCZkRJd01qY3dPREF4ZkRkOFNRR1JmRWRDZkUxUWZFaDh0Z0NrZkRCOGZIeDhUWHhJZkRBQUFuWUIveUY4Zkh5eUF4NHhMakUyTmpVNE9EZzFOems1TWpVMk5EQXhOalE0TVRReU16QTVPVE82QXdjSW5LTERSeGdRd2dOMUFRQVYwaDhBOVRyYUF3b0tCSFJ5ZFdVU0FrZEM0Z01XRWdOSFFsQWFCZ2kvdlFFWUFpb0hDT1dsbGdFWUJ1b0RFZ251cmZEcEJiZGpTUkd6YzFaa01CU0tncGdFQWJBRUFzQUVBZUlFRVUxUW5RRFFVa1o4ZkVoODhBUUIrQVM0RndBQUFBQT0hfnxKMSF+fEsxIX58TDAhfnxINzAzIX58STEjIyF+fEowIX58SzEhfnxMMCF+fEg3MTAhfnxJNjA5OC4yIX58SjAhfnxLMCF+fEwwIX58SDcwOCF+fEkzZjIxZTU1Yi0yZmU3LTRiMWUtODFmYS0wZjRlZWU4MjQyNTQhfnxKMCF+fEswIX58TDAhfnx0T0shfnx1Q29ubmVjdG9ycyF+fHYwIX58dyF+fHkhfnxxIX58cTAhfnx5IX58KioqfH58KioqcGF5bWVudFR5cGU9TUVSQ0hBTlQqKip8fnwqKipyYXRlQ29kZT1OT1JNQUwqKip8fnwqKipyb29tTmV0UHJpY2U9MzA0OS4xKioqfH58Kioqcm9vbVB2cFByaWNlPTMwNDkuMSoqKnx+fCoqKnJvb21UeXBlQ29kZT1TVUlURSBXSVRIIFRFUlJBQ0UqKip8fnwqKipyb29tVHlwZUNvZGVPcmlnaW5hbD0xMTI1MDAqKip8fnwqKipyb29tVHlwZU5hbWU9U1VJVEUgV0lUSCBURVJSQUNFKioqfH58Kioqc3VwcGxpZXJDb2RlPVRUSE9UIyZAJiMzNzQyNDE3IyZAJiMyMDI3LTA4LTAxI0BAQCMyMDI3LTA4LTA4IyZAJiM4NDAtNzAzMy04N2FmYTE1ZWY0ODk1OSMmQCYjMjc3Mi43NyMmQCYjZW4jJkAmI3dPU3FYdQ==",
+            "roomName": "SUITE WITH TERRACE",
+            "provider": "JumboTours",
+            "providerHotelId": "127773",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 43,
+            "code": "1336999599-576",
+            "roomName": "Deluxe Room (Ocean Front)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 44,
+            "code": "1336999599-577",
+            "roomName": "Prestige Room (Oceanview)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 45,
+            "code": "1336999599-578",
+            "roomName": "Suite (Terrace)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 46,
+            "code": "1336999599-579",
+            "roomName": "Deluxe Room (Ocean Front)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 47,
+            "code": "1336999599-580",
+            "roomName": "Prestige Room (Oceanview)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 48,
+            "code": "1336999599-581",
+            "roomName": "Deluxe Room (Ocean Front)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 49,
+            "code": "1336999599-582",
+            "roomName": "Suite (Terrace)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 50,
+            "code": "1336999599-583",
+            "roomName": "FamilyRoom",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 51,
+            "code": "1336999599-584",
+            "roomName": "Prestige Room (Oceanview)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 52,
+            "code": "1336999599-585",
+            "roomName": "Suite (Terrace)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 53,
+            "code": "1336999599-586",
+            "roomName": "FamilyRoom",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 54,
+            "code": "1336999599-587",
+            "roomName": "FamilyRoom",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 55,
+            "code": "1336999599-588",
+            "roomName": "Duplex Suite ",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 56,
+            "code": "1336999599-589",
+            "roomName": "Duplex Suite ",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 57,
+            "code": "1336999599-590",
+            "roomName": "Duplex Suite ",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 58,
+            "code": "1336999599-591",
+            "roomName": "Deluxe, Ocean Front (Double)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 59,
+            "code": "1336999599-592",
+            "roomName": "Deluxe, Ocean Front (Double)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 60,
+            "code": "1336999599-593",
+            "roomName": "Deluxe, Ocean Front (Double)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 61,
+            "code": "1336999599-594",
+            "roomName": "Prestige, Ocean View (Double)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 62,
+            "code": "1336999599-595",
+            "roomName": "Prestige, Ocean View (Double)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 63,
+            "code": "1336999599-596",
+            "roomName": "Prestige, Ocean View (Double)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 64,
+            "code": "1336999599-597",
+            "roomName": "Suite, Terrace (Double)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 65,
+            "code": "1336999599-598",
+            "roomName": "Suite, Terrace (Double)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 66,
+            "code": "1336999599-599",
+            "roomName": "Suite, Terrace (Double)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 67,
+            "code": "1336999599-600",
+            "roomName": "Family (Double)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 68,
+            "code": "1336999599-601",
+            "roomName": "Family (Double)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 69,
+            "code": "1336999599-602",
+            "roomName": "Family (Double)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 70,
+            "code": "1336999599-603",
+            "roomName": "Duplex, Suite (Double)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 71,
+            "code": "1336999599-604",
+            "roomName": "Duplex, Suite (Double)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 72,
+            "code": "1336999599-605",
+            "roomName": "Duplex, Suite (Double)",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 73,
+            "code": "1336999599-606",
+            "roomName": "Deluxe Ocean Facing",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 74,
+            "code": "1336999599-607",
+            "roomName": "Deluxe Ocean Facing",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 75,
+            "code": "1336999599-608",
+            "roomName": "Deluxe Ocean Facing",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 76,
+            "code": "1336999599-609",
+            "roomName": "PRESTIGE OCEAN VIEW",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 77,
+            "code": "1336999599-610",
+            "roomName": "PRESTIGE OCEAN VIEW",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 78,
+            "code": "1336999599-611",
+            "roomName": "PRESTIGE OCEAN VIEW",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 79,
+            "code": "1336999599-612",
+            "roomName": "Terrace Suite",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 80,
+            "code": "1336999599-613",
+            "roomName": "Terrace Suite",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 81,
+            "code": "1336999599-614",
+            "roomName": "Terrace Suite",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 82,
+            "code": "1336999599-615",
+            "roomName": "Family Room  ",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 83,
+            "code": "1336999599-616",
+            "roomName": "Family Room  ",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 84,
+            "code": "1336999599-617",
+            "roomName": "Family Room  ",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 85,
+            "code": "1336999599-618",
+            "roomName": "Duplex Suite ",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 86,
+            "code": "1336999599-619",
+            "roomName": "Duplex Suite ",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 87,
+            "code": "1336999599-620",
+            "roomName": "Duplex Suite ",
+            "provider": "Stuba",
+            "providerHotelId": "329490",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 88,
+            "code": "1248377!TB!3!TB!aaa1fe5b-8c0c-11f1-9c4c-aef607f72bcd!TB!N!TB!AFF!",
+            "roomName": "DELUXE OCEAN VIEW",
+            "provider": "TBO",
+            "providerHotelId": "1248377",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 89,
+            "code": "1248377!TB!5!TB!aaa1fe5b-8c0c-11f1-9c4c-aef607f72bcd!TB!N!TB!AFF!",
+            "roomName": "DELUXE ROOM - SEA VIEW",
+            "provider": "TBO",
+            "providerHotelId": "1248377",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 90,
+            "code": "1248377!TB!12!TB!aaa1fe5b-8c0c-11f1-9c4c-aef607f72bcd!TB!N!TB!AFF!",
+            "roomName": "PRESTIGE ROOM OCEAN VIEW",
+            "provider": "TBO",
+            "providerHotelId": "1248377",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 91,
+            "code": "1248377!TB!16!TB!aaa1fe5b-8c0c-11f1-9c4c-aef607f72bcd!TB!N!TB!AFF!",
+            "roomName": "TERRACE SUITE",
+            "provider": "TBO",
+            "providerHotelId": "1248377",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 92,
+            "code": "1248377!TB!15!TB!aaa1fe5b-8c0c-11f1-9c4c-aef607f72bcd!TB!N!TB!AFF!",
+            "roomName": "DELUXE OCEAN VIEW",
+            "provider": "TBO",
+            "providerHotelId": "1248377",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 93,
+            "code": "1248377!TB!2!TB!aaa1fe5b-8c0c-11f1-9c4c-aef607f72bcd!TB!N!TB!AFF!",
+            "roomName": "DELUXE ROOM - SEA VIEW",
+            "provider": "TBO",
+            "providerHotelId": "1248377",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 94,
+            "code": "1248377!TB!11!TB!aaa1fe5b-8c0c-11f1-9c4c-aef607f72bcd!TB!N!TB!AFF!",
+            "roomName": "PRESTIGE ROOM OCEAN VIEW",
+            "provider": "TBO",
+            "providerHotelId": "1248377",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 95,
+            "code": "1248377!TB!6!TB!aaa1fe5b-8c0c-11f1-9c4c-aef607f72bcd!TB!N!TB!AFF!",
+            "roomName": "DELUXE OCEAN VIEW",
+            "provider": "TBO",
+            "providerHotelId": "1248377",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 96,
+            "code": "1248377!TB!7!TB!aaa1fe5b-8c0c-11f1-9c4c-aef607f72bcd!TB!N!TB!AFF!",
+            "roomName": "TERRACE SUITE",
+            "provider": "TBO",
+            "providerHotelId": "1248377",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 97,
+            "code": "1248377!TB!13!TB!aaa1fe5b-8c0c-11f1-9c4c-aef607f72bcd!TB!N!TB!AFF!",
+            "roomName": "DELUXE ROOM - SEA VIEW",
+            "provider": "TBO",
+            "providerHotelId": "1248377",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 98,
+            "code": "1248377!TB!10!TB!aaa1fe5b-8c0c-11f1-9c4c-aef607f72bcd!TB!N!TB!AFF!",
+            "roomName": "FAMILY ROOM",
+            "provider": "TBO",
+            "providerHotelId": "1248377",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 99,
+            "code": "1248377!TB!18!TB!aaa1fe5b-8c0c-11f1-9c4c-aef607f72bcd!TB!N!TB!AFF!",
+            "roomName": "PRESTIGE ROOM OCEAN VIEW",
+            "provider": "TBO",
+            "providerHotelId": "1248377",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 100,
+            "code": "1248377!TB!1!TB!aaa1fe5b-8c0c-11f1-9c4c-aef607f72bcd!TB!N!TB!AFF!",
+            "roomName": "TERRACE SUITE",
+            "provider": "TBO",
+            "providerHotelId": "1248377",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 101,
+            "code": "1248377!TB!14!TB!aaa1fe5b-8c0c-11f1-9c4c-aef607f72bcd!TB!N!TB!AFF!",
+            "roomName": "FAMILY ROOM",
+            "provider": "TBO",
+            "providerHotelId": "1248377",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 102,
+            "code": "1248377!TB!8!TB!aaa1fe5b-8c0c-11f1-9c4c-aef607f72bcd!TB!N!TB!AFF!",
+            "roomName": "FAMILY ROOM",
+            "provider": "TBO",
+            "providerHotelId": "1248377",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 103,
+            "code": "1248377!TB!17!TB!aaa1fe5b-8c0c-11f1-9c4c-aef607f72bcd!TB!N!TB!AFF!",
+            "roomName": "DUPLEX SUITE",
+            "provider": "TBO",
+            "providerHotelId": "1248377",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 104,
+            "code": "1248377!TB!4!TB!aaa1fe5b-8c0c-11f1-9c4c-aef607f72bcd!TB!N!TB!AFF!",
+            "roomName": "DUPLEX SUITE",
+            "provider": "TBO",
+            "providerHotelId": "1248377",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 105,
+            "code": "1248377!TB!9!TB!aaa1fe5b-8c0c-11f1-9c4c-aef607f72bcd!TB!N!TB!AFF!",
+            "roomName": "DUPLEX SUITE",
+            "provider": "TBO",
+            "providerHotelId": "1248377",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 106,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP038613!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP038613!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071149!~|M10269.56!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR33042941!~|AJR33042941!~|BJR33042941!~|C30|30!~|EDeluxe Ocean Facing Double!~|FDeluxe Ocean Facing Double!~|G1!~|U2,0,1785319200|2,5134.78,1816164000|2,5134.78,1816336800|2,10269.56,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|If/Ii0hl7CcEl07VALlq6knyzBmjhONnE9lkokK5LypWXdx+oMC3DREhe24gbMJuUooQfKC98CaxCIwuL6earGmyP869LI7Ggs1DEgbUdQw3KEGtyJ5Kri7DNbVYmvzf8YFydxTvNj1vS9keSktdHku4TS8G2EH2QSaGfA+9ryVR9rbq0Q9vMTi+m1oFkEVhRUzwegO4gTN/ESKPwCHI5j7nB2p2Ar9Ck8oJkodYYXdy7okdb3+daaEtu0fL3AhDKK0qBFVflyqGvdyldW40MTUK8CeTmnzbcC72oF5a7lk0pRCLxGX8AkNtUb2JILXzz88TyEPRutcy0ApkDdHf4M4I7Ha+PryHFl67dHUODcWb+cXQz32hcJXwGxRbuq0oAI2BGj2UiOL4pSY5tWBYZfIevuKDKL1BzhiIJL9BIQTRQuzH4wbnS4I1A7z5QHFC4!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I10269.56!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Deluxe Ocean Facing Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP038613",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 107,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP038613!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP038613!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071149!~|M11713.73!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR041353!~|AJR041353!~|BJR041353!~|C30|30!~|EPrestige Ocean View Double!~|FPrestige Ocean View Double!~|G1!~|U2,0,1785319200|2,5856.86,1816164000|2,5856.86,1816336800|2,11713.73,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|If/Ii0hl7CcEl07VALlq6knyzBmjhONnE9lkokK5LypUofI8RaUWu+wqJGfj+sxunk+BG7BzZTYOUwho4T33f/i19/yGoqrcCZNQRBHHkOcpNOETchOr0K4gY5vSHvsUtJBL0Adwx/7Iqkcan5ww8VGTpRsj/X3c85k7Y70sD3Zxvn62PQisoTDW7b8djJN55fmokc9UU1e7t1GBYi8DRGqV2AvjXiUoplq5O9LZ3hnsYrC6achiUVtNvF1htneJg3wLkfjQA8zjpc+4hTTvBJ2/GTYJfPSZdEbmh5nq98AEtVFRASrv8fB5xAoNY2g2LYmxemT48OD/Dj3XMwF4ImJLCEeC1ZMLJMAzoABI4XlEc1064eSxBOIHZyw05MyCysO+fFIpHyBoi6PHCFspfqJ7WtSt1sFnZwKQhd1PWaH2ZiuhgUyyYaqc0RZ/Pf29u!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I11713.73!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Prestige Ocean View Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP038613",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 108,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP038613!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP038613!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071149!~|M12355.56!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR002230!~|AJR002230!~|BJR002230!~|C30|30!~|ETerrace Suite Double!~|FTerrace Suite Double!~|G1!~|U2,0,1785319200|2,6177.78,1816164000|2,6177.78,1816336800|2,12355.56,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|If/Ii0hl7CcEl07VALlq6knyzBmjhONnE9lkokK5LypWVzUcSzQ/ZOTLUxQHTz8L7a049UQba5bpABV46pIVcURDOt34vaLVNm/OQdV+2B+rK9ErlTDgT19PdbkUm2Q/M+/HXdfD+xOYAkfU2suW+LQ7Yo2ESPe99SE+ZkyLYzbUNFLJxwpulbZk5CSq28RuC9ayBW/rGF99jCAu7+ETgu1KHosJrGSnn/aZFfofSoIVtnn76rLnRSOQC0dPvaAx2uGnXKzfTrgULhlw/Isb2zv+WGuM6qKGo2ShrbaoMnjoD8npvcKu7X0b9ukiGHlUf4LnADHf+W2GtM47LPjm4XsagvUKIzEXhPVzPQoPgubksqTXS+X0S8GlzsChb/skF2BwMUbuoJlx0Raopm54pi4KoMyr39W+eRuYlra7vQICxy33UqAaRc/48sa3eqJGT!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I12355.56!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Terrace Suite Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP038613",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 109,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP038613!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP038613!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071149!~|M15564.78!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR037264!~|AJR037264!~|BJR037264!~|C30|30!~|EFamily Room Double!~|FFamily Room Double!~|G1!~|U2,0,1785319200|2,7782.39,1816164000|2,7782.39,1816336800|2,15564.78,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|If/Ii0hl7CcEl07VALlq6knyzBmjhONnE9lkokK5LypWOvWRgWIIUbXFqMk2w9rGqLT9ZfVVbOkgcFm/vWBO7DZU3GpUvZxG/uB0WnqM8dI7HIXQ/A/X1GbAmT1fKbOyIz/wNDC/OzI4oEXqqBWYMyjj4ZmS3au8vq+sKi9Y3xU8sMmpnaUu6ewlsLTF5DpU2n5l4ktw9PCggDHZKj1tP5rqQ9084JrcG9rVRJnMyfbm8fwXRF7LmBYddxffeqFt3yusPTu5PbpkzcN+ACykl1JAh9zxKWr0QnTWbHrO3FXx5s8v0wk7gBaGWtyaMHbqt6+HW809eN9DBZHSCB5MHbKVNXjEyLfeNVQWfNl6aM5Ek1OLpUkqsC/TFQ0EwGPirqr1zZwQn5os68qOgEoQ72NUVS+hFJ5tNTDcv6roS5TdRronWav6/0qVu17wEObqm!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I15564.78!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Family Room Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP038613",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 110,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP038613!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP038613!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071149!~|M23748.27!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR010833!~|AJR010833!~|BJR010833!~|C30|30!~|EDuplex Suite Double!~|FDuplex Suite Double!~|G1!~|U2,0,1785319200|2,11874.14,1816164000|2,11874.14,1816336800|2,23748.27,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|If/Ii0hl7CcEl07VALlq6knyzBmjhONnE9lkokK5LypUzTHTAED8LAbiQHhTd6iJ/oOCrK9Dya/1YTdxj53i2N0KF1R3e1sm/KWOx9m1D8dXeNlqfM2i+hqybxvjwIWN3q5YPvjsqrmotRBAKTBNatcyDO3/vVC7I5bQ6IalOaSM+EtQ0MphfQjG6nuYfwrpyAcC5iagt7TenWPDcrWdKTsnk+frkqIBcvzAxAiwlDIs8cTH3dIxXAyB1MlpNZc0cvMwRHuP72BhYiXDPbODa2tQoBpKC9AM+sw2RzlcXDKXJWxH08rjYW4u8BEHWG1eO8paf+Js3zY406qEM2BLQE0OG9+ynvNc1fhfPpMbMUr/1ENGvW9QW5YZLHHSi/aGrYC10OoG2BTv6NWz5d1rtJM1KcHUb11VwZlsfV3IgGjUe5/PN1GukrPbf1UU9m5vV!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I23748.27!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Duplex Suite Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP038613",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 111,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP038613!~|ePC!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP038613!~|nPC!~|nEDMC!~|o1!~|p1!~|x30071149!~|M13122.2!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR33042941!~|AJR33042941!~|BJR33042941!~|C30|30!~|EDeluxe Ocean Facing Double!~|FDeluxe Ocean Facing Double!~|G1!~|U2,0,1785319200|2,6561.10,1816164000|2,6561.10,1816336800|2,13122.20,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|If/Ii0hl7CcEl07VALlq6knyzBmjhONnE9lkokK5LypUMhl5awzff2/BhTzYVKebFy10xJj/tJRNOEhjFvD7Ga9dafA+WxahYy9mvpv66BiKkwV2562/19XV7+2ki2Ckoi06qBJ/NwMbk4IQmDw1bh5PiaIwEN9h8BYjpJij0UtPMPXrL9oMYyDUt/HD3Cb6H5zFdgX8LxlMRqNUanHjhcc1Pl+uyDXC/9Of0FYf4WIO3LMNxbIdsftud9OVaQc9mreM9xLJWM1xiH57j+kue9YLBmn/QUQN6TczyRs74ZKeinY8KSL4Cw4EIOfKEDI1wdmnyQ/JzgkwdYzaSP10TlJ0HikdaKAYfLW4IjHNLLfqL0tOoxsdBvJpcN2L5AFUTfqwWm4fA9Bw1pHIDB/eNT8Xtf6z9fY7n+HuJosGBx674zW2Q1Dqy3m736zWF06gN!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I13122.2!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Deluxe Ocean Facing Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP038613",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 112,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP038613!~|ePC!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP038613!~|nPC!~|nEDMC!~|o1!~|p1!~|x30071149!~|M14566.37!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR041353!~|AJR041353!~|BJR041353!~|C30|30!~|EPrestige Ocean View Double!~|FPrestige Ocean View Double!~|G1!~|U2,0,1785319200|2,7283.19,1816164000|2,7283.19,1816336800|2,14566.37,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|If/Ii0hl7CcEl07VALlq6knyzBmjhONnE9lkokK5LypV17LCEdAU7m8aT+eAePgyNtiVsyZLUkXFxRtB5gOeCKf7wDgxMGMo647wHq5Spcz4VsPxyAlHJtoIobCUf5P9W7FJa6QXyuYS+yGf8E6xzecCbUv6GpeCFYi03oGbwID3VExBzONtyGzoluIwsnebGGuDaQxUcHWfjCfjpI6f+S6XSRCmyKVCA4oiyP1R+o2aBQ47SwPPXAplOSTMfGWU98leN8dBap1X13HVWuwX5Vpp4UJYl1LVMXW1tPiRkV/P8gtT7jV7RU1T2k+XbQWcYFAo08XT5/UbH6iEjGqgoaItuyXacb4JWrXIjP8XSYVkfAOe0f/iRhFCHrKsOgQd9u4WOCXzatoyF0a9eZWon8pPdws1/LP+o0nJMPdtiqSp6uTP+7Ci4+Pk5x7+K1gR5!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I14566.37!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Prestige Ocean View Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP038613",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 113,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP038613!~|ePC!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP038613!~|nPC!~|nEDMC!~|o1!~|p1!~|x30071149!~|M15208.2!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR002230!~|AJR002230!~|BJR002230!~|C30|30!~|ETerrace Suite Double!~|FTerrace Suite Double!~|G1!~|U2,0,1785319200|2,7604.10,1816164000|2,7604.10,1816336800|2,15208.20,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|If/Ii0hl7CcEl07VALlq6knyzBmjhONnE9lkokK5LypXUfz4S/RUgdR7cfZ6oip2JYZlvUPk0lsjPHpVuzT9+TkmvokQMpEkrM8tkbFVjkthIFp21g8s6RvxsS4vEHxZ7Oo1T/gOSb1v9mOvJvDr9u4afPzq+tzqGnMVgYlVWTu49mKs2R7MjwJvRtyrf3RlfX34+HiU8QDkJEk0eGADR/ZK6UD644teSCqi4eJuZlX2Q8/b5xypHy4faKsXPFQe35t0FnbKWWps7cay85934faNHPc4Dmd7vtQrlwl5Mvg6HNkU6T7Po6ucD9D++PW4ujT6u146NQCafuYIEre6ec/oPGAXB0T8627JKbC7tDgIjdY2GoPS+wDxuL+ZWBCABqZ9eFAuRIh7p3rUWTR891bOCmGFHm5QbcZU9yYeH/bBtci8qJQbGQkhhxkV0iIp0!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I15208.2!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Terrace Suite Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP038613",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 114,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP038613!~|ePC!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP038613!~|nPC!~|nEDMC!~|o1!~|p1!~|x30071149!~|M18417.42!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR037264!~|AJR037264!~|BJR037264!~|C30|30!~|EFamily Room Double!~|FFamily Room Double!~|G1!~|U2,0,1785319200|2,9208.71,1816164000|2,9208.71,1816336800|2,18417.42,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|If/Ii0hl7CcEl07VALlq6knyzBmjhONnE9lkokK5LypWNv6yn6bWd0nzEwr1gp/ltIUGSdgZUuvTAwfXB7iV5QdoPiBej8JSyxGIBxWRAOvuamWyLj9mpEKJEC2YMlRkaFkOU7njHJkzZ/5fOUAwLzZERnL4m1dHD+wuuGF/d161ZCiiN+AMgso9UTdqxj0YBZmyJXGepBn+TJkB2e6qOVv5kwN4rPNqUySQQNKKGwBVUF+zjaay4eP8ZgUeiokRGPXqeUNdirZVBYxQfAZ51WSp5fhtOA9LoFD4X+D52+ULPF8Joqfp1pG/rsvRGwvm39WnrApJhc/jI7199rLkCTybkrJ0zZqtbfOmlvAVns76Hg6KhHP7HjkscshivIobRpiJwoZJoZ4mk/b9qaQ4Y5jA6kEU3u9pcCe9T4WyJDmk3t92WvduYYjb+5x0jyU9g!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I18417.42!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Family Room Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP038613",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 115,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP038613!~|ePC!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP038613!~|nPC!~|nEDMC!~|o1!~|p1!~|x30071149!~|M26600.91!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR010833!~|AJR010833!~|BJR010833!~|C30|30!~|EDuplex Suite Double!~|FDuplex Suite Double!~|G1!~|U2,0,1785319200|2,13300.45,1816164000|2,13300.45,1816336800|2,26600.91,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|If/Ii0hl7CcEl07VALlq6knyzBmjhONnE9lkokK5LypXPhn7csHBYfET1mcqrSUQ9Eodqcawuiqh1L+HXRXbIUqw3p24/mAOzf4OIPQSAojSS1X7Jdbf0fw36HudwSQqhGMhGX7f299F6Bn58BikVEnNvYEJojskuqd9RuS1Ontq/uVTNi3CKmyn/l3gfufkFukdzbrsobiAuD01c/StGohbVlqAamnVZ4GkQeS+ye9ibqou3C0dPZ9yrSIu+Tg2l+6Y516QjU6WMmSdAVAtkaoOLZBzYqkYxMjMlTQwgH2N8o6Udg/eBnp1SrOHaNya+bin4TnKq0Ilr5dDAEsSnYBIJxZPWy4k+12jyzYYuvcrTdcxKNZ3oBId+yjEp155PBbW/dtzm+RlC/ToSuTr5ZeHoO4wGWt+kFQzUJsURVNbO+O0STZkhXtHu5cd/xxy/!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I26600.91!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Duplex Suite Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP038613",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 116,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP038613!~|eTI!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP038613!~|nTI!~|nEDMC!~|o1!~|p1!~|x30071149!~|M15261.68!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR33042941!~|AJR33042941!~|BJR33042941!~|C30|30!~|EDeluxe Ocean Facing Double!~|FDeluxe Ocean Facing Double!~|G1!~|U2,0,1785319200|2,7630.84,1816164000|2,7630.84,1816336800|2,15261.68,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|If/Ii0hl7CcEl07VALlq6knyzBmjhONnE9lkokK5LypVOT5tJf91qcG1JGNtyGu2IhG2U3jRRetGGDP9Fdav1Ru/aiyJJtMT9ZGFDT0vH5DxkYT9WANCT34CIaDzaczlaUPrG+uw6mixQZxvD/PHc7++C7BcCx2UOMH982ZiQ4JEGA/HsYqbct13xNPouIhNpdXUPRsUhzoZ5Tm2MNxi/w/XUc6KM9Bo8qpfrTft2xm9mJcxKRKdCNpbVwnop7xYaz5NFP3JxiE/GNeEESWbO3ZEBImeoJLsaOTrM3N8okXzQ4uAGSa20Jznnhh618qCxL1OohZ3CvnPe9rRwP0tCJffSZDr2Zk+4KqoTCjdaeNThHL6cHw//G5SVTunybG7wxMCpGEzh+HSXcynXG/vYD9JoJZWoVXFfZoJcaFQZQ5QKJ9ydUgBVmKJuokwb2sRl!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I15261.68!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Deluxe Ocean Facing Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP038613",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 117,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP038613!~|eTI!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP038613!~|nTI!~|nEDMC!~|o1!~|p1!~|x30071149!~|M16705.85!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR041353!~|AJR041353!~|BJR041353!~|C30|30!~|EPrestige Ocean View Double!~|FPrestige Ocean View Double!~|G1!~|U2,0,1785319200|2,8352.92,1816164000|2,8352.92,1816336800|2,16705.85,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|If/Ii0hl7CcEl07VALlq6knyzBmjhONnE9lkokK5LypXVlZOZgeKcnYMwRPImg0P0v1bZMHl2krqZsnPk1wjND4TN0N5Th+X0dvjhUdF5h8nSouU+650dVM7wRluvNbOugj/8jaaZo5pvyYv4dBcARlTXB+cd0lFqN5aAjZ4aXnOgkD3+5ryc5YPVXqJ9QJzt0F/9g59H/FX9qLJZJ2B1KNH5yOxgnNrdLGHIbJ/CPetAaAOcbmRNdboJS6hlZ14l53DfRSDG9Gz/1VpLwv/J9gnSnUknwdIGlA6mytwx6OLz4oJjreBAcW2GbnAU5XHmU9xUrB3T6NBDg8SeXte5PP/T9NQtEWo5Wtm0eIJzW/jdDICocOOEw0akwVXSbK6eA5Na3my8oPDPPLelkHygE+t1+Da8hKV3bURx/W19UHiF0x0U7FbxErzBSkqV9/A4!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I16705.85!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Prestige Ocean View Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP038613",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 118,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP038613!~|eTI!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP038613!~|nTI!~|nEDMC!~|o1!~|p1!~|x30071149!~|M17347.68!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR002230!~|AJR002230!~|BJR002230!~|C30|30!~|ETerrace Suite Double!~|FTerrace Suite Double!~|G1!~|U2,0,1785319200|2,8673.84,1816164000|2,8673.84,1816336800|2,17347.68,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|If/Ii0hl7CcEl07VALlq6knyzBmjhONnE9lkokK5LypUlQeQe0GP2bhiakPVx4fOXQEkvaqyYv1dxu/dvImjEC9AcCITNN4+YDbxDlK806mv9ZDD7XLd3GDUdcNUAU9lfOyH8puojwtuvPkYd+2QZHXDE9t2C8HzLVmq7I7L+kYGpQgh//eMKTlyBWoxiTQQf2o7Y1yTVlB2FEsNzR4KZNWeatraa2VzbVzv18Kopetdxi3EJTYF7tRVxl1WlbEepMmK67T7Sk6Rrie+MsTtyc1J5zeJ/8A0wRiM1Z76xANW6kYHI8J/Mz6+GHYhxp7C6B9SOa/evdZusHcPmfuC3M2rYy8+mPUErvEiMhufVHACQgOyjrbbJai8Af5k8+S3Ej8dQY0ILAsgsXSwsb1HB7N5XAnhwkykyi8hqQRSgfA0lSiCvNnyChvl3vrfjIvXd!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I17347.68!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Terrace Suite Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP038613",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 119,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP038613!~|eTI!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP038613!~|nTI!~|nEDMC!~|o1!~|p1!~|x30071149!~|M20556.9!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR037264!~|AJR037264!~|BJR037264!~|C30|30!~|EFamily Room Double!~|FFamily Room Double!~|G1!~|U2,0,1785319200|2,10278.45,1816164000|2,10278.45,1816336800|2,20556.90,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|If/Ii0hl7CcEl07VALlq6knyzBmjhONnE9lkokK5LypXYrCSTaLCypaZbezFJ2b2hlsymg59P4ZLCcJMpP1z2fLefZccpb/aSxBLbQqJ+l/RZK9g4dquPH9UXYd/v5YzULks3HmHebjL6z98Lx90eIXH6batc6KQu+at43+dJa2ez8uhfDO4oK9mphywBv1qZ4R18uewHrUCVdSMiDdOZ5IVbzxwAf2yMhPV1Rr0Ue0X3a4T7Kf8yxfl0hANqcNaiDApIxElPv8vtIlbdsaGR7HLbtq7f869GC1Y4AubG1zY4x6+WE9LaL/iZ1bx+H+o7HTVdYWRdAlILDG6Sb7HGYUkIzAxbA0BNjdlr5aA2NBGBy5CqxaVopmAqi8vDKdwZVCaSNXgGLUmV0MyTCfQoWjjNdYeqQBTYCR5lTIV/TtW1XFadRGcjdNOzxEzbYUKe!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I20556.9!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Family Room Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP038613",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 120,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP038613!~|eTI!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP038613!~|nTI!~|nEDMC!~|o1!~|p1!~|x30071149!~|M28740.39!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR010833!~|AJR010833!~|BJR010833!~|C30|30!~|EDuplex Suite Double!~|FDuplex Suite Double!~|G1!~|U2,0,1785319200|2,14370.19,1816164000|2,14370.19,1816336800|2,28740.39,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|If/Ii0hl7CcEl07VALlq6knyzBmjhONnE9lkokK5LypWth1CKW9mSQmkDZXWH+chzPm/JGbQRSez1Z6xMhmVFKHl3/e+J0TjrewkVlKdYl1JJO3w2kpY7BgvDtWT9+6bhtBhEtKaJkzPSFOzM2vmfxiuKPIpv6wKtqr96Uspnw5CLDgMG3jA2CYOr7VTWWMq7cyPjM5rbufTzVGuiJjGMVzn0iGuGXGfhxjTpj017vN1fW3rUqvPsM2lRA392WDRVrabhiGqrEdowewaF8PDIEh2y2uWsgfB5Sb7hee7mIKEPS4GtfTzxEMcFzWrL0BC/9G5W9z9FDwHVTNuviPFX7kd78h3aNElBxKTzhH8Durg6rVHnXjVT+nlBDWfaa92MH2ytcvwG4ixmhkAx9C+Vzt0lN/eKs5ahzmuWsg6yKtO4beAZ9Mk4wh3gWVmXDCdG!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I28740.39!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Duplex Suite Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP038613",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 121,
+            "code": "27307291/244248695322177924/321",
+            "roomName": "Deluxe Ocean Facing",
+            "provider": "GoGlobal",
+            "providerHotelId": "828577",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 122,
+            "code": "23886679/244248695322177924/135",
+            "roomName": "Deluxe Ocean View",
+            "provider": "GoGlobal",
+            "providerHotelId": "828577",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 123,
+            "code": "27307291/244248695322177924/320",
+            "roomName": "Prestige Ocean View",
+            "provider": "GoGlobal",
+            "providerHotelId": "828577",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 124,
+            "code": "27307291/244248695322177924/319",
+            "roomName": "Terrace Suite",
+            "provider": "GoGlobal",
+            "providerHotelId": "828577",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 125,
+            "code": "27307291/244248695322177924/315",
+            "roomName": "Deluxe Ocean Facing",
+            "provider": "GoGlobal",
+            "providerHotelId": "828577",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 126,
+            "code": "23886679/244248695322177924/144",
+            "roomName": "Deluxe Ocean View",
+            "provider": "GoGlobal",
+            "providerHotelId": "828577",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 127,
+            "code": "27307291/244248695322177924/314",
+            "roomName": "Prestige Ocean View",
+            "provider": "GoGlobal",
+            "providerHotelId": "828577",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 128,
+            "code": "27307291/244248695322177924/313",
+            "roomName": "Deluxe Ocean Facing",
+            "provider": "GoGlobal",
+            "providerHotelId": "828577",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 129,
+            "code": "27307291/244248695322177924/312",
+            "roomName": "Terrace Suite",
+            "provider": "GoGlobal",
+            "providerHotelId": "828577",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 130,
+            "code": "23886679/244248695322177924/142",
+            "roomName": "Deluxe Ocean View",
+            "provider": "GoGlobal",
+            "providerHotelId": "828577",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 131,
+            "code": "27307291/244248695322177924/311",
+            "roomName": "Family Room",
+            "provider": "GoGlobal",
+            "providerHotelId": "828577",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 132,
+            "code": "27307291/244248695322177924/310",
+            "roomName": "Prestige Ocean View",
+            "provider": "GoGlobal",
+            "providerHotelId": "828577",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 133,
+            "code": "27307291/244248695322177924/309",
+            "roomName": "Terrace Suite",
+            "provider": "GoGlobal",
+            "providerHotelId": "828577",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 134,
+            "code": "27307291/244248695322177924/308",
+            "roomName": "Family Room",
+            "provider": "GoGlobal",
+            "providerHotelId": "828577",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 135,
+            "code": "27307291/244248695322177924/307",
+            "roomName": "Family Room",
+            "provider": "GoGlobal",
+            "providerHotelId": "828577",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 136,
+            "code": "27307291/244248695322177924/318",
+            "roomName": "Duplex Suite",
+            "provider": "GoGlobal",
+            "providerHotelId": "828577",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 137,
+            "code": "27307291/244248695322177924/317",
+            "roomName": "Duplex Suite",
+            "provider": "GoGlobal",
+            "providerHotelId": "828577",
+            "boardBasis": "Full Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 138,
+            "code": "27307291/244248695322177924/316",
+            "roomName": "Duplex Suite",
+            "provider": "GoGlobal",
+            "providerHotelId": "828577",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        }
+    ]
+}

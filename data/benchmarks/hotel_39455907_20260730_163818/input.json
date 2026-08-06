@@ -1,0 +1,245 @@
+{
+    "vervotechHotelId": "39455907",
+    "roomRates": [
+        {
+            "index": 1,
+            "code": "47N7CHEO2:RO:STD::CvYqqdYmVuZWZpdE1lYWxQbGFuPW51bGwqKip8fnwqKipiZW5lZml0TWVhbFBsYW5Db2RlPTAqKip8fnwqKipibG9ja0lkPXYxX0NnRXRFTXdDR2lnS0hUSXdNall0TVRBdE1ERlVNREE2TURBNk1EQXVNREF3S3pBM09qQXdFQVlZM3dnb0FqZ0JJZ0lJQVE9PV9DaWdJd3FqUzRRTVFBaGlJdE1hM0FTQ1VFU2llNHMwTE1BUktDekZFTVRBd1VGOHhNREJRVUpnRkVnSUlBUm9FS0FRd0FTSUVDQVFZQWc9PSoqKnx+fCoqKmNhbmNlbGxhdGlvbkNvbW1lbnRzPVt7InRleHQiOiIxIC0gMTAwLjAwJSIsInR5cGUiOiJ0ZXJtaW5vX2NhbmNlbGFjaW9uIn1dKioqfH58KioqY291bnQ9MSoqKnx+fCoqKmxhbmd1YWdlPWVuLXVzKioqfH58Kioqbm9uUmVmdW5kYWJsZT1mYWxzZSoqKnx+fCoqKm9wdFR5cGU9QXZhaWwqKip8fnwqKipwYXJhbWV0ZXJzPVt7ImNoYXJnZSI6IlAiLCJkYXlzIjoyLCJ2YWx1ZSI6MH0seyJjaGFyZ2UiOiJQIiwiZGF5cyI6MSwidmFsdWUiOjEwMH0seyJjaGFyZ2UiOiJQIiwiZGF5cyI6MCwidmFsdWUiOjEwMH1dKioqfH58KioqcGF5bWVudE1vZGVsPU1lcmNoYW50KioqfH58KioqcHJvcGVydHlJZD0zMTQ5MjI1NioqKnx+fCoqKnByb3ZpZGVyUmVzb3J0RmVlc0NvbW1lbnRzPVt7InRleHQiOiJUaGVyZSBpcyBhIHN1cmNoYXJnZSBmb3Igb2NjdXBhdGlvbiAxOiBSZXNvcnQgRmVlIHdpdGggYW4gYW1vdW50IG9mIDU3Ljk2IEVVUiBpbmNsdWRlZCBpbiB0aGUgZmluYWwgcHJpY2UiLCJ0eXBlIjoicHJvdmlkZXJfcmVzb3J0X2ZlZSJ9LHsidGV4dCI6IlRoZXJlIGlzIGEgc3VyY2hhcmdlIGZvciBvY2N1cGF0aW9uIDE6IEFjY29tbW9kYXRpb24gVGF4ICglKSB3aXRoIGFuIGFtb3VudCBvZiAzMS4zNSBFVVIgaW5jbHVkZWQgaW4gdGhlIGZpbmFsIHByaWNlIiwidHlwZSI6InByb3ZpZGVyX3Jlc29ydF9mZWUifV0qKip8fnwqKipwcm92aWRlclRheGVzQW5kRmVlc0NvbW1lbnRzPVt7InRleHQiOiJUYXhlcyBpbmNsdWRlZCBpbiB0aGUgZmluYWwgcHJpY2U6IDkwLjIxIEVVUiIsInR5cGUiOiJwcm92aWRlcl90YXhlc19hbmRfZmVlcyJ9XSoqKnx+fCoqKnJhdGVDdXJyZW5jeT1FVVIqKip8fnwqKipyYXRlRXhjbHVzaXZlPTg5LjMqKip8fnwqKipyYXRlSW5jbHVzaXZlPTk4LjIzKioqfH58KioqcmF0ZVRheD04LjkzKioqfH58KioqcmF0ZXM9U1REKioqfH58Kioqcm9vbVR5cGVDb2RlPVNUQU5EQVJEIFJPT00qKip8fnwqKipyb29tVHlwZUNvZGVPcmlnaW5hbD01MDUwMzkzOTMqKip8fnwqKipyb29tVHlwZU5hbWU9U1RBTkRBUkQgUk9PTSoqKnx+fCoqKnNlYXJjaElkPTkwNDkyODM3NTI2MjU0MjE4NDIqKip8fnwqKipzdXJjaGFyZ2VzPVt7ImlkIjozNzYsInJhdGUiOnsiaW5jbHVzaXZlIjo1Ny45Nn19LHsiaWQiOjQ1MCwicmF0ZSI6eyJpbmNsdXNpdmUiOjMxLjM1fX1dKioqfH58KioqdG90YWxQYXltZW50RXhjbHVzaXZlPTU4OC41KioqfH58KioqdG90YWxQYXltZW50SW5jbHVzaXZlPTY3OC43MSoqKnx+fCoqKnRvdGFsUGF5bWVudFRheD05MC4yMSMmQCYjNDMxOTI5NiMmQCYjMjAyNi0xMC0wMSNAQEAjMjAyNi0xMC0wNyMmQCYjNzQzLTk2MS0xNTVkYjRlZjY5YmMjJkAmIzYxOC4zNyMmQCYjZW4jJkAmI3hIeHB0Wg==",
+            "roomName": "STANDARD ROOM",
+            "provider": "JumboTours",
+            "providerHotelId": "240304",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 2,
+            "code": "47N8DS0K2:RO:STD::CvLhRuYmVuZWZpdE1lYWxQbGFuPW51bGwqKip8fnwqKipiZW5lZml0TWVhbFBsYW5Db2RlPTAqKip8fnwqKipibG9ja0lkPXYxX0NnRXRFTXdDR2lnS0hUSXdNall0TVRBdE1ERlVNREE2TURBNk1EQXVNREF3S3pBM09qQXdFQVlZM3dnb0FqZ0JJZ0lJQVE9PV9DaWdJaUtuUzRRTVFBaGlJdE1hM0FTQ1VFU2llNHMwTE1BUktDekZFTVRBd1VGOHhNREJRVUpnRkVnSUlBUm9FS0FRd0FTSUVDQVFZQWc9PSoqKnx+fCoqKmNhbmNlbGxhdGlvbkNvbW1lbnRzPVt7InRleHQiOiIxIC0gMTAwLjAwJSIsInR5cGUiOiJ0ZXJtaW5vX2NhbmNlbGFjaW9uIn1dKioqfH58KioqY291bnQ9MSoqKnx+fCoqKmxhbmd1YWdlPWVuLXVzKioqfH58Kioqbm9uUmVmdW5kYWJsZT1mYWxzZSoqKnx+fCoqKm9wdFR5cGU9QXZhaWwqKip8fnwqKipwYXJhbWV0ZXJzPVt7ImNoYXJnZSI6IlAiLCJkYXlzIjoyLCJ2YWx1ZSI6MH0seyJjaGFyZ2UiOiJQIiwiZGF5cyI6MSwidmFsdWUiOjEwMH0seyJjaGFyZ2UiOiJQIiwiZGF5cyI6MCwidmFsdWUiOjEwMH1dKioqfH58KioqcGF5bWVudE1vZGVsPU1lcmNoYW50KioqfH58KioqcHJvcGVydHlJZD0zMTQ5MjI1NioqKnx+fCoqKnByb3ZpZGVyUmVzb3J0RmVlc0NvbW1lbnRzPVt7InRleHQiOiJUaGVyZSBpcyBhIHN1cmNoYXJnZSBmb3Igb2NjdXBhdGlvbiAxOiBSZXNvcnQgRmVlIHdpdGggYW4gYW1vdW50IG9mIDU3Ljk2IEVVUiBpbmNsdWRlZCBpbiB0aGUgZmluYWwgcHJpY2UiLCJ0eXBlIjoicHJvdmlkZXJfcmVzb3J0X2ZlZSJ9LHsidGV4dCI6IlRoZXJlIGlzIGEgc3VyY2hhcmdlIGZvciBvY2N1cGF0aW9uIDE6IEFjY29tbW9kYXRpb24gVGF4ICglKSB3aXRoIGFuIGFtb3VudCBvZiAzMy41NSBFVVIgaW5jbHVkZWQgaW4gdGhlIGZpbmFsIHByaWNlIiwidHlwZSI6InByb3ZpZGVyX3Jlc29ydF9mZWUifV0qKip8fnwqKipwcm92aWRlclRheGVzQW5kRmVlc0NvbW1lbnRzPVt7InRleHQiOiJUYXhlcyBpbmNsdWRlZCBpbiB0aGUgZmluYWwgcHJpY2U6IDk2LjE5IEVVUiIsInR5cGUiOiJwcm92aWRlcl90YXhlc19hbmRfZmVlcyJ9XSoqKnx+fCoqKnJhdGVDdXJyZW5jeT1FVVIqKip8fnwqKipyYXRlRXhjbHVzaXZlPTk1LjU5KioqfH58KioqcmF0ZUluY2x1c2l2ZT0xMDUuMTUqKip8fnwqKipyYXRlVGF4PTkuNTYqKip8fnwqKipyYXRlcz1TVEQqKip8fnwqKipyb29tVHlwZUNvZGU9RE9VQkxFIFFVRUVOIE5PTi1TTU9LSU5HKioqfH58Kioqcm9vbVR5cGVDb2RlT3JpZ2luYWw9NTA1MDM5NDI4KioqfH58Kioqcm9vbVR5cGVOYW1lPURPVUJMRSBRVUVFTiBOT04tU01PS0lORyoqKnx+fCoqKnNlYXJjaElkPTkwNDkyODM3NTI2MjU0MjE4NDIqKip8fnwqKipzdXJjaGFyZ2VzPVt7ImlkIjozNzYsInJhdGUiOnsiaW5jbHVzaXZlIjo1Ny45Nn19LHsiaWQiOjQ1MCwicmF0ZSI6eyJpbmNsdXNpdmUiOjMzLjU1fX1dKioqfH58KioqdG90YWxQYXltZW50RXhjbHVzaXZlPTYyNi4yKioqfH58KioqdG90YWxQYXltZW50SW5jbHVzaXZlPTcyMi4zOSoqKnx+fCoqKnRvdGFsUGF5bWVudFRheD05Ni4xOSMmQCYjNDMxOTI5NiMmQCYjMjAyNi0xMC0wMSNAQEAjMjAyNi0xMC0wNyMmQCYjNzQzLTk2MS0xNTVkYjRlZjY5YmMjJkAmIzY1OC4xNiMmQCYjZW4jJkAmI29Fb0VZRA==",
+            "roomName": "DOUBLE QUEEN NON-SMOKING",
+            "provider": "JumboTours",
+            "providerHotelId": "240304",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 3,
+            "code": "4878NAEO2:RO:STD::QyIyqrQ2hlY2tJbj0yMDI2LTEwLTAxKioqfH58KioqQ2hlY2tPdXQ9MjAyNi0xMC0wNyoqKnx+fCoqKk5vblJlZnVuZGFibGU9ZmFsc2UqKip8fnwqKipSYXRlQ29kZT1TVEQqKip8fnwqKipSYXRlUGxhbkNvZGU9dFNqa3lGeFQrNm9UeGJNckgvcFkySmVBVkliVlpjYVRvL1JUQTJGNFQ3Y3hjbENzQjBXUWVqUG1aUWV2QjBia1ZsV2tEWXVldkZsbVBtTmFlcUJTODJHUkNTczdXOCtENlpxQ1UweElOcGE2Q3podHJNaXlqdTRVNVhKelBNWGI2U3E1THdsbytXUTUwUVVCZ21CUkt5dlZnNjQ0T3EwQUErZG9pdFNUa2xJbmlFNVdvZXRLMDdNRVkxenU2MUpQNkVpL2d3ZVZtT3huTjcvd2xLMkEvck9tVk81WjByRmdydFBUUFdVZlFsZ081OCs0YUUwaEJCM2Z2TmtTU0lJMERLWFBkMTJuNU9kcktkbWZFMW5vKzEvY0F5b0pXVUJSR2l5SkRnc21OaDhJaHVHZUpMWmZRaUw5TGREWU9JTjVsd01JamJBOGlGR1haWHFrYkM3UDkzeW1sSFJSQmdzWmVMVUJ1bndoRldkeHRKUDBXSHdIR1Y0djgwNmhsM3VWMG1SSkU5NFpweWVDMnI4QmFNd3hYVXZGa1czVUFmckt6YmxrZ0w2QlBwYk5mV1lHM2RHbWVvaW9XRVZ2OTBmRVBwUm1RTHBPUWRnT3ZhZWNHKzBpL0k0ZExLeFZOVXkyOFJOVlBydjVzYzRtVnl6bnd2STlsOWNaS3puSWNSMDkxTkZWSGhJMndSZVRnQjVOeFVFeUlPYXU4UWhwZm1pMzNoU0svQU1wTkRhMDZHTlVzRHJUT3NyS0VMd2k3Y1hNU1h3ejNralJXM2ZRc1RlRWh4aDBVQT09KioqfH58KioqUm9vbVR5cGVDYXRlZ29yeUNvZGU9UjBKOFZWTkVmRGd4Tnk0NE4zd3lNVEUwT0RFNU5qZ3hmREk9KioqfH58KioqUm9vbVR5cGVDYXRlZ29yeURlc2NyaXB0aW9uPSoqKnx+fCoqKlJvb21UeXBlQ29kZT1ERUxVWEUgUk9PTSwgMSBLSU5HIEJFRCwgTk9OIFNNT0tJTkcqKip8fnwqKipSb29tVHlwZURlc2NyaXB0aW9uPURFTFVYRSBST09NLCAxIEtJTkcgQkVELCBOT04gU01PS0lORyMmQCYjNDQ2MjM4OCMmQCYjMjAyNi0xMC0wMSNAQEAjMjAyNi0xMC0wNyMmQCYjNzQzLTk2MS0xNTVkYjRlZjY5YmMjJkAmIzY5OC43MyMmQCYjZW4jJkAmI2FqemlZRQ==",
+            "roomName": "DELUXE ROOM, 1 KING BED, NON SMOKING",
+            "provider": "JumboTours",
+            "providerHotelId": "240304",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 4,
+            "code": "4878NANO2:RO:STD::BYkOLxQ2hlY2tJbj0yMDI2LTEwLTAxKioqfH58KioqQ2hlY2tPdXQ9MjAyNi0xMC0wNyoqKnx+fCoqKk5vblJlZnVuZGFibGU9ZmFsc2UqKip8fnwqKipSYXRlQ29kZT1TVEQqKip8fnwqKipSYXRlUGxhbkNvZGU9dFNqa3lGeFQrNm9UeGJNckgvcFkySmVBVkliVlpjYVRvL1JUQTJGNFQ3Y2hqMXJLRmpIRkxLVUNsdC9jcDQrbGhCcS9KTmMyNWNHTTdQN0NGVEQwSUtCcFMrR0piTW5HTXJGeExaeDlRRWRqWFVRajZPVDkwdVI4MmVGK2J1M3J1YzRCWWpTa2FGZlIzU1dmQWRiQjJ4dGtFdVpFU3dOWWZ4UmVPSmI5eEUvdE5LZC9ONEc5MG1TTUZEbkQxelR4VUxxbnY1SVZoTGZyeU03enF0ZzhiQXR6SmxIbDliWXZWbk5KOTZMcEh5TUREVExydXkxTDBKVThpR3NCMUpRLzl1VFI2cGNYbFZub3Bvby9wby9kZkhXNXRrdUNEZHRrZVhZbWFBby8yNjEyTVd4UUQ3YmJvSCs4NlE0YmZUS0oyd3ZGNnRHUi96c2JDRytGcGJYc3RUSUhxenBrY2pjbXErR2dlWUNFTThuNVovSzZ0d1kxU0c1amtzY2w4R251ZlcyMEVmdGZuSm9VamhocTFPMDBFRGRHRUlKSHhJbEtwZFlnN1FuRUNhWHdUaUthVENBN3FEL0VER1Jrcmd4MXB0UHBpdHMyMGZjYk5CZ3BXQVRSUmNnQjVpendLUUM1VHd2dnhmbk8rbGRtUXRMTVFFK1lqSDJTdFJEZ3RuTUxkNUNKV1diZXQrV21tczZKZlhXd3NyRmRtN0o1NTBadjJUakhaWGoveitlRUExTG1iYkRvc2IzN29KNFFUV2hFczlFZjc3cUFmMjBkMGVhdEdYcTJPQT09KioqfH58KioqUm9vbVR5cGVDYXRlZ29yeUNvZGU9UjBKOFZWTkVmRGczTlM0eE1Yd3hNRE0xT1RjM016RTBmREk9KioqfH58KioqUm9vbVR5cGVDYXRlZ29yeURlc2NyaXB0aW9uPSoqKnx+fCoqKlJvb21UeXBlQ29kZT1ERUxVWEUgUk9PTSwgMiBRVUVFTiBCRURTLCBOT04gU01PS0lORyoqKnx+fCoqKlJvb21UeXBlRGVzY3JpcHRpb249REVMVVhFIFJPT00sIDIgUVVFRU4gQkVEUywgTk9OIFNNT0tJTkcjJkAmIzQ0NjIzODgjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzc0My05NjEtMTU1ZGI0ZWY2OWJjIyZAJiM3NDcuNjMjJkAmI2VuIyZAJiNmTERwdmo=",
+            "roomName": "DELUXE ROOM, 2 QUEEN BEDS, NON SMOKING",
+            "provider": "JumboTours",
+            "providerHotelId": "240304",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 5,
+            "code": "4878NQ6K2:RO:STD::ZyiLUDQ2hlY2tJbj0yMDI2LTEwLTAxKioqfH58KioqQ2hlY2tPdXQ9MjAyNi0xMC0wNyoqKnx+fCoqKk5vblJlZnVuZGFibGU9ZmFsc2UqKip8fnwqKipSYXRlQ29kZT1TVEQqKip8fnwqKipSYXRlUGxhbkNvZGU9dFNqa3lGeFQrNm9UeGJNckgvcFkySmVBVkliVlpjYVRvL1JUQTJGNFQ3Y1hZZVBway9YcS9IQU5ubUhJOWxKKzZRc1RIVG9PcWxvdFFqZ2NudjNMNWZnZUV3cE1mTW1JV3pwMFZHb0M1aERWWHNHMjUycFM2ODlVVTRrRUJTRkdsb2hybEw3VXVia0h5Q1JndDcxVFUzOGIzTVZKdHlJb1MvVEp5QVE1Qkl5Zk45OTdrU0VZK0tueTR3M2JHdEQ3QlRyditmdW9iVWlicnJLOXAwUEtwcU9EenViclZUcjZFUXVCVWFtekpmUDVzbzAyN1NPL2pvV1lBVEkwM1hTem5TMkkvWFpXWWgzdDM4SHMyczNyZzY1dzg3VnBkL0dKRFhlWUhoc2xuVXVJS1Njei9vcVpxYTVOemdLZWd5czJFdlhHV0puaGp0Ym1zVHZhZ1hRSDN0TUNaeCs0a0svbEtOUzVaR3dWT3hZd0JUWkdValZKZCs0RlA3WHU1Q1J4Uythc3c0K2xFK2lob1FFY2JDY0IvWTFyVjViUTlvazNobFNxZFl2Y0d3ZTNhcUgwaEYvRTVaOXErTzlFeCtXNmwydk50NmxKbW9PUllFYTlLd3VYRjhheC9JSDNuUnpjcVJaUVdPYkdHaG4zT0dIQmIwNGliNUp5aWxkc1NrQmFpRlU3WjlqU3piQnVOcE5yV1MvY3NLS2FLeXErU2pRc3NiTHlBdmhCYjVDcDYySHI2MThVcDd2T3ExZC90a2FWbEFNSDhFREJhOHN5NXZyYlpNSm95UT09KioqfH58KioqUm9vbVR5cGVDYXRlZ29yeUNvZGU9UjBKOFZWTkVmREV5TnpVdU9EVjhPVGszTkRNME56STNmREk9KioqfH58KioqUm9vbVR5cGVDYXRlZ29yeURlc2NyaXB0aW9uPSoqKnx+fCoqKlJvb21UeXBlQ29kZT1HUkFORCBTVUlURSwgMSBLSU5HIEJFRCoqKnx+fCoqKlJvb21UeXBlRGVzY3JpcHRpb249R1JBTkQgU1VJVEUsIDEgS0lORyBCRUQjJkAmIzQ0NjIzODgjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzc0My05NjEtMTU1ZGI0ZWY2OWJjIyZAJiMxMDg5Ljk5IyZAJiNlbiMmQCYjQXFxT01a",
+            "roomName": "GRAND SUITE, 1 KING BED",
+            "provider": "JumboTours",
+            "providerHotelId": "240304",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 6,
+            "code": "1331263!TB!1!TB!1f86f026-8c06-11f1-ae6c-fe3a512c11e2!TB!N!TB!AFF!",
+            "roomName": "Deluxe Room, 1 King Bed, Non Smoking",
+            "provider": "TBO",
+            "providerHotelId": "1331263",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 7,
+            "code": "1331263!TB!3!TB!1f86f026-8c06-11f1-ae6c-fe3a512c11e2!TB!N!TB!AFF!",
+            "roomName": "Double room King bed - De Luxe",
+            "provider": "TBO",
+            "providerHotelId": "1331263",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 8,
+            "code": "1331263!TB!2!TB!1f86f026-8c06-11f1-ae6c-fe3a512c11e2!TB!N!TB!AFF!",
+            "roomName": "Deluxe Room, 2 Queen Beds, Non Smoking",
+            "provider": "TBO",
+            "providerHotelId": "1331263",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 9,
+            "code": "1331263!TB!8!TB!1f86f026-8c06-11f1-ae6c-fe3a512c11e2!TB!N!TB!AFF!",
+            "roomName": "Deluxe Room, 2 Queen Beds, Accessible",
+            "provider": "TBO",
+            "providerHotelId": "1331263",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 10,
+            "code": "1331263!TB!6!TB!1f86f026-8c06-11f1-ae6c-fe3a512c11e2!TB!N!TB!AFF!",
+            "roomName": "Queen/Queen - De Luxe",
+            "provider": "TBO",
+            "providerHotelId": "1331263",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 11,
+            "code": "1331263!TB!9!TB!1f86f026-8c06-11f1-ae6c-fe3a512c11e2!TB!N!TB!AFF!",
+            "roomName": "Queen/Queen - De luxe - Accessible",
+            "provider": "TBO",
+            "providerHotelId": "1331263",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 12,
+            "code": "1331263!TB!4!TB!1f86f026-8c06-11f1-ae6c-fe3a512c11e2!TB!N!TB!AFF!",
+            "roomName": "Premium Room, 1 King Bed, Accessible, Jetted Tub",
+            "provider": "TBO",
+            "providerHotelId": "1331263",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 13,
+            "code": "1331263!TB!10!TB!1f86f026-8c06-11f1-ae6c-fe3a512c11e2!TB!N!TB!AFF!",
+            "roomName": "Premium Room, 1 King Bed, Non Smoking, Jetted Tub",
+            "provider": "TBO",
+            "providerHotelId": "1331263",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 14,
+            "code": "1331263!TB!7!TB!1f86f026-8c06-11f1-ae6c-fe3a512c11e2!TB!N!TB!AFF!",
+            "roomName": "Double room King bed - Premium",
+            "provider": "TBO",
+            "providerHotelId": "1331263",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 15,
+            "code": "1331263!TB!5!TB!1f86f026-8c06-11f1-ae6c-fe3a512c11e2!TB!N!TB!AFF!",
+            "roomName": "Grand Suite, 1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1331263",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 16,
+            "code": "26932663/8019229397620953220/1154",
+            "roomName": "Standard room",
+            "provider": "GoGlobal",
+            "providerHotelId": "102506",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 17,
+            "code": "26932663/8019229397620953220/1152",
+            "roomName": "Double room Queen bed",
+            "provider": "GoGlobal",
+            "providerHotelId": "102506",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 18,
+            "code": "26932663/8019229397620953220/1149",
+            "roomName": "Deluxe Room with 1 King Bed",
+            "provider": "GoGlobal",
+            "providerHotelId": "102506",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 19,
+            "code": "26932663/8019229397620953220/1146",
+            "roomName": "Accessible Deluxe Room with 2 Queen Beds",
+            "provider": "GoGlobal",
+            "providerHotelId": "102506",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 20,
+            "code": "26932663/8019229397620953220/1147",
+            "roomName": "Deluxe Room with 2 Queen Beds",
+            "provider": "GoGlobal",
+            "providerHotelId": "102506",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 21,
+            "code": "24921742/8019229397620953220/7",
+            "roomName": "DOUBLE NON SMOKING",
+            "provider": "GoGlobal",
+            "providerHotelId": "102506",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 22,
+            "code": "26932663/8019229397620953220/1145",
+            "roomName": "Accessible Premium Room with 1 King Bed and Jetted Tub and Tub",
+            "provider": "GoGlobal",
+            "providerHotelId": "102506",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 23,
+            "code": "26932663/8019229397620953220/1144",
+            "roomName": "Premium Room with 1 King Bed and Jetted Tub and Tub",
+            "provider": "GoGlobal",
+            "providerHotelId": "102506",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 24,
+            "code": "26932663/8019229397620953220/1143",
+            "roomName": "Grand Suite with 1 King Bed",
+            "provider": "GoGlobal",
+            "providerHotelId": "102506",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        }
+    ]
+}

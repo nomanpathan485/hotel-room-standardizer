@@ -47,3 +47,6 @@ def import_rooms():
 
     finally:
         db.close()
+
+if __name__ == "__main__":
+    import_rooms()

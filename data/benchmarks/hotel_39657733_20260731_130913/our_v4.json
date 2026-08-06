@@ -1,0 +1,788 @@
+{
+    "standardRooms": [
+        {
+            "standardName": "City Side With Balcony Two Double Beds",
+            "category": "Unknown",
+            "view": "Unknown",
+            "beds": [
+                {
+                    "type": "Double"
+                }
+            ],
+            "bedInfo": "Double",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 1,
+                    "roomCode": "{\"roomCode\":\"CNNPEgVQSUVDQhoLRDJMUnxPRzEyU0Y=\",\"boardCode\":\"CgJSTw==\"}",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 53,
+                    "roomCode": "28745684/7734452183753575758/658",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Harbor View Two Double Beds",
+            "category": "Unknown",
+            "view": "Unknown",
+            "beds": [
+                {
+                    "type": "Double"
+                }
+            ],
+            "bedInfo": "Double",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 2,
+                    "roomCode": "{\"roomCode\":\"CNNPEgVQSUVDQhoLUlJEVnxPRzEyU0Y=\",\"boardCode\":\"CgJSTw==\"}",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 56,
+                    "roomCode": "28578355/7734452183753575758/34",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "2 Double Beds Harbor View",
+            "category": "Unknown",
+            "view": "Unknown",
+            "beds": [
+                {
+                    "type": "Double"
+                }
+            ],
+            "bedInfo": "Double",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 3,
+                    "roomCode": "47N7DEAC2:RO:STD::qInPGWYmVuZWZpdE1lYWxQbGFuPW51bGwqKip8fnwqKipiZW5lZml0TWVhbFBsYW5Db2RlPTAqKip8fnwqKipibG9ja0lkPXYxX0NnRXRFTTNpQVJvb0NoMHlNREkyTFRFeExUQXhWREF3T2pBd09qQXdMakF3TUNzd056b3dNQkFIR044SUtBSTRBU0lDQ0FJPV9Da1lJbXZtTUF4QUlJQUlvaVBHWER6QUVTZ294TUVReFRsOHhNREJRVUpyRkEzb2tZalZsTVRNME5EZ3ROemc0TXkxalltUXhMV0prTkRRdFl6SmpNVEZsWXpFeFlqUmxFZ0lJQVJvR0dBRW9CREFCSWdRSUJCZ0MqKip8fnwqKipjYW5jZWxsYXRpb25Db21tZW50cz1beyJ0ZXh0IjoiMTAgLSAxNC4yOSUiLCJ0eXBlIjoidGVybWlub19jYW5jZWxhY2lvbiJ9LHsidGV4dCI6IjAgLSAxMDAuMDAlIiwidHlwZSI6InRlcm1pbm9fY2FuY2VsYWNpb24ifV0qKip8fnwqKipjb3VudD0xKioqfH58KioqbGFuZ3VhZ2U9ZW4tdXMqKip8fnwqKipub25SZWZ1bmRhYmxlPWZhbHNlKioqfH58Kioqb3B0VHlwZT1BdmFpbCoqKnx+fCoqKnBhcmFtZXRlcnM9W3siY2hhcmdlIjoiTiIsImRheXMiOjExLCJ2YWx1ZSI6MH0seyJjaGFyZ2UiOiJOIiwiZGF5cyI6MTAsInZhbHVlIjoxfSx7ImNoYXJnZSI6IlAiLCJkYXlzIjowLCJ2YWx1ZSI6MTAwfV0qKip8fnwqKipwYXltZW50TW9kZWw9TWVyY2hhbnRDb21taXNzaW9uKioqfH58KioqcHJvcGVydHlJZD00NDQyOCoqKnx+fCoqKnByb3ZpZGVyUmVzb3J0RmVlc0NvbW1lbnRzPVt7InRleHQiOiJUaGVyZSBpcyBhIHN1cmNoYXJnZSBmb3Igb2NjdXBhdGlvbiAxOiBSZXNvcnQgRmVlIHdpdGggYW4gYW1vdW50IG9mIDI0MC4xNyBFVVIgdGhhdCBpcyBub3QgaW5jbHVkZWQgaW4gdGhlIGZpbmFsIHByaWNlIGFuZCBtdXN0IGJlIHBhaWQgZGlyZWN0bHkgYXQgdGhlIHByb3BlcnR5IiwidHlwZSI6InByb3ZpZGVyX3Jlc29ydF9mZWUifV0qKip8fnwqKipwcm92aWRlclRheGVzQW5kRmVlc0NvbW1lbnRzPVt7InRleHQiOiJUYXhlcyBpbmNsdWRlZCBpbiB0aGUgZmluYWwgcHJpY2U6IDIzMy4zMiBFVVIiLCJ0eXBlIjoicHJvdmlkZXJfdGF4ZXNfYW5kX2ZlZXMifSx7InRleHQiOiJGZWVzIGluY2x1ZGVkIGluIHRoZSBmaW5hbCBwcmljZTogMC4wMSBFVVIiLCJ0eXBlIjoicHJvdmlkZXJfdGF4ZXNfYW5kX2ZlZXMifV0qKip8fnwqKipyYXRlQ3VycmVuY3k9RVVSKioqfH58KioqcmF0ZUV4Y2x1c2l2ZT0yMzIuNTUqKip8fnwqKipyYXRlSW5jbHVzaXZlPTI2NS44OCoqKnx+fCoqKnJhdGVUYXg9MzMuMzMqKip8fnwqKipyYXRlcz1TVEQqKip8fnwqKipyb29tVHlwZUNvZGU9MiBET1VCTEUgQkVEUyAtIEhBUkJPUiBWSUVXKioqfH58Kioqcm9vbVR5cGVDb2RlT3JpZ2luYWw9MzI1MTc4OSoqKnx+fCoqKnJvb21UeXBlTmFtZT0yIERPVUJMRSBCRURTIC0gSEFSQk9SIFZJRVcqKip8fnwqKipzZWFyY2hJZD05MDU5MjI3MjMwMzQ0OTkxNTcxKioqfH58Kioqc3VyY2hhcmdlcz1beyJpZCI6MjcyLCJyYXRlIjp7ImluY2x1c2l2ZSI6MjQwLjE3fX1dKioqfH58KioqdG90YWxQYXltZW50RXhjbHVzaXZlPTE2MjcuODMqKip8fnwqKip0b3RhbFBheW1lbnRGZWVzPTAuMDEqKip8fnwqKip0b3RhbFBheW1lbnRJbmNsdXNpdmU9MTg2MS4xNioqKnx+fCoqKnRvdGFsUGF5bWVudFRheD0yMzMuMzIjJkAmIzQxNzM3ODgjJkAmIzIwMjYtMTEtMDEjQEBAIzIwMjYtMTEtMDgjJkAmIzI0MTAtODkxLTYzYjE4NThjYTI2MGU1IyZAJiMxNjkxLjM0IyZAJiNlbiMmQCYjRkhDUlRn",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 8,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|d1495743!~|eRoom Only!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m1495743!~|nRoom Only!~|nTLD!~|o1!~|p1!~|x31070737!~|M2169.23!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|A2 double beds - harbor view!~|B2 double beds - harbor view!~|C30|30!~|E2 double beds - harbor view!~|F2 double beds - harbor view!~|G1!~|U2,313.02,1792144800|1,100,1793440800!~|HtimeStamp!~|I7/31/2026 7:37:04 AM!~|HtimeParam!~|I2026-07-31T08:07:04!~|HoptionidFirstDispo!~|I763242993397!~|Hcurrency!~|IUSD!~|HroomId#1!~|I3242993397-1-0!~|HoptionToken!~|IMXx8MTMyMjZ8fDIxNjl8fFVTRHx8MjIxZTNjZThmMWU4MmYzNTVkYjAwODZiZGMwNDU5MzI0NDY5NjYyNQ==!~|Hnumadults!~|I1#2!~|Htgx_price!~|I2169.23!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 14,
+                    "roomCode": "1158483!TB!8!TB!9da723a8-8cb2-11f1-abae-e60f6faff128!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 21,
+                    "roomCode": "1158483!TB!2!TB!9da723a8-8cb2-11f1-abae-e60f6faff128!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 26,
+                    "roomCode": "1158483!TB!12!TB!9da723a8-8cb2-11f1-abae-e60f6faff128!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 27,
+                    "roomCode": "1158483!TB!15!TB!9da723a8-8cb2-11f1-abae-e60f6faff128!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 29,
+                    "roomCode": "1158483!TB!5!TB!9da723a8-8cb2-11f1-abae-e60f6faff128!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 30,
+                    "roomCode": "1158483!TB!13!TB!9da723a8-8cb2-11f1-abae-e60f6faff128!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 35,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|dJP061585!~|eSA!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP061585!~|nSA!~|nEDMC!~|o0!~|p1!~|x31070737!~|M7225.96!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR32852712!~|AJR32852712!~|BJR32852712!~|C30|30!~|ERoom, 2 Double Beds, Harbor View!~|FRoom, 2 Double Beds, Harbor View!~|G1!~|U2,7225.96,1785319200!~|HPackage!~|Itrue!~|HratePlan!~|I9URD6gfnNsxUmS29TYKwcn0PL3OE08qk/mvxuN6+hi4waap6T7620icM/+kLEmhqgq5sw7oc437D/S7uc39XAiiaULqASUg2hqa+sp7yB9zr3tlOUUybniGDMr8Y8pvaD4W5QgyR8MfkUiiLNtaR8LiwbrYBSXEIfxRvWHQI+ibvk67/DDfstZQw3SHL7vQzFMk5VEj5IPMYE4KNp+s52VIi8kGTLLLQZZ3YZKxVhQBdkOPwWl3PBdh/k7OAhT08dqrwm5jyvdkbcQZ/hzbwH5+Da7naUtYn4C8BJLGytv6cjz5YHiruFuiRHdvQx3altP/U7TwNf7s2MZzgpH4E5dug5oyfQHW8VzJetI1dGv+tJmGLb4FaXEema1Iwdhn2uGjjZdGIL5VF+ibJ5qBEx7xqbPQdSRG41dPoOI4SjoWEu7nSo1XoieLI4UQEPymX1PHiByjrnkcyNXJulIy2ZKC7pnUzoIoC4g354F1nxVcqSzCi5I/JK9q9a/+x6oUK4sBvJBW93QQvr4K1cYkBIlMZ4vr3ilVSdaDOpGrohE0=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I7225.96!~|tOK!~|uSith!~|v0!~|w!~|yPACKAGE!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 38,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|dJP061585!~|eSA!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP061585!~|nSA!~|nEDMC!~|o0!~|p1!~|x31070737!~|M7807.59!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR32852712!~|AJR32852712!~|BJR32852712!~|C30|30!~|ERoom, 2 Double Beds, Harbor View!~|FRoom, 2 Double Beds, Harbor View!~|G1!~|U2,0,1785319200|2,1115.37,1792490400|2,7807.59,1793440800!~|HPackage!~|Itrue!~|HratePlan!~|I9URD6gfnNsxUmS29TYKwcn0PL3OE08qk/mvxuN6+hi6qntqojyxjLuTREDtjRC2i2XTWwo7o1IQz/QWl2cH8bgJO9km2M4txF4snsf1Fn8zulBkcmgUJwW3NpZ94VSk9gA+ZEHdi3kyti7xdIT9z0Iu+RAjsgp4m2rqoxBfLOAzPwaqrKFuI1rWWAg+oQR0ICQI/HuFOTKLXtIdT1/eet4LJHzQE/eX4sUFZrHJybE2Q1undxBg+7oRRqP4XIT6mo4tL06g6lMDtytb/q720yIauZ32nBjV/1pN1G2+Lz9mEOMitPzU8e68fecMqAEo5q+VYSsuNZW34nif6/Jxy0Z1d1vxJpfRiap8XFq5oiR5BivoQxL6f3KOBhk4dCeTQkjr3fM2CyiYmWpk1pJa8pDS9NyzW3QODSUsj39J+4oY2vDKLXpD5jOtB4/Rep5Igc5/C1XxDUPJYfdtUZ4SdF22/+IDbTtjWgBznJyQs0Jhg2SjGC6prNcUhB3MF1ukQ0oGc2nI6FS2+aGmRIydeWtrh1dZ1wdNWr/+L6inqwbk=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I7807.59!~|tOK!~|uSith!~|v0!~|w!~|yPACKAGE!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 45,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|d16865!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m16865!~|n1!~|nDIDA!~|o1!~|p0!~|x31070737!~|r-4701336771809836322!~|s-4701336771809836322!~|M7959.73!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-4701336771809836322!~|A25319384!~|B25319384!~|C30|30!~|E2 DOUBLE BEDS - HARBOR VIEW!~|F2 DOUBLE BEDS - HARBOR VIEW!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I7959.73!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 47,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|d16865!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m16865!~|n1!~|nDIDA!~|o1!~|p1!~|x31070737!~|r-6279836605492484699!~|s-6279836605492484699!~|M8600.28!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-6279836605492484699!~|A25319384!~|B25319384!~|C30|30!~|E2 DOUBLE BEDS - HARBOR VIEW!~|F2 DOUBLE BEDS - HARBOR VIEW!~|G1!~|U2,1425.06,1792511940|2,8600.28,1793433600!~|Hcurrency!~|IAED!~|Htgx_price!~|I8600.28!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 49,
+                    "roomCode": "24211329/7734452183753575758/293",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "2 Double Beds City Side W Balcony",
+            "category": "Unknown",
+            "view": "Unknown",
+            "beds": [
+                {
+                    "type": "Double"
+                }
+            ],
+            "bedInfo": "Double",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 4,
+                    "roomCode": "47N7DHU02:RO:STD::jMqZwtYmVuZWZpdE1lYWxQbGFuPW51bGwqKip8fnwqKipiZW5lZml0TWVhbFBsYW5Db2RlPTAqKip8fnwqKipibG9ja0lkPXYxX0NnRXRFTTNpQVJvb0NoMHlNREkyTFRFeExUQXhWREF3T2pBd09qQXdMakF3TUNzd056b3dNQkFIR044SUtBSTRBU0lDQ0FJPV9Da1lJdnNtcEJ4QUlJQUlvaVBHWER6QUVTZ294TUVReFRsOHhNREJRVUpyRkEzb2taV013TmpBeE5tSXRNV1psT0MxaU5qZzVMVEJqWWprdE1tRXpaVE5sTlRneE9EWXlFZ0lJQVJvR0dBRW9CREFCSWdRSUJCZ0MqKip8fnwqKipjYW5jZWxsYXRpb25Db21tZW50cz1beyJ0ZXh0IjoiMTAgLSAxNC4yOSUiLCJ0eXBlIjoidGVybWlub19jYW5jZWxhY2lvbiJ9LHsidGV4dCI6IjAgLSAxMDAuMDAlIiwidHlwZSI6InRlcm1pbm9fY2FuY2VsYWNpb24ifV0qKip8fnwqKipjb3VudD0xKioqfH58KioqbGFuZ3VhZ2U9ZW4tdXMqKip8fnwqKipub25SZWZ1bmRhYmxlPWZhbHNlKioqfH58Kioqb3B0VHlwZT1BdmFpbCoqKnx+fCoqKnBhcmFtZXRlcnM9W3siY2hhcmdlIjoiTiIsImRheXMiOjExLCJ2YWx1ZSI6MH0seyJjaGFyZ2UiOiJOIiwiZGF5cyI6MTAsInZhbHVlIjoxfSx7ImNoYXJnZSI6IlAiLCJkYXlzIjowLCJ2YWx1ZSI6MTAwfV0qKip8fnwqKipwYXltZW50TW9kZWw9TWVyY2hhbnRDb21taXNzaW9uKioqfH58KioqcHJvcGVydHlJZD00NDQyOCoqKnx+fCoqKnByb3ZpZGVyUmVzb3J0RmVlc0NvbW1lbnRzPVt7InRleHQiOiJUaGVyZSBpcyBhIHN1cmNoYXJnZSBmb3Igb2NjdXBhdGlvbiAxOiBSZXNvcnQgRmVlIHdpdGggYW4gYW1vdW50IG9mIDI0MC4xNyBFVVIgdGhhdCBpcyBub3QgaW5jbHVkZWQgaW4gdGhlIGZpbmFsIHByaWNlIGFuZCBtdXN0IGJlIHBhaWQgZGlyZWN0bHkgYXQgdGhlIHByb3BlcnR5IiwidHlwZSI6InByb3ZpZGVyX3Jlc29ydF9mZWUifV0qKip8fnwqKipwcm92aWRlclRheGVzQW5kRmVlc0NvbW1lbnRzPVt7InRleHQiOiJUYXhlcyBpbmNsdWRlZCBpbiB0aGUgZmluYWwgcHJpY2U6IDIxOC4zMSBFVVIiLCJ0eXBlIjoicHJvdmlkZXJfdGF4ZXNfYW5kX2ZlZXMifV0qKip8fnwqKipyYXRlQ3VycmVuY3k9RVVSKioqfH58KioqcmF0ZUV4Y2x1c2l2ZT0yMTcuNTkqKip8fnwqKipyYXRlSW5jbHVzaXZlPTI0OC43OCoqKnx+fCoqKnJhdGVUYXg9MzEuMTkqKip8fnwqKipyYXRlcz1TVEQqKip8fnwqKipyb29tVHlwZUNvZGU9MiBET1VCTEUgQkVEUyAtIENJVFkgU0lERSBXL0JBTENPTlkqKip8fnwqKipyb29tVHlwZUNvZGVPcmlnaW5hbD03NjgwNjA3KioqfH58Kioqcm9vbVR5cGVOYW1lPTIgRE9VQkxFIEJFRFMgLSBDSVRZIFNJREUgVy9CQUxDT05ZKioqfH58Kioqc2VhcmNoSWQ9OTA1OTIyNzIzMDM0NDk5MTU3MSoqKnx+fCoqKnN1cmNoYXJnZXM9W3siaWQiOjI3MiwicmF0ZSI6eyJpbmNsdXNpdmUiOjI0MC4xN319XSoqKnx+fCoqKnRvdGFsUGF5bWVudEV4Y2x1c2l2ZT0xNTIzLjEyKioqfH58KioqdG90YWxQYXltZW50SW5jbHVzaXZlPTE3NDEuNDMqKip8fnwqKip0b3RhbFBheW1lbnRUYXg9MjE4LjMxIyZAJiM0MTczNzg4IyZAJiMyMDI2LTExLTAxI0BAQCMyMDI2LTExLTA4IyZAJiMyNDEwLTg5MS02M2IxODU4Y2EyNjBlNSMmQCYjMTU4Mi41MyMmQCYjZW4jJkAmI3dPVE5nZQ==",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 5,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|d1495743!~|eRoom Only!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m1495743!~|nRoom Only!~|nTLD!~|o1!~|p1!~|x31070737!~|M2029.38!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|A2 double beds - city side w/balcony!~|B2 double beds - city side w/balcony!~|C30|30!~|E2 double beds - city side w/balcony!~|F2 double beds - city side w/balcony!~|G1!~|U2,292.84,1792144800|1,100,1793440800!~|HtimeStamp!~|I7/31/2026 7:37:04 AM!~|HtimeParam!~|I2026-07-31T08:07:04!~|HoptionidFirstDispo!~|I760298089939!~|Hcurrency!~|IUSD!~|HroomId#1!~|I298089939-1-0!~|HoptionToken!~|IMXx8MTMyMjZ8fDIwMjl8fFVTRHx8NDU2YTVjNzUwMzhjZDYzM2JmZjI2MGI3OTJmNzA4MmNmNzRmOGEwOA==!~|Hnumadults!~|I1#2!~|Htgx_price!~|I2029.38!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 6,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|d1495743!~|eRoom Only!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m1495743!~|nRoom Only!~|nTLD!~|o1!~|p1!~|x31070737!~|M2140!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Aroom, 2 double beds, balcony (city side)!~|Broom, 2 double beds, balcony (city side)!~|C30|30!~|Eroom, 2 double beds, balcony (city side)!~|Froom, 2 double beds, balcony (city side)!~|G1!~|U0,1,1792144800|1,100,1793354400!~|HtimeStamp!~|I7/31/2026 7:37:04 AM!~|HtimeParam!~|I2026-07-31T08:07:04!~|HoptionidFirstDispo!~|I760448926180!~|Hcurrency!~|IUSD!~|HroomId#1!~|I448926180-1-0!~|HoptionToken!~|IMTMwfHxKUDA2MTU4NXx8MjE0MHx8VVNEfHw3Mjk4MDg3OWIzYzkxMmViZDE2NjMxOTg3YjA5ODA1ZDQyYTZjNDBh!~|Hnumadults!~|I1#2!~|Htgx_price!~|I2140!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 7,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|d1495743!~|eRoom Only!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m1495743!~|nRoom Only!~|nTLD!~|o1!~|p1!~|x31070737!~|M2151.87!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Adouble/double - balcony!~|Bdouble/double - balcony!~|C30|30!~|Edouble/double - balcony!~|Fdouble/double - balcony!~|G1!~|U1,15,1792058400|1,100,1793440800!~|HtimeStamp!~|I7/31/2026 7:37:04 AM!~|HtimeParam!~|I2026-07-31T08:07:04!~|HoptionidFirstDispo!~|I763285726274!~|Hcurrency!~|IUSD!~|HroomId#1!~|I3285726274-1-0!~|HoptionToken!~|IMTEwfHw0Nzc5fHwyMTUyfHxVU0R8fDFmMDMxNmJhZDE1M2Y0MGYyOWYyMzExYzEyY2MwMzk3MjNlNTk4YTc=!~|Hnumadults!~|I1#2!~|Htgx_price!~|I2151.87!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 12,
+                    "roomCode": "1158483!TB!4!TB!9da723a8-8cb2-11f1-abae-e60f6faff128!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 13,
+                    "roomCode": "1158483!TB!10!TB!9da723a8-8cb2-11f1-abae-e60f6faff128!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 15,
+                    "roomCode": "1158483!TB!16!TB!9da723a8-8cb2-11f1-abae-e60f6faff128!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 16,
+                    "roomCode": "1158483!TB!3!TB!9da723a8-8cb2-11f1-abae-e60f6faff128!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 18,
+                    "roomCode": "1158483!TB!14!TB!9da723a8-8cb2-11f1-abae-e60f6faff128!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 19,
+                    "roomCode": "1158483!TB!17!TB!9da723a8-8cb2-11f1-abae-e60f6faff128!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 22,
+                    "roomCode": "1158483!TB!19!TB!9da723a8-8cb2-11f1-abae-e60f6faff128!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 24,
+                    "roomCode": "1158483!TB!6!TB!9da723a8-8cb2-11f1-abae-e60f6faff128!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 33,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|dJP061585!~|eSA!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP061585!~|nSA!~|nEDMC!~|o0!~|p1!~|x31070737!~|M6760.95!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR32852983!~|AJR32852983!~|BJR32852983!~|C30|30!~|ERoom, 2 Double Beds, Balcony (City Side)!~|FRoom, 2 Double Beds, Balcony (City Side)!~|G1!~|U2,6760.95,1785319200!~|HPackage!~|Itrue!~|HratePlan!~|I9URD6gfnNsxUmS29TYKwcn0PL3OE08qk/mvxuN6+hi6P0DI7MZOfHDGKLbd/yCohmky9B7vF1JlXTxZQ06cKlZTt9uPPAEpKCMZUHANfgNVCjf8MrH+RReSBvX/gJU7oKWHddyend7+J+YSCugbwnqtwqC02D89TTJT7eaDXrY88T59eojZhw1uUrKA/EZn6wIvfvU7TYBTePxebN2CFxzNjor0EGS9Et6YDHm/ZX03yz3VVTc6tdYzg+34LPqRXrFWoQsPMJpdAJDOFoTi4JpwPT07k8LbaWfaNfBzZX+HT/PJmpboKJz+1KN1xPMtdUvtaDtucVi+8yaxzNoOfo63KzRsaXLSMGjNwbUZA7AuKlouqtChH1Usml899izgXoaUJRnjX3oq68XwH5jp+bsEndu4cBUM5zZQpDsffZSIvsq7eiuCI51M+AEUJ+DK78F4MR6B8/MgktSwvaPimjeheUEzYr2cXrTZ/wuv6QOk1xIsLiAM58qWoIA/8839RGf0dfVjJ+sHfusz86hBYBmIcLL7UgpfUjfDOKTiNUngqAmgWRuOQ70TkZThH4ax2!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I6760.95!~|tOK!~|uSith!~|v0!~|w!~|yPACKAGE!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 36,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|dJP061585!~|eSA!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP061585!~|nSA!~|nEDMC!~|o0!~|p1!~|x31070737!~|M7304.01!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR32852983!~|AJR32852983!~|BJR32852983!~|C30|30!~|ERoom, 2 Double Beds, Balcony (City Side)!~|FRoom, 2 Double Beds, Balcony (City Side)!~|G1!~|U2,0,1785319200|2,1043.43,1792490400|2,7304.01,1793440800!~|HPackage!~|Itrue!~|HratePlan!~|I9URD6gfnNsxUmS29TYKwcn0PL3OE08qk/mvxuN6+hi6Z4AxrnWTyaaT1ZcqePPm52LAQsNQih7ZMKIh0RxEY7r1zhsyDHHRjLRrNggWFbT41lqnkP3dRwvqn6G/E0kzNeeIA8JeAbZ+8wnTTs7PfDlGrTDvIud6svPHMEG9eyJ2OR2xqhU024i4yypZPLlcyR6jqUHxSgnyOnGC5BjTJGzfrjd+2Ym/ONPaD1waftd5iMxqenhAkJV5CgTT9CyvZtt+oj0LQKnil55ELOZQzI+NoE461D258jDCYb+mjFqXsi82tbeob3+fcqVJvL5y7+YsotzArS1PjFpka9QPWGJh9NNCwtHvY9lmYSc+xNFZz8O7Y0B7s9H/VdXSDv6IwZWRZkaIVOT0/dLTMcniGi+0V5UFgWOX+ITWCtjjKyFE80eLEgrNJpzeKsxL8ehGx644XoYve30RRKla8Xaqu/9WkyfViv850GCwThR1uH+Mc7nw7F5v6rZRbmGE4J4yvyxG1os31aD1gZ8ai9mJ3qjjCdxq3yy13F9pClsDhsLwWYbeQ2fhWOIAW9K03A+HQ!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I7304.01!~|tOK!~|uSith!~|v0!~|w!~|yPACKAGE!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 44,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|d16865!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m16865!~|n1!~|nDIDA!~|o1!~|p0!~|x31070737!~|r6505815468720557501!~|s6505815468720557501!~|M7447.69!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#6505815468720557501!~|A25319391!~|B25319391!~|C30|30!~|E2 DOUBLE BEDS - CITY SIDE W/BALCONY!~|F2 DOUBLE BEDS - CITY SIDE W/BALCONY!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I7447.69!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 46,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|d16865!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m16865!~|n1!~|nDIDA!~|o1!~|p1!~|x31070737!~|r5499381470268992198!~|s5499381470268992198!~|M8045.96!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#5499381470268992198!~|A25319391!~|B25319391!~|C30|30!~|E2 DOUBLE BEDS - CITY SIDE W/BALCONY!~|F2 DOUBLE BEDS - CITY SIDE W/BALCONY!~|G1!~|U2,1343.36,1792511940|2,8045.96,1793433600!~|Hcurrency!~|IAED!~|Htgx_price!~|I8045.96!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 48,
+                    "roomCode": "24211329/7734452183753575758/294",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 50,
+                    "roomCode": "21405529/7734452183753575758/1",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 52,
+                    "roomCode": "28745684/7734452183753575758/656",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Quadruple With Balcony",
+            "category": "Unknown",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 9,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|d1495743!~|eRoom Only!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m1495743!~|nRoom Only!~|nTLD!~|o1!~|p1!~|x31070737!~|M2231.39!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Aquadruple with balcony!~|Bquadruple with balcony!~|C30|30!~|Equadruple with balcony!~|Fquadruple with balcony!~|G1!~|U2,438.59,1791972000|1,100,1793440800!~|HtimeStamp!~|I7/31/2026 7:37:04 AM!~|HtimeParam!~|I2026-07-31T08:07:04!~|HoptionidFirstDispo!~|I764255835657!~|Hcurrency!~|IUSD!~|HroomId#1!~|I4255835657-1-0!~|HoptionToken!~|IMXx8MTMyMjZ8fDIyMzF8fFVTRHx8ZjllNTdlOGU3YTM5ZDU5MzEyMDI3YmUzYWU0MTA5NGFmZWUwMjY1OQ==!~|Hnumadults!~|I1#2!~|Htgx_price!~|I2231.39!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 23,
+                    "roomCode": "1158483!TB!11!TB!9da723a8-8cb2-11f1-abae-e60f6faff128!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 31,
+                    "roomCode": "1158483!TB!20!TB!9da723a8-8cb2-11f1-abae-e60f6faff128!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Room Run Of House",
+            "category": "Room",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 10,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|d1495743!~|eRoom Only!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m1495743!~|nRoom Only!~|nTLD!~|o1!~|p1!~|x31070737!~|M2273.59!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Aroom run of house!~|Broom run of house!~|C30|30!~|Eroom run of house!~|Froom run of house!~|G1!~|U2,447.57,1792404000|2,2296.52,1793268000|1,100,1793440800!~|HtimeStamp!~|I7/31/2026 7:37:04 AM!~|HtimeParam!~|I2026-07-31T08:07:04!~|HoptionidFirstDispo!~|I763193098134!~|Hcurrency!~|IUSD!~|HroomId#1!~|I3193098134-1-0!~|HoptionToken!~|IMXx8MTMyMjZ8fDIyNzR8fFVTRHx8OTFkMTM3NDJjNGNjMTU1Yjc4OTU3NjRlYTMxOTg0YTUxMTU1ZTJjOQ==!~|Hnumadults!~|I1#2!~|Htgx_price!~|I2273.59!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 20,
+                    "roomCode": "1158483!TB!1!TB!9da723a8-8cb2-11f1-abae-e60f6faff128!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 32,
+                    "roomCode": "1158483!TB!21!TB!9da723a8-8cb2-11f1-abae-e60f6faff128!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Double Double Harbour View",
+            "category": "Unknown",
+            "view": "Unknown",
+            "beds": [
+                {
+                    "type": "Double"
+                }
+            ],
+            "bedInfo": "Double",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 11,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|d1495743!~|eRoom Only!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m1495743!~|nRoom Only!~|nTLD!~|o1!~|p1!~|x31070737!~|M2300.49!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Adouble/double - harbour view!~|Bdouble/double - harbour view!~|C30|30!~|Edouble/double - harbour view!~|Fdouble/double - harbour view!~|G1!~|U1,15,1792058400|1,100,1793440800!~|HtimeStamp!~|I7/31/2026 7:37:04 AM!~|HtimeParam!~|I2026-07-31T08:07:04!~|HoptionidFirstDispo!~|I761659165727!~|Hcurrency!~|IUSD!~|HroomId#1!~|I1659165727-1-0!~|HoptionToken!~|IMTEwfHw0Nzc5fHwyMzAwfHxVU0R8fGRhYzE4MTE1NjliNWNjMDEyZTZhMjU0YWE4ODZjMTdhMzUwOTRmYzc=!~|Hnumadults!~|I1#2!~|Htgx_price!~|I2300.49!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "2 Double Beds Harbor View 35Usd Rsrt Chg Balcony East Facing Bay View Mini Fridge Balcony 50 Inch Tv Safe",
+            "category": "Unknown",
+            "view": "Unknown",
+            "beds": [
+                {
+                    "type": "Double"
+                }
+            ],
+            "bedInfo": "Double",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 17,
+                    "roomCode": "1158483!TB!7!TB!9da723a8-8cb2-11f1-abae-e60f6faff128!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 28,
+                    "roomCode": "1158483!TB!18!TB!9da723a8-8cb2-11f1-abae-e60f6faff128!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 51,
+                    "roomCode": "21405529/7734452183753575758/3",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Quadruple Standard",
+            "category": "Unknown",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 25,
+                    "roomCode": "1158483!TB!9!TB!9da723a8-8cb2-11f1-abae-e60f6faff128!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Double Room Double Bed",
+            "category": "Room",
+            "view": "Unknown",
+            "beds": [
+                {
+                    "type": "Double"
+                }
+            ],
+            "bedInfo": "Double",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 34,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|dJP061585!~|eSA!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP061585!~|nSA!~|nEDMC!~|o1!~|p1!~|x31070737!~|M6865.13!~|N0!~|Otrue!~|PAED!~|Q!~|R0!~|S!~|T8267.25!~|z1#JR002358!~|AJR002358!~|BJR002358!~|C30|30!~|EDouble room, Double bed!~|FDouble room, Double bed!~|G1!~|U2,6865.13,1785319200!~|HPackage!~|Ifalse!~|HratePlan!~|IQHr9q9hpJLzx9RwPiO+upUCAwtkbRhq5kkyPvOkEwDKGq0CWSfShgsqW+yhietOi3I/EFRLX2MSXoj+VrYcFJzrW04f2G+DNVbr6zSUDRxyV4Qltof4YO/HSC4S5Ac+EYdOPOC2QO90jX8xjdHRXiJLtGt9omAKri6LH+n2vA2xodwSzmxK8F2yIn+Q8+QOfJdsAwDu19hUepXYtMUmQP/6fd1Rwk9kPZt+rLCr0CGCT6Jt0O7wccK76Q08qSC3oIqOmRQNlSVIGKjz2f7PZGVQ6BiIjego6TQFH5mYL/yGW1xay04qIBELcHphovntVqsrsIyD7Si06sT/TNqMjy0MwwMoz5CpxGD+Xz42Pjtzw0X7xck/D81+uYHGcYeuYiaiijRwzc8Oo8LV/7ZVgYyy7Eo2LsK8CkzPrL0FEaU2Ct7bQNWpP19D/88OqXs+xadVdwOxjjy0fcJ9KUAD1VU2G36sW2NeFGZdhZOnRrU/JQBx2g2HYBnjrBwvxyOAbYGc6W3lPJn8TBwGmTXD+mMQcaCxjZeQf4uBOZshp/39bgHK9a3QdGmT+LeSVDDypEN+4y8A3+GOYYnW2rsf/1C9zhDvAyfqGCtGHV7DKvJ+aRqEKJTKCH81BYkzAmXbh7HxRH1wMzk7adv79Lqf/iTYOUDGfg8m38bVu7aVploH6h5CEovt1BMxT5fotVo5z6iugFLhX9E9ZovUkE0qDneAaGCsjvKxfjLlcDJ1q5zofQafp1jijBXXgrDOUmYzn!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I6865.13!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 37,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|dJP061585!~|eSA!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP061585!~|nSA!~|nEDMC!~|o1!~|p1!~|x31070737!~|M7414.3!~|N0!~|Otrue!~|PAED!~|Q!~|R0!~|S!~|T9654.25!~|z1#JR002358!~|AJR002358!~|BJR002358!~|C30|30!~|EDouble room, Double bed!~|FDouble room, Double bed!~|G1!~|U2,0,1785405600|2,1059.19,1792404000|2,1059.19,1793354400!~|HPackage!~|Ifalse!~|HratePlan!~|IQHr9q9hpJLzx9RwPiO+upUCAwtkbRhq5kkyPvOkEwDKGq0CWSfShgsqW+yhietOi0U5W+p6Q8kM+RPf7zLI5hQ/KQVWg4AbUj1+70r0a9f2EAeWJke3GBrvJyGRCHKfWnQIEePWAmyxApOz56hUhrvd28T23Cr/qlFsiaxkpABKAVrA1TvREhXuj9Pk/KS3gQQMQy0W2q7gyuf9SoPn1pXZ4FdJaDtf0eWYlxJqK3BVHQ9X7VEzrKQ3Vi7nfMDzvCfLssLu0abCJvz5wULKcL00hrAoPSVzK25PbDHdY+w64gfxKYNJm1Ilc6qwlblD9/xGWhRn8kzmvzI69NgFG2RC2FkDkH3RgiaQlArzctlycs5zD4kcZiR3J1a2owPhybRJ+9t60d0ukI3BZik04yVX3dzLtaHm1x00tbqVHVP7aI82avDjW/Cbrd7nszv9ZD3BxZF2NfFuuxcNc9ftpAVwGT3LjxTMkmWn3sT12007aeq6IYbkvSDOfvkNM9GTX49FbCxKQiftlFQ2YUfW74P7o4XaeyisGSfUJttsUwxkt07qZH2lKKoNqUG9tjll1hZylr1nViJtreo5yJvkewyqdqsJ5pbK8MGcLbppoF9Y/rqE94748jPc30Uq14WQBxO3qsyOGXlmYC6NLAeQfV/P1lFB8PGb/Xj8JJGvolOsrwWJp0RM2a+dtatTYzMwWDCiCRV+VlujrHn1kMdBx2AvNvhw9Ov0eNGSGDGByntA=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I7414.3!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Room Double Bed City Side Balcony",
+            "category": "Room",
+            "view": "Unknown",
+            "beds": [
+                {
+                    "type": "Double"
+                }
+            ],
+            "bedInfo": "Double",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 39,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|dJP061585!~|eSA!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP061585!~|nSA!~|nEDMC!~|o1!~|p1!~|x31070737!~|M8347.72!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR005597!~|AJR005597!~|BJR005597!~|C30|30!~|EROOM, DOUBLE BED, CITY SIDE, BALCONY!~|FROOM, DOUBLE BED, CITY SIDE, BALCONY!~|G1!~|U2,7340.31,1785405600|2,8347.72,1793440800!~|HPackage!~|Ifalse!~|HratePlan!~|I/IfaPSIZbvs4aLWsdvVEQywMHRsH8X1oWutfJ8Xw05A008PAXnm6DhHpUgaJ40pC+hOv74zaNLfmN4dk7QiFMQ6rg73QRAfhLw2EU4xj7X3XOZqghq08F2+/ird+zk/B0CY4HHbX+9eA1Z0pdDG54B9SYtQ+ca5GNrX6Uoaj/d3fBU9cp+W7SVHK0vqWKQowy1SUjga0x/gHHqHnLGzVDKKF2Vp7ukIeciUEplbNTU+wusv2CYngc6RiRHCThhdLFcuo3tHi0ad9X3V3DIBPMISZJI7oPvvqhDuhR+OS6zdh1CkXAcMzFDdprHi7ciI/LaRf3CIYgocTzfZ8A8YBE4RfMpdTsjvnR2gNYNzuNOAazwJDxEAgTNxp0rHEFw5AmLOa04wMZU1JxzYYeFWRzgqRi0ayqMseQcxwCeGZo3PFzqeYklpQlCATJYHo5qqLK7Pfe0V+1nE9PoG7xq2M8g==!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I8347.72!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Room 2 Double Beds East View Harbour View Balcony",
+            "category": "Room",
+            "view": "Unknown",
+            "beds": [
+                {
+                    "type": "Double"
+                }
+            ],
+            "bedInfo": "Double",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 40,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|dJP061585!~|eSA!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP061585!~|nSA!~|nEDMC!~|o1!~|p1!~|x31070737!~|M8595.66!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR32855351!~|AJR32855351!~|BJR32855351!~|C30|30!~|EROOM, 2 DOUBLE BEDS, EAST VIEW, HARBOUR VIEW, BALCONY!~|FROOM, 2 DOUBLE BEDS, EAST VIEW, HARBOUR VIEW, BALCONY!~|G1!~|U2,7955.42,1785405600|2,8595.66,1793440800!~|HPackage!~|Ifalse!~|HratePlan!~|I/IfaPSIZbvs4aLWsdvVEQywMHRsH8X1oWutfJ8Xw05Bqy6dGcNIRb4PKGhEzZgAepKCn+w7dkVPYJDbuipif/CdMrxS5NU0S4GTJZrUsZ2Iq43P2wcztOkaROJV3REh11xnaOE8irvLyTWmvuPhpGc8BmWQLLnu307qpFQyjKIfZxD+jnhJ9pq74DnV96yrCw+gfdX2vZ7AbdPhwEiPX+l/n+mVvqF967VIDuIs8QL/JrJkKmVzJer/6ONuRU1PXW7BLggTtHcNH/UIYiTVg1H+csCFOCCDw8/p9Nb04xkbSN+nOwH4BmdJP4ICns5FMtIMQx/4zZFEw1Lo52+A6UmWWxPnb/J9v+sl8LlE4XpMSrNoenVDsZMXYI6VsS9vwDOzVYblNQM1PExNF+yymdLB+hmPORg36Gy8En3gjfg6uOcf/Icg/Ffbkrc6JuZs0j8vZBdPMAU+IlkIQ3VPO4A==!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I8595.66!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Double Room With Two Double Beds With City View",
+            "category": "Room",
+            "view": "City",
+            "beds": [
+                {
+                    "type": "Double"
+                }
+            ],
+            "bedInfo": "Double",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 41,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|dJP061585!~|eSA!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP061585!~|nSA!~|nEDMC!~|o1!~|p1!~|x31070737!~|M8612.37!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR32852638!~|AJR32852638!~|BJR32852638!~|C30|30!~|EDouble Room with Two Double Beds with City View!~|FDouble Room with Two Double Beds with City View!~|G1!~|U2,0,1785319200|2,8612.37,1792490400|2,8612.37,1793440800!~|HPackage!~|Ifalse!~|HratePlan!~|IR3Y/heES4nQSmWcoTRZfD+dSm4OvPosU+32be7PnbRNcTaKdeACa1YsuC6cRnSJgM2hvJ3THfUcWvH6MLMbWup2kt0sEKWabSFn9w6TsZUd/iD9xIYTxUqOAPqZMtZQJfaPXlc2220kvyB+C5LpU4YEtiOjZ/yS7O0fORXv2u4a/lkdWh25UN3/k+LpfUVIkhltcflqWkOKIBuNHCVT6lWCsAy7FSuzNeatbdVfK8CKS3T02svChko31s6zpQgTxyaonze2K+wjMx1UXQKGFDhylmmPfwP7xSj3MDnqz1BfHQhBM6RTKsU09IzkcGHSDG9waI5PHpTUNjcX9rdlKyjKAXhtd56yT+veaNyy/8bu5/0CGLeOAtUjTzW/BgSTwQGZAwb0rXe9ndggAfLwPEKaPycf8WLx/tqn6fWdlKsRCot3AcZZNNeL7H9pfkcHf1WivqRP/D+6htRoihBrGSWY6ynsk674AKwx9tKnVuxWTDVzcshTHE33SUXQ2Hmlj!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I8612.37!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 54,
+                    "roomCode": "28578355/7734452183753575758/30",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Double Room With Two Double Beds And Harbour View",
+            "category": "Room",
+            "view": "Unknown",
+            "beds": [
+                {
+                    "type": "Double"
+                }
+            ],
+            "bedInfo": "Double",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 42,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|dJP061585!~|eSA!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP061585!~|nSA!~|nEDMC!~|o1!~|p1!~|x31070737!~|M9139.05!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR32853208!~|AJR32853208!~|BJR32853208!~|C30|30!~|EDouble Room with Two Double Beds and Harbour View!~|FDouble Room with Two Double Beds and Harbour View!~|G1!~|U2,0,1785319200|2,9139.05,1792490400|2,9139.05,1793440800!~|HPackage!~|Ifalse!~|HratePlan!~|IR3Y/heES4nQSmWcoTRZfD+dSm4OvPosU+32be7PnbRN8JwNV3wN+LZMPGSIOERBwPd7dyh825DdValz8+RIyBB7plhXt4hECkJBdDR+zjZW1t3t5Pq0Ou7LqjP6scZnw4Bt0PVwjXB3Cg5IAxHc7o/HiCi8HJ7AQ/zh05OMuWqtolsr3FD2MiElo0i3wL/fpqpIbNuq92tiWof+at+CLEGhFsW6WKa+/UuEjB5t2ceBPAdrj72nuc0ucPMbAz32MS7s+QdgKZvQI4hvd/xe452UfqixzabLx1jrC3aRvSaN7NepBqB8pviWsMBAc94fp6/Hb+/SoXtGE1V11yx3MZBvTmp3pQ/gL8xUHxBZvhi0g93SPRVfxUoWXqj11iLFUPqlTMxUn95NseBtSSJ1qWJT7u4b2rMeF+XLx2FnaiSVZoSLTJ6SChLscsBHAwGszDhKnVx30w2U80uzs5XgronzPqDThYpM0mptk5aJ2+kWywdqP0xlr5Rz3mDrYMxhj!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I9139.05!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Room 2 Double Beds City View",
+            "category": "Room",
+            "view": "City",
+            "beds": [
+                {
+                    "type": "Double"
+                }
+            ],
+            "bedInfo": "Double",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 43,
+                    "roomCode": "33!~|a0!~|b261101!~|c261108!~|dJP061585!~|eSA!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP061585!~|nSA!~|nEDMC!~|o1!~|p1!~|x31070737!~|M9228.57!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR32852690!~|AJR32852690!~|BJR32852690!~|C30|30!~|EROOM, 2 DOUBLE BEDS, CITY VIEW!~|FROOM, 2 DOUBLE BEDS, CITY VIEW!~|G1!~|U2,7404.58,1785405600|2,9228.57,1793440800!~|HPackage!~|Ifalse!~|HratePlan!~|I/IfaPSIZbvs4aLWsdvVEQywMHRsH8X1oWutfJ8Xw05DAWrFvw5XkGpD67F5PBTD6UcGy2UsJYEMcWSUZUU+dHjzw+05GQuVP7emcR4CcvyIFiqf4dyu+gAKhbXQynxbo4Ml4Z42Dal1dWWc9XIodXtAg50neZQhzDDzNg+wzMwDfLUx02ALwefOvo0nUUFc1kNUP+Q/Jxoo0vVUZfWGbmC3RSRTOS0JvkLRa58dUdhazIfakByvshq+BRddTTao1fj2+/OSqRGv5cRimyPanZvx1gpDjl3d7EiFeQ2UZtmiXVzrrCca/O6Z00eZKiZahXLcSec+RZEdXrh9R2Xl8FiXQKOzah586xOBH2bD7msN5HwbBvhSHGOqVHdLHte5mjqhp2Vimniu7Ch6BlE0uYczR7r1ITHXM6POUyRCNZuMVgOVWut3EwlVbsFfpyp96726UnPPJuH7J8gB+AqAh4A==!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I9228.57!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "2 Doubles Harbor View",
+            "category": "Unknown",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 55,
+                    "roomCode": "28745684/7734452183753575758/657",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        }
+    ]
+}

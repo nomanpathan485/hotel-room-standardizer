@@ -3,21 +3,9 @@ import pandas as pd
 from sklearn.linear_model import LogisticRegression
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
+from app.services.ml_feature_schema import FEATURE_COLUMNS
 
 
-FEATURE_COLUMNS = [
-    "fuzzy_score",
-    "same_category",
-    "room_class_both_known",
-    "same_room_class",
-    "view_both_known",
-    "same_view",
-    "bed_type_both_known",
-    "same_bed_type",
-    "bed_config_both_present",
-    "same_bed_configuration",
-    "same_balcony",
-]
 
 
 train_df = pd.read_csv("data/train_features.csv")

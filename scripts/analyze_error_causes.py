@@ -1,112 +1,146 @@
+import json
+
 import pandas as pd
 
 
-ERROR_FILE = "data/error_analysis.csv"
-
-
-OCCUPANCY_TERMS = [
-    "single",
-    "double",
-    "triple",
-    "quad",
-    "quadruple",
-    "5 person",
-    "4 person",
-    "3 person",
-    "2 person",
-    "2+1",
-    "2+2",
-]
-
-SINGLE_USE_TERMS = [
-    "single use",
-    "single occupancy",
-    "for 1 person",
-    "1 person",
-]
-
-BED_TERMS = [
-    "twin bed",
-    "twin beds",
-    "double bed",
-    "king bed",
-    "queen bed",
-    "bunk bed",
-    "sofa bed",
-]
-
-VIEW_TERMS = [
-    "sea view",
-    "side sea",
-    "garden view",
-    "land view",
-    "pool view",
-    "city view",
-    "ocean view",
-]
-
-
-def contains_any(text, terms):
-    text = str(text).lower()
-    return any(term in text for term in terms)
+ERROR_FILE = "data/model_errors.csv"
+OUTPUT_FILE = "data/classified_errors.csv"
 
 
 def classify_error(row):
-    combined_text = (
-        f"{row['room_a_name']} "
-        f"{row['room_b_name']}"
-    )
+    if row["label"] == 0 and row["predicted"] == 1:
+        return "wrong_merge"
 
-    causes = []
+    if row["label"] == 1 and row["predicted"] == 0:
+        return "wrong_split"
 
-    if contains_any(combined_text, SINGLE_USE_TERMS):
-        causes.append("single_use")
+    return "not_an_error"
 
-    if contains_any(combined_text, OCCUPANCY_TERMS):
-        causes.append("occupancy")
 
-    if contains_any(combined_text, BED_TERMS):
-        causes.append("bed")
+def find_conflicts(row):
+    conflicts = []
 
-    if contains_any(combined_text, VIEW_TERMS):
-        causes.append("view")
+    features_a = json.loads(row["room_a_features"])
+    features_b = json.loads(row["room_b_features"])
 
-    if row["label"] == 0 and row["predicted_label"] == 1:
-        error_type = "wrong_merge"
-    else:
-        error_type = "wrong_split"
+    bedroom_count_a = features_a.get("bedroom_count")
+    bedroom_count_b = features_b.get("bedroom_count")
 
-    if not causes:
-        causes.append("unknown")
+    if row["same_category"] == 0:
+        conflicts.append("category_conflict")
 
-    return error_type, "|".join(causes)
+    if (
+        row["room_class_both_known"] == 1
+        and row["same_room_class"] == 0
+    ):
+        conflicts.append("room_class_conflict")
+
+    if (
+        row["view_both_known"] == 1
+        and row["same_view"] == 0
+    ):
+        conflicts.append("view_conflict")
+
+    if (
+        row["bed_type_both_known"] == 1
+        and row["same_bed_type"] == 0
+    ):
+        conflicts.append("bed_type_conflict")
+
+    if (
+        row["bed_config_both_present"] == 1
+        and row["same_bed_configuration"] == 0
+    ):
+        conflicts.append("bed_configuration_conflict")
+
+    if (
+        row["occupancy_both_known"] == 1
+        and row["same_occupancy"] == 0
+    ):
+        conflicts.append("occupancy_conflict")
+
+    if row["single_use_mismatch"] == 1:
+        conflicts.append("single_use_mismatch")
+
+    if row["balcony_mismatch"] == 1:
+        conflicts.append("balcony_mismatch")
+
+    if (
+        bedroom_count_a is not None
+        and bedroom_count_b is not None
+        and bedroom_count_a != bedroom_count_b
+    ):
+        conflicts.append("bedroom_count_conflict")
+
+    if not conflicts:
+        conflicts.append("no_detected_conflict")
+
+    return "|".join(conflicts)
 
 
 df = pd.read_csv(ERROR_FILE)
 
-classified = df.apply(
+df["error_type"] = df.apply(
     classify_error,
     axis=1,
-    result_type="expand",
 )
 
-df["error_type"] = classified[0]
-df["possible_causes"] = classified[1]
+df["detected_conflicts"] = df.apply(
+    find_conflicts,
+    axis=1,
+)
 
 df.to_csv(
-    "data/classified_errors.csv",
+    OUTPUT_FILE,
     index=False,
 )
 
 print("\nError type counts:")
 print(df["error_type"].value_counts())
 
-print("\nPossible cause counts:")
+print("\nDetected conflict counts:")
 print(
-    df["possible_causes"]
+    df["detected_conflicts"]
     .str.split("|")
     .explode()
     .value_counts()
 )
 
-print("\nSaved to data/classified_errors.csv")
+print(f"\nSaved to {OUTPUT_FILE}")
+
+exploded = df.assign(
+    detected_conflicts=df["detected_conflicts"].str.split("|")
+).explode(
+    "detected_conflicts",
+    ignore_index=True,
+)
+
+print("\nConflicts by error type:")
+print(
+    pd.crosstab(
+        exploded["detected_conflicts"],
+        exploded["error_type"],
+    ).to_string()
+)
+
+unexplained_wrong_merges = df[
+    (df["error_type"] == "wrong_merge")
+    & (df["detected_conflicts"] == "no_detected_conflict")
+]
+
+sample = unexplained_wrong_merges.sample(
+    n=min(20, len(unexplained_wrong_merges)),
+    random_state=42,
+)
+
+print("\nSample unexplained wrong merges:")
+print(
+    sample[
+        [
+            "hotel_id",
+            "room_a_name",
+            "room_b_name",
+            "fuzzy_score",
+        ]
+    ].to_string(index=False)
+)

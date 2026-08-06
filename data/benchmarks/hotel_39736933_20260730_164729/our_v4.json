@@ -1,0 +1,1921 @@
+{
+    "standardRooms": [
+        {
+            "standardName": "Deluxe Guest Room King With City View",
+            "category": "Deluxe Guest Room",
+            "view": "City",
+            "beds": [
+                {
+                    "type": "King"
+                }
+            ],
+            "bedInfo": "King",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 1,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJR0VOUnxZTlFT\",\"boardCode\":\"CgJSTw==\"}",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 11,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJREJEQnxETFdH\",\"boardCode\":\"CgJCQg==\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 12,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJREJEQnxZTkZG\",\"boardCode\":\"CgJGQg==\"}",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 43,
+                    "roomCode": "1336959685-2304",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 53,
+                    "roomCode": "1336959685-2314",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 54,
+                    "roomCode": "1336959685-2315",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Deluxe Guest Room Twin Partial Haram View",
+            "category": "Deluxe Guest Room",
+            "view": "Unknown",
+            "beds": [
+                {
+                    "type": "Twin"
+                }
+            ],
+            "bedInfo": "Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 2,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJRExVWHxZTlBM\",\"boardCode\":\"CgJSTw==\"}",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 4,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJVEhHVnxZTlFQ\",\"boardCode\":\"CgJSTw==\"}",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 6,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJUVVFTnxZTlFS\",\"boardCode\":\"CgJSTw==\"}",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 7,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJRExVWHxUQkRF\",\"boardCode\":\"CgJCQg==\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 9,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJVEhHVnxETlQ0\",\"boardCode\":\"CgJCQg==\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 10,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJRExVWHxZTkJK\",\"boardCode\":\"CgJIQg==\"}",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 15,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJRExVWHxZTkZI\",\"boardCode\":\"CgJGQg==\"}",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 16,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJUVVFTnxETlQ1\",\"boardCode\":\"CgJCQg==\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 18,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJVEhHVnxZTkhW\",\"boardCode\":\"CgJIQg==\"}",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 22,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJVEhHVnxZTktF\",\"boardCode\":\"CgJGQg==\"}",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 27,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJUVVFTnxZTkhX\",\"boardCode\":\"CgJIQg==\"}",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 29,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJUVVFTnxZTktG\",\"boardCode\":\"CgJGQg==\"}",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 44,
+                    "roomCode": "1336959685-2305",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 46,
+                    "roomCode": "1336959685-2307",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 48,
+                    "roomCode": "1336959685-2309",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 49,
+                    "roomCode": "1336959685-2310",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 51,
+                    "roomCode": "1336959685-2312",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 52,
+                    "roomCode": "1336959685-2313",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 57,
+                    "roomCode": "1336959685-2318",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 58,
+                    "roomCode": "1336959685-2319",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 60,
+                    "roomCode": "1336959685-2321",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 64,
+                    "roomCode": "1336959685-2325",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 69,
+                    "roomCode": "1336959685-2330",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 71,
+                    "roomCode": "1336959685-2332",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 75,
+                    "roomCode": "1336959685-2336",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 78,
+                    "roomCode": "1336959685-2339",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 82,
+                    "roomCode": "1336959685-2343",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 84,
+                    "roomCode": "1336959685-2345",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 91,
+                    "roomCode": "1336959685-2352",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 112,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d115-382462!~|e28!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32795!~|m115-382462!~|n28!~|nILS!~|o1!~|p1!~|x30071110!~|M4163.48!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A127015!~|B127015!~|C30|30!~|EDeluxe Guest room,  Twin, Partial Haram view!~|FDeluxe Guest room,  Twin, Partial Haram view!~|G1!~|U2,693.91,1790676000|2,693.91,1790762400!~|HcityCode!~|IMAKKAH!~|HtokenNumber!~|ITRA_STG: 20260730_111034!~|HroomConfig!~|I1#28#127015#1146154!~|Htgx_price!~|I4163.48!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 120,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d115-382462!~|e7!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32795!~|m115-382462!~|n7!~|nILS!~|o1!~|p1!~|x30071110!~|M5718.32!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A127015!~|B127015!~|C30|30!~|EDeluxe Guest room,  Twin, Partial Haram view!~|FDeluxe Guest room,  Twin, Partial Haram view!~|G1!~|U2,953.05,1790676000|2,953.05,1790762400!~|HcityCode!~|IMAKKAH!~|HtokenNumber!~|ITRA_STG: 20260730_111034!~|HroomConfig!~|I1#7#127015#721636!~|Htgx_price!~|I5718.32!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Triple Deluxe Guest Room Three Twin City View",
+            "category": "Deluxe Guest Room",
+            "view": "City",
+            "beds": [
+                {
+                    "type": "Twin"
+                }
+            ],
+            "bedInfo": "Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 3,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJVEVSUnxZTlFM\",\"boardCode\":\"CgJSTw==\"}",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 8,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJVEVSUnxETFg0\",\"boardCode\":\"CgJCQg==\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 17,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJVEVSUnxZTkZO\",\"boardCode\":\"CgJIQg==\"}",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 19,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJVEVSUnxMSVpL\",\"boardCode\":\"CgJGQg==\"}",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 45,
+                    "roomCode": "1336959685-2306",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 50,
+                    "roomCode": "1336959685-2311",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 59,
+                    "roomCode": "1336959685-2320",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 61,
+                    "roomCode": "1336959685-2322",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 74,
+                    "roomCode": "1336959685-2335",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 81,
+                    "roomCode": "1336959685-2342",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 83,
+                    "roomCode": "1336959685-2344",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 87,
+                    "roomCode": "1336959685-2348",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 111,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d115-382462!~|e28!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32795!~|m115-382462!~|n28!~|nILS!~|o1!~|p1!~|x30071110!~|M4100.8!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A127020!~|B127020!~|C30|30!~|EDeluxe Guest room,  Twin, City view!~|FDeluxe Guest room,  Twin, City view!~|G1!~|U2,683.47,1790676000|2,683.47,1790762400!~|HcityCode!~|IMAKKAH!~|HtokenNumber!~|ITRA_STG: 20260730_111034!~|HroomConfig!~|I1#28#127020#721680!~|Htgx_price!~|I4100.8!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 126,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d115-382462!~|e7!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32795!~|m115-382462!~|n7!~|nILS!~|o1!~|p1!~|x30071110!~|M5376.6!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A127020!~|B127020!~|C30|30!~|EDeluxe Guest room,  Twin, City view!~|FDeluxe Guest room,  Twin, City view!~|G1!~|U2,896.10,1790676000|2,896.10,1790762400!~|HcityCode!~|IMAKKAH!~|HtokenNumber!~|ITRA_STG: 20260730_111034!~|HroomConfig!~|I1#7#127020#721695!~|Htgx_price!~|I5376.6!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Quad Deluxe Guest Room Four Twin City View",
+            "category": "Deluxe Guest Room",
+            "view": "City",
+            "beds": [
+                {
+                    "type": "Twin"
+                }
+            ],
+            "bedInfo": "Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 5,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJUVVCRHxZTlFP\",\"boardCode\":\"CgJSTw==\"}",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 14,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJUVVCRHxETFg1\",\"boardCode\":\"CgJCQg==\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 25,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJUVVCRHxZTkhV\",\"boardCode\":\"CgJIQg==\"}",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 28,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJUVVCRHxMSkFF\",\"boardCode\":\"CgJGQg==\"}",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 47,
+                    "roomCode": "1336959685-2308",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 56,
+                    "roomCode": "1336959685-2317",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 67,
+                    "roomCode": "1336959685-2328",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 70,
+                    "roomCode": "1336959685-2331",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "1 Bedroom Executive Suite 1 King Partial Haram View",
+            "category": "Executive Suite",
+            "view": "Unknown",
+            "beds": [
+                {
+                    "type": "King"
+                }
+            ],
+            "bedInfo": "King",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 13,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJSlNURXxZTlBO\",\"boardCode\":\"CgJSTw==\"}",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 20,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJSlNURXxUQkRT\",\"boardCode\":\"CgJCQg==\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 23,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJSlNURXxZTkJM\",\"boardCode\":\"CgJIQg==\"}",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 26,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJSlNURXxZTkZJ\",\"boardCode\":\"CgJGQg==\"}",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 55,
+                    "roomCode": "1336959685-2316",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 62,
+                    "roomCode": "1336959685-2323",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 65,
+                    "roomCode": "1336959685-2326",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 68,
+                    "roomCode": "1336959685-2329",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 90,
+                    "roomCode": "1336959685-2351",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 98,
+                    "roomCode": "1336959685-2359",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 101,
+                    "roomCode": "1336959685-2362",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 103,
+                    "roomCode": "1336959685-2364",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 115,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d115-382462!~|e28!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32795!~|m115-382462!~|n28!~|nILS!~|o1!~|p1!~|x30071110!~|M6817.59!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A127017!~|B127017!~|C30|30!~|E1 Bedroom Executive Suite, 1 King, Partial Haram view!~|F1 Bedroom Executive Suite, 1 King, Partial Haram view!~|G1!~|U2,1136.27,1790676000|2,1136.27,1790762400!~|HcityCode!~|IMAKKAH!~|HtokenNumber!~|ITRA_STG: 20260730_111034!~|HroomConfig!~|I1#28#127017#1550262!~|Htgx_price!~|I6817.59!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 122,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d115-382462!~|e7!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32795!~|m115-382462!~|n7!~|nILS!~|o1!~|p1!~|x30071110!~|M8793.92!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A127017!~|B127017!~|C30|30!~|E1 Bedroom Executive Suite, 1 King, Partial Haram view!~|F1 Bedroom Executive Suite, 1 King, Partial Haram view!~|G1!~|U2,1465.65,1790676000|2,1465.65,1790762400!~|HcityCode!~|IMAKKAH!~|HtokenNumber!~|ITRA_STG: 20260730_111034!~|HroomConfig!~|I1#7#127017#721644!~|Htgx_price!~|I8793.92!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Mashrabiya 1 Bedroom Presidential Suite King Haram View View",
+            "category": "Presidential Suite",
+            "view": "Unknown",
+            "beds": [
+                {
+                    "type": "King"
+                }
+            ],
+            "bedInfo": "King",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 21,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJRVNURXxEVVNY\",\"boardCode\":\"CgJSTw==\"}",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 24,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJRVNURXxWUVFH\",\"boardCode\":\"CgJCQg==\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 30,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJS1NURXxZTkJP\",\"boardCode\":\"CgJIQg==\"}",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 31,
+                    "roomCode": "{\"roomCode\":\"CMhNEgVRQ0FNQxoJS1NURXxZTkZP\",\"boardCode\":\"CgJGQg==\"}",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 63,
+                    "roomCode": "1336959685-2324",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 66,
+                    "roomCode": "1336959685-2327",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 72,
+                    "roomCode": "1336959685-2333",
+                    "boardBasis": "Half Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 73,
+                    "roomCode": "1336959685-2334",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 96,
+                    "roomCode": "1336959685-2357",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 99,
+                    "roomCode": "1336959685-2360",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 102,
+                    "roomCode": "1336959685-2363",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 105,
+                    "roomCode": "1336959685-2366",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 106,
+                    "roomCode": "1336959685-2367",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 108,
+                    "roomCode": "1336959685-2369",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 109,
+                    "roomCode": "1336959685-2370",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 110,
+                    "roomCode": "1336959685-2371",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 113,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d115-382462!~|e28!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32795!~|m115-382462!~|n28!~|nILS!~|o1!~|p1!~|x30071110!~|M8998.95!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A35981583!~|B35981583!~|C30|30!~|EMashrabiya, 1 Bedroom Presidential Suite, King, Haram View view!~|FMashrabiya, 1 Bedroom Presidential Suite, King, Haram View view!~|G1!~|U2,1499.83,1790676000|2,1499.83,1790762400!~|HcityCode!~|IMAKKAH!~|HtokenNumber!~|ITRA_STG: 20260730_111034!~|HroomConfig!~|I1#28#35981583#1170698!~|Htgx_price!~|I8998.95!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 118,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d115-382462!~|e28!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32795!~|m115-382462!~|n28!~|nILS!~|o1!~|p1!~|x30071110!~|M8520.56!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A127016!~|B127016!~|C30|30!~|EPanoramic, 1 Bedroom Presidential Suite, 1 King, Haram View view!~|FPanoramic, 1 Bedroom Presidential Suite, 1 King, Haram View view!~|G1!~|U2,1420.09,1790676000|2,1420.09,1790762400!~|HcityCode!~|IMAKKAH!~|HtokenNumber!~|ITRA_STG: 20260730_111034!~|HroomConfig!~|I1#28#127016#721694!~|Htgx_price!~|I8520.56!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 121,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d115-382462!~|e7!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32795!~|m115-382462!~|n7!~|nILS!~|o1!~|p1!~|x30071110!~|M9819.11!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A35981583!~|B35981583!~|C30|30!~|EMashrabiya, 1 Bedroom Presidential Suite, King, Haram View view!~|FMashrabiya, 1 Bedroom Presidential Suite, King, Haram View view!~|G1!~|U2,1636.52,1790676000|2,1636.52,1790762400!~|HcityCode!~|IMAKKAH!~|HtokenNumber!~|ITRA_STG: 20260730_111034!~|HroomConfig!~|I1#7#35981583#1170700!~|Htgx_price!~|I9819.11!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 125,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d115-382462!~|e7!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32795!~|m115-382462!~|n7!~|nILS!~|o1!~|p1!~|x30071110!~|M10844.31!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A127016!~|B127016!~|C30|30!~|EPanoramic, 1 Bedroom Presidential Suite, 1 King, Haram View view!~|FPanoramic, 1 Bedroom Presidential Suite, 1 King, Haram View view!~|G1!~|U2,1807.38,1790676000|2,1807.38,1790762400!~|HcityCode!~|IMAKKAH!~|HtokenNumber!~|ITRA_STG: 20260730_111034!~|HroomConfig!~|I1#7#127016#1170702!~|Htgx_price!~|I10844.31!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 135,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d191264!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m191264!~|n1!~|nDIDA!~|o1!~|p1!~|x30071110!~|r-4534822154147339581!~|s-4534822154147339581!~|M8725.15!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-4534822154147339581!~|A33866760!~|B33866760!~|C30|30!~|EPresidential Suite, 1 Bedroom, Non Smoking!~|FPresidential Suite, 1 Bedroom, Non Smoking!~|G1!~|U2,8725.15,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I8725.15!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 142,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d191264!~|e2!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m191264!~|n2!~|nDIDA!~|o1!~|p1!~|x30071110!~|r1030040837424224504!~|s1030040837424224504!~|M9520.32!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#1030040837424224504!~|A33866760!~|B33866760!~|C30|30!~|EPresidential Suite, 1 Bedroom, Non Smoking!~|FPresidential Suite, 1 Bedroom, Non Smoking!~|G1!~|U2,9520.32,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I9520.32!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 156,
+                    "roomCode": "28599688/1353250509625199250/826",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 158,
+                    "roomCode": "28599688/1353250509625199250/828",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 159,
+                    "roomCode": "28599688/1353250509625199250/836",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Deluxe Room 2 Twin Beds City View",
+            "category": "Deluxe Room",
+            "view": "City",
+            "beds": [
+                {
+                    "type": "Twin"
+                }
+            ],
+            "bedInfo": "Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 32,
+                    "roomCode": "4858V6HC2:RO:STD::ndhGcEQ2hlY2tJbj0yMDI2LTEwLTAxKioqfH58KioqQ2hlY2tPdXQ9MjAyNi0xMC0wNyoqKnx+fCoqKk5vblJlZnVuZGFibGU9ZmFsc2UqKip8fnwqKipSYXRlQ29kZT1TVEQqKip8fnwqKipSYXRlUGxhbkNvZGU9VjJ0WE9RTmR5a2Y5TzVDNGpWSzVJV29FbXl1cXB1MFNoaXRHNEUzNEVaVUxMYkRhSERvVTNKYWVkaTNvTCtUcFdWOGx1aUZaVWhFY0NNR24rczVjd2pLcTZnVWhjcnVCclpQU1d0SlQ3bjAwMW9xQzRtUmpHVUhrTXZRc1UxUDZVM2tQMmthR0dsZ29NamRHNWVya1dleEtBL3lvUEhidExDY1F2a2NkbFJZaGR5aVpSRCtiU3F2SG5LWTljdERBN2h5MjlhaVQ1dHFxV2prMHQ4enRGY2hlNmQ0QXhnNFVRRzR5SFlzRGp1OXV5RXV6b05pNmwra2dUVjQwcTM2MUZtYkJOcmZlSXoweG4vZmhub0puZmtNK093ejBpQzdqcjhRakZFU1Z2ZXhnSmdwdVhFbkZESGZseG5MelVKU3FVUytpRUUrbkRVVHNIbFQxMk1Ga3FPVzgwZVhMc2xRWlY3bm00dXYyWmtxQS9vQlI1cWRyNXlOeHpla0JCZXBhb25relArMEhOcCtPUWh3Zno3T1ZJd1JMYnRDcXRncUpOSnp3NlpEUFFWaVpqSlNrdGR4dUlNQUM1VjZQY2JDODQxbW12cDF3eXg0RHZTR3dST0pzc0UzM0lJWi9TSUp3clZTK2UzTDQydENjcGpaTjJHVU1EK1dJVDJ6N2pxQUtjNDdXNmwwc1J4L0E0cGtkT2QxVUlPN0lJZUM5K2tPR2FVSnM4VGlWN2VVUy9QNFhMclJEOU9kQnp5SnBOMVJ4NFlOZmFqajU4Wm5sUkFPYytpV3cxZz09KioqfH58KioqUm9vbVR5cGVDYXRlZ29yeUNvZGU9MjAxMjE5MDM5KioqfH58KioqUm9vbVR5cGVDYXRlZ29yeURlc2NyaXB0aW9uPSoqKnx+fCoqKlJvb21UeXBlQ29kZT1ERUxVWEUgUk9PTSwgMiBUV0lOIEJFRFMsIENJVFkgVklFVyoqKnx+fCoqKlJvb21UeXBlRGVzY3JpcHRpb249REVMVVhFIFJPT00sIDIgVFdJTiBCRURTLCBDSVRZIFZJRVcjJkAmIzQ0ODEwMDEjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzExMjItMTQ2LTg3YWNiMTM5MGE3N2ZjIyZAJiM3NjMuNTMjJkAmI2VuIyZAJiNzRWVabEE=",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 33,
+                    "roomCode": "4878NAPS2:BB:STD::huqdzVQ2hlY2tJbj0yMDI2LTEwLTAxKioqfH58KioqQ2hlY2tPdXQ9MjAyNi0xMC0wNyoqKnx+fCoqKk5vblJlZnVuZGFibGU9ZmFsc2UqKip8fnwqKipSYXRlQ29kZT1TVEQqKip8fnwqKipSYXRlUGxhbkNvZGU9d2w5VnFmT0ZIQ0tMTnFScDBaejAyTWY5dk5UbVJVZHFqM1NrakxRV1FhaDdZcEpGNHljeFBEd2VBOXhuaHlWL0s2Q0dyZnMvUzNNQlNsL0hRZSt1bysrMThLUUtMMktvUXN3ZXo2S0pNRStyUmticnFEanJKZFdsdVJFMVRrRXZ6UjF5QU1PZWVuUDdkWTJ0WkhKbk4yY2F6WXNJSFpoQlZaRUFZUm9oMGN4TytwVWhXL0QremtpUVpmMm1US1gvNjlnQ3QvNEU5WU5RWTZ0SjFGVzdNY0x5NjQwbzRXdnlQTjlZYkY0UnlzbVJab2I2ZURHK0NadjhZTXBiRXNqUlk5TDFKMTF2NnNEZHVKMy9YMWZ6blhadVZDU1dQUkk4c2RYaUxtOFFhQ2FmL29YZDVyM0V0anFFc2ZHNEt1Sk9yQWFzV0I2ZGVGRWJqZzQzRmorZDloUCtWSTg0N3A5aVVycHgybWUxamJTOXVvNGZDaE9sdUQ1SUU2Y2YrT3piRUQ5Uy9LQldFUklzbWFHYlZHL2FzRmljcThFbEtrWXlZSXRSaUVnbUtSNHY4bHVLOEx4YmVCSGlhYVAxV3pES0w1WXdYY2tPUFUvbTVucDlZS0oveW9ZYm5LOUdJakJ6Rm92NjlZQWhaZWVmVUwzbTc3dFJzNllnbzkrbFFsV1hQNEV2ZWxKY1JrbnhOOW0vM3BMRDJNbnhDYWVVbkE1bzAzeXNCYmhIOTQ5bFpuK3hRSlVrdTc5L3RpbVdGSTRQalBvRHA3VU1mcUZMSVFFS1FpaDdndz09KioqfH58KioqUm9vbVR5cGVDYXRlZ29yeUNvZGU9UjBKOFZWTkVmREV5TVRVdU16WjhNVGN3TVRZMU1qWTFOSHd5KioqfH58KioqUm9vbVR5cGVDYXRlZ29yeURlc2NyaXB0aW9uPSoqKnx+fCoqKlJvb21UeXBlQ29kZT1ERUxVWEUgUk9PTSwgMiBUV0lOIEJFRFMsIENJVFkgVklFVyoqKnx+fCoqKlJvb21UeXBlRGVzY3JpcHRpb249REVMVVhFIFJPT00sIDIgVFdJTiBCRURTLCBDSVRZIFZJRVcjJkAmIzQ0NjU5MTgjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzExMjItMTQ2LTg3YWNiMTM5MGE3N2ZjIyZAJiMxMDM4LjMxIyZAJiNlbiMmQCYjR0JyWG1E",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 34,
+                    "roomCode": "4878NAPS2:FB:STD::JjEoLHQ2hlY2tJbj0yMDI2LTEwLTAxKioqfH58KioqQ2hlY2tPdXQ9MjAyNi0xMC0wNyoqKnx+fCoqKk5vblJlZnVuZGFibGU9ZmFsc2UqKip8fnwqKipSYXRlQ29kZT1TVEQqKip8fnwqKipSYXRlUGxhbkNvZGU9d2w5VnFmT0ZIQ0tMTnFScDBaejAyTWY5dk5UbVJVZHFqM1NrakxRV1FhaVBXRHRpZlZ5MENyZm8rL3Q4OTE5NXNGT25QTDJPVisvY1lFTjhxckFTR2Q4eUw0OTRVc1pPbVAwWGRwZ29oYldYSHRWZlVVWGpGcUVIWUYvRitBWHk0bFczczkzSUpWMGNYVXpIVVpIVzhIcXVqekJBbE5hRHp5NW5leXY0cTdIS2IwdXZwRjFkb2lOMHFyTkJBZWV4NjlTRFVWOWJIYnp1Q1ZKZDhJVEJiQTV0Z0c0cXFnazkrcHo2VEp6d25Fb0F5VXBkSldSNFE5TkNtbGt0N0hnWjlMVmlWNWpTVmQzUlVETjNBNDF0V25meXVJZXVaa2FQZjRybEhrVFJaL0ZJS2ZDTEtMNDJQVlJ6bXRhK256M3JOQ1NTaGI0WW8wMEpINTVBbnlQN2lMclF0a0VzYWM2MEFhbGc0VFJjNEpQd3lWNlR5dTV1UEs4YTkzSE1yWVg2V28vMUp4Kzl5Y25GSEdSbGhQVENqM0pXcjJ6UnpiM2kvZml2TWNad0lpTWZmeXdUUm15R0psdFlQYnB3cTRFMmc2c01HTFpxWjdScXAyTkJ1K0l6NmNHWHU1SnJWbW1sT2Nrdk02V28zZlcySGs3cGlGcHJNbm5wYkdwb3M4OWpxWllORVp3amlFN2ljc3F0a21uZUpycDVOVStpaDBsZXdZNTAxQkszaDFSNFh1RVU2NFVyUWJYQXZtSTJ4ZDdJRTdVK0pjcDNCYWt5a29MSS82S2FnZz09KioqfH58KioqUm9vbVR5cGVDYXRlZ29yeUNvZGU9UjBKOFZWTkVmREUyTWpjdU1qTjhPVFkzTkRnNU1EVTRmREk9KioqfH58KioqUm9vbVR5cGVDYXRlZ29yeURlc2NyaXB0aW9uPSoqKnx+fCoqKlJvb21UeXBlQ29kZT1ERUxVWEUgUk9PTSwgMiBUV0lOIEJFRFMsIENJVFkgVklFVyoqKnx+fCoqKlJvb21UeXBlRGVzY3JpcHRpb249REVMVVhFIFJPT00sIDIgVFdJTiBCRURTLCBDSVRZIFZJRVcjJkAmIzQ0NjU5MTgjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzExMjItMTQ2LTg3YWNiMTM5MGE3N2ZjIyZAJiMxMzkwLjE5IyZAJiNlbiMmQCYjb2hzRU1G",
+                    "boardBasis": "Full Board",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 35,
+                    "roomCode": "4878NAPS2:RO:STD::IOLKIpQ2hlY2tJbj0yMDI2LTEwLTAxKioqfH58KioqQ2hlY2tPdXQ9MjAyNi0xMC0wNyoqKnx+fCoqKk5vblJlZnVuZGFibGU9ZmFsc2UqKip8fnwqKipSYXRlQ29kZT1TVEQqKip8fnwqKipSYXRlUGxhbkNvZGU9d2w5VnFmT0ZIQ0tMTnFScDBaejAyTWY5dk5UbVJVZHFqM1NrakxRV1Fhano0NzNPRVJTZmRiZHVZS1RENXlCdzA4T0ZKNmViYVBMWk9xdVhlS1lSZ2FTZ2t3UTlmSVNvMVppSGF1MWhiUldSb1NvR3RTdkNtVHV4d0VFZjVDaDNDd1laMjJwY1hENWVYcGQ1UkUzb2VkYkkvSGFxdmxpeFFQVFduZFo1cXNzOVdPNGZ1clk5MzhvdEYzTThiVk5PNjBsSFZlVXF0T2VlUEdVMzBIU3gzZFoxOTdFMEFWdmV3UTZodDg2UFE2SlVKRFpScXFxdCtTN3IyU3l2T09UZVJWTUFYczl2UUVFYTVuSFpWcDh1ck1seTVaZzhpSE5HdkpPeVhwaW9PODJkUWNjYWZsNjBOK2RVWk9SWE0rRTlFTnpoOE9jQ2JaTGIxSVRVOGdOK1prMUlZRTh6RVl1b01oVWgyaUpLWVJsQWVFOXU3aUhSY2RLOUlqdVVPN3c4Wjc5a1JYVzExZnRFNHNjYnNHdnR3bzJETDBPQW9MQURhNmE5dUtxc01raHcrb1pEdU1uRFRobmF4dkN2NzJNR0x0MS9jTm9YQ3cvQUVjbkVhSHZBRklnaWcycUVTV1ZyUXdITDZNejBTVGxpZE10Q3VzNUhIT3RaRHN1NjFmRU9Kb0YxaUhqYjhtVmcvQS92WU1mcitldEdLTkdic2VJT2tlU3VoRmthVlJFS3dYVVRUd1BvbHNjYkpmaW1mNktiWlBFdXRyMVlVbm10bHNtVDIyaWZ2dz09KioqfH58KioqUm9vbVR5cGVDYXRlZ29yeUNvZGU9UjBKOFZWTkVmREV3TVRFdU1UbDhOamcxT0RjeE5qVTBmREk9KioqfH58KioqUm9vbVR5cGVDYXRlZ29yeURlc2NyaXB0aW9uPSoqKnx+fCoqKlJvb21UeXBlQ29kZT1ERUxVWEUgUk9PTSwgMiBUV0lOIEJFRFMsIENJVFkgVklFVyoqKnx+fCoqKlJvb21UeXBlRGVzY3JpcHRpb249REVMVVhFIFJPT00sIDIgVFdJTiBCRURTLCBDSVRZIFZJRVcjJkAmIzQ0NjU5MTgjJkAmIzIwMjYtMTAtMDEjQEBAIzIwMjYtMTAtMDcjJkAmIzExMjItMTQ2LTg3YWNiMTM5MGE3N2ZjIyZAJiM4NjMuODkjJkAmI2VuIyZAJiNqcFFOeE8=",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 36,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d26970053!~|eRoom Only!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m26970053!~|nRoom Only!~|nTLD!~|o1!~|p1!~|x30071110!~|M1031.4!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Adeluxe room, 2 twin beds, city view!~|Bdeluxe room, 2 twin beds, city view!~|C30|30!~|Edeluxe room, 2 twin beds, city view!~|Fdeluxe room, 2 twin beds, city view!~|G1!~|U0,1,1790330400|1,100,1790676000!~|HtimeStamp!~|I7/30/2026 11:10:43 AM!~|HtimeParam!~|I2026-07-30T11:40:43!~|HoptionidFirstDispo!~|I710883847476!~|Hcurrency!~|IUSD!~|HroomId#1!~|I883847476-1-0!~|HoptionToken!~|IMTMwfHxKUDU3OTc5Nnx8MTAzMXx8VVNEfHw4NzQ5ZWI4ZWRmZWU0ZDRmMTZmNjRhZWU4MGNhMTVmNjZjNzA0ZjU1!~|Hnumadults!~|I1#2!~|Htgx_price!~|I1031.4!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 129,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d191264!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m191264!~|n1!~|nDIDA!~|o1!~|p1!~|x30071110!~|r6789429944450638881!~|s6789429944450638881!~|M3976!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#6789429944450638881!~|A22375831!~|B22375831!~|C30|30!~|EDeluxe Room, 2 Twin Beds, City View!~|FDeluxe Room, 2 Twin Beds, City View!~|G1!~|U2,3976,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I3976!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 136,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d191264!~|e2!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m191264!~|n2!~|nDIDA!~|o1!~|p1!~|x30071110!~|r2509561420932546285!~|s2509561420932546285!~|M4855.38!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#2509561420932546285!~|A22375831!~|B22375831!~|C30|30!~|EDeluxe Room, 2 Twin Beds, City View!~|FDeluxe Room, 2 Twin Beds, City View!~|G1!~|U2,4855.38,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I4855.38!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 143,
+                    "roomCode": "28599688/1353250509625199250/825",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 146,
+                    "roomCode": "28599688/1353250509625199250/824",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Quadruple Deluxe City View",
+            "category": "Unknown",
+            "view": "City",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 37,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d26970053!~|eRoom Only!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m26970053!~|nRoom Only!~|nTLD!~|o1!~|p1!~|x30071110!~|M1449.66!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Aquadruple deluxe city view!~|Bquadruple deluxe city view!~|C30|30!~|Equadruple deluxe city view!~|Fquadruple deluxe city view!~|G1!~|U2,1449.65,1790244000|1,100,1790762400!~|HtimeStamp!~|I7/30/2026 11:10:43 AM!~|HtimeParam!~|I2026-07-30T11:40:43!~|HoptionidFirstDispo!~|I712870418589!~|Hcurrency!~|IUSD!~|HroomId#1!~|I2870418589-1-0!~|HoptionToken!~|IMXx8NDIxNzU5fHwxNDUwfHxVU0R8fGIyNjUyZjUxYTQxNzA2ZmQ0NzcwZTRmNGY4YTg0YmIzZWNkNTUzZTg=!~|Hnumadults!~|I1#2!~|Htgx_price!~|I1449.66!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Triple Deluxe City View",
+            "category": "Unknown",
+            "view": "City",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 38,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d26970053!~|eRoom Only!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m26970053!~|nRoom Only!~|nTLD!~|o1!~|p1!~|x30071110!~|M1577.58!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Atriple deluxe city view!~|Btriple deluxe city view!~|C30|30!~|Etriple deluxe city view!~|Ftriple deluxe city view!~|G1!~|U2,1577.58,1790244000|1,100,1790762400!~|HtimeStamp!~|I7/30/2026 11:10:43 AM!~|HtimeParam!~|I2026-07-30T11:40:43!~|HoptionidFirstDispo!~|I710129343511!~|Hcurrency!~|IUSD!~|HroomId#1!~|I129343511-1-0!~|HoptionToken!~|IMXx8NDIxNzU5fHwxNTc4fHxVU0R8fDVlYTZlMjE3MDFhNTY4NTk1NGY2OTk2ZDlkNWMxMzE1NGIzYzc1ZGE=!~|Hnumadults!~|I1#2!~|Htgx_price!~|I1577.58!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 145,
+                    "roomCode": "28599688/1353250509625199250/823",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 151,
+                    "roomCode": "28599688/1353250509625199250/822",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Quadruple Deluxe Two Beds",
+            "category": "Unknown",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 39,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d26970053!~|eRoom Only!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m26970053!~|nRoom Only!~|nTLD!~|o1!~|p1!~|x30071110!~|M1638.6!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Aquadruple deluxe two beds!~|Bquadruple deluxe two beds!~|C30|30!~|Equadruple deluxe two beds!~|Fquadruple deluxe two beds!~|G1!~|U2,1638.59,1790244000|1,100,1790762400!~|HtimeStamp!~|I7/30/2026 11:10:43 AM!~|HtimeParam!~|I2026-07-30T11:40:43!~|HoptionidFirstDispo!~|I710426584575!~|Hcurrency!~|IUSD!~|HroomId#1!~|I426584575-1-0!~|HoptionToken!~|IMXx8NDIxNzU5fHwxNjM5fHxVU0R8fGQ3MzI2NzE0OGIyNTlkZGE4NWYxZWNlMGFjM2M1NWJlMDg5YTc4Njk=!~|Hnumadults!~|I1#2!~|Htgx_price!~|I1638.6!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Triple Deluxe With Views",
+            "category": "Unknown",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 40,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d26970053!~|eRoom Only!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m26970053!~|nRoom Only!~|nTLD!~|o1!~|p1!~|x30071110!~|M1680.6!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Atriple deluxe with views!~|Btriple deluxe with views!~|C30|30!~|Etriple deluxe with views!~|Ftriple deluxe with views!~|G1!~|U2,1680.56,1790244000|1,100,1790762400!~|HtimeStamp!~|I7/30/2026 11:10:43 AM!~|HtimeParam!~|I2026-07-30T11:40:43!~|HoptionidFirstDispo!~|I710523349047!~|Hcurrency!~|IUSD!~|HroomId#1!~|I523349047-1-0!~|HoptionToken!~|IMXx8NDIxNzU5fHwxNjgxfHxVU0R8fGI3MmNkMmEyMGIyOGJmZTFjNDQ2MjcwOWMxYzE1MTVjMGM3ZTNiMjc=!~|Hnumadults!~|I1#2!~|Htgx_price!~|I1680.6!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Suite Executive King Bed",
+            "category": "Executive Suite",
+            "view": "Unknown",
+            "beds": [
+                {
+                    "type": "King"
+                }
+            ],
+            "bedInfo": "King",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 41,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d26970053!~|eRoom Only!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m26970053!~|nRoom Only!~|nTLD!~|o1!~|p1!~|x30071110!~|M2667.6!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Asuite executive king bed!~|Bsuite executive king bed!~|C30|30!~|Esuite executive king bed!~|Fsuite executive king bed!~|G1!~|U2,2667.60,1790244000|1,100,1790762400!~|HtimeStamp!~|I7/30/2026 11:10:43 AM!~|HtimeParam!~|I2026-07-30T11:40:43!~|HoptionidFirstDispo!~|I713706589196!~|Hcurrency!~|IUSD!~|HroomId#1!~|I3706589196-1-0!~|HoptionToken!~|IMXx8NDIxNzU5fHwyNjY4fHxVU0R8fGU0MTVlNTc5MGUxYmNhMWI0OTY1ZDRiNzcyMDgyZjExNzQyYmU2YmE=!~|Hnumadults!~|I1#2!~|Htgx_price!~|I2667.6!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Suite Presidential",
+            "category": "Presidential Suite",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 42,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d26970053!~|eRoom Only!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l32383!~|m26970053!~|nRoom Only!~|nTLD!~|o1!~|p1!~|x30071110!~|M3010.62!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|zroomId#1!~|Asuite presidential!~|Bsuite presidential!~|C30|30!~|Esuite presidential!~|Fsuite presidential!~|G1!~|U2,3010.60,1790244000|1,100,1790762400!~|HtimeStamp!~|I7/30/2026 11:10:43 AM!~|HtimeParam!~|I2026-07-30T11:40:43!~|HoptionidFirstDispo!~|I711996211652!~|Hcurrency!~|IUSD!~|HroomId#1!~|I1996211652-1-0!~|HoptionToken!~|IMXx8NDIxNzU5fHwzMDExfHxVU0R8fGVkOWU0ZDJhY2IzOGI1MzRlZmJlZGNmMzg5Y2FhYWU3OGI3ZjVlYTM=!~|Hnumadults!~|I1#2!~|Htgx_price!~|I3010.62!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Triple Deluxe Guest Room 3 Twin City View",
+            "category": "Deluxe Guest Room",
+            "view": "City",
+            "beds": [
+                {
+                    "type": "Twin"
+                }
+            ],
+            "bedInfo": "Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 76,
+                    "roomCode": "1336959685-2337",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 85,
+                    "roomCode": "1336959685-2346",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 86,
+                    "roomCode": "1336959685-2347",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 97,
+                    "roomCode": "1336959685-2358",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 117,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d115-382462!~|e28!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32795!~|m115-382462!~|n28!~|nILS!~|o1!~|p1!~|x30071110!~|M4453.94!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A127018!~|B127018!~|C30|30!~|ETriple, Deluxe Guest room, 3 Twin, City view!~|FTriple, Deluxe Guest room, 3 Twin, City view!~|G1!~|U2,742.32,1790676000|2,742.32,1790762400!~|HcityCode!~|IMAKKAH!~|HtokenNumber!~|ITRA_STG: 20260730_111034!~|HroomConfig!~|I1#28#127018#1146142!~|Htgx_price!~|I4453.94!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 127,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d115-382462!~|e7!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32795!~|m115-382462!~|n7!~|nILS!~|o1!~|p1!~|x30071110!~|M6470.14!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A127018!~|B127018!~|C30|30!~|ETriple, Deluxe Guest room, 3 Twin, City view!~|FTriple, Deluxe Guest room, 3 Twin, City view!~|G1!~|U2,1078.36,1790676000|2,1078.36,1790762400!~|HcityCode!~|IMAKKAH!~|HtokenNumber!~|ITRA_STG: 20260730_111034!~|HroomConfig!~|I1#7#127018#721652!~|Htgx_price!~|I6470.14!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 131,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d191264!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m191264!~|n1!~|nDIDA!~|o1!~|p1!~|x30071110!~|r3810902833544471155!~|s3810902833544471155!~|M4318.46!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#3810902833544471155!~|A19841657!~|B19841657!~|C30|30!~|EDeluxe Room, 3 Twin Beds, Smoking, City View!~|FDeluxe Room, 3 Twin Beds, Smoking, City View!~|G1!~|U2,4318.46,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I4318.46!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 139,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d191264!~|e2!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m191264!~|n2!~|nDIDA!~|o1!~|p1!~|x30071110!~|r8742769392495934525!~|s8742769392495934525!~|M5639.95!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#8742769392495934525!~|A19841657!~|B19841657!~|C30|30!~|EDeluxe Room, 3 Twin Beds, Smoking, City View!~|FDeluxe Room, 3 Twin Beds, Smoking, City View!~|G1!~|U2,5639.95,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I5639.95!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Triple Deluxe Guest Room 3 Twin Partial Haram View",
+            "category": "Deluxe Guest Room",
+            "view": "Unknown",
+            "beds": [
+                {
+                    "type": "Twin"
+                }
+            ],
+            "bedInfo": "Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 77,
+                    "roomCode": "1336959685-2338",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 88,
+                    "roomCode": "1336959685-2349",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 89,
+                    "roomCode": "1336959685-2350",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 100,
+                    "roomCode": "1336959685-2361",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 116,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d115-382462!~|e28!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32795!~|m115-382462!~|n28!~|nILS!~|o1!~|p1!~|x30071110!~|M4744.38!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A127019!~|B127019!~|C30|30!~|ETriple, Deluxe Guest room, 3 Twin, Partial Haram view!~|FTriple, Deluxe Guest room, 3 Twin, Partial Haram view!~|G1!~|U2,790.73,1790676000|2,790.73,1790762400!~|HcityCode!~|IMAKKAH!~|HtokenNumber!~|ITRA_STG: 20260730_111034!~|HroomConfig!~|I1#28#127019#1146153!~|Htgx_price!~|I4744.38!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 123,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d115-382462!~|e7!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32795!~|m115-382462!~|n7!~|nILS!~|o1!~|p1!~|x30071110!~|M6811.87!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A127019!~|B127019!~|C30|30!~|ETriple, Deluxe Guest room, 3 Twin, Partial Haram view!~|FTriple, Deluxe Guest room, 3 Twin, Partial Haram view!~|G1!~|U2,1135.31,1790676000|2,1135.31,1790762400!~|HcityCode!~|IMAKKAH!~|HtokenNumber!~|ITRA_STG: 20260730_111034!~|HroomConfig!~|I1#7#127019#721683!~|Htgx_price!~|I6811.87!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 132,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d191264!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m191264!~|n1!~|nDIDA!~|o1!~|p1!~|x30071110!~|r5588085460108949716!~|s5588085460108949716!~|M4865.45!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#5588085460108949716!~|A19967744!~|B19967744!~|C30|30!~|EDeluxe Room, 3 Twin Beds, Smoking (View)!~|FDeluxe Room, 3 Twin Beds, Smoking (View)!~|G1!~|U2,4865.45,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I4865.45!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 138,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d191264!~|e2!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m191264!~|n2!~|nDIDA!~|o1!~|p1!~|x30071110!~|r-6311693824220497082!~|s-6311693824220497082!~|M5613.94!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-6311693824220497082!~|A19967744!~|B19967744!~|C30|30!~|EDeluxe Room, 3 Twin Beds, Smoking (View)!~|FDeluxe Room, 3 Twin Beds, Smoking (View)!~|G1!~|U2,5613.94,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I5613.94!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Quad Deluxe Guest Room 4 Twin City View",
+            "category": "Deluxe Guest Room",
+            "view": "City",
+            "beds": [
+                {
+                    "type": "Twin"
+                }
+            ],
+            "bedInfo": "Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 79,
+                    "roomCode": "1336959685-2340",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 92,
+                    "roomCode": "1336959685-2353",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 93,
+                    "roomCode": "1336959685-2354",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 104,
+                    "roomCode": "1336959685-2365",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 119,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d115-382462!~|e28!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32795!~|m115-382462!~|n28!~|nILS!~|o1!~|p1!~|x30071110!~|M5034.87!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A127022!~|B127022!~|C30|30!~|EQuad, Deluxe Guest room, 4 Twin, City view!~|FQuad, Deluxe Guest room, 4 Twin, City view!~|G1!~|U2,839.14,1790676000|2,839.14,1790762400!~|HcityCode!~|IMAKKAH!~|HtokenNumber!~|ITRA_STG: 20260730_111034!~|HroomConfig!~|I1#28#127022#1146147!~|Htgx_price!~|I5034.87!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 128,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d115-382462!~|e7!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32795!~|m115-382462!~|n7!~|nILS!~|o1!~|p1!~|x30071110!~|M7563.69!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A127022!~|B127022!~|C30|30!~|EQuad, Deluxe Guest room, 4 Twin, City view!~|FQuad, Deluxe Guest room, 4 Twin, City view!~|G1!~|U2,1260.62,1790676000|2,1260.62,1790762400!~|HcityCode!~|IMAKKAH!~|HtokenNumber!~|ITRA_STG: 20260730_111034!~|HroomConfig!~|I1#7#127022#1170696!~|Htgx_price!~|I7563.69!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Quad Deluxe Guest Room 4 Twin Partial Haram View",
+            "category": "Deluxe Guest Room",
+            "view": "Unknown",
+            "beds": [
+                {
+                    "type": "Twin"
+                }
+            ],
+            "bedInfo": "Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 80,
+                    "roomCode": "1336959685-2341",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 94,
+                    "roomCode": "1336959685-2355",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 95,
+                    "roomCode": "1336959685-2356",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 107,
+                    "roomCode": "1336959685-2368",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 114,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d115-382462!~|e28!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32795!~|m115-382462!~|n28!~|nILS!~|o1!~|p1!~|x30071110!~|M5325.34!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A127021!~|B127021!~|C30|30!~|EQuad, Deluxe Guest room, 4 Twin, Partial Haram view!~|FQuad, Deluxe Guest room, 4 Twin, Partial Haram view!~|G1!~|U2,887.56,1790676000|2,887.56,1790762400!~|HcityCode!~|IMAKKAH!~|HtokenNumber!~|ITRA_STG: 20260730_111034!~|HroomConfig!~|I1#28#127021#1146143!~|Htgx_price!~|I5325.34!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 124,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d115-382462!~|e7!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32795!~|m115-382462!~|n7!~|nILS!~|o1!~|p1!~|x30071110!~|M7905.41!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A127021!~|B127021!~|C30|30!~|EQuad, Deluxe Guest room, 4 Twin, Partial Haram view!~|FQuad, Deluxe Guest room, 4 Twin, Partial Haram view!~|G1!~|U2,1317.57,1790676000|2,1317.57,1790762400!~|HcityCode!~|IMAKKAH!~|HtokenNumber!~|ITRA_STG: 20260730_111034!~|HroomConfig!~|I1#7#127021#1170701!~|Htgx_price!~|I7905.41!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Deluxe Room 2 Twin Beds View",
+            "category": "Deluxe Room",
+            "view": "Unknown",
+            "beds": [
+                {
+                    "type": "Twin"
+                }
+            ],
+            "bedInfo": "Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 130,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d191264!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m191264!~|n1!~|nDIDA!~|o1!~|p1!~|x30071110!~|r-2710986376175329273!~|s-2710986376175329273!~|M4036.75!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-2710986376175329273!~|A19967743!~|B19967743!~|C30|30!~|EDeluxe Room, 2 Twin Beds, Smoking (View)!~|FDeluxe Room, 2 Twin Beds, Smoking (View)!~|G1!~|U2,4036.75,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I4036.75!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 137,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d191264!~|e2!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m191264!~|n2!~|nDIDA!~|o1!~|p1!~|x30071110!~|r8894434459531444994!~|s8894434459531444994!~|M5521.72!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#8894434459531444994!~|A19967743!~|B19967743!~|C30|30!~|EDeluxe Room, 2 Twin Beds, Smoking (View)!~|FDeluxe Room, 2 Twin Beds, Smoking (View)!~|G1!~|U2,5521.72,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I5521.72!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Deluxe Room Multiple Beds View",
+            "category": "Deluxe Room",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 133,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d191264!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m191264!~|n1!~|nDIDA!~|o1!~|p1!~|x30071110!~|r7981844155369939136!~|s7981844155369939136!~|M5163.36!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#7981844155369939136!~|A20033430!~|B20033430!~|C30|30!~|EDeluxe Room, Multiple Beds (View)!~|FDeluxe Room, Multiple Beds (View)!~|G1!~|U2,5163.36,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I5163.36!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 141,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d191264!~|e2!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m191264!~|n2!~|nDIDA!~|o1!~|p1!~|x30071110!~|r6542620469604329545!~|s6542620469604329545!~|M6515.2!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#6542620469604329545!~|A20033430!~|B20033430!~|C30|30!~|EDeluxe Room, Multiple Beds (View)!~|FDeluxe Room, Multiple Beds (View)!~|G1!~|U2,6515.20,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I6515.2!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Deluxe Room Multiple Beds City View",
+            "category": "Deluxe Room",
+            "view": "City",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 134,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d191264!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m191264!~|n1!~|nDIDA!~|o1!~|p1!~|x30071110!~|r-7503735909556419919!~|s-7503735909556419919!~|M5719.73!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-7503735909556419919!~|A33866759!~|B33866759!~|C30|30!~|EDeluxe Room, Multiple Beds, Smoking, City View!~|FDeluxe Room, Multiple Beds, Smoking, City View!~|G1!~|U2,5719.73,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I5719.73!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 140,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d191264!~|e2!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m191264!~|n2!~|nDIDA!~|o1!~|p1!~|x30071110!~|r6936103913639992953!~|s6936103913639992953!~|M6233.61!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#6936103913639992953!~|A33866759!~|B33866759!~|C30|30!~|EDeluxe Room, Multiple Beds, Smoking, City View!~|FDeluxe Room, Multiple Beds, Smoking, City View!~|G1!~|U2,6233.61,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I6233.61!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Superior Double Partial Haram View",
+            "category": "Unknown",
+            "view": "Unknown",
+            "beds": [
+                {
+                    "type": "Double"
+                }
+            ],
+            "bedInfo": "Double",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 144,
+                    "roomCode": "28599688/1353250509625199250/834",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 148,
+                    "roomCode": "28599688/1353250509625199250/832",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 150,
+                    "roomCode": "28599688/1353250509625199250/821",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 154,
+                    "roomCode": "28599688/1353250509625199250/820",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Superior Triple Partial Haram View",
+            "category": "Unknown",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 147,
+                    "roomCode": "28599688/1353250509625199250/835",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 152,
+                    "roomCode": "28599688/1353250509625199250/833",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Deluxe City View Quad",
+            "category": "Unknown",
+            "view": "City",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 149,
+                    "roomCode": "28599688/1353250509625199250/827",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 153,
+                    "roomCode": "28599688/1353250509625199250/829",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Executive One Bedroom King Suite With Sofa Bed",
+            "category": "Executive Suite",
+            "view": "Unknown",
+            "beds": [
+                {
+                    "type": "King"
+                },
+                {
+                    "type": "Sofa"
+                }
+            ],
+            "bedInfo": "King or Sofa",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 155,
+                    "roomCode": "28599688/1353250509625199250/831",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 157,
+                    "roomCode": "28599688/1353250509625199250/830",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        }
+    ]
+}

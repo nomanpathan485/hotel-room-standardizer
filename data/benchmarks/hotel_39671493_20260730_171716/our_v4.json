@@ -1,0 +1,1068 @@
+{
+    "standardRooms": [
+        {
+            "standardName": "Villa Hill Side",
+            "category": "Villa",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 1,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"BDBF\",\"code\":\"VILLA, HILL SIDE\",\"cancellationPolicyType\":\"Flexi\",\"packageRate\":false,\"rateKeys\":[\"7b90bbf4-c118-4ad7-b766-2fe128afe15b\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 4,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"BDBF\",\"code\":\"RM_886_0\",\"cancellationPolicyType\":\"Flexi\",\"packageRate\":false,\"rateKeys\":[\"cb212970-aa40-4388-bcd0-e20cbc488a9d\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 6,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"BDBF\",\"code\":\"Villa - Pool - Hill Side\",\"cancellationPolicyType\":\"Flexi\",\"packageRate\":false,\"rateKeys\":[\"7f3e5893-baff-446d-8e7e-e504ebd5bdee\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 24,
+                    "roomCode": "{\"roomCode\":\"CGISCDExNDE4ODQwGgcxNDk3NDE3\",\"boardCode\":\"CgEy\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 29,
+                    "roomCode": "42V3A1CO2:BB:STD::nResKwQm9hcmRDb2RlPUNnRXkqKip8fnwqKipCb2FyZFR5cGU9MioqKnx+fCoqKk5ldENvc3RBbW91bnQ9MTg1NC44OCoqKnx+fCoqKk5ldENvc3RDdXJyZW5jeT1FVVIqKip8fnwqKipSb29tQ29kZT1ISUxMU0lERSBWSUxMQSoqKnx+fCoqKlJvb21Db2RlT3JpZ2luYWw9Q0dJU0NERXhOREU0T0RRd0dnY3hORGszTkRFMyoqKnx+fCoqKlJvb21EZXNjcmlwdGlvbj1ISUxMU0lERSBWSUxMQSMmQCYjMTYxMTAwNCMmQCYjMjAyNy0wOC0wMSNAQEAjMjAyNy0wOC0wOCMmQCYjNzI5LTcxNC04N2FlZDk2NDZhMzM3MSMmQCYjMTY4Ni43OCMmQCYjZW4jJkAmI1dyRlpNVw==",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 45,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|da5469001-d216-41c1-bce3-8a800dbc8196!~|eRB!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33434!~|ma5469001-d216-41c1-bce3-8a800dbc8196!~|nRB!~|nG2T!~|o1!~|p1!~|x30071134!~|rBAR!~|sBAR!~|M14864.99!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1:BAR!~|AVLAHB!~|BVLAHB!~|C30|30!~|EHill Side Villa!~|FHill Side Villa!~|G1!~|U2,2123.57,1816941600!~|Hcurrency!~|IAED!~|Hcontext!~|I148a49e9-bbb6-480e-ab9b-211627de14a8!~|HbookingKey!~|IG2:sOTpwLf98V+i5ssonCyCtQ==!~|Htgx_price!~|I14864.99!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 59,
+                    "roomCode": "1336984055-272",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 71,
+                    "roomCode": "1257603!TB!12!TB!a9fbf023-8c0a-11f1-9582-822cf8e4e094!TB!N!TB!AFF!",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 80,
+                    "roomCode": "23888182/1419535814003335969/147",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Villa Hill View",
+            "category": "Villa",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 2,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"BDBF\",\"code\":\"VILLA, HILL VIEW\",\"cancellationPolicyType\":\"Flexi\",\"packageRate\":false,\"rateKeys\":[\"fd9873f6-26d5-445c-a27c-03e437e8c11e\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 7,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"BDBF\",\"code\":\"RM_886_1\",\"cancellationPolicyType\":\"Flexi\",\"packageRate\":false,\"rateKeys\":[\"4b7cc15d-e9ce-46de-b38f-8c069f0b189b\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 25,
+                    "roomCode": "{\"roomCode\":\"CGISCDExNDE4ODQwGgcxOTUwMzM3\",\"boardCode\":\"CgEy\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 46,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|da5469001-d216-41c1-bce3-8a800dbc8196!~|eRB!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33434!~|ma5469001-d216-41c1-bce3-8a800dbc8196!~|nRB!~|nG2T!~|o1!~|p1!~|x30071134!~|rBAR!~|sBAR!~|M15511.3!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1:BAR!~|AVLAHBHV!~|BVLAHBHV!~|C30|30!~|EHill View Villa!~|FHill View Villa!~|G1!~|U2,2215.90,1816941600!~|Hcurrency!~|IAED!~|Hcontext!~|I148a49e9-bbb6-480e-ab9b-211627de14a8!~|HbookingKey!~|IG2:yPPWOkt/tuBJ6r3KHb78Pw==!~|Htgx_price!~|I15511.3!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 58,
+                    "roomCode": "1336984055-271",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 81,
+                    "roomCode": "23888182/1419535814003335969/145",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Ayung Villa",
+            "category": "Villa",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 3,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"BDBF\",\"code\":\"AYUNG, VILLA\",\"cancellationPolicyType\":\"Flexi\",\"packageRate\":false,\"rateKeys\":[\"ddcc2e5a-0598-470b-8534-dfcc623984a9\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 13,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"BDBF\",\"code\":\"RM_886_2\",\"cancellationPolicyType\":\"Flexi\",\"packageRate\":false,\"rateKeys\":[\"20518dfb-a55b-4ddb-a66b-dcc359410959\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 18,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"BDBF\",\"code\":\"Villa - Ayung\",\"cancellationPolicyType\":\"NRF\",\"packageRate\":false,\"rateKeys\":[\"f4e24e5f-c9bb-4cd6-b2d7-ad6fd2b29361\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 26,
+                    "roomCode": "{\"roomCode\":\"CGISCDExNDE4ODQwGgcxOTUwMzM4\",\"boardCode\":\"CgEy\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 47,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|da5469001-d216-41c1-bce3-8a800dbc8196!~|eRB!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33434!~|ma5469001-d216-41c1-bce3-8a800dbc8196!~|nRB!~|nG2T!~|o1!~|p1!~|x30071134!~|rBAR!~|sBAR!~|M16803.92!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1:BAR!~|AVLA3C!~|BVLA3C!~|C30|30!~|EAyung Villa!~|FAyung Villa!~|G1!~|U2,2400.56,1816941600!~|Hcurrency!~|IAED!~|Hcontext!~|I148a49e9-bbb6-480e-ab9b-211627de14a8!~|HbookingKey!~|IG2:THoRtYhRmrBxpZtMNQpljg==!~|Htgx_price!~|I16803.92!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 57,
+                    "roomCode": "1336984055-270",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 82,
+                    "roomCode": "23888182/1419535814003335969/144",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "One Bedroom Hill Side Villa With Private Pool",
+            "category": "Villa",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 5,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"BDBF\",\"code\":\"One bedroom Hill Side Villa with private pool\",\"cancellationPolicyType\":\"Flexi\",\"packageRate\":false,\"rateKeys\":[\"5b6cbba1-2848-4bf7-9d37-3d0d8b6909a8\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 8,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"RO\",\"code\":\"One Bedroom Hill Side Villa with a Private Pool\",\"cancellationPolicyType\":\"Flexi\",\"packageRate\":false,\"rateKeys\":[\"d419c3d9-3f72-4df6-9c7d-748a2ea11e74\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 9,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"BDBF\",\"code\":\"1 BEDROOM, VILLA, HILL SIDE\",\"cancellationPolicyType\":\"NRF\",\"packageRate\":false,\"rateKeys\":[\"4a3156c3-61bc-4b76-a587-157de831aad7\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 10,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"BDBF\",\"code\":\"Villa 1 bedroom - Hill side\",\"cancellationPolicyType\":\"NRF\",\"packageRate\":false,\"rateKeys\":[\"90e1dab3-b267-450c-ad1d-42433f1a0063\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 12,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"RO\",\"code\":\"One Bedroom Hill View Villa with a Private Pool\",\"cancellationPolicyType\":\"Flexi\",\"packageRate\":false,\"rateKeys\":[\"030685ed-1670-47c7-b537-996a8c2eead9\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 14,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"BDBF\",\"code\":\"One bedroom Ayung villa with private pool\",\"cancellationPolicyType\":\"Flexi\",\"packageRate\":false,\"rateKeys\":[\"bfcbeefb-0d5f-4554-b12f-6c087c0ada89\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 31,
+                    "roomCode": "43R9220S2:BB:STD::WmZCZHTm9uUmVmdW5kYWJsZT1mYWxzZSoqKnx+fCoqKk9wdFR5cGU9QXZhaWwqKip8fnwqKipQcm9kdWN0SWQ9ODUxNzc1KioqfH58KioqUmF0ZUJhc2lzSWQ9MTMzMSoqKnx+fCoqKlJhdGVUeXBlPTEqKip8fnwqKipSb29tQ29kZT1PTkUgQkVEUk9PTSBBWVVORyBWSUxMQSBXSVRIIFBSSVZBVEUgUE9PTCoqKnx+fCoqKlJvb21Db2RlT3JpZ2luYWw9MTAzNjU3NjQ2NSoqKnx+fCoqKlJvb21EZXNjcmlwdGlvbj1PTkUgQkVEUk9PTSBBWVVORyBWSUxMQSBXSVRIIFBSSVZBVEUgUE9PTCoqKnx+fCoqKlRvdGFsPTM5NzAuMzAyMSMmQCYjMTAwMDAzNCMmQCYjMjAyNy0wOC0wMSNAQEAjMjAyNy0wOC0wOCMmQCYjNzI5LTcxNC04N2FlZDk2NDZhMzM3MSMmQCYjMzYxMC40OSMmQCYjZW4jJkAmI3dIV0NldA==",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 32,
+                    "roomCode": "43R9223C2:BB:STD::FFfntoTm9uUmVmdW5kYWJsZT1mYWxzZSoqKnx+fCoqKk9wdFR5cGU9QXZhaWwqKip8fnwqKipQcm9kdWN0SWQ9ODUxNzc1KioqfH58KioqUmF0ZUJhc2lzSWQ9MTMzMSoqKnx+fCoqKlJhdGVUeXBlPTEqKip8fnwqKipSb29tQ29kZT1PTkUgQkVEUk9PTSBISUxMIFNJREUgVklMTEEgV0lUSCBQUklWQVRFIFBPT0wqKip8fnwqKipSb29tQ29kZU9yaWdpbmFsPTEwMzY1NzYzODUqKip8fnwqKipSb29tRGVzY3JpcHRpb249T05FIEJFRFJPT00gSElMTCBTSURFIFZJTExBIFdJVEggUFJJVkFURSBQT09MKioqfH58KioqVG90YWw9MzUxMi4xOTAzIyZAJiMxMDAwMDM0IyZAJiMyMDI3LTA4LTAxI0BAQCMyMDI3LTA4LTA4IyZAJiM3MjktNzE0LTg3YWVkOTY0NmEzMzcxIyZAJiMzMTkzLjg5IyZAJiNlbiMmQCYjQWxYWERE",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 33,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|d1451916!~|eBed and Breakfast!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33121!~|m1451916!~|nBed and Breakfast!~|nGRN!~|o1!~|p1!~|x30071134!~|M14573!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#1 Bedroom Hillside Villa with Private Pool!~|A1 Bedroom Hillside Villa with Private Pool!~|B1 Bedroom Hillside Villa with Private Pool!~|C30|30!~|EOne Bedroom Hill Side Villa with a Private Pool!~|FOne Bedroom Hill Side Villa with a Private Pool!~|G1!~|U2,14573,1813082400|2,14573,1817056800!~|Hsearch_id!~|Ionacw6m7ps4mvfsl3jqaufidcy!~|Hrate_key!~|Isogadzlnsr4w5hs3v3tdex4fxcb7dboiul6opwdz3far76xkchmxlq5dprrgdp55tihgbqpdujaqkgb77sya!~|Hroom_code!~|I4ldflnri4qvcpubuy7xq!~|Hgroup_code!~|Iuwoaxw36x52efayp4ddqqw4hutmklqfk62zoxut3!~|Hpayment_type!~|IAT_WEB!~|Hcity_code!~|I124781!~|Hrate_type!~|Irecheck!~|Hcurrency!~|IAED!~|Hpax_comments!~|IFor this rate the infants will be converted to children with age 1.!~|Hroom_reference#1!~|I4dcf5nr45arcpw2c3pctednewwdo3hxxv2szlczeq5khxjn6i7brtxvnp5odtjnywehs5vfpvvcq2gtewlsdmfmmyd7g5jn7qgzdtngqwhnv7xir3mdw6yclhjl342yyu6st37dxg5oda2educs6qj45ukopa75hk6ochzihuvcibj5bki2vbucm2tjd7iaeapqtq6y4meeha26n3tmsvhtwxwer7i4kd2es3y6hewspuqxel3qvc7l4mcopu43lmssq!~|Hdescription!~|I1#One Bedroom Hill Side Villa with a Private Pool!~|HoptionID!~|Iuwoaxw36x52efayp4ddqqw4hutmklqfk62zoxut3|1 Bedroom Hillside Villa with Private Pool|1#One Bedroom Hill Side Villa with a Private Pool|!~|Htgx_price!~|I14573!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 34,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|d1451916!~|eBed and Breakfast!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33121!~|m1451916!~|nBed and Breakfast!~|nGRN!~|o1!~|p1!~|x30071134!~|M14690!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#1 Bedroom Hillside Villa!~|A1 Bedroom Hillside Villa!~|B1 Bedroom Hillside Villa!~|C30|30!~|EOne Bedroom Hill Side Villa!~|FOne Bedroom Hill Side Villa!~|G1!~|U2,7345,1815150540|2,14690,1815755340|2,14690,1817056800!~|Hsearch_id!~|Ionacw6m7ps4mvfsl3jqaufidcy!~|Hrate_key!~|I4phfnmzw5iuczfstusmwaho64dnohjxe6c36rhtz3bgrx77nl22qn67pkegdjy5nq4tfzfonx5fsmltzxkygq545t7xcrunq37qgpn4yq3qhhtcozewtopiqpf5puokiwlbwfirknzhtst4jw354ose7v2f4ij4ra6hujmrn7rgy3lh3a4wshaqqsoewd7awok6wmiamajkfkwnyygahnqzhvxheny6sb3md7a4cp3r74ufqdofqiuc7cxw52uclkl5g7ci!~|Hroom_code!~|I4ldfhnbi4ercppzs2a!~|Hgroup_code!~|Ixgirbylkwb6xtgj66dpdktepr6kp5bnc7g2o5w333bbq!~|Hpayment_type!~|IAT_WEB!~|Hcity_code!~|I124781!~|Hrate_type!~|Irecheck!~|Hcurrency!~|IAED!~|Hpax_comments!~|IFor this rate the infants will be converted to children with age 1.!~|Hroom_reference#1!~|I4pcf5nb45arcppbi3ccrkhgl4hmklpxwu2sz7bzmtenupip2nkfchw7bibkh3n7rsmhgfwpoy4gvk!~|Hdescription!~|I1#One Bedroom Hill Side Villa!~|HoptionID!~|Ixgirbylkwb6xtgj66dpdktepr6kp5bnc7g2o5w333bbq|1 Bedroom Hillside Villa|1#One Bedroom Hill Side Villa|!~|Htgx_price!~|I14690!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 35,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|d1451916!~|eBed and Breakfast!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33121!~|m1451916!~|nBed and Breakfast!~|nGRN!~|o1!~|p1!~|x30071134!~|M14916!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#1 Bedroom Hillside Villa with Private Pool!~|A1 Bedroom Hillside Villa with Private Pool!~|B1 Bedroom Hillside Villa with Private Pool!~|C30|30!~|EOne bedroom Hill Side Villa with private pool - Breakfast!~|FOne bedroom Hill Side Villa with private pool - Breakfast!~|G1!~|U2,2131,1814414400|2,14916,1815278400|2,14916,1817056800!~|Hsearch_id!~|Ionacw6m7ps4mvfsl3jqaufidcy!~|Hrate_key!~|I4dgvpnj45aus3wkxugogchw64xmklq5c7g26pwdq3zcr767pddmsxwfvmrrh3j5tuqhfdq7oregv4ctevlzhg76ztwrgnkg537qdjrue6wmqtccjyj2tgni!~|Hroom_code!~|I4ldvnpji5iqczuc3yh4bg!~|Hgroup_code!~|Iwwirb42zwzwx7cyizpotmwo45lnkvqfp6sya!~|Hpayment_type!~|IAT_WEB!~|Hcity_code!~|I124781!~|Hrate_type!~|Irecheck!~|Hcurrency!~|IAED!~|Hpax_comments!~|IFor this rate the infants will be converted to children with age 1.!~|Hroom_reference#1!~|I4dgvpnj45avsjwcyxkjw6hg45lj27qvo62zoxulq3zhbf7xaddjxldp3ffzhpn7ru4bgvr7asjneijdmvlwtmfukzp3xjsmzqo5xrvwcxtovreqmretha3ktp4skoyas5m!~|Hdescription!~|I1#One bedroom Hill Side Villa with private pool - Breakfast!~|HoptionID!~|Iwwirb42zwzwx7cyizpotmwo45lnkvqfp6sya|1 Bedroom Hillside Villa with Private Pool|1#One bedroom Hill Side Villa with private pool - Breakfast|!~|Htgx_price!~|I14916!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 36,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|d1451916!~|eBed and Breakfast!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33121!~|m1451916!~|nBed and Breakfast!~|nGRN!~|o1!~|p1!~|x30071134!~|M15206!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#1 Bedroom Standard Villa (Hill View) with Private Pool!~|A1 Bedroom Standard Villa (Hill View) with Private Pool!~|B1 Bedroom Standard Villa (Hill View) with Private Pool!~|C30|30!~|EOne Bedroom Hill View Villa with a Private Pool!~|FOne Bedroom Hill View Villa with a Private Pool!~|G1!~|U2,15206,1813082400|2,15206,1817056800!~|Hsearch_id!~|Ionacw6m7ps4mvfsl3jqaufidcy!~|Hrate_key!~|Isogadzlnsr4w5hs3v3tdex4fxcb7dboiul6opwdz3far76xkchmxlq5dprrgdp55tihgbqpdujaqkgb77szq!~|Hroom_code!~|I4ldvhpbi4eqcpubuy7xq!~|Hgroup_code!~|Iuwoaxw36x52efayp4ddqqw4hutmklqfk62zoxut3!~|Hpayment_type!~|IAT_WEB!~|Hcity_code!~|I124781!~|Hrate_type!~|Irecheck!~|Hcurrency!~|IAED!~|Hpax_comments!~|IFor this rate the infants will be converted to children with age 1.!~|Hroom_reference#1!~|I4dcf5nr45arcpw2c3pctednewwdo3hxxv2szlczeq5kh5jn7kxbrtxvnp5odtjnywehs5vfpvvcq2gtewlsdmfmmyd7g5jn7qgzdtngqwhnv7xir3mdw6yclhjjl42qku6st37dxg5oda2educs6qj45ukopa75hk6ochzihuvcibj5bki2vbucm2tjd7iaeapqtq6y4mqehc6on3tmsvhtwxwer7i4kd2es3y6hewspuqxel3qvc7l4mcopu43lmssq!~|Hdescription!~|I1#One Bedroom Hill View Villa with a Private Pool!~|HoptionID!~|Iuwoaxw36x52efayp4ddqqw4hutmklqfk62zoxut3|1 Bedroom Standard Villa (Hill View) with Private Pool|1#One Bedroom Hill View Villa with a Private Pool|!~|Htgx_price!~|I15206!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 40,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|d1451916!~|eBed and Breakfast!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33121!~|m1451916!~|nBed and Breakfast!~|nGRN!~|o1!~|p1!~|x30071134!~|M16862!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#1 Bedroom Standard Villa with Private Pool!~|A1 Bedroom Standard Villa with Private Pool!~|B1 Bedroom Standard Villa with Private Pool!~|C30|30!~|EOne bedroom Ayung villa with private pool - Breakfast!~|FOne bedroom Ayung villa with private pool - Breakfast!~|G1!~|U2,2409,1814414400|2,16862,1815278400|2,16862,1817056800!~|Hsearch_id!~|Ionacw6m7ps4mvfsl3jqaufidcy!~|Hrate_key!~|I4dgvpnj45aus3wkxugogcgoq4xmklq5c7g26pwdq3zcr767pddmsxwfvmrrh3j5tuqhfdq7oregv4ctevlzhg76ztwrgnkg537qdjrue6wmqtccjyj2tgni!~|Hroom_code!~|I4xffbnri4yxstwc3v37ai2i!~|Hgroup_code!~|Iwwirb42zwzwx7cyizpotmwo45lnkvqfp6sya!~|Hpayment_type!~|IAT_WEB!~|Hcity_code!~|I124781!~|Hrate_type!~|Irecheck!~|Hcurrency!~|IAED!~|Hpax_comments!~|IFor this rate the infants will be converted to children with age 1.!~|Hroom_reference#1!~|I4dgvpnj45awctxstxkpwagou5lmk5qnl6wyovvd43varf5xiddmx7dp3fedvnpfu4ucwxup5sjmastcex72hqiwd3h5tr44rz6qhbaw56xmufwykti5wglcxovv3w!~|Hdescription!~|I1#One bedroom Ayung villa with private pool - Breakfast!~|HoptionID!~|Iwwirb42zwzwx7cyizpotmwo45lnkvqfp6sya|1 Bedroom Standard Villa with Private Pool|1#One bedroom Ayung villa with private pool - Breakfast|!~|Htgx_price!~|I16862!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 50,
+                    "roomCode": "1336984055-263",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 60,
+                    "roomCode": "1336984055-273",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 63,
+                    "roomCode": "1257603!TB!4!TB!a9fbf023-8c0a-11f1-9582-822cf8e4e094!TB!N!TB!AFF!",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 66,
+                    "roomCode": "1257603!TB!3!TB!a9fbf023-8c0a-11f1-9582-822cf8e4e094!TB!N!TB!AFF!",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 69,
+                    "roomCode": "1257603!TB!6!TB!a9fbf023-8c0a-11f1-9582-822cf8e4e094!TB!N!TB!AFF!",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 70,
+                    "roomCode": "1257603!TB!7!TB!a9fbf023-8c0a-11f1-9582-822cf8e4e094!TB!N!TB!AFF!",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 83,
+                    "roomCode": "30198731/1419535814003335969/263",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 84,
+                    "roomCode": "30198731/1419535814003335969/261",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "2 Bedrooms Family Villa",
+            "category": "Villa",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 11,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"BDBF\",\"code\":\"2 BEDROOMS, FAMILY, VILLA\",\"cancellationPolicyType\":\"Flexi\",\"packageRate\":false,\"rateKeys\":[\"83aed53a-2bc1-4c41-9813-1c3c6e4ce306\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 42,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|d1451916!~|eBed and Breakfast!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33121!~|m1451916!~|nBed and Breakfast!~|nGRN!~|o1!~|p1!~|x30071134!~|M26825!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#2 Bedroom Standard Family Villa!~|A2 Bedroom Standard Family Villa!~|B2 Bedroom Standard Family Villa!~|C30|30!~|ETwo Bedrooms Family Villa!~|FTwo Bedrooms Family Villa!~|G1!~|U2,13413,1815150540|2,26825,1815755340|2,26825,1817056800!~|Hsearch_id!~|Ionacw6m7ps4mvfsl3jqaufidcy!~|Hrate_key!~|I4phfnmzw5iuczfstusmwaho64dnohjxe6c36rhtz3bgrx77nl22qn67pkehwleeqs5duz57tx52rqebuxczwq5m72pobjl6hsgldjjp4s3lqfacmziuwg2kzg426cpkkw3dgzijinybas74jw3f4mvntv2336xhgagfuxt257je75xh7b4scldi5skggd7y5p25ggjyma4qegw5gxkahpqrhvxhefz6sb3nd3behp3v2uvfydsfqiuc7cxw52uclkl5g7ci!~|Hroom_code!~|I43hffmzi4yuspubuy7xq!~|Hgroup_code!~|Ixgirbylkwb6xtgj66dpdktepr6kp5bnc7g2o5w333bbq!~|Hpayment_type!~|IAT_WEB!~|Hcity_code!~|I124781!~|Hrate_type!~|Irecheck!~|Hcurrency!~|IAED!~|Hpax_comments!~|IFor this rate the infants will be converted to children with age 1.!~|Hroom_reference#1!~|I4pcf5nb45arcppbi3ccrkh645k3orhvyqhqltebhqqmvx3e4iohcnw5ygnvxbpv5urotjba!~|Hdescription!~|I1#Two Bedrooms Family Villa!~|HoptionID!~|Ixgirbylkwb6xtgj66dpdktepr6kp5bnc7g2o5w333bbq|2 Bedroom Standard Family Villa|1#Two Bedrooms Family Villa|!~|Htgx_price!~|I26825!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 53,
+                    "roomCode": "1336984055-266",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Villa Pool",
+            "category": "Villa",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 15,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"BDBF\",\"code\":\"Villa - Pool\",\"cancellationPolicyType\":\"Flexi\",\"packageRate\":false,\"rateKeys\":[\"ec494bc9-2866-4e97-8e9f-cfb128238ce2\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 62,
+                    "roomCode": "1336984055-275",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 73,
+                    "roomCode": "1257603!TB!5!TB!a9fbf023-8c0a-11f1-9582-822cf8e4e094!TB!N!TB!AFF!",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "One Bedroom Ayung Villa With A Private Pool",
+            "category": "Villa",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 16,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"RO\",\"code\":\"One Bedroom Ayung Villa with a Private Pool\",\"cancellationPolicyType\":\"Flexi\",\"packageRate\":false,\"rateKeys\":[\"496ae357-db67-46cd-8e7e-634acb8a596b\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 17,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"BDBF\",\"code\":\"1 BEDROOM, AYUNG, VILLA\",\"cancellationPolicyType\":\"NRF\",\"packageRate\":false,\"rateKeys\":[\"25120967-b3a9-4178-81f5-f8e49377ae50\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 38,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|d1451916!~|eBed and Breakfast!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33121!~|m1451916!~|nBed and Breakfast!~|nGRN!~|o1!~|p1!~|x30071134!~|M16473!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#1 Bedroom Standard Villa with Private Pool!~|A1 Bedroom Standard Villa with Private Pool!~|B1 Bedroom Standard Villa with Private Pool!~|C30|30!~|EOne Bedroom Ayung Villa with a Private Pool!~|FOne Bedroom Ayung Villa with a Private Pool!~|G1!~|U2,16473,1813082400|2,16473,1817056800!~|Hsearch_id!~|Ionacw6m7ps4mvfsl3jqaufidcy!~|Hrate_key!~|Isogadzlnsr4w5hs3v3tdex4fxcb7dboiul6opwdz3far76xkchmxlq5dprrgdp55tihgbqpdujaqkgb77sza!~|Hroom_code!~|I4xgvjpji5mvcpubuy7xq!~|Hgroup_code!~|Iuwoaxw36x52efayp4ddqqw4hutmklqfk62zoxut3!~|Hpayment_type!~|IAT_WEB!~|Hcity_code!~|I124781!~|Hrate_type!~|Irecheck!~|Hcurrency!~|IAED!~|Hpax_comments!~|IFor this rate the infants will be converted to children with age 1.!~|Hroom_reference#1!~|I4dcf5nr45arcpw2c3pctednewwdo3hxxv2szzgz5qujqrgvtj2hs5f5wpjexd4vq4u3xzxhztrbqctcvvhxhu76z4d6ddp5srkzwxgo2xcexdsyjsuucmwsoozulmlyk52dtzmd2oywdk2ebvhy6yj45x6noujhjpxjbnkrkvqnmrb5ali2vhtc5zdnhbg2ne7sdkn2llmkxylumvlqdjg3b7sfbh55skgdwdcmpfkz7orpe!~|Hdescription!~|I1#One Bedroom Ayung Villa with a Private Pool!~|HoptionID!~|Iuwoaxw36x52efayp4ddqqw4hutmklqfk62zoxut3|1 Bedroom Standard Villa with Private Pool|1#One Bedroom Ayung Villa with a Private Pool|!~|Htgx_price!~|I16473!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 39,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|d1451916!~|eBed and Breakfast!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33121!~|m1451916!~|nBed and Breakfast!~|nGRN!~|o1!~|p1!~|x30071134!~|M16606!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#1 Bedroom Standard Villa!~|A1 Bedroom Standard Villa!~|B1 Bedroom Standard Villa!~|C30|30!~|EOne Bedroom Ayung Villa!~|FOne Bedroom Ayung Villa!~|G1!~|U2,8303,1815150540|2,16606,1815755340|2,16606,1817056800!~|Hsearch_id!~|Ionacw6m7ps4mvfsl3jqaufidcy!~|Hrate_key!~|I4phfnmzw5iuczfstusmwaho64dnohjxe6c36rhtz3bgrx77nl22qn67pkeggleeqs5duz57tx52rqebuxczwq5m72pobjl6hsgldjjp4s3lqfayzzj6gkoczg426cn2pwdfgnjjnn4bas74jw3f4mvntv2336xhgagfuxt257je75xh7b4scldi5skggd7y5p25ggjyma4qegw5gxkahpqrhvxhefz6sb3nd3behpts2ub5qjgfqiuc7cxw52uclkl5g7ci!~|Hroom_code!~|I4xgvhmji4ixspubuy7xq!~|Hgroup_code!~|Ixgirbylkwb6xtgj66dpdktepr6kp5bnc7g2o5w333bbq!~|Hpayment_type!~|IAT_WEB!~|Hcity_code!~|I124781!~|Hrate_type!~|Irecheck!~|Hcurrency!~|IAED!~|Hpax_comments!~|IFor this rate the infants will be converted to children with age 1.!~|Hroom_reference#1!~|I4pcf5nb45arcppbi3ccrkhg45kw7dffyqhqltebhqqmqrdndk6gsrf4xpjixlm7l75la!~|Hdescription!~|I1#One Bedroom Ayung Villa!~|HoptionID!~|Ixgirbylkwb6xtgj66dpdktepr6kp5bnc7g2o5w333bbq|1 Bedroom Standard Villa|1#One Bedroom Ayung Villa|!~|Htgx_price!~|I16606!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 52,
+                    "roomCode": "1336984055-265",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 61,
+                    "roomCode": "1336984055-274",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 65,
+                    "roomCode": "1257603!TB!8!TB!a9fbf023-8c0a-11f1-9582-822cf8e4e094!TB!N!TB!AFF!",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 68,
+                    "roomCode": "1257603!TB!9!TB!a9fbf023-8c0a-11f1-9582-822cf8e4e094!TB!N!TB!AFF!",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 72,
+                    "roomCode": "1257603!TB!13!TB!a9fbf023-8c0a-11f1-9582-822cf8e4e094!TB!N!TB!AFF!",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 86,
+                    "roomCode": "30198731/1419535814003335969/259",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "3 Bedrooms Family Villa",
+            "category": "Villa",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 19,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"BDBF\",\"code\":\"3 BEDROOMS, FAMILY, VILLA\",\"cancellationPolicyType\":\"Flexi\",\"packageRate\":false,\"rateKeys\":[\"7a2ddbcc-2026-4bf4-af0b-a354651aee85\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 44,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|d1451916!~|eBed and Breakfast!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33121!~|m1451916!~|nBed and Breakfast!~|nGRN!~|o1!~|p1!~|x30071134!~|M35767!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#Three Bedrooms Family Villa!~|AThree Bedrooms Family Villa!~|BThree Bedrooms Family Villa!~|C30|30!~|EThree Bedrooms Family Villa!~|FThree Bedrooms Family Villa!~|G1!~|U2,17884,1815150540|2,35767,1815755340|2,35767,1817056800!~|Hsearch_id!~|Ionacw6m7ps4mvfsl3jqaufidcy!~|Hrate_key!~|I4phfnmzw5iuczfstusmwaho64dnohjxe6c36rhtz3bgrx77nl22qn67pkehgleeqs5duz57tx52rqebuxczwq5m72pobjl6hsgldjjp4s3lqfaqzzexd6p2zfa26gokew3cgdibdfazds74jq3fnw6ntslgmik7aawcdnp237y5i5whxayrcvaa4s6ggf5arpg7wijyjom3ecro5xkaxnqrhvxfenz6sbtmdvamefxqk6vphisfxyxk7cht54xscfx5gi!~|Hroom_code!~|I5dffnnzi4axcpubuy7xq!~|Hgroup_code!~|Ixgirbylkwb6xtgj66dpdktepr6kp5bnc7g2o5w333bbq!~|Hpayment_type!~|IAT_WEB!~|Hcity_code!~|I124781!~|Hrate_type!~|Irecheck!~|Hcurrency!~|IAED!~|Hpax_comments!~|IFor this rate the infants will be converted to children with age 1.!~|Hroom_reference#1!~|I4pcf5nb45arcppbi3ccrkhw45k3ppa75u2sz7bzmtenupinjakss5wvip5cdtbfyvefw7d5vzq!~|Hdescription!~|I1#Three Bedrooms Family Villa!~|HoptionID!~|Ixgirbylkwb6xtgj66dpdktepr6kp5bnc7g2o5w333bbq|Three Bedrooms Family Villa|1#Three Bedrooms Family Villa|!~|Htgx_price!~|I35767!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 54,
+                    "roomCode": "1336984055-267",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Two Bedroom Royal Villa",
+            "category": "Villa",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 20,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"BDBF\",\"code\":\"RM_886_3\",\"cancellationPolicyType\":\"Flexi\",\"packageRate\":false,\"rateKeys\":[\"6868a080-662e-48d4-89bf-aa8052ccf31c\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 48,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|da5469001-d216-41c1-bce3-8a800dbc8196!~|eRB!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33434!~|ma5469001-d216-41c1-bce3-8a800dbc8196!~|nRB!~|nG2T!~|o1!~|p1!~|x30071134!~|rBAR!~|sBAR!~|M27144.81!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1:BAR!~|ARYVLA!~|BRYVLA!~|C30|30!~|ETwo Bedroom Royal Villa!~|FTwo Bedroom Royal Villa!~|G1!~|U2,3877.83,1816941600!~|Hcurrency!~|IAED!~|Hcontext!~|I148a49e9-bbb6-480e-ab9b-211627de14a8!~|HbookingKey!~|IG2:zRKQLSnCXDqQgJRML0LbUg==!~|Htgx_price!~|I27144.81!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 56,
+                    "roomCode": "1336984055-269",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 89,
+                    "roomCode": "21699083/1419535814003335969/0",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Two Bedrooms Villa With A Private Pool",
+            "category": "Villa",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 21,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"RO\",\"code\":\"Two Bedrooms Villa with a Private Pool\",\"cancellationPolicyType\":\"Flexi\",\"packageRate\":false,\"rateKeys\":[\"336c840d-fc2e-483b-ae9a-4edf216c93bd\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 41,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|d1451916!~|eBed and Breakfast!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33121!~|m1451916!~|nBed and Breakfast!~|nGRN!~|o1!~|p1!~|x30071134!~|M26482!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#2 Bedroom Standard Villa with Private Pool!~|A2 Bedroom Standard Villa with Private Pool!~|B2 Bedroom Standard Villa with Private Pool!~|C30|30!~|ETwo Bedrooms Villa with a Private Pool!~|FTwo Bedrooms Villa with a Private Pool!~|G1!~|U2,26482,1813082400|2,26482,1817056800!~|Hsearch_id!~|Ionacw6m7ps4mvfsl3jqaufidcy!~|Hrate_key!~|Isogadzlnsr4w5hs3v3tdex4fxcb7dboiul6opwdz3far76xkchmxlq5dprrgdp55tihgbqpdujaqkgb77s2q!~|Hroom_code!~|I47dvnpbi4yvspubuy7xq!~|Hgroup_code!~|Iuwoaxw36x52efayp4ddqqw4hutmklqfk62zoxut3!~|Hpayment_type!~|IAT_WEB!~|Hcity_code!~|I124781!~|Hrate_type!~|Irecheck!~|Hcurrency!~|IAED!~|Hpax_comments!~|IFor this rate the infants will be converted to children with age 1.!~|Hroom_reference#1!~|I4dcf5nr45arcpw2cydodqdnewwdo3hxxv33p3nbbq4met3fnjolspf5agnwwxo5huqjwxfo7sjmaqvr7sl3hsznbzl3cn4e7qksdtig4xhcvdeqlsi5w4lcghjkkkzql42dtdmclhejswo6nttzomj4pwwi7i4n4l7hvhxabuujnxsfylzqxvfkjq3wsfjcsfl6dcn3mluhhqngx5tisvals!~|Hdescription!~|I1#Two Bedrooms Villa with a Private Pool!~|HoptionID!~|Iuwoaxw36x52efayp4ddqqw4hutmklqfk62zoxut3|2 Bedroom Standard Villa with Private Pool|1#Two Bedrooms Villa with a Private Pool|!~|Htgx_price!~|I26482!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 74,
+                    "roomCode": "1257603!TB!16!TB!a9fbf023-8c0a-11f1-9582-822cf8e4e094!TB!N!TB!AFF!",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 75,
+                    "roomCode": "1257603!TB!11!TB!a9fbf023-8c0a-11f1-9582-822cf8e4e094!TB!N!TB!AFF!",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 77,
+                    "roomCode": "1257603!TB!15!TB!a9fbf023-8c0a-11f1-9582-822cf8e4e094!TB!N!TB!AFF!",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 88,
+                    "roomCode": "30198731/1419535814003335969/260",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Three Bedroom Villa",
+            "category": "Villa",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 22,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"BDBF\",\"code\":\"RM_886_4\",\"cancellationPolicyType\":\"Flexi\",\"packageRate\":false,\"rateKeys\":[\"b88d3a81-50dc-4f38-bec6-d98f52cea2e2\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 23,
+                    "roomCode": "{\"sessionId\":\"7CF0E158-E6CB-4FF3-9B98-085E65444563\",\"mealPlan\":\"RO\",\"code\":\"Three Bedroom Villa with a Private Pool\",\"cancellationPolicyType\":\"Flexi\",\"packageRate\":false,\"rateKeys\":[\"06add510-ae03-4f8f-b15a-96a312071ce5\"],\"cityCode\":\"ID-DPS\",\"countryCode\":\"ID\"}",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 28,
+                    "roomCode": "{\"roomCode\":\"CGISCDExNDE4ODQwGgcxOTUwMzM5\",\"boardCode\":\"CgEy\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 43,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|d1451916!~|eBed and Breakfast!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33121!~|m1451916!~|nBed and Breakfast!~|nGRN!~|o1!~|p1!~|x30071134!~|M35309!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#3 Bedroom Standard Villa with Private Pool!~|A3 Bedroom Standard Villa with Private Pool!~|B3 Bedroom Standard Villa with Private Pool!~|C30|30!~|EThree Bedroom Villa with a Private Pool!~|FThree Bedroom Villa with a Private Pool!~|G1!~|U2,35309,1813082400|2,35309,1817056800!~|Hsearch_id!~|Ionacw6m7ps4mvfsl3jqaufidcy!~|Hrate_key!~|Isogadzlnsr4w5hs3v3tdex4fxcb7dboiul6opwdz3far76xkchmxlq5dprrgdp55tihgbqpdujaqkgb77s2a!~|Hroom_code!~|I5dgfpmzi5muspubuy7xq!~|Hgroup_code!~|Iuwoaxw36x52efayp4ddqqw4hutmklqfk62zoxut3!~|Hpayment_type!~|IAT_WEB!~|Hcity_code!~|I124781!~|Hrate_type!~|Irecheck!~|Hcurrency!~|IAED!~|Hpax_comments!~|IFor this rate the infants will be converted to children with age 1.!~|Hroom_reference#1!~|I4dcf5nr45arcpw2cydbsksed6cqpvfpkvtvlbqq6qimejlp2kwfdxx7boioutifywmdhvufpvvmawab77tkx4n4gzkzbn6uutw4hng4vqpafzxq53m4g66cphjs7oxyp52ctlzd6oywcq3u36k752357wwikmxfwk3hbzzif5eunhbfdky2wlxc4z2otd3luhhqse5sik5auiymc42fhzfdw6ggrg!~|Hdescription!~|I1#Three Bedroom Villa with a Private Pool!~|HoptionID!~|Iuwoaxw36x52efayp4ddqqw4hutmklqfk62zoxut3|3 Bedroom Standard Villa with Private Pool|1#Three Bedroom Villa with a Private Pool|!~|Htgx_price!~|I35309!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 49,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|da5469001-d216-41c1-bce3-8a800dbc8196!~|eRB!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33434!~|ma5469001-d216-41c1-bce3-8a800dbc8196!~|nRB!~|nG2T!~|o1!~|p1!~|x30071134!~|rBAR!~|sBAR!~|M36193.08!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1:BAR!~|ARYVLAC!~|BRYVLAC!~|C30|30!~|EThree Bedroom Royal Villa!~|FThree Bedroom Royal Villa!~|G1!~|U2,5170.44,1816941600!~|Hcurrency!~|IAED!~|Hcontext!~|I148a49e9-bbb6-480e-ab9b-211627de14a8!~|HbookingKey!~|IG2:djlbawbyqFAWOfVJZPD4BQ==!~|Htgx_price!~|I36193.08!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 55,
+                    "roomCode": "1336984055-268",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 79,
+                    "roomCode": "1257603!TB!1!TB!a9fbf023-8c0a-11f1-9582-822cf8e4e094!TB!N!TB!AFF!",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 87,
+                    "roomCode": "23888182/1419535814003335969/146",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 90,
+                    "roomCode": "30198731/1419535814003335969/262",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 91,
+                    "roomCode": "21699083/1419535814003335969/3",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Two Bedroom Family Villa",
+            "category": "Villa",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 27,
+                    "roomCode": "{\"roomCode\":\"CGISCDExNDE4ODQwGgcxNDk3NDIw\",\"boardCode\":\"CgEy\"}",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 30,
+                    "roomCode": "42V5HK5S2:BB:STD::gmiPwCQm9hcmRDb2RlPUNnRXkqKip8fnwqKipCb2FyZFR5cGU9MioqKnx+fCoqKk5ldENvc3RBbW91bnQ9MzQzNC45NyoqKnx+fCoqKk5ldENvc3RDdXJyZW5jeT1FVVIqKip8fnwqKipSb29tQ29kZT1UV08gQkVEUk9PTSBGQU1JTFkgVklMTEEqKip8fnwqKipSb29tQ29kZU9yaWdpbmFsPUNHSVNDREV4TkRFNE9EUXdHZ2N4TkRrM05ESXcqKip8fnwqKipSb29tRGVzY3JpcHRpb249VFdPIEJFRFJPT00gRkFNSUxZIFZJTExBIyZAJiMxNjExMDA0IyZAJiMyMDI3LTA4LTAxI0BAQCMyMDI3LTA4LTA4IyZAJiM3MjktNzE0LTg3YWVkOTY0NmEzMzcxIyZAJiMzMTIzLjY3IyZAJiNlbiMmQCYjeGZLb09z",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 85,
+                    "roomCode": "23888182/1419535814003335969/143",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "One Bedroom Hill View Villa",
+            "category": "Villa",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 37,
+                    "roomCode": "33!~|a0!~|b270801!~|c270808!~|d1451916!~|eBed and Breakfast!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33121!~|m1451916!~|nBed and Breakfast!~|nGRN!~|o1!~|p1!~|x30071134!~|M15329!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#1 Bedroom Standard Villa (Hill View)!~|A1 Bedroom Standard Villa (Hill View)!~|B1 Bedroom Standard Villa (Hill View)!~|C30|30!~|EOne Bedroom Hill View Villa!~|FOne Bedroom Hill View Villa!~|G1!~|U2,7665,1815150540|2,15329,1815755340|2,15329,1817056800!~|Hsearch_id!~|Ionacw6m7ps4mvfsl3jqaufidcy!~|Hrate_key!~|I4phfnmzw5iuczfstusmwaho64dnohjxe6c36rhtz3bgrx77nl22qn67pkegdjy7bxesu7z5px52rqlshxl6soo6r2grcry56v7ts5chu7d5ht4iczf7tkpivffrkspkmwtag3jrjmjghm75zw357osmcqkf7qxhkoceubpkqrrfytx4lamssvba7t2egj7avpgywcjilajisct52375xnqrgvxhenz6wb3md3amfppqkqbphdwdqikcscxu5ou2flocw7aqa!~|Hroom_code!~|I4xhfppbi44uspubuy7xq!~|Hgroup_code!~|Ixgirbylkwb6xtgj66dpdktepr6kp5bnc7g2o5w333bbq!~|Hpayment_type!~|IAT_WEB!~|Hcity_code!~|I124781!~|Hrate_type!~|Irecheck!~|Hcurrency!~|IAED!~|Hpax_comments!~|IFor this rate the infants will be converted to children with age 1.!~|Hroom_reference#1!~|I4pcf5nb45arcppbi3ccrkhgl4hjkls6xvxqp3ibnr4depi5xakvsnw5ngnvxbn5g4uywpwpdtqgv4xi!~|Hdescription!~|I1#One Bedroom Hill View Villa!~|HoptionID!~|Ixgirbylkwb6xtgj66dpdktepr6kp5bnc7g2o5w333bbq|1 Bedroom Standard Villa (Hill View)|1#One Bedroom Hill View Villa|!~|Htgx_price!~|I15329!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 51,
+                    "roomCode": "1336984055-264",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 64,
+                    "roomCode": "1257603!TB!17!TB!a9fbf023-8c0a-11f1-9582-822cf8e4e094!TB!N!TB!AFF!",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 67,
+                    "roomCode": "1257603!TB!10!TB!a9fbf023-8c0a-11f1-9582-822cf8e4e094!TB!N!TB!AFF!",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        },
+        {
+            "standardName": "Villa 3 Bedrooms Private Pool",
+            "category": "Villa",
+            "view": "Unknown",
+            "beds": [],
+            "bedInfo": null,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 76,
+                    "roomCode": "1257603!TB!2!TB!a9fbf023-8c0a-11f1-9582-822cf8e4e094!TB!N!TB!AFF!",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 78,
+                    "roomCode": "1257603!TB!14!TB!a9fbf023-8c0a-11f1-9582-822cf8e4e094!TB!N!TB!AFF!",
+                    "boardBasis": "Bed and Breakfast",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [],
+            "attributes": []
+        }
+    ]
+}

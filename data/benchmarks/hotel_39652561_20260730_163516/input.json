@@ -1,0 +1,1095 @@
+{
+    "vervotechHotelId": "39652561",
+    "roomRates": [
+        {
+            "index": 1,
+            "code": "1336950816-559",
+            "roomName": "Junior Suite Central Park View King",
+            "provider": "Stuba",
+            "providerHotelId": "720513",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 2,
+            "code": "1336950816-561",
+            "roomName": "Junior Suite City View King",
+            "provider": "Stuba",
+            "providerHotelId": "720513",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 3,
+            "code": "1336950816-562",
+            "roomName": "Accessible Central Park Suite King",
+            "provider": "Stuba",
+            "providerHotelId": "720513",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 4,
+            "code": "1336950816-565",
+            "roomName": "Junior Suite City View Upper Floor",
+            "provider": "Stuba",
+            "providerHotelId": "720513",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 5,
+            "code": "1336950816-567",
+            "roomName": "Manhattan Two Bedroom Suite",
+            "provider": "Stuba",
+            "providerHotelId": "720513",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 6,
+            "code": "1336950816-569",
+            "roomName": "Junior Suite Central Park View Upper Floor King",
+            "provider": "Stuba",
+            "providerHotelId": "720513",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 7,
+            "code": "1336950816-570",
+            "roomName": "Central Park Suite King with Terrace",
+            "provider": "Stuba",
+            "providerHotelId": "720513",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 8,
+            "code": "1336950816-572",
+            "roomName": "Suite, 2 Bedrooms (Manatthan, 2 King)",
+            "provider": "Stuba",
+            "providerHotelId": "720513",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 9,
+            "code": "1336950816-574",
+            "roomName": "Manhattan Suite",
+            "provider": "Stuba",
+            "providerHotelId": "720513",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 10,
+            "code": "1336950816-576",
+            "roomName": "Junior Suite, 1 King Bed, City View (Accessible)",
+            "provider": "Stuba",
+            "providerHotelId": "720513",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 11,
+            "code": "1336950816-578",
+            "roomName": "Central Park Suite King",
+            "provider": "Stuba",
+            "providerHotelId": "720513",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 12,
+            "code": "1157325!TB!31!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Junior Suite City View King,1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 13,
+            "code": "1157325!TB!43!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "JUNIOR SUITE CITY VIEW KING",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 14,
+            "code": "1157325!TB!34!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Junior Suite Central Park View King,1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 15,
+            "code": "1157325!TB!16!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "JUNIOR SUITE CENTRAL PARK VIEW KING",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 16,
+            "code": "1157325!TB!8!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Junior Suite City View Upper Floor,1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 17,
+            "code": "1157325!TB!13!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "JUNIOR SUITE CITY VIEW UPPER FLOOR",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 18,
+            "code": "1157325!TB!12!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Junior Suite City View King,1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 19,
+            "code": "1157325!TB!4!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Junior Suite, 1 King Bed, City View (Accessible)",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 20,
+            "code": "1157325!TB!42!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Junior Suite Central Park View Upper Floor King,1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 21,
+            "code": "1157325!TB!37!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "JUNIOR SUITE CITY VIEW KING",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 22,
+            "code": "1157325!TB!40!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "JUNIOR SUITE CENTRAL PARK VIEW UPPER FLOOR KING",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 23,
+            "code": "1157325!TB!30!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Junior Suite City View King , 1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 24,
+            "code": "1157325!TB!38!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Junior Suite Central Park View King,1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 25,
+            "code": "1157325!TB!11!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "JUNIOR SUITE CENTRAL PARK VIEW KING",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 26,
+            "code": "1157325!TB!46!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Junior Suite City View Upper Floor,1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 27,
+            "code": "1157325!TB!39!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Junior Suite Central Park View King , 1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 28,
+            "code": "1157325!TB!1!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "JUNIOR SUITE CITY VIEW UPPER FLOOR",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 29,
+            "code": "1157325!TB!14!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Junior Suite City View Upper Floor , 1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 30,
+            "code": "1157325!TB!17!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Junior Suite Central Park View Upper Floor King,1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 31,
+            "code": "1157325!TB!18!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "JUNIOR SUITE CENTRAL PARK VIEW UPPER FLOOR KING",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 32,
+            "code": "1157325!TB!3!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Junior Suite Central Park View Upper Floor King , 1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 33,
+            "code": "1157325!TB!44!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Accessible Central Park Suite King,1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 34,
+            "code": "1157325!TB!35!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Central Park Suite King,1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 35,
+            "code": "1157325!TB!26!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "CENTRAL PARK SUITE KING",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 36,
+            "code": "1157325!TB!27!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "ACCESSIBLE CENTRAL PARK SUITE KING",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 37,
+            "code": "1157325!TB!47!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Accessible Central Park Suite King,1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 38,
+            "code": "1157325!TB!2!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Central Park Suite King,1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 39,
+            "code": "1157325!TB!15!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "ACCESSIBLE CENTRAL PARK SUITE KING",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 40,
+            "code": "1157325!TB!28!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "CENTRAL PARK SUITE KING",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 41,
+            "code": "1157325!TB!5!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Central Park Suite King , 1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 42,
+            "code": "1157325!TB!25!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Accessible Central Park Suite King , 1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 43,
+            "code": "1157325!TB!41!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "MANHATTAN SUITE",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 44,
+            "code": "1157325!TB!7!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Central Park Suite King with Terrace,1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 45,
+            "code": "1157325!TB!6!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "CENTRAL PARK SUITE KING WITH TERRACE",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 46,
+            "code": "1157325!TB!9!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Manhattan Two Bedroom Suite,1 King Bed and 2 Twin Beds",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 47,
+            "code": "1157325!TB!45!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Suite, 2 Bedrooms (Manatthan, 2 King),2 King Beds",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 48,
+            "code": "1157325!TB!29!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Manhattan Suite,1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 49,
+            "code": "1157325!TB!20!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "MANHATTAN TWO BEDROOM SUITE",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 50,
+            "code": "1157325!TB!19!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "MANHATTAN SUITE",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 51,
+            "code": "1157325!TB!23!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Central Park Suite King with Terrace,1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 52,
+            "code": "1157325!TB!33!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "CENTRAL PARK SUITE KING WITH TERRACE",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 53,
+            "code": "1157325!TB!36!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Central Park Suite King with Terrace , 1 King Bed",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 54,
+            "code": "1157325!TB!24!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Manhattan Two Bedroom Suite,1 King Bed and 2 Twin Beds",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 55,
+            "code": "1157325!TB!22!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Suite, 2 Bedrooms (Manatthan, 2 King),2 King Beds",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 56,
+            "code": "1157325!TB!21!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "MANHATTAN TWO BEDROOM SUITE",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 57,
+            "code": "1157325!TB!10!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Manhattan Two Bedroom Suite , 1 King Bed and 2 Twin Beds",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 58,
+            "code": "1157325!TB!32!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+            "roomName": "Suite, 2 Bedrooms (Manatthan, 2 King) , 2 King Beds",
+            "provider": "TBO",
+            "providerHotelId": "1157325",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 59,
+            "code": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p0!~|x30071102!~|r-1287570009878799919!~|s-1287570009878799919!~|M55359.18!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-1287570009878799919!~|A23599276!~|B23599276!~|C30|30!~|EJunior Suite City View King!~|FJunior Suite City View King!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I55359.18!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Junior Suite City View King",
+            "provider": "DidaTravel",
+            "providerHotelId": "1815",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 60,
+            "code": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p0!~|x30071102!~|r240594418064056287!~|s240594418064056287!~|M57539.14!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#240594418064056287!~|A23742641!~|B23742641!~|C30|30!~|EJunior Suite Central Park View King!~|FJunior Suite Central Park View King!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I57539.14!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Junior Suite Central Park View King",
+            "provider": "DidaTravel",
+            "providerHotelId": "1815",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 61,
+            "code": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p0!~|x30071102!~|r-5800062922459380115!~|s-5800062922459380115!~|M58892.52!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-5800062922459380115!~|A23742643!~|B23742643!~|C30|30!~|EJunior Suite City View Upper Floor!~|FJunior Suite City View Upper Floor!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I58892.52!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Junior Suite City View Upper Floor",
+            "provider": "DidaTravel",
+            "providerHotelId": "1815",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 62,
+            "code": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r-3308282100499478691!~|s-3308282100499478691!~|M65112.24!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-3308282100499478691!~|A25771319!~|B25771319!~|C30|30!~|EJunior Suite, 1 King Bed, City View (Accessible)!~|FJunior Suite, 1 King Bed, City View (Accessible)!~|G1!~|U2,10852.04,1790622000|2,65112.24,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I65112.24!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Junior Suite, 1 King Bed, City View (Accessible)",
+            "provider": "DidaTravel",
+            "providerHotelId": "1815",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 63,
+            "code": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r-1620067876942302532!~|s-1620067876942302532!~|M65112.24!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-1620067876942302532!~|A23599276!~|B23599276!~|C30|30!~|EJunior Suite City View King!~|FJunior Suite City View King!~|G1!~|U2,10852.04,1790622000|2,65112.24,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I65112.24!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Junior Suite City View King",
+            "provider": "DidaTravel",
+            "providerHotelId": "1815",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 64,
+            "code": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p0!~|x30071102!~|r3214611711455242338!~|s3214611711455242338!~|M65587.22!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#3214611711455242338!~|A23742642!~|B23742642!~|C30|30!~|EJunior Suite Central Park View Upper Floor King!~|FJunior Suite Central Park View Upper Floor King!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I65587.22!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Junior Suite Central Park View Upper Floor King",
+            "provider": "DidaTravel",
+            "providerHotelId": "1815",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 65,
+            "code": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r-885980312808551731!~|s-885980312808551731!~|M67676.92!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-885980312808551731!~|A23742641!~|B23742641!~|C30|30!~|EJunior Suite Central Park View King!~|FJunior Suite Central Park View King!~|G1!~|U2,11279.47,1790622000|2,67676.92,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I67676.92!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Junior Suite Central Park View King",
+            "provider": "DidaTravel",
+            "providerHotelId": "1815",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 66,
+            "code": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r8523417562443359457!~|s8523417562443359457!~|M69269.34!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#8523417562443359457!~|A23742643!~|B23742643!~|C30|30!~|EJunior Suite City View Upper Floor!~|FJunior Suite City View Upper Floor!~|G1!~|U2,11544.89,1790622000|2,69269.34,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I69269.34!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Junior Suite City View Upper Floor",
+            "provider": "DidaTravel",
+            "providerHotelId": "1815",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 67,
+            "code": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r-8734068048771885370!~|s-8734068048771885370!~|M77145.72!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-8734068048771885370!~|A23742642!~|B23742642!~|C30|30!~|EJunior Suite Central Park View Upper Floor King!~|FJunior Suite Central Park View Upper Floor King!~|G1!~|U2,12857.62,1790622000|2,77145.72,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I77145.72!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Junior Suite Central Park View Upper Floor King",
+            "provider": "DidaTravel",
+            "providerHotelId": "1815",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 68,
+            "code": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p0!~|x30071102!~|r8582804220502371972!~|s8582804220502371972!~|M96834.73!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#8582804220502371972!~|A22515474!~|B22515474!~|C30|30!~|ECentral Park Suite King!~|FCentral Park Suite King!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I96834.73!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Central Park Suite King",
+            "provider": "DidaTravel",
+            "providerHotelId": "1815",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 69,
+            "code": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p0!~|x30071102!~|r2097316267151503012!~|s2097316267151503012!~|M96834.73!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#2097316267151503012!~|A23742644!~|B23742644!~|C30|30!~|EAccessible Central Park Suite King!~|FAccessible Central Park Suite King!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I96834.73!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Accessible Central Park Suite King",
+            "provider": "DidaTravel",
+            "providerHotelId": "1815",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 70,
+            "code": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r6642855564923845218!~|s6642855564923845218!~|M113898.19!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#6642855564923845218!~|A22515474!~|B22515474!~|C30|30!~|ECentral Park Suite King!~|FCentral Park Suite King!~|G1!~|U2,18983.03,1790622000|2,113898.19,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I113898.19!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Central Park Suite King",
+            "provider": "DidaTravel",
+            "providerHotelId": "1815",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 71,
+            "code": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r-7078615301016718530!~|s-7078615301016718530!~|M113898.19!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-7078615301016718530!~|A23742644!~|B23742644!~|C30|30!~|EAccessible Central Park Suite King!~|FAccessible Central Park Suite King!~|G1!~|U2,18983.03,1790622000|2,113898.19,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I113898.19!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Accessible Central Park Suite King",
+            "provider": "DidaTravel",
+            "providerHotelId": "1815",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 72,
+            "code": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p0!~|x30071102!~|r1596255011278153259!~|s1596255011278153259!~|M131282.76!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#1596255011278153259!~|A23742645!~|B23742645!~|C30|30!~|EManhattan Suite!~|FManhattan Suite!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I131282.76!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Manhattan Suite",
+            "provider": "DidaTravel",
+            "providerHotelId": "1815",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 73,
+            "code": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p0!~|x30071102!~|r-8882739724848429996!~|s-8882739724848429996!~|M141457.14!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-8882739724848429996!~|A23742646!~|B23742646!~|C30|30!~|ECentral Park Suite King with Terrace!~|FCentral Park Suite King with Terrace!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I141457.14!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Central Park Suite King with Terrace",
+            "provider": "DidaTravel",
+            "providerHotelId": "1815",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 74,
+            "code": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p0!~|x30071102!~|r7393092066779521966!~|s7393092066779521966!~|M153136.52!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#7393092066779521966!~|A24638834!~|B24638834!~|C30|30!~|ESuite, 2 Bedrooms (Manatthan, 2 King)!~|FSuite, 2 Bedrooms (Manatthan, 2 King)!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I153136.52!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Suite, 2 Bedrooms (Manatthan, 2 King)",
+            "provider": "DidaTravel",
+            "providerHotelId": "1815",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 75,
+            "code": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p0!~|x30071102!~|r-8964552453488749087!~|s-8964552453488749087!~|M153136.52!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-8964552453488749087!~|A23742639!~|B23742639!~|C30|30!~|EManhattan Two Bedroom Suite!~|FManhattan Two Bedroom Suite!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I153136.52!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Manhattan Two Bedroom Suite",
+            "provider": "DidaTravel",
+            "providerHotelId": "1815",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 76,
+            "code": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r366513867221890697!~|s366513867221890697!~|M154425.01!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#366513867221890697!~|A23742645!~|B23742645!~|C30|30!~|EManhattan Suite!~|FManhattan Suite!~|G1!~|U2,25737.50,1790622000|2,154425.01,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I154425.01!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Manhattan Suite",
+            "provider": "DidaTravel",
+            "providerHotelId": "1815",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 77,
+            "code": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r8431853919893948318!~|s8431853919893948318!~|M166395.13!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#8431853919893948318!~|A23742646!~|B23742646!~|C30|30!~|ECentral Park Suite King with Terrace!~|FCentral Park Suite King with Terrace!~|G1!~|U2,27732.52,1790622000|2,166395.13,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I166395.13!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Central Park Suite King with Terrace",
+            "provider": "DidaTravel",
+            "providerHotelId": "1815",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 78,
+            "code": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r-4915880597766763014!~|s-4915880597766763014!~|M180126.24!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-4915880597766763014!~|A24638834!~|B24638834!~|C30|30!~|ESuite, 2 Bedrooms (Manatthan, 2 King)!~|FSuite, 2 Bedrooms (Manatthan, 2 King)!~|G1!~|U2,30021.04,1790622000|2,180126.24,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I180126.24!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Suite, 2 Bedrooms (Manatthan, 2 King)",
+            "provider": "DidaTravel",
+            "providerHotelId": "1815",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 79,
+            "code": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r-720585825386269189!~|s-720585825386269189!~|M180126.24!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-720585825386269189!~|A23742639!~|B23742639!~|C30|30!~|EManhattan Two Bedroom Suite!~|FManhattan Two Bedroom Suite!~|G1!~|U2,30021.04,1790622000|2,180126.24,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I180126.24!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Manhattan Two Bedroom Suite",
+            "provider": "DidaTravel",
+            "providerHotelId": "1815",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 80,
+            "code": "25203656/6756350443216466365/718",
+            "roomName": "Junior Suite 1 King Bed City View (Accessible)",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 81,
+            "code": "25203656/6756350443216466365/720",
+            "roomName": "Junior Suite City View King",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 82,
+            "code": "27672864/6756350443216466365/1325",
+            "roomName": "Accessible Junior Suite with 1 King Bed and City View",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 83,
+            "code": "27672864/6756350443216466365/1326",
+            "roomName": "Junior Suite (Cosmopolitan)",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 84,
+            "code": "32671403/6756350443216466365/1310",
+            "roomName": "Junior Suite City View King 1 King Bed",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 85,
+            "code": "25203656/6756350443216466365/721",
+            "roomName": "Junior Suite Central Park View King",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 86,
+            "code": "25203656/6756350443216466365/717",
+            "roomName": "Junior Suite City View Upper Floor",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 87,
+            "code": "27672864/6756350443216466365/1324",
+            "roomName": "Junior Suite (Manhattan | City and Park View)",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 88,
+            "code": "27672864/6756350443216466365/1444",
+            "roomName": "JUNIOR SUITE KING SIZE BED",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 89,
+            "code": "27672864/6756350443216466365/1445",
+            "roomName": "JUNIOR SUITE Accessible WITH VIEWS",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 90,
+            "code": "32671403/6756350443216466365/1308",
+            "roomName": "Junior Suite Central Park View King 1 King Bed",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 91,
+            "code": "32671403/6756350443216466365/1307",
+            "roomName": "Junior Suite City View Upper Floor 1 King Bed",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 92,
+            "code": "25203656/6756350443216466365/714",
+            "roomName": "Junior Suite Central Park View Upper Floor King",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 93,
+            "code": "32671403/6756350443216466365/1306",
+            "roomName": "Junior Suite Central Park View Upper Floor King 1 King Bed",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 94,
+            "code": "25203656/6756350443216466365/715",
+            "roomName": "Central Park Suite King",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 95,
+            "code": "25203656/6756350443216466365/719",
+            "roomName": "Accessible Central Park Suite King",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 96,
+            "code": "27672864/6756350443216466365/1323",
+            "roomName": "Suite (Central Park)",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 97,
+            "code": "32671403/6756350443216466365/1304",
+            "roomName": "Accessible Central Park Suite King 1 King Bed",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 98,
+            "code": "32671403/6756350443216466365/1305",
+            "roomName": "Central Park Suite King 1 King Bed",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 99,
+            "code": "27672864/6756350443216466365/1440",
+            "roomName": "SUITE Accessible KING SIZE BED",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 100,
+            "code": "27672864/6756350443216466365/1441",
+            "roomName": "SUITE KING SIZE BED",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 101,
+            "code": "25203656/6756350443216466365/711",
+            "roomName": "Manhattan Suite",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 102,
+            "code": "32671403/6756350443216466365/1303",
+            "roomName": "Manhattan Suite 1 King Bed",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 103,
+            "code": "25203656/6756350443216466365/713",
+            "roomName": "Central Park Suite King with Terrace",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 104,
+            "code": "32671403/6756350443216466365/1302",
+            "roomName": "Central Park Suite King with Terrace 1 King Bed",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 105,
+            "code": "25203656/6756350443216466365/712",
+            "roomName": "Suite 2 Bedrooms (Manatthan 2 King)",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 106,
+            "code": "25203656/6756350443216466365/716",
+            "roomName": "Manhattan Two Bedroom Suite",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 107,
+            "code": "32671403/6756350443216466365/1300",
+            "roomName": "Manhattan Two Bedroom Suite 1 King Bed and 2 Twin Beds",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 108,
+            "code": "27672864/6756350443216466365/1438",
+            "roomName": "SUITE TWO KING BEDS",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 109,
+            "code": "27672864/6756350443216466365/1439",
+            "roomName": "SUITE THREE BEDS",
+            "provider": "GoGlobal",
+            "providerHotelId": "18472",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        }
+    ]
+}

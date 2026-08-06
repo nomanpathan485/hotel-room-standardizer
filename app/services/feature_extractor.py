@@ -1,6 +1,184 @@
 import re
 
 from app.services.normalizer import normalize_room_name
+
+def get_identity_tokens(room_name: str) -> list[str]:
+    """
+    Return words that are not already explained by known room features.
+
+    Examples:
+    Apollo Room Sea View King Bed -> ["apollo"]
+    King Bed Sea View             -> []
+    Deluxe King Room              -> []
+    Emerald Room Ocean View       -> ["emerald"]
+    """
+    normalized_name = normalize_room_name(room_name)
+
+    generic_tokens = {
+        # Generic room words
+        "room",
+        "rooms",
+        "guest",
+        "guestroom",
+        "accommodation",
+        "unit",
+        "views",
+        "size",
+        "grande",
+
+        # Categories
+        "dormitory",
+        "dorm",
+        "suite",
+        "studio",
+        "apartment",
+        "apartments",
+        "apt",
+        "villa",
+        "bungalow",
+        "chalet",
+        "cabin",
+        "cabana",
+        "capsule",
+        "pod",
+        "cottage",
+        "tent",
+        "penthouse",
+
+        # Room classes and suite types
+        "standard",
+        "presidential",
+        "diplomatic",
+        "royal",
+        "signature",
+        "prestige",
+        "luxury",
+        "grand",
+        "panoramic",
+        "premium",
+        "premier",
+        "executive",
+        "club",
+        "deluxe",
+        "superior",
+        "comfort",
+        "classic",
+        "business",
+        "junior",
+        "senior",
+        "family",
+        "honeymoon",
+        "bridal",
+        "ambassador",
+        "emirates",
+
+        # Bed vocabulary
+        "bed",
+        "beds",
+        "bedroom",
+        "bedrooms",
+        "king",
+        "queen",
+        "twin",
+        "double",
+        "single",
+        "full",
+        "bunk",
+        "sofa",
+
+        # View vocabulary
+        "view",
+        "seaview",
+        "sea",
+        "ocean",
+        "garden",
+        "city",
+        "pool",
+        "marina",
+        "beach",
+        "beachfront",
+        "lagoon",
+        "river",
+        "mountain",
+        "mountainside",
+        "land",
+        "desert",
+        "skyline",
+        "fountain",
+        "burj",
+        "khalifa",
+        "eiger",
+        "partial",
+        "side",
+        "lateral",
+        "limited",
+        "facing",
+
+        # Layout and physical attributes
+        "duplex",
+        "dublex",
+        "split",
+        "level",
+        "maisonette",
+        "loft",
+        "mezzanine",
+        "balcony",
+        "terrace",
+        "connecting",
+        "annex",
+        "jacuzzi",
+        "tub",
+        "swim",
+        "access",
+        "overwater",
+
+        # Occupancy and linking words
+        "person",
+        "persons",
+        "adult",
+        "adults",
+        "guest",
+        "guests",
+        "pax",
+        "use",
+        "with",
+        "without",
+        "and",
+        "or",
+        "the",
+        "of",
+        "in",
+        "on",
+        "to",
+        "for",
+
+        # Number words
+        "one",
+        "two",
+        "three",
+        "four",
+        "five",
+
+        # Common supplier/rate noise
+        "rate",
+        "package",
+        "breakfast",
+        "non",
+        "smoking",
+        "available",
+        "subject",
+        "availability",
+        "only",
+    }
+
+    tokens = re.findall(r"\b[a-z]+\b", normalized_name)
+
+    return sorted({
+        token
+        for token in tokens
+        if token not in generic_tokens
+    })
+
 SINGLE_USE_KEYWORDS = [
     "single use",
     "single occupancy",
@@ -89,38 +267,41 @@ def get_room_category(room_name: str) -> str:
 
 def get_room_class(room_name: str) -> str:
     room_name = normalize_room_name(room_name)
-    # Defensive: even though the normalizer strips "standard rate", make
-    # sure a residual substring cannot turn a Club/Superior room into a
-    # Standard room by accident. The literal phrase `standard rate` (or
-    # `standard bedroom`) is a supplier phrase, not a room class.
-    room_class_blocklist = {"standard"}
-    if "standard rate" in room_name or "standard bedroom" in room_name:
-        # Treat the rest of the string as if `standard` were not a class.
-        room_name = room_name.replace("standard rate", " ")
-        room_name = room_name.replace("standard bedroom", " ")
-    room_classes = {
-        "standard": ["standard"],
-        "superior": ["superior"],
-        "deluxe": ["deluxe"],
-        "premium": ["premium"],
-        "executive": ["executive"],
-        "club": ["club"],
-        "classic": ["classic"],
-        "comfort": ["comfort"],
-        "business": ["business"],
-        "luxury": ["luxury"],
-        "prestige": ["prestige"],
-        "signature": ["signature"],
-        "grand": ["grand"],
-        "presidential": ["presidential"],
-        "royal": ["royal"],
-        "premier": ["premier"],
-        "panoramic": ["panoramic"],
-        "diplomatic": ["diplomatic"],
-    }
-    for room_class, keywords in room_classes.items():
-        if any(keyword in room_name for keyword in keywords):
+
+    # These are supplier phrases, not physical room classes.
+    room_name = re.sub(
+        r"\bstandard\s+(?:rate|bedroom)\b",
+        " ",
+        room_name,
+    )
+
+    # Order represents precedence when multiple class terms appear.
+    # More distinctive classes must be checked before generic "standard".
+    class_precedence = [
+        "presidential",
+        "diplomatic",
+        "royal",
+        "signature",
+        "prestige",
+        "luxury",
+        "grand",
+        "panoramic",
+        "premium",
+        "premier",
+        "executive",
+        "club",
+        "deluxe",
+        "superior",
+        "comfort",
+        "classic",
+        "business",
+        "standard",
+    ]
+
+    for room_class in class_precedence:
+        if re.search(rf"\b{re.escape(room_class)}\b", room_name):
             return room_class
+
     return "unknown"
 
 def get_suite_type(room_name: str) -> str:
@@ -170,56 +351,71 @@ def get_layout(room_name: str) -> str:
     return "unknown"
 
 def get_bed_type(room_name: str) -> str:
-    if re.search(r"\bdouble\s+twin\b", room_name):
-        print("MATCHED DOUBLE_OR_TWIN")
-        return "double_or_twin"
-    if re.search(r"\btwin\s+double\b", room_name):
-        print("MATCHED DOUBLE_OR_TWIN")
-        return "double_or_twin"
+    room_name = normalize_room_name(room_name)
 
-    # Bed style has priority over bed size.
-    if re.search(r"\bbunk beds?\b", room_name):
+    if re.search(
+        r"\b(?:double\s+(?:or\s+)?twin|twin\s+(?:or\s+)?double)\b",
+        room_name,
+    ):
+        return "double_or_twin"
+    # Bed style takes priority over bed size.
+    if re.search(r"\b(?:twin\s+)?bunk beds?\b", room_name):
         return "bunk"
-    if re.search(r"\bsofa beds?\b", room_name) and not re.search(
-        r"\b(?:king|queen|double|twin|single)\s+bed\b", room_name
+
+    if (
+        re.search(r"\bsofa beds?\b", room_name)
+        and not re.search(
+            r"\b(?:king|queen|double|twin|single)\s+bed\b",
+            room_name,
+        )
     ):
         return "sofa"
+    # An explicit "double bed" is stronger than a standalone "twin".
+    if (
+        re.search(r"\b(?:full\s+)?double beds?\b", room_name)
+        and not re.search(r"\btwin beds?\b", room_name)
+        and not re.search(r"\b(?:king|queen) beds?\b", room_name)
+    ):
+        return "double"
+
     bed_patterns = {
         "king": [
             r"\bking beds?\b",
-            r"\b1 king\b",
-            r"\b2 king\b",
+            r"\b\d+\s+king\b",
             r"\bking room\b",
             r"\bking\b",
         ],
         "queen": [
             r"\bqueen beds?\b",
-            r"\b1 queen\b",
-            r"\b2 queen\b",
+            r"\b\d+\s+queens?\b",
             r"\bqueen room\b",
             r"\bqueen\b",
         ],
         "twin": [
             r"\btwin beds?\b",
-            r"\b2 twin\b",
+            r"\b\d+\s+twin\b",
             r"\btwin room\b",
             r"\btwin single use\b",
-            r"\b2 single beds?\b",
+            r"\b\d+\s+single beds?\b",
             r"\bsingle beds?\b",
             r"\btwin\b",
         ],
         "double": [
             r"\bdouble beds?\b",
-            r"\b1 double\b",
+            r"\b\d+\s+double\b",
             r"\bfull double bed\b",
             r"\bdouble room\b",
             r"\bdouble single use\b",
-            r"\bdouble\b",
         ],
     }
+
     for bed_type, patterns in bed_patterns.items():
-        if any(re.search(pattern, room_name) for pattern in patterns):
+        if any(
+            re.search(pattern, room_name)
+            for pattern in patterns
+        ):
             return bed_type
+
     return "unknown"
 
 def get_bedroom_count(room_name: str) -> int | None:
@@ -253,33 +449,33 @@ def get_bedroom_count(room_name: str) -> int | None:
 def get_view_type(room_name: str) -> str:
     room_name = normalize_room_name(room_name)
 
-    # "(No View)" / "no view" should never resolve to a positive view.
     if re.search(r"\bno\s+view\b", room_name):
         return "no_view"
 
-    # Order matters: compound / specific views must come before generic
-    # ones (e.g. "panoramic sea view" must win over "sea view").
+    # Specific and compound views must come before generic views.
     view_patterns = {
         "burj_khalifa_fountain": [
             "burj khalifa and fountain view",
             "burj khalifa fountain view",
+        ],
+        "panoramic_sea": [
+            "panoramic sea view",
+            "panoramic seaview",
         ],
         "partial_sea": [
             "partial sea view",
             "partial seaview",
             "side sea view",
             "side seaview",
+            "side sea",
+            "sidesea view",
+            "sideseaview",
             "limited sea view",
             "limited seaview",
-        ],
-
-        "lateral_sea": [
             "lateral sea view",
             "lateral seaview",
-        ],
-        "panoramic_sea": [
-            "panoramic sea view",
-            "panoramic seaview",
+            "sea or side sea view",
+            "side sea or sea view",
         ],
         "marina_city": [
             "marina city view",
@@ -290,12 +486,6 @@ def get_view_type(room_name: str) -> str:
         "fountain": [
             "fountain view",
         ],
-        "ocean": [
-            "ocean view",
-            "ocean facing view",
-            "ocean facing",
-            "ocean",
-        ],
         "beach": [
             "beach view",
             "beachfront",
@@ -303,7 +493,6 @@ def get_view_type(room_name: str) -> str:
         ],
         "lagoon": [
             "lagoon view",
-            "lagoon",
         ],
         "river": [
             "river view",
@@ -314,7 +503,6 @@ def get_view_type(room_name: str) -> str:
         "mountain": [
             "mountain view",
             "mountainside view",
-            "mountain",
         ],
         "land": [
             "land view",
@@ -328,13 +516,21 @@ def get_view_type(room_name: str) -> str:
         "panoramic": [
             "panoramic view",
         ],
+        "seafront": [
+            "seafront view",
+            "seafront",
+            "sea front view",
+            "sea front",
+        ],
         "sea": [
             "sea view",
             "seaview",
+            "ocean view",
+            "ocean facing view",
+            "ocean facing",
         ],
         "garden": [
             "garden view",
-            "garden",
         ],
         "city": [
             "city view",
@@ -342,12 +538,91 @@ def get_view_type(room_name: str) -> str:
         "pool": [
             "pool view",
         ],
-        
+        "seaside": [
+            "sea side",
+            "seaside",
+        ],
     }
 
     for view_type, patterns in view_patterns.items():
         if any(pattern in room_name for pattern in patterns):
             return view_type
+
+    # Controlled fallback for view types not yet in our dictionary.
+    # Examples:
+    # marina view      -> marina
+    # golf course view -> golf_course
+    # courtyard view   -> courtyard
+    view_matches = re.findall(
+        r"\b([a-z0-9]+(?:\s+[a-z0-9]+){0,2})\s+view\b",
+        room_name,
+    )
+
+    non_view_attribute_words = {
+        # Room categories
+        "apartment",
+        "bungalow",
+        "cabin",
+        "room",
+        "studio",
+        "suite",
+        "villa",
+
+        # Room classes
+        "classic",
+        "club",
+        "comfort",
+        "deluxe",
+        "executive",
+        "luxury",
+        "premium",
+        "premier",
+        "standard",
+        "superior",
+
+        # Bed attributes
+        "bed",
+        "beds",
+        "bunk",
+        "double",
+        "full",
+        "king",
+        "queen",
+        "single",
+        "sofa",
+        "twin",
+
+        # Generic words
+        "a",
+        "any",
+        "beautiful",
+        "best",
+        "good",
+        "great",
+        "guest",
+        "nice",
+        "stunning",
+        "the",
+        "with",
+    }
+    for candidate in reversed(view_matches):
+        words = candidate.split()
+
+        # Keep only the phrase after connectors.
+        # "beds and marina" becomes "marina".
+        for connector in ("and", "or", "with"):
+            if connector in words:
+                words = words[words.index(connector) + 1:]
+
+        words = [
+            word
+            for word in words
+            if word not in non_view_attribute_words
+            and not word.isdigit()
+        ]
+
+        if words:
+            return "_".join(words)
 
     return "unknown"
 
@@ -400,6 +675,29 @@ def get_dormitory_type(room_name: str) -> str:
 
 def get_bed_configuration(room_name: str) -> list[dict]:
     room_name = normalize_room_name(room_name)
+    # Remove adjacent duplicated supplier bed phrases.
+    # Example:
+    # "1 king bed 1 king bed" -> "1 king bed"
+    #
+    # A connector such as "and" prevents removal:
+    # "1 king bed and 1 king bed" remains unchanged because it may
+    # genuinely describe two separate beds.
+    duplicated_bed_phrase_pattern = re.compile(
+        r"\b(?P<bed_phrase>"
+        r"\d+\s+"
+        r"(?:"
+        r"king|queen|twin|double|single|"
+        r"(?:twin\s+)?bunk|"
+        r"(?:single\s+|twin\s+|double\s+)?sofa"
+        r")\s+beds?"
+        r")"
+        r"(?:\s+(?P=bed_phrase))+\b"
+    )
+
+    room_name = duplicated_bed_phrase_pattern.sub(
+        r"\g<bed_phrase>",
+        room_name,
+    )
 
     patterns = [
         ("king", r"\b(\d+)\s+king\b"),
@@ -524,33 +822,43 @@ def get_bed_configuration(room_name: str) -> list[dict]:
                 break
 
 
-# Handle bed names without explicit counts.
-# Examples:
-# "Deluxe King Room"
-# "King and Single Bed"
+    # Handle bed names without numeric counts.
+    # An explicitly singular phrase such as "King Bed"
+    # safely implies one bed.
     if not found:
         unnumbered_patterns = [
-            ("king", r"\bking\b"),
-            ("queen", r"\bqueen\b"),
-            ("twin", r"\btwin\b"),
-            ("double", r"\bdouble bed\b"),
-            ("single", r"\bsingle bed\b"),
-            ("bunk", r"\bbunk bed\b"),
-            ("sofa", r"\bsofa bed\b"),
+            ("king", r"\bking bed\b", 1),
+            ("queen", r"\bqueen bed\b", 1),
+            ("double", r"\bdouble bed\b", 1),
+            ("single", r"\bsingle bed\b", 1),
+            ("twin", r"\btwin bed\b", 1),
+            ("bunk", r"\bbunk bed\b", 1),
+            ("sofa", r"\bsofa bed\b", 1),
+
+            # Bare room-label wording identifies the bed type,
+            # but does not safely establish its count.
+            ("king", r"\bking\b", None),
+            ("queen", r"\bqueen\b", None),
+            ("twin", r"\btwin\b", None),
         ]
 
-        for bed_type, pattern in unnumbered_patterns:
+        for bed_type, pattern, count in unnumbered_patterns:
             for match in re.finditer(pattern, room_name):
+                if any(
+                    existing[1]["type"] == bed_type
+                    for existing in found
+                ):
+                    continue
+
                 found.append(
                     (
                         match.start(),
                         {
                             "type": bed_type,
-                            "count": None,
+                            "count": count,
                         },
                     )
                 )
-
     # Final fallback: when the supplier wrote the bed name without the
     # word "bed" or any count (e.g. "Le Meridien Club Skyline Room
     # Double", "Skyline Club Twin"), capture the bare bed type so the
@@ -639,6 +947,22 @@ def has_hot_tub(room_name: str) -> bool:
     room_name = normalize_room_name(room_name)
     return "hot tub" in room_name
 
+def has_uncertain_bed_assignment(room_name: str) -> bool:
+    text = room_name.lower()
+    text = re.sub(r"[^a-z0-9]+", " ", text)
+    text = re.sub(r"\s+", " ", text).strip()
+
+    uncertain_patterns = [
+        r"\bbed type is subject to availability\b",
+        r"\broom type assigned on arrival\b",
+        r"\broom assigned on arrival\b",
+    ]
+
+    return any(
+        re.search(pattern, text)
+        for pattern in uncertain_patterns
+    )
+
 def get_bed_relation(room_name: str) -> str:
     room_name = normalize_room_name(room_name)
 
@@ -656,12 +980,80 @@ def get_bed_relation(room_name: str) -> str:
 
     return "unknown"
 
+def has_pool_access(room_name: str) -> bool:
+    room_name = normalize_room_name(room_name)
+
+    pool_access_patterns = [
+        r"\bpool access\b",
+        r"\bdirect pool access\b",
+        r"\bprivate pool access\b",
+        r"\bshared pool access\b",
+        r"\bswim up\b",
+        r"\bswimup\b",
+    ]
+
+    return any(
+        re.search(pattern, room_name)
+        for pattern in pool_access_patterns
+    )
+
+def has_luxury_variant(room_name: str) -> bool:
+    room_name = normalize_room_name(room_name)
+    return bool(re.search(r"\bluxury\b", room_name))
+
+
+def has_overwater(room_name: str) -> bool:
+    room_name = normalize_room_name(room_name)
+
+    return bool(
+        re.search(
+            r"\b(?:overwater|over water|water villa)\b",
+            room_name,
+        )
+    )
+def get_building_block(room_name: str) -> str | None:
+    """
+    Extract an explicit hotel building/block identifier.
+
+    Examples:
+    B Block       -> b
+    Block B       -> b
+    Block 2 Room  -> 2
+    Bungalow      -> None
+    """
+    normalized_name = room_name.lower()
+
+    patterns = [
+        r"\b([a-z0-9]+)\s+block\b",
+        r"\bblock\s+([a-z0-9]+)\b",
+    ]
+
+    for pattern in patterns:
+        match = re.search(pattern, normalized_name)
+
+        if match:
+            return match.group(1)
+
+    return None
+
 def extract_features(room_name: str) -> dict:
+    category = get_room_category(room_name)
+    room_class = get_room_class(room_name)
+
+    # Class-only supplier names such as "DELUXE" mean "Deluxe Room".
+    if category == "unknown" and room_class != "unknown":
+        category = "room"
+
     return {
-        "category": get_room_category(room_name),
-        "room_class": get_room_class(room_name),
+        "identity_tokens": get_identity_tokens(room_name),
+        "category": category,
+        "room_class": room_class,
+
+        "building_block": get_building_block(room_name),
         "suite_type": get_suite_type(room_name),
         "layout": get_layout(room_name),
+        "luxury_variant": has_luxury_variant(room_name),
+        "overwater": has_overwater(room_name),
         "club_access": has_club_access(room_name),
         "view": get_view_type(room_name),
         "balcony": has_balcony(room_name),
@@ -672,11 +1064,13 @@ def extract_features(room_name: str) -> dict:
         "bedroom_count": get_bedroom_count(room_name),
         "bed_configuration": get_bed_configuration(room_name),
         "connecting_room": has_connecting_room(room_name),
-        "swim_up":has_swim_up(room_name), 
+        "swim_up": has_swim_up(room_name),
+        "pool_access": has_pool_access(room_name),
         "annex": has_annex(room_name),
         "jacuzzi": has_jacuzzi(room_name),
         "hot_tub": has_hot_tub(room_name),
         "occupancy": get_occupancy(room_name),
         "single_use": is_single_use(room_name),
         "bed_relation": get_bed_relation(room_name),
+        "bed_assignment_uncertain": has_uncertain_bed_assignment(room_name),
     }

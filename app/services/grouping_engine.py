@@ -5,6 +5,8 @@ from app.services.llm import generate_canonical_name
 from app.services.matcher import is_match_v2
 from app.services.matcher import is_match_v3
 from app.services.matcher import is_match_v4
+from app.services.ml_matcher import predict_room_match
+from app.services.matcher import has_hard_conflict
 from app.services.matcher import is_match_ml
 
 def group_rooms_v2(
@@ -255,12 +257,16 @@ def group_rooms_ml(
         placed = False
 
         for group in groups:
-            representative_room = group["rooms"][0]
+            matches_every_member = all(
+                is_match_ml(
+                    room_with_features,
+                    existing_room,
+                    probability_threshold=0.85,
+                )
+                for existing_room in group["rooms"]
+            )
 
-            if is_match_ml(
-                room_with_features,
-                representative_room,
-            ):
+            if matches_every_member:
                 group["rooms"].append(room_with_features)
                 placed = True
                 break
@@ -268,23 +274,21 @@ def group_rooms_ml(
         if not placed:
             groups.append(
                 {
-                    "group_id": len(groups) + 1,
-                    "standard_room_name": (
-                        room_with_features["normalized_name"]
-                    ),
                     "rooms": [room_with_features],
                 }
             )
 
-    if generate_standard_name:
-        for group in groups:
-            room_names = [
-                room["room_name"]
-                for room in group["rooms"]
+    for group_id, group in enumerate(groups, start=1):
+        group["group_id"] = group_id
+
+        if generate_standard_name:
+            group["standard_room_name"] = generate_canonical_name(
+                group["rooms"]
+            )
+        else:
+            group["standard_room_name"] = group["rooms"][0][
+                "normalized_name"
             ]
 
-            group["standard_room_name"] = (
-                generate_canonical_name(room_names)
-            )
-
     return groups
+                        

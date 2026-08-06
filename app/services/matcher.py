@@ -1,5 +1,16 @@
 from rapidfuzz import fuzz
 from app.services.ml_matcher import predict_room_match
+from app.services.feature_extractor import extract_features
+from app.services.normalizer import normalize_room_name
+FILLER_WORDS = {"room", "with", "and"}
+
+
+def _get_comparison_name(normalized_name: str) -> str:
+    return " ".join(
+        word
+        for word in normalized_name.split()
+        if word not in FILLER_WORDS
+    )
 
 MATCH = "match"
 CONFLICT = "conflict"
@@ -14,22 +25,61 @@ def compare_feature(value_a, value_b, unknown_values=None):
     return CONFLICT
 
 def has_hard_conflict(features_a: dict, features_b: dict) -> bool:
-    #1 major rooom category
+    # 1. Major room category
+    category_a = features_a.get("category")
+    category_b = features_b.get("category")
+
     category_result = compare_feature(
-        features_a.get("category"),
-        features_b.get("category"),
+        category_a,
+        category_b,
     )
 
     if category_result == CONFLICT:
         return True
-    
-    #room class
+
+    # 2. Building block versus bungalow
+    block_a = features_a.get("building_block")
+    block_b = features_b.get("building_block")
+
+    a_is_block_without_bungalow = (
+        block_a is not None
+        and category_a != "bungalow"
+    )
+
+    b_is_block_without_bungalow = (
+        block_b is not None
+        and category_b != "bungalow"
+    )
+
+    if (
+        category_a == "bungalow"
+        and b_is_block_without_bungalow
+    ):
+        return True
+
+    if (
+        category_b == "bungalow"
+        and a_is_block_without_bungalow
+    ):
+        return True
+
+    # Explicitly different blocks must not match.
+    if (
+        block_a is not None
+        and block_b is not None
+        and block_a != block_b
+    ):
+        return True
+
+    # 3. Room class
     room_class_result = compare_feature(
         features_a.get("room_class"),
         features_b.get("room_class"),
     )
+
     if room_class_result == CONFLICT:
         return True
+    
     # suite subtype 
     suite_type_result = compare_feature(
         features_a.get("suite_type"),
@@ -83,15 +133,7 @@ def has_hard_conflict(features_a: dict, features_b: dict) -> bool:
     if dorm_type_result == CONFLICT:
         return True
 
-    # 8. Connecting room
-    connecting_result = compare_feature(
-        features_a.get("connecting_room"),
-        features_b.get("connecting_room"),
-        unknown_values={None},
-    )
-
-    if connecting_result == CONFLICT:
-        return True
+   
     bed_result = compare_bed_configuration(
         features_a.get("bed_configuration", []),
         features_b.get("bed_configuration", []),
@@ -99,6 +141,10 @@ def has_hard_conflict(features_a: dict, features_b: dict) -> bool:
 
     if bed_result == BED_CONFLICT:
         return True
+
+   
+
+    
     
     return False
 
@@ -120,6 +166,7 @@ BED_UNKNOWN = "bed_unknown"
 BED_PARTIAL = "bed_partial"
 BED_SPECIFICITY_GAP = "bed_specificity_gap"
 BED_COUNT_MISMATCH = "bed_count_mismatch"
+
 
 
 def compare_bed_configuration(
@@ -310,14 +357,28 @@ def _same_bed_configuration(
             if bed.get("type")
         }
 
-        # Missing bed information should not conflict with
-        # one simple explicit bed type.
-        return len(detailed_types) <= 1
+        if len(detailed_types) > 1:
+            return False
+
+        has_explicit_multiple_beds = any(
+            bed.get("count") is not None
+            and bed["count"] > 1
+            for bed in detailed_config
+        )
+
+        if has_explicit_multiple_beds:
+            return False
+        if detailed_types == {"twin"}:
+            return False
+
+        # Missing bed information may match one simple bed,
+        # but not multiple beds or multiple bed types.
+        return True
 
     signature_a = {
         (
             bed.get("type"),
-            bed.get("count"),
+            1 if bed.get("count") is None else bed["count"],
         )
         for bed in config_a
         if bed.get("type")
@@ -326,7 +387,7 @@ def _same_bed_configuration(
     signature_b = {
         (
             bed.get("type"),
-            bed.get("count"),
+            1 if bed.get("count") is None else bed["count"],
         )
         for bed in config_b
         if bed.get("type")
@@ -336,7 +397,7 @@ def _same_bed_configuration(
 
 def get_bed_signature(features: dict) -> set[tuple[str, int | None]]:
     return {
-        (bed["type"], bed.get("count"))
+        (bed["type"], 1 if bed.get("count") is None else bed["count"])
         for bed in features.get("bed_configuration", [])
     }
 
@@ -1022,15 +1083,7 @@ def is_match_v4(room_a, room_b, threshold=90):
         and bed_type_a != bed_type_b
     ):
         return False
-    if (
-        "double land view" in normalized_a
-        and "double land view" in normalized_b
-    ):
-        print("DEBUG A:", normalized_a)
-        print("BED CONFIG A:", bed_configuration_a)
-
-        print("DEBUG B:", normalized_b)
-        print("BED CONFIG B:", bed_configuration_b)
+    
 
     # Bed configuration stays exactly like V1
     if not _same_bed_configuration(
@@ -1044,21 +1097,28 @@ def is_match_v4(room_a, room_b, threshold=90):
         if bed_signature_a != bed_signature_b:
             return False
 
-    # Final fuzzy comparison
-    score = fuzz.token_set_ratio(
-        normalized_a,
-        normalized_b,
-    )
+    name_a = room_a["normalized_name"]
+    name_b = room_b["normalized_name"]
 
+    score = fuzz.token_set_ratio(
+        name_a,
+        name_b,
+    )
+    
     # Narrow suite rule:
-    # same explicit suite subtype can tolerate lower name similarity.
+    # Same explicit suite subtype can tolerate lower similarity.
     if (
         category_a == "suite"
         and category_b == "suite"
         and suite_type_a == suite_type_b
-        and suite_type_a not in {"unknown", "standard", "not_applicable"}
+        and suite_type_a not in {
+            "unknown",
+            "standard",
+            "not_applicable",
+        }
     ):
         return score >= 70
+
     if (
         category_a == "room"
         and category_b == "room"
@@ -1071,6 +1131,7 @@ def is_match_v4(room_a, room_b, threshold=90):
     ):
         return score >= 89
 
+    # Default rule must remain last.
     return score >= threshold
 
 def diagnose_match_v4(
@@ -1287,7 +1348,7 @@ def diagnose_match_v4(
         ),
         "score": score,
     }
-def is_match_ml(
+def _passes_ml_model(
     room_a: dict,
     room_b: dict,
     probability_threshold: float = 0.85,
@@ -1309,7 +1370,341 @@ def is_match_ml(
         room_b_name=normalized_b,
     )
 
+    print("\nML PREDICTION:")
+    print(prediction)
+
     return (
         prediction["match_probability"]
         >= probability_threshold
     )
+
+from enum import Enum
+
+from rapidfuzz.fuzz import token_set_ratio
+
+
+class MatchDecision(str, Enum):
+    MATCH = "MATCH"
+    NO_MATCH = "NO_MATCH"
+    UNCERTAIN = "UNCERTAIN"
+
+
+UNKNOWN_VALUES = {
+    None,
+    "",
+    "unknown",
+    "not_applicable",
+}
+
+
+def _get_features(room: dict) -> dict:
+    return room.get("features") or extract_features(
+        room["room_name"]
+    )
+
+
+def _get_normalized_name(room: dict) -> str:
+    return room.get("normalized_name") or normalize_room_name(
+        room["room_name"]
+    )
+
+
+def collect_positive_evidence(
+    features_a: dict,
+    features_b: dict,
+) -> list[str]:
+    evidence = []
+
+    important_features = [
+        "building_block",
+        "category",
+        "room_class",
+        "suite_type",
+        "layout",
+        "view",
+        "bed_type",
+        "bedroom_count",
+        "occupancy",
+        "bed_relation",
+    ]
+
+    for feature_name in important_features:
+        value_a = features_a.get(feature_name)
+        value_b = features_b.get(feature_name)
+
+        if value_a in UNKNOWN_VALUES or value_b in UNKNOWN_VALUES:
+            continue
+
+        # Generic "room" is too weak to prove identity.
+        if feature_name == "category" and value_a == "room":
+            continue
+
+        if value_a == value_b:
+            evidence.append(feature_name)
+
+    bed_config_a = features_a.get("bed_configuration") or []
+    bed_config_b = features_b.get("bed_configuration") or []
+
+    if bed_config_a and bed_config_b:
+        if bed_config_a == bed_config_b:
+            evidence.append("bed_configuration")
+
+    return evidence
+
+def collect_identity_asymmetries(
+    features_a: dict,
+    features_b: dict,
+) -> list[str]:
+    asymmetries = []
+
+    categorical_features = {
+        "room_class": "unknown",
+        "view": "unknown",
+        "layout": "unknown",
+        "building_block": None,
+        "bedroom_count": None,
+    }
+
+    for feature_name, unknown_value in categorical_features.items():
+        value_a = features_a.get(feature_name, unknown_value)
+        value_b = features_b.get(feature_name, unknown_value)
+
+        a_is_known = value_a != unknown_value
+        b_is_known = value_b != unknown_value
+
+        if a_is_known != b_is_known:
+            asymmetries.append(feature_name)
+
+    # Compare category only once.
+    category_a = features_a.get("category", "unknown")
+    category_b = features_b.get("category", "unknown")
+
+    generic_categories = {
+        "unknown",
+        "room",
+    }
+
+    a_is_distinctive = category_a not in generic_categories
+    b_is_distinctive = category_b not in generic_categories
+
+    if a_is_distinctive != b_is_distinctive:
+        asymmetries.append("category")
+
+    distinctive_flags = [
+        "luxury_variant",
+        "overwater",
+        "club_access",
+        "connecting_room",
+        "swim_up",
+        "pool_access",
+        "annex",
+        "jacuzzi",
+        "hot_tub",
+    ]
+
+    for feature_name in distinctive_flags:
+        value_a = bool(features_a.get(feature_name, False))
+        value_b = bool(features_b.get(feature_name, False))
+
+        if value_a != value_b:
+            asymmetries.append(feature_name)
+
+    # Swim-up already implies pool access, so these count
+    # as one asymmetry rather than two.
+    if (
+        "swim_up" in asymmetries
+        and "pool_access" in asymmetries
+    ):
+        asymmetries.remove("pool_access")
+
+    identity_tokens_a = set(
+        features_a.get("identity_tokens") or []
+    )
+    identity_tokens_b = set(
+        features_b.get("identity_tokens") or []
+    )
+
+    if identity_tokens_a != identity_tokens_b:
+        asymmetries.append("identity_tokens")
+
+    return asymmetries
+GENERIC_ROOM_WORDS = {
+    "room",
+    "rooms",
+    "guest",
+    "guestroom",
+}
+
+RECOGNIZED_ROOM_CLASSES = {
+    "standard",
+    "superior",
+    "deluxe",
+    "premium",
+    "premier",
+    "executive",
+    "club",
+    "classic",
+    "comfort",
+    "business",
+    "luxury",
+}
+
+
+def is_class_only_equivalent(
+    normalized_a: str,
+    normalized_b: str,
+) -> bool:
+    tokens_a = normalized_a.split()
+    tokens_b = normalized_b.split()
+
+    core_tokens_a = [
+        token
+        for token in tokens_a
+        if token not in GENERIC_ROOM_WORDS
+    ]
+
+    core_tokens_b = [
+        token
+        for token in tokens_b
+        if token not in GENERIC_ROOM_WORDS
+    ]
+
+    return (
+        core_tokens_a == core_tokens_b
+        and len(core_tokens_a) == 1
+        and core_tokens_a[0] in RECOGNIZED_ROOM_CLASSES
+    )
+
+
+def decide_room_match_ml(
+    room_a: dict,
+    room_b: dict,
+    probability_threshold: float = 0.85,
+) -> MatchDecision:
+    features_a = _get_features(room_a)
+    features_b = _get_features(room_b)
+
+    if has_hard_conflict(features_a, features_b):
+        return MatchDecision.NO_MATCH
+
+    normalized_a = _get_normalized_name(room_a)
+    normalized_b = _get_normalized_name(room_b)
+
+    token_set_score = fuzz.token_set_ratio(
+        normalized_a,
+        normalized_b,
+    )
+
+    token_sort_score = fuzz.token_sort_ratio(
+        normalized_a,
+        normalized_b,
+    )
+
+    positive_evidence = collect_positive_evidence(
+        features_a,
+        features_b,
+    )
+
+    exact_name_match = (
+        bool(normalized_a)
+        and normalized_a == normalized_b
+    )
+
+    if exact_name_match:
+        return MatchDecision.MATCH
+    if is_class_only_equivalent(
+        normalized_a,
+        normalized_b,
+    ):
+        return MatchDecision.MATCH
+
+    identity_asymmetries = collect_identity_asymmetries(
+        features_a,
+        features_b,
+    )
+    bedroom_count_a = features_a.get("bedroom_count")
+    bedroom_count_b = features_b.get("bedroom_count")
+
+    identity_tokens_a = set(
+        features_a.get("identity_tokens") or []
+    )
+    identity_tokens_b = set(
+        features_b.get("identity_tokens") or []
+    )
+
+    shared_identity_tokens = (
+        identity_tokens_a & identity_tokens_b
+    )
+
+    # Do not count the shared view twice as identity evidence.
+    shared_non_view_tokens = shared_identity_tokens - {
+        features_a.get("view"),
+        features_b.get("view"),
+    }
+    if shared_non_view_tokens:
+        positive_evidence.append("identity_tokens")
+
+    safe_single_bedroom_omission = (
+        "bedroom_count" in identity_asymmetries
+        and {bedroom_count_a, bedroom_count_b} == {None, 1}
+        and features_a.get("category") == "suite"
+        and features_b.get("category") == "suite"
+        and features_a.get("view") == features_b.get("view")
+        and features_a.get("view") not in {"unknown", None}
+        and features_a.get("bed_type") == features_b.get("bed_type")
+        and features_a.get("bed_type") not in {"unknown", None}
+        and bool(shared_non_view_tokens)
+    )
+
+    if safe_single_bedroom_omission:
+        identity_asymmetries.remove("bedroom_count")
+
+    automatic_match_allowed = not identity_asymmetries
+
+    strong_name_evidence = (
+        token_sort_score >= 90
+        and len(positive_evidence) >= 1
+        and automatic_match_allowed
+    )
+
+    strong_semantic_evidence = (
+        token_set_score >= 85
+        and len(positive_evidence) >= 3
+        and automatic_match_allowed
+    )
+    strong_identity_evidence = (
+        token_set_score == 100
+        and bool(shared_non_view_tokens)
+        and automatic_match_allowed
+    )
+        
+
+    if not (
+        strong_name_evidence
+        or strong_identity_evidence
+    ):
+        return MatchDecision.UNCERTAIN
+
+    model_accepts_pair = _passes_ml_model(
+        room_a,
+        room_b,
+        probability_threshold=probability_threshold,
+    )
+
+    if model_accepts_pair:
+        return MatchDecision.MATCH
+
+    return MatchDecision.NO_MATCH
+
+def is_match_ml(
+    room_a: dict,
+    room_b: dict,
+    probability_threshold: float = 0.85,
+) -> bool:
+    decision = decide_room_match_ml(
+        room_a,
+        room_b,
+        probability_threshold=probability_threshold,
+    )
+
+    return decision == MatchDecision.MATCH

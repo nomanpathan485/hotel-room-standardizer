@@ -1,0 +1,795 @@
+{
+    "vervotechHotelId": "39688318",
+    "roomRates": [
+        {
+            "index": 1,
+            "code": "{\"roomCode\":\"CJBFEgY5NDQ3MzcaBDRISDQ=\",\"boardCode\":\"CgJCQg==\"}",
+            "roomName": "Guest Room with Balcony",
+            "provider": "Yalago",
+            "providerHotelId": "7109539",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 2,
+            "code": "{\"roomCode\":\"CJBFEgY5NDQ3MzcaBDRISDQ=\",\"boardCode\":\"CgJIQg==\"}",
+            "roomName": "Guest Room with Balcony",
+            "provider": "Yalago",
+            "providerHotelId": "7109539",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 3,
+            "code": "{\"roomCode\":\"CJBFEgY5NDQ3MzcaBDRISDQ=\",\"boardCode\":\"CgJBSQ==\"}",
+            "roomName": "Guest Room with Balcony",
+            "provider": "Yalago",
+            "providerHotelId": "7109539",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 4,
+            "code": "4HH4:AI:M99::FbBLMSNTY2MDRjYjItNjMzNS00NDc5LWFmMzYtMTgyZmQ1M2ZiZWZjIyZAJiMzNDM5ODcxIyZAJiMyMDI3LTA4LTAxI0BAQCMyMDI3LTA4LTA4IyZAJiMxMTM5LTU3NDktODdhZjc3NzM4YjY4NTAjJkAmIzMwNzIuNzcjJkAmI2VuIyZAJiNtb2V1UW8=",
+            "roomName": "DOUBLE GUEST ROOM WITH BALCONY (2AD) - ",
+            "provider": "JumboTours",
+            "providerHotelId": "944737",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 5,
+            "code": "4HH4:BB:M99::mfVIxJODIwODY2NTYtZjg4NS00ZmExLWJkNTctNjdkMjg5NDM3ODQ3IyZAJiMzNDM5ODcxIyZAJiMyMDI3LTA4LTAxI0BAQCMyMDI3LTA4LTA4IyZAJiMxMTM5LTU3NDktODdhZjc3NzM4YjY4NTAjJkAmIzE1MjguODIjJkAmI2VuIyZAJiNCSkptZGk=",
+            "roomName": "DOUBLE GUEST ROOM WITH BALCONY (2AD) - ",
+            "provider": "JumboTours",
+            "providerHotelId": "944737",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 6,
+            "code": "4HH4:HB:M99::dghDiZZTQyN2MzYzgtNmNhYy00ZDE3LThjZGItZDA4YTY3YzZiYWIyIyZAJiMzNDM5ODcxIyZAJiMyMDI3LTA4LTAxI0BAQCMyMDI3LTA4LTA4IyZAJiMxMTM5LTU3NDktODdhZjc3NzM4YjY4NTAjJkAmIzE1OTkuNzUjJkAmI2VuIyZAJiNobXN2VWQ=",
+            "roomName": "DOUBLE GUEST ROOM WITH BALCONY (2AD) - ",
+            "provider": "JumboTours",
+            "providerHotelId": "944737",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 7,
+            "code": "U6S:AI:M99::vQOtijNGQwNjFmNzYtOWE0ZC00NTg1LWJhNTAtNzEwOTUyM2E4MzAzIyZAJiMzNDM5ODcxIyZAJiMyMDI3LTA4LTAxI0BAQCMyMDI3LTA4LTA4IyZAJiMxMTM5LTU3NDktODdhZjc3NzM4YjY4NTAjJkAmIzMxOTEuOTQjJkAmI2VuIyZAJiNrb3Rkbkw=",
+            "roomName": "DOUBLE GARDEN VIEW 2AD - ",
+            "provider": "JumboTours",
+            "providerHotelId": "944737",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 8,
+            "code": "U6S:BB:M99::yIRjovZjYxZDU3ZTgtY2QxYy00MWY4LWI4NjItMTU1ZmUzMWM2ZmYxIyZAJiMzNDM5ODcxIyZAJiMyMDI3LTA4LTAxI0BAQCMyMDI3LTA4LTA4IyZAJiMxMTM5LTU3NDktODdhZjc3NzM4YjY4NTAjJkAmIzE2NDcuOTgjJkAmI2VuIyZAJiNFRkdacnI=",
+            "roomName": "DOUBLE GARDEN VIEW 2AD - ",
+            "provider": "JumboTours",
+            "providerHotelId": "944737",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 9,
+            "code": "U6S:HB:M99::lCSReANDY4Y2VlNWEtZWQ5My00ODgyLWI2NzAtM2NkYzE5MWY0OGZkIyZAJiMzNDM5ODcxIyZAJiMyMDI3LTA4LTAxI0BAQCMyMDI3LTA4LTA4IyZAJiMxMTM5LTU3NDktODdhZjc3NzM4YjY4NTAjJkAmIzE3MzQuMzUjJkAmI2VuIyZAJiN4YkVEa3k=",
+            "roomName": "DOUBLE GARDEN VIEW 2AD - ",
+            "provider": "JumboTours",
+            "providerHotelId": "944737",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 10,
+            "code": "1618328!TB!6!TB!b6279cfd-8c0d-11f1-b892-36906ae1d834!TB!N!TB!AFF!",
+            "roomName": "DOUBLE GUEST ROOM WITH BALCONY (2AD) - ",
+            "provider": "TBO",
+            "providerHotelId": "1618328",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 11,
+            "code": "1618328!TB!4!TB!b6279cfd-8c0d-11f1-b892-36906ae1d834!TB!N!TB!AFF!",
+            "roomName": "Guest Room with Balcony Double Guest Room with Balcony",
+            "provider": "TBO",
+            "providerHotelId": "1618328",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 12,
+            "code": "1618328!TB!3!TB!b6279cfd-8c0d-11f1-b892-36906ae1d834!TB!N!TB!AFF!",
+            "roomName": "DOUBLE GUEST ROOM WITH BALCONY (2AD) - ",
+            "provider": "TBO",
+            "providerHotelId": "1618328",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 13,
+            "code": "1618328!TB!8!TB!b6279cfd-8c0d-11f1-b892-36906ae1d834!TB!N!TB!AFF!",
+            "roomName": "DOUBLE GARDEN VIEW 2AD - ",
+            "provider": "TBO",
+            "providerHotelId": "1618328",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 14,
+            "code": "1618328!TB!2!TB!b6279cfd-8c0d-11f1-b892-36906ae1d834!TB!N!TB!AFF!",
+            "roomName": "Guest Room with Balcony Double",
+            "provider": "TBO",
+            "providerHotelId": "1618328",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 15,
+            "code": "1618328!TB!9!TB!b6279cfd-8c0d-11f1-b892-36906ae1d834!TB!N!TB!AFF!",
+            "roomName": "Guest Room with Balcony Double",
+            "provider": "TBO",
+            "providerHotelId": "1618328",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 16,
+            "code": "1618328!TB!1!TB!b6279cfd-8c0d-11f1-b892-36906ae1d834!TB!N!TB!AFF!",
+            "roomName": "DOUBLE GARDEN VIEW 2AD - ",
+            "provider": "TBO",
+            "providerHotelId": "1618328",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 17,
+            "code": "1618328!TB!5!TB!b6279cfd-8c0d-11f1-b892-36906ae1d834!TB!N!TB!AFF!",
+            "roomName": "DOUBLE GUEST ROOM WITH BALCONY (2AD) - ",
+            "provider": "TBO",
+            "providerHotelId": "1618328",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 18,
+            "code": "1618328!TB!7!TB!b6279cfd-8c0d-11f1-b892-36906ae1d834!TB!N!TB!AFF!",
+            "roomName": "DOUBLE GARDEN VIEW 2AD - ",
+            "provider": "TBO",
+            "providerHotelId": "1618328",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 19,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d12216!~|eBB!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l35852!~|m12216!~|nBB!~|nHLDM!~|o1!~|p1!~|x30071156!~|M7201.95!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|z76969926#R1!~|A76969926!~|B76969926!~|C30|30!~|ETwo Bedroom Family Suite!~|FTwo Bedroom Family Suite!~|G1!~|U2,7201.95,1816855200!~|HCXL_POLICIES!~|I0|48~Importe~USD~7201.9500~pagoMinorista~2027-07-29T10:00:00Z~1!~|HNRF!~|IRF!~|HcontractID!~|I13556!~|HStopSales!~|I0!~|Htgx_price!~|I7201.95!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Two Bedroom Family Suite",
+            "provider": "HolidayMomentsCyberLogic",
+            "providerHotelId": "12216",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 20,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d12216!~|eBB!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l35852!~|m12216!~|nBB!~|nHLDM!~|o1!~|p1!~|x30071156!~|M2420.6!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|z76970086#R1!~|A76970086!~|B76970086!~|C30|30!~|ESeaview Room With Balcony Double!~|FSeaview Room With Balcony Double!~|G1!~|U2,2420.60,1816855200!~|HCXL_POLICIES!~|I0|48~Importe~USD~2420.6000~pagoMinorista~2027-07-29T10:00:00Z~1!~|HNRF!~|IRF!~|HcontractID!~|I13556!~|HStopSales!~|I0!~|Htgx_price!~|I2420.6!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Seaview Room With Balcony Double",
+            "provider": "HolidayMomentsCyberLogic",
+            "providerHotelId": "12216",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 21,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d12216!~|eBB!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l35852!~|m12216!~|nBB!~|nHLDM!~|o1!~|p1!~|x30071156!~|M4615.1!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|z76970090#R1!~|A76970090!~|B76970090!~|C30|30!~|EOne Bedroom Suite Sea View!~|FOne Bedroom Suite Sea View!~|G1!~|U2,4615.10,1816855200!~|HCXL_POLICIES!~|I0|48~Importe~USD~4615.1000~pagoMinorista~2027-07-29T10:00:00Z~1!~|HNRF!~|IRF!~|HcontractID!~|I13556!~|HStopSales!~|I0!~|Htgx_price!~|I4615.1!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "One Bedroom Suite Sea View",
+            "provider": "HolidayMomentsCyberLogic",
+            "providerHotelId": "12216",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 22,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d12216!~|eBB!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l35852!~|m12216!~|nBB!~|nHLDM!~|o1!~|p1!~|x30071156!~|M4043.2!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|z76970091#R1!~|A76970091!~|B76970091!~|C30|30!~|EOne Bedroom Resort View Suite w/ Balcony!~|FOne Bedroom Resort View Suite w/ Balcony!~|G1!~|U2,4043.20,1816855200!~|HCXL_POLICIES!~|I0|48~Importe~USD~4043.2000~pagoMinorista~2027-07-29T10:00:00Z~1!~|HNRF!~|IRF!~|HcontractID!~|I13556!~|HStopSales!~|I0!~|Htgx_price!~|I4043.2!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "One Bedroom Resort View Suite w/ Balcony",
+            "provider": "HolidayMomentsCyberLogic",
+            "providerHotelId": "12216",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 23,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d12216!~|eBB!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l35852!~|m12216!~|nBB!~|nHLDM!~|o1!~|p1!~|x30071156!~|M13116.69!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|z76970093#R1!~|A76970093!~|B76970093!~|C30|30!~|E1 Bedroom Beach Villa!~|F1 Bedroom Beach Villa!~|G1!~|U2,13116.69,1816855200!~|HCXL_POLICIES!~|I0|48~Importe~USD~13116.6900~pagoMinorista~2027-07-29T10:00:00Z~1!~|HNRF!~|IRF!~|HcontractID!~|I13556!~|HStopSales!~|I0!~|Htgx_price!~|I13116.69!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "1 Bedroom Beach Villa",
+            "provider": "HolidayMomentsCyberLogic",
+            "providerHotelId": "12216",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 24,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d12216!~|eBB!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l35852!~|m12216!~|nBB!~|nHLDM!~|o1!~|p1!~|x30071156!~|M3178.7!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|z76970731#R1!~|A76970731!~|B76970731!~|C30|30!~|ESea View Room with Lounge Access and Balcony Double!~|FSea View Room with Lounge Access and Balcony Double!~|G1!~|U2,3178.70,1816855200!~|HCXL_POLICIES!~|I0|48~Importe~USD~3178.7000~pagoMinorista~2027-07-29T10:00:00Z~1!~|HNRF!~|IRF!~|HcontractID!~|I13556!~|HStopSales!~|I0!~|Htgx_price!~|I3178.7!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Sea View Room with Lounge Access and Balcony Double",
+            "provider": "HolidayMomentsCyberLogic",
+            "providerHotelId": "12216",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 25,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d12216!~|eBB!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l35852!~|m12216!~|nBB!~|nHLDM!~|o1!~|p1!~|x30071156!~|M2221.1!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|z76972680#R1!~|A76972680!~|B76972680!~|C30|30!~|EResort Room With Terrace or Balcony Double!~|FResort Room With Terrace or Balcony Double!~|G1!~|U2,2221.10,1816855200!~|HCXL_POLICIES!~|I0|48~Importe~USD~2221.1000~pagoMinorista~2027-07-29T10:00:00Z~1!~|HNRF!~|IRF!~|HcontractID!~|I13556!~|HStopSales!~|I0!~|Htgx_price!~|I2221.1!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Resort Room With Terrace or Balcony Double",
+            "provider": "HolidayMomentsCyberLogic",
+            "providerHotelId": "12216",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 26,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d12216!~|eBB!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l35852!~|m12216!~|nBB!~|nHLDM!~|o1!~|p1!~|x30071156!~|M3903.55!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|z76972681#R1!~|A76972681!~|B76972681!~|C30|30!~|EResort Family Connected Rooms!~|FResort Family Connected Rooms!~|G1!~|U2,3903.55,1816855200!~|HCXL_POLICIES!~|I0|48~Importe~USD~3903.5500~pagoMinorista~2027-07-29T10:00:00Z~1!~|HNRF!~|IRF!~|HcontractID!~|I13556!~|HStopSales!~|I0!~|Htgx_price!~|I3903.55!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Resort Family Connected Rooms",
+            "provider": "HolidayMomentsCyberLogic",
+            "providerHotelId": "12216",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 27,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d12216!~|eBB!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l35852!~|m12216!~|nBB!~|nHLDM!~|o1!~|p1!~|x30071156!~|M4807.95!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|z76972682#R1!~|A76972682!~|B76972682!~|C30|30!~|ESeaview Family Connected Rooms!~|FSeaview Family Connected Rooms!~|G1!~|U2,4807.95,1816855200!~|HCXL_POLICIES!~|I0|48~Importe~USD~4807.9500~pagoMinorista~2027-07-29T10:00:00Z~1!~|HNRF!~|IRF!~|HcontractID!~|I13556!~|HStopSales!~|I0!~|Htgx_price!~|I4807.95!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Seaview Family Connected Rooms",
+            "provider": "HolidayMomentsCyberLogic",
+            "providerHotelId": "12216",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 28,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d12216!~|eHBplu!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l35852!~|m12216!~|nHBplu!~|nHLDM!~|o1!~|p1!~|x30071156!~|M7551.95!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|z76969926#R1!~|A76969926!~|B76969926!~|C30|30!~|ETwo Bedroom Family Suite!~|FTwo Bedroom Family Suite!~|G1!~|U2,7551.95,1816855200!~|HCXL_POLICIES!~|I0|48~Importe~USD~7551.9500~pagoMinorista~2027-07-29T10:00:00Z~1!~|HNRF!~|IRF!~|HcontractID!~|I13556!~|HStopSales!~|I0!~|Htgx_price!~|I7551.95!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Two Bedroom Family Suite",
+            "provider": "HolidayMomentsCyberLogic",
+            "providerHotelId": "12216",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 29,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d12216!~|eHBplu!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l35852!~|m12216!~|nHBplu!~|nHLDM!~|o1!~|p1!~|x30071156!~|M2770.6!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|z76970086#R1!~|A76970086!~|B76970086!~|C30|30!~|ESeaview Room With Balcony Double!~|FSeaview Room With Balcony Double!~|G1!~|U2,2770.60,1816855200!~|HCXL_POLICIES!~|I0|48~Importe~USD~2770.6000~pagoMinorista~2027-07-29T10:00:00Z~1!~|HNRF!~|IRF!~|HcontractID!~|I13556!~|HStopSales!~|I0!~|Htgx_price!~|I2770.6!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Seaview Room With Balcony Double",
+            "provider": "HolidayMomentsCyberLogic",
+            "providerHotelId": "12216",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 30,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d12216!~|eHBplu!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l35852!~|m12216!~|nHBplu!~|nHLDM!~|o1!~|p1!~|x30071156!~|M4965.1!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|z76970090#R1!~|A76970090!~|B76970090!~|C30|30!~|EOne Bedroom Suite Sea View!~|FOne Bedroom Suite Sea View!~|G1!~|U2,4965.10,1816855200!~|HCXL_POLICIES!~|I0|48~Importe~USD~4965.1000~pagoMinorista~2027-07-29T10:00:00Z~1!~|HNRF!~|IRF!~|HcontractID!~|I13556!~|HStopSales!~|I0!~|Htgx_price!~|I4965.1!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "One Bedroom Suite Sea View",
+            "provider": "HolidayMomentsCyberLogic",
+            "providerHotelId": "12216",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 31,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d12216!~|eHBplu!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l35852!~|m12216!~|nHBplu!~|nHLDM!~|o1!~|p1!~|x30071156!~|M4393.2!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|z76970091#R1!~|A76970091!~|B76970091!~|C30|30!~|EOne Bedroom Resort View Suite w/ Balcony!~|FOne Bedroom Resort View Suite w/ Balcony!~|G1!~|U2,4393.20,1816855200!~|HCXL_POLICIES!~|I0|48~Importe~USD~4393.2000~pagoMinorista~2027-07-29T10:00:00Z~1!~|HNRF!~|IRF!~|HcontractID!~|I13556!~|HStopSales!~|I0!~|Htgx_price!~|I4393.2!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "One Bedroom Resort View Suite w/ Balcony",
+            "provider": "HolidayMomentsCyberLogic",
+            "providerHotelId": "12216",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 32,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d12216!~|eHBplu!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l35852!~|m12216!~|nHBplu!~|nHLDM!~|o1!~|p1!~|x30071156!~|M14460.69!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|z76970093#R1!~|A76970093!~|B76970093!~|C30|30!~|E1 Bedroom Beach Villa!~|F1 Bedroom Beach Villa!~|G1!~|U2,14460.69,1816855200!~|HCXL_POLICIES!~|I0|48~Importe~USD~14460.6900~pagoMinorista~2027-07-29T10:00:00Z~1!~|HNRF!~|IRF!~|HcontractID!~|I13556!~|HStopSales!~|I0!~|Htgx_price!~|I14460.69!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "1 Bedroom Beach Villa",
+            "provider": "HolidayMomentsCyberLogic",
+            "providerHotelId": "12216",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 33,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d12216!~|eHBplu!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l35852!~|m12216!~|nHBplu!~|nHLDM!~|o1!~|p1!~|x30071156!~|M3528.7!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|z76970731#R1!~|A76970731!~|B76970731!~|C30|30!~|ESea View Room with Lounge Access and Balcony Double!~|FSea View Room with Lounge Access and Balcony Double!~|G1!~|U2,3528.70,1816855200!~|HCXL_POLICIES!~|I0|48~Importe~USD~3528.7000~pagoMinorista~2027-07-29T10:00:00Z~1!~|HNRF!~|IRF!~|HcontractID!~|I13556!~|HStopSales!~|I0!~|Htgx_price!~|I3528.7!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Sea View Room with Lounge Access and Balcony Double",
+            "provider": "HolidayMomentsCyberLogic",
+            "providerHotelId": "12216",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 34,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d12216!~|eHBplu!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l35852!~|m12216!~|nHBplu!~|nHLDM!~|o1!~|p1!~|x30071156!~|M2571.1!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|z76972680#R1!~|A76972680!~|B76972680!~|C30|30!~|EResort Room With Terrace or Balcony Double!~|FResort Room With Terrace or Balcony Double!~|G1!~|U2,2571.10,1816855200!~|HCXL_POLICIES!~|I0|48~Importe~USD~2571.1000~pagoMinorista~2027-07-29T10:00:00Z~1!~|HNRF!~|IRF!~|HcontractID!~|I13556!~|HStopSales!~|I0!~|Htgx_price!~|I2571.1!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Resort Room With Terrace or Balcony Double",
+            "provider": "HolidayMomentsCyberLogic",
+            "providerHotelId": "12216",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 35,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d12216!~|eHBplu!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l35852!~|m12216!~|nHBplu!~|nHLDM!~|o1!~|p1!~|x30071156!~|M4253.55!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|z76972681#R1!~|A76972681!~|B76972681!~|C30|30!~|EResort Family Connected Rooms!~|FResort Family Connected Rooms!~|G1!~|U2,4253.55,1816855200!~|HCXL_POLICIES!~|I0|48~Importe~USD~4253.5500~pagoMinorista~2027-07-29T10:00:00Z~1!~|HNRF!~|IRF!~|HcontractID!~|I13556!~|HStopSales!~|I0!~|Htgx_price!~|I4253.55!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Resort Family Connected Rooms",
+            "provider": "HolidayMomentsCyberLogic",
+            "providerHotelId": "12216",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 36,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d12216!~|eHBplu!~|f0!~|gES!~|hGB!~|ien!~|jUSD!~|k0!~|l35852!~|m12216!~|nHBplu!~|nHLDM!~|o1!~|p1!~|x30071156!~|M5157.95!~|N0!~|Ofalse!~|PUSD!~|Q!~|R0!~|S!~|T!~|z76972682#R1!~|A76972682!~|B76972682!~|C30|30!~|ESeaview Family Connected Rooms!~|FSeaview Family Connected Rooms!~|G1!~|U2,5157.95,1816855200!~|HCXL_POLICIES!~|I0|48~Importe~USD~5157.9500~pagoMinorista~2027-07-29T10:00:00Z~1!~|HNRF!~|IRF!~|HcontractID!~|I13556!~|HStopSales!~|I0!~|Htgx_price!~|I5157.95!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Seaview Family Connected Rooms",
+            "provider": "HolidayMomentsCyberLogic",
+            "providerHotelId": "12216",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 37,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eAD!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nAD!~|nEDMC!~|o1!~|p1!~|x30071156!~|M7590.59!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR000119!~|AJR000119!~|BJR000119!~|C30|30!~|EGuest Room with Balcony Double!~|FGuest Room with Balcony Double!~|G1!~|U2,0,1785319200|2,7590.59,1816596000|2,7590.59,1816682400|2,7590.59,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMFJX8y1fcnpzFZ9H+gzycHH/GMRaDgHbYdmygfDW0SAfnRFKq5czQrCTzZK8lBhnmShH8rIb9+Ji/tqOXkgwvn2GFX/GWA9QvxvsbpFhtl54H95ox0GB+CEUGNmmII4GBObh5z1M/XsuMEvRBbHDHuSghrRLicdsCF4Zss8UYf/qtU8MT4VTQd7l/vPYL0CB9KWonf7l2ohV9b/S9I2pNKmWoIzTa6SGZds1Pa2XVPuVIftCsDrfmXzEkrpxUJu5jdpt+2VV77IBtq4k530tnb3GCbdocBPkkeNyUfRd99RKYpZB5WeWr7o0tS92uQG4ia2bLispsCUq/jh8Mcr2BKqj2jGa99xvtRTTTic5/KxGw==!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I7590.59!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Guest Room with Balcony Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 38,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eAD!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nAD!~|nEDMC!~|o1!~|p1!~|x30071156!~|M8280.65!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR001978!~|AJR001978!~|BJR001978!~|C30|30!~|EResort Room with Terrace or Balcony Double (Twin Bed)!~|FResort Room with Terrace or Balcony Double (Twin Bed)!~|G1!~|U2,0,1785319200|2,8280.65,1816596000|2,8280.65,1816682400|2,8280.65,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMHyEkV5RBW+9rMhPvj10IYdDPtCQd5qGdalO8xsZxyhIYNBKiTxA0NwBfDpri2hJwbMtmPEBHXrHafCJf5YXfoLUyk9LGNHMFu/wFbQUeOUwfiRY6MaKbUQ/Sp2NH13Zqt46oWDiIdEPrkYxosY6YRxJ/pAIM6a+Y/WbT3WFeKWW3d+1zvUDgyVDHcv2QUaH1Q90JAG9ApG0O4/KQDBXpVTUD9rtawHQiBtIku2m3QINjRqiALr1iYJJ9XVRz8EyQw7+F237xuwTrRtNThegfNnbaaqFUp5UnIzL98FWzrXo7s8+vgwRmKOfwRIx+kHfGZ0T7+/NzVAMvSNoOuEeZFv+p6ZDS1DnyWp3G2iHRz0wg==!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I8280.65!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Resort Room with Terrace or Balcony Double (Twin Bed)",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 39,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eAD!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nAD!~|nEDMC!~|o1!~|p1!~|x30071156!~|M9660.7!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR000625!~|AJR000625!~|BJR000625!~|C30|30!~|ESea View Room with Balcony Double!~|FSea View Room with Balcony Double!~|G1!~|U2,0,1785319200|2,9660.70,1816596000|2,9660.70,1816682400|2,9660.70,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMGr5ZT+NlcfBtZuXqRgivELAzvlpZPgUcNNh8zUW6LIZFO8McvN8KpYVR/3WIjiETm29ITVPLxa2Uzi+64ltSxyknmvsljhWIvlJEtK/zL4GloWs2tcuUhDoGlkDIpoj5mpwux768OKoNySKtIydOQ2PDArbRCvWXYwnMF7D6jZQkdUPS7dPbsZkF4181FwZniNBDz5Uc8DJZPQewzxs9ls/TyUex+Zi9B04CzUrG+YLoD3pWlkwkgr8QnKELE4fwUE3ZDamfNfsYgByy/X8kz8YJy3zLgZ86m8Mic4kBR1QXpDmBwFBpcXQVtmDF4rHP5FJ5Nn63cD9eh8ANdUCfrq20hY4eohdCjVBEmvMYr49Q==!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I9660.7!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Sea View Room with Balcony Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 40,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eAD!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nAD!~|nEDMC!~|o1!~|p1!~|x30071156!~|M11730.88!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR32924017!~|AJR32924017!~|BJR32924017!~|C30|30!~|ESea View Room with Lounge Access and Balcony Double!~|FSea View Room with Lounge Access and Balcony Double!~|G1!~|U2,0,1785319200|2,11730.88,1816596000|2,11730.88,1816682400|2,11730.88,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMGex1JsvxGYylb8vofGxbfJ+k5K6J6uhJFsoeTXvV96Hj+HxQvXSmraiWgLTfh0MNVrIX0sRF6otgCGnnmQoM6husNoO3x1QBdoC+JlCJUglM/fRlth1fFYsQTIVgHlu64rL6IACuyZbHNLkrR6yN+CvGNS4g+s/X6ZWUV66DSZb2l8TI3+t2JF6bqnfUKFc7Ot1yAek5Gnj/GYhx/A5JtRZysvhyP311zKDCO/2tMSo0NQ5bH2PGQkVLzIb7V47yXSkZfhlPFmc1nTL/+UX+j96lfJplaiwrpIxeE8CTBQVOQJ8VivmcN3mI4Ympikk7rkYGl2NS/1ik7D5yvAMtHne1m9j3Qz1txHYlG+Yxz+JCzgTM9wDmjDcEPTLGJph90=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I11730.88!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Sea View Room with Lounge Access and Balcony Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 41,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eAD!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nAD!~|nEDMC!~|o1!~|p1!~|x30071156!~|M15181.18!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR041829!~|AJR041829!~|BJR041829!~|C30|30!~|EResort Family Connected Room Max 4!~|FResort Family Connected Room Max 4!~|G1!~|U2,0,1785319200|2,15181.18,1816596000|2,15181.18,1816682400|2,15181.18,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMEA4vzOuPBLOJy7uhtKAxYUqBT2jZ7h6VIqOV8FAlziWkh6vofxzbdje7oImAqUGoAGNhODLw5ZEJ7rIYlVagsNApOjd8IO1ktvqC2Fwk33njEbrTrpX3k1hD0Jpvd24y6CHk287ma6lLyQyxcAJrv1F71635+q/HrKoEc+teR4F0v2DxeRtWfMVyM7vuFzCXwTH96G/4P8gCXA0AraL2l+n19IrZgEAQUIOyJB3uw42poPMAItUcrIsnSs7XGUL5YxF3uNRhT2kIZnohumZ1zsATkocdrbMKfI1VbuNXNT8nFBR30PnWx/yVdoft7f4cW5Jx6IELk1M26j1icd/iirXq6ufjfBXHXzAaX9XpTbvnfqF8QiIPX+x67cSKc5gtg=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I15181.18!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Resort Family Connected Room Max 4",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 42,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eAD!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nAD!~|nEDMC!~|o1!~|p1!~|x30071156!~|M23461.83!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR040623!~|AJR040623!~|BJR040623!~|C30|30!~|ESeaview Family Connected Room Max 4!~|FSeaview Family Connected Room Max 4!~|G1!~|U2,0,1785319200|2,23461.83,1816596000|2,23461.83,1816682400|2,23461.83,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMGJ5Cmmo3i4yzV4UJbHS/WIEZk8y65nr8GvbKP3k4mF461sE4+ilgnE5N64reGa+cJ+ERFR6DRrELuboEIwbiDz2Ab6AM4axjOn2c2GsFTVfLuKcNEUEKMwH+g38mIOIZydYaTJbTgbJ4tCrfcYJ+RI8sXW2KtlrcQMxWOCVEDEwJMAK5ncDRaHODX5BAqTzjd8msOnRJen+of+zAU6WBAYlLP1DQsY6eg1WKJXeHVqIVr0pMAo7555+F6jG9lWMpJq2GNDdbWiFmGjGs2eTKpzR8A3plVut/etwKQcJWVpvAVE0PCay+KB65+ITGn7XxNqkUh1DEzDReLtCSVaZcHB6PRSAbuuT4yxiWH5DU2ZY1xp40KpGJ9hYDKeY/omMiA=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I23461.83!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Seaview Family Connected Room Max 4",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 43,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eAD!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nAD!~|nEDMC!~|o1!~|p1!~|x30071156!~|M53751.46!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR34089630!~|AJR34089630!~|BJR34089630!~|C30|30!~|EOne Bedroom Beach Villa with Private Pool  Double!~|FOne Bedroom Beach Villa with Private Pool  Double!~|G1!~|U2,0,1785319200|2,53751.46,1816596000|2,53751.46,1816682400|2,53751.46,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMEC7oF269PdHz+8mDuH3NwEvgc8XGFxYj+8fy68onbmfdOp6HDNKt/cEnz/vQ/hSJbRi9CCxGHD6HjkzU8GsR22PyG26jsg0DSCufH8/SBl8tG2ojCCKqKckCAuC5r+U3O9CwE9tkhOBk3sD65c8/DcaY5eTFJjWd/aYgImqCgANmGualnJxoz9DXhzQBNxJ2RGWNosf/LHTamiU48utU8ySK0mfyHIUiQnhVtXCywA40jZHKP3Rk5DTjE/Kh8hCvf9A69gxmE/gkaMBnYtJvphjSRjqV58p1OOO8GO8c99o5whz/+GT91fLDEKeqj/c+e4xXQYCUwkCbHzx/ubqbMxHc0fgpcSkcyQxiHNJ4ZIQYrxmbmc4hfMOALxaxtEai4=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I53751.46!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "One Bedroom Beach Villa with Private Pool  Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 44,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071156!~|M7590.59!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR000119!~|AJR000119!~|BJR000119!~|C30|30!~|EGuest Room with Balcony Double!~|FGuest Room with Balcony Double!~|G1!~|U2,0,1785319200|2,7590.59,1816596000|2,7590.59,1816682400|2,7590.59,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMFJX8y1fcnpzFZ9H+gzycHH/GMRaDgHbYdmygfDW0SAfnRFKq5czQrCTzZK8lBhnmShH8rIb9+Ji/tqOXkgwvn2GFX/GWA9QvxvsbpFhtl54H95ox0GB+CEUGNmmII4GBObh5z1M/XsuMEvRBbHDHuSghrRLicdsCF4Zss8UYf/qtU8MT4VTQd7l/vPYL0CB9KWonf7l2ohV9b/S9I2pNKmWoIzTa6SGZds1Pa2XVPuVIftCsDrfmXzEkrpxUJu5jdpt+2VV77IBtq4k530tnb3GCbdocBPkkeNyUfRd99RKYpZB5WeWr7o0tS92uQG4iYuOpM7j6+VrNYzlhwHX6FTWJ9khN9rqEj5D70O5LjaHw==!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I7590.59!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Guest Room with Balcony Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 45,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071156!~|M8280.65!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR001978!~|AJR001978!~|BJR001978!~|C30|30!~|EResort Room with Terrace or Balcony Double (Twin Bed)!~|FResort Room with Terrace or Balcony Double (Twin Bed)!~|G1!~|U2,0,1785319200|2,8280.65,1816596000|2,8280.65,1816682400|2,8280.65,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMHyEkV5RBW+9rMhPvj10IYdDPtCQd5qGdalO8xsZxyhIYNBKiTxA0NwBfDpri2hJwbMtmPEBHXrHafCJf5YXfoLUyk9LGNHMFu/wFbQUeOUwfiRY6MaKbUQ/Sp2NH13Zqt46oWDiIdEPrkYxosY6YRxJ/pAIM6a+Y/WbT3WFeKWW3d+1zvUDgyVDHcv2QUaH1Q90JAG9ApG0O4/KQDBXpVTUD9rtawHQiBtIku2m3QINjRqiALr1iYJJ9XVRz8EyQw7+F237xuwTrRtNThegfNnbaaqFUp5UnIzL98FWzrXo7s8+vgwRmKOfwRIx+kHfGaV2HzhFkchwPxxSlw/iq9EtgbRaSixYY6DlLF3gkcZ6Q==!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I8280.65!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Resort Room with Terrace or Balcony Double (Twin Bed)",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 46,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071156!~|M8898.05!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR000119!~|AJR000119!~|BJR000119!~|C30|30!~|EGuest Room with Balcony Double!~|FGuest Room with Balcony Double!~|G1!~|U2,0,1785319200|2,8898.05,1816596000|2,8898.05,1816682400|2,8898.05,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMGwYTQUADEqzIk9F/7H5zujxjS1oWLf/GxWruACfS5JBF7tvMgfI5XSo6ScoilCdtChbmDH57mop4MycBuraEyMA+CJCDWUN7G3Kx71SwNt+AvjdJnremkxquDRO1EueYD09yGbnakGFcdRqUIq7pKtiQzuePrcdQn8XJHNVV6JViSXKyU2WWxWG1D13qAP4uPqNwlZWarAqBO/Sst11/P/kX+42ja9hoo9YEHju9B0BXrTQ800fde+LWnffVSg9TenbQgbb+/IHYADcxjTFQCmjn2/Pl3L7CQ/pNkh2pmDUWwP5AGX6XwSxYOvuATLNGl/IPdlATBQtTgr+aH/6qn4QEaSzyGi2m660FJuaYjKAA==!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I8898.05!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Guest Room with Balcony Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 47,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071156!~|M9588.11!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR001978!~|AJR001978!~|BJR001978!~|C30|30!~|EResort Room with Terrace or Balcony Double (Twin Bed)!~|FResort Room with Terrace or Balcony Double (Twin Bed)!~|G1!~|U2,0,1785319200|2,9588.11,1816596000|2,9588.11,1816682400|2,9588.11,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMHl+LmhIpoFi9FYxLjvqQsc83yVoogKiUvMuR9BGwEeqors4RKi9N3o9JMWsJhy92K0WEi2XGtFRv7d5X2bUJv2WDw1uKu/uYyQDR30b4cz3CXHtz38AMbUPf5kdtcHulyR/j/9DoTrFX4UGSpzW4TR86DTgVIoTh/9YJxEsp7BbdQcrwLoXFCLZ8Gi57pl4Bk5e8P+E7KQHQe7i6W8bpZDE7imc8B+cDiROFSTnUXyj9XyDWr/CbR1QMbcpKIAHuf/3gJC2QSO6hQeSn1BnQFyGb/Oc/7/4f8LrDOTTW1RqA4Gd5707yyROto999mBA8KpkGquuFXTWi6uWWKk8GV/rKvLmnmB6CxwMjoIh3ZkhA==!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I9588.11!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Resort Room with Terrace or Balcony Double (Twin Bed)",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 48,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071156!~|M9660.7!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR000625!~|AJR000625!~|BJR000625!~|C30|30!~|ESea View Room with Balcony Double!~|FSea View Room with Balcony Double!~|G1!~|U2,0,1785319200|2,9660.70,1816596000|2,9660.70,1816682400|2,9660.70,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMGr5ZT+NlcfBtZuXqRgivELAzvlpZPgUcNNh8zUW6LIZFO8McvN8KpYVR/3WIjiETm29ITVPLxa2Uzi+64ltSxyknmvsljhWIvlJEtK/zL4GloWs2tcuUhDoGlkDIpoj5mpwux768OKoNySKtIydOQ2PDArbRCvWXYwnMF7D6jZQkdUPS7dPbsZkF4181FwZniNBDz5Uc8DJZPQewzxs9ls/TyUex+Zi9B04CzUrG+YLoD3pWlkwkgr8QnKELE4fwUE3ZDamfNfsYgByy/X8kz8YJy3zLgZ86m8Mic4kBR1QQvW6ZeQxvjTbZZk5LXN9r0Qe15DYgZv8D7fySoeiYfMg4CLAoOP2mOR3peoSeL9Kg==!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I9660.7!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Sea View Room with Balcony Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 49,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071156!~|M10968.16!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR000625!~|AJR000625!~|BJR000625!~|C30|30!~|ESea View Room with Balcony Double!~|FSea View Room with Balcony Double!~|G1!~|U2,0,1785319200|2,10968.16,1816596000|2,10968.16,1816682400|2,10968.16,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMEcsRej5gbVBFz6bRpQZno9z0k1DqodXDRx8SOfohNHXTwEwNnIbbyyHqRceLCQleU/o7UW+lUgMDTDKocCurXPQq6pJMCbBxFJ4TGvO3nUdlWjk/h+jbH7oCaw16tOBk0GWA4qvo76LmzgS6tx9HAHBF0ouLd/Dv47O/RlRS46wBpNp+rcdhzUkS2h7uOQ9yrD39b7uSdH/XZH2DmEq4Rb41ZOUfSOj0HxOszmiMQRWrzauFeh1DTLnVpSFSvfYHCPDe3vLZFsVCfn4vNKrfBt3xbzC+L7BNHL+uAgtV1hL8eAcghpNjUu/YQH6UFZFFIW4BzAgjcIbUPe0JA/GA39j0+DjVioYkHUE72szu3uhHE+7B659in3R5U5hVj8wo0=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I10968.16!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Sea View Room with Balcony Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 50,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071156!~|M11730.88!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR32924017!~|AJR32924017!~|BJR32924017!~|C30|30!~|ESea View Room with Lounge Access and Balcony Double!~|FSea View Room with Lounge Access and Balcony Double!~|G1!~|U2,0,1785319200|2,11730.88,1816596000|2,11730.88,1816682400|2,11730.88,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMGex1JsvxGYylb8vofGxbfJ+k5K6J6uhJFsoeTXvV96Hj+HxQvXSmraiWgLTfh0MNVrIX0sRF6otgCGnnmQoM6husNoO3x1QBdoC+JlCJUglM/fRlth1fFYsQTIVgHlu64rL6IACuyZbHNLkrR6yN+CvGNS4g+s/X6ZWUV66DSZb2l8TI3+t2JF6bqnfUKFc7Ot1yAek5Gnj/GYhx/A5JtRZysvhyP311zKDCO/2tMSo0NQ5bH2PGQkVLzIb7V47yXSkZfhlPFmc1nTL/+UX+j96lfJplaiwrpIxeE8CTBQVOQJ8VivmcN3mI4Ympikk7o7WwFUkN5uB6v6zG/SqSE9HfGlk5nP/gOeXqhu0Bv51cWSNxqg6Fm38VkGmn9JCHw=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I11730.88!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Sea View Room with Lounge Access and Balcony Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 51,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071156!~|M13038.34!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR32924017!~|AJR32924017!~|BJR32924017!~|C30|30!~|ESea View Room with Lounge Access and Balcony Double!~|FSea View Room with Lounge Access and Balcony Double!~|G1!~|U2,0,1785319200|2,13038.34,1816596000|2,13038.34,1816682400|2,13038.34,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMFXIt+n2Ua5Y8e06uGf9/ztmpLYY3stQfAKT0ZJRX4qpF8RqZSx3bIYruRP7qFsxFNeHbwiQWnG3DISsC3bVDskJ+xc8TUW3MuxO85sOKgu5Uzni1yZElzdZyzBjqBCh4u5OwNbFYTNBwPDyoSKlvj1lQC0f/9rj/xfv9wwirU+IzZxlSkVMXNQk0w2RaAaqdQFjGlZZQE1eu39EUegqb1BYWWirqfkjP3j2hU+1YXXhdNH5h0KuzrJThLJ2NnRZZSeGhus4zbubKvU1v8glNtAXOt36pWUlzPUb6L0NtrLj/ZDvRw0CpWq5HBnD8d6xL4kRdLqLF456n1orKLFFcbnzntFlOJQ/owRwOkxPy9J7Qv67zr4PIWoUCKuMLLApVU=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I13038.34!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Sea View Room with Lounge Access and Balcony Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 52,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071156!~|M15181.18!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR041829!~|AJR041829!~|BJR041829!~|C30|30!~|EResort Family Connected Room Max 4!~|FResort Family Connected Room Max 4!~|G1!~|U2,0,1785319200|2,15181.18,1816596000|2,15181.18,1816682400|2,15181.18,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMEA4vzOuPBLOJy7uhtKAxYUqBT2jZ7h6VIqOV8FAlziWkh6vofxzbdje7oImAqUGoAGNhODLw5ZEJ7rIYlVagsNApOjd8IO1ktvqC2Fwk33njEbrTrpX3k1hD0Jpvd24y6CHk287ma6lLyQyxcAJrv1F71635+q/HrKoEc+teR4F0v2DxeRtWfMVyM7vuFzCXwTH96G/4P8gCXA0AraL2l+n19IrZgEAQUIOyJB3uw42poPMAItUcrIsnSs7XGUL5YxF3uNRhT2kIZnohumZ1zsATkocdrbMKfI1VbuNXNT8nFBR30PnWx/yVdoft7f4cXMVVxgbFIeENYiNjAA6nWnK2S5yWoPO68AR3cEgfidX8axZQ/UloXpG3y93ppxLCk=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I15181.18!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Resort Family Connected Room Max 4",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 53,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071156!~|M16488.64!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR041829!~|AJR041829!~|BJR041829!~|C30|30!~|EResort Family Connected Room Max 4!~|FResort Family Connected Room Max 4!~|G1!~|U2,0,1785319200|2,16488.64,1816596000|2,16488.64,1816682400|2,16488.64,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMFz8OtEoZLjslY1PCfpsjwTNIXg07At5PKlQ7nHg7sMxEEmlfaTZR4jFiUQZHONQxXa+8QE2T2oYn2QTEy3hPEyh0qxeEqqrdiTLOQncGxpdDdvhds1qbja78t7mXSqHN+02CeGJRXWfHEdjvx5qfzauRx27HUHM27bZXzErWQwaljqkUM0P0YxlvVU3q37mEzz4X/oWyw1H2OnHbfwW+kgqAq1HCH+0wS/Z2a7KnWfMPydBMmf8Zj8s+Aicg8EuDTQ7GQnk0soeFa6+QEr17BrCPR3xHmWtuHhlX/HWd3xzTNPbavzi89IbHn2vk1fIOpFdeSLyKNjcGD+RzPidn9F/dxWpxEOXbag6CMg0bfjp/MqjO7unX7fMsefdKpjipM=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I16488.64!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Resort Family Connected Room Max 4",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 54,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071156!~|M23461.83!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR040623!~|AJR040623!~|BJR040623!~|C30|30!~|ESeaview Family Connected Room Max 4!~|FSeaview Family Connected Room Max 4!~|G1!~|U2,0,1785319200|2,23461.83,1816596000|2,23461.83,1816682400|2,23461.83,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMGJ5Cmmo3i4yzV4UJbHS/WIEZk8y65nr8GvbKP3k4mF461sE4+ilgnE5N64reGa+cJ+ERFR6DRrELuboEIwbiDz2Ab6AM4axjOn2c2GsFTVfLuKcNEUEKMwH+g38mIOIZydYaTJbTgbJ4tCrfcYJ+RI8sXW2KtlrcQMxWOCVEDEwJMAK5ncDRaHODX5BAqTzjd8msOnRJen+of+zAU6WBAYlLP1DQsY6eg1WKJXeHVqIVr0pMAo7555+F6jG9lWMpJq2GNDdbWiFmGjGs2eTKpzR8A3plVut/etwKQcJWVpvAVE0PCay+KB65+ITGn7XxPGzi892U6BbnWHW1dEz3HRX1OCvMmVz+ZfUwiVhQazAqz05emS8B38s6dnS2ptLGY=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I23461.83!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Seaview Family Connected Room Max 4",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 55,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071156!~|M24769.29!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR040623!~|AJR040623!~|BJR040623!~|C30|30!~|ESeaview Family Connected Room Max 4!~|FSeaview Family Connected Room Max 4!~|G1!~|U2,0,1785319200|2,24769.29,1816596000|2,24769.29,1816682400|2,24769.29,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMFeJCtX+PG21SkD6iSa8mWEbK2W0n0qZJi5GE5IJBOaAiZyqoEpI5/zcVEf+srwKjFL2SP0cExeZVtc4lWpgShkDXRUK8xTrE81nU0zroVEvw5zQn0Bf+7WAyxszHDSZ5POn7wipQkyiSPrCB1b0ChIXfYID2JCU2ymx/Lw87v7YqkryMD9D15KctWyJRE83l9sldVfLp391g9zlM/UYpRwMKQB/PH6esoSOzY+ct2o+IRic9q7dAIHqvuvSKrbxDYR+QhwQs+vBDKMpOZizSw1y79XKyVHJuUBaMUJ8jLV2wQIqzP+IF7AjbGDD9NWRRGMuas7ziuA3j8BiN8zAqbudr4+pcIW/GQwGTr0TuLavcb7TKG10R+QmaqfkO9ASwA=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I24769.29!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Seaview Family Connected Room Max 4",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 56,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071156!~|M57746.5!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR34089630!~|AJR34089630!~|BJR34089630!~|C30|30!~|EOne Bedroom Beach Villa with Private Pool  Double!~|FOne Bedroom Beach Villa with Private Pool  Double!~|G1!~|U2,0,1785319200|2,57746.50,1816596000|2,57746.50,1816682400|2,57746.50,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMFP/o4HCox4Ujv87piESp64EbPXLRoZZmpE56sA3d2iIlTeHnILcbJgTdZLpZenkwKOZiI2TG9YF4O0v7EJSv24X6Szs0wwhmYa5BtwRz3VyVVwKYKz3eivm/fjkh0qgCipoICiagOH3st2sgkKTUEUDJdCpruI/SPIGj8c8+b7bCzEuLbOT6WBCylVskDXncJa33ezw9uPVP6W065o5ilvPGMRalCc9Wktpzp+4DqoC/0pyEVtm9fuu5JnGIhFB6uTXUoTSWlLoKzI1CRc4QfFYUMAL6Mzbbm6dUBG9dztcq+3qjTckzX9kxH9/mYNscIp9VQlJPaVMEYJTjPMnxLKOBA0m7qmBiJdXSioXvUkWg==!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I57746.5!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "One Bedroom Beach Villa with Private Pool  Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 57,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eMP!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nMP!~|nEDMC!~|o1!~|p1!~|x30071156!~|M59344.46!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR34089630!~|AJR34089630!~|BJR34089630!~|C30|30!~|EOne Bedroom Beach Villa with Private Pool  Double!~|FOne Bedroom Beach Villa with Private Pool  Double!~|G1!~|U2,0,1785319200|2,59344.46,1816596000|2,59344.46,1816682400|2,59344.46,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMGKoZZNqBYldgDFlTWz9mwXnf366n0UaG8HceIP+la7BgMTjTv3Bl0B9dQV9FgXiTOXmSSojtT2kF09tHKX6q6s/hD9uMF61TrYfY/eJTOdTyNqLDQvh8k0XYbCsB7SB5c8bj/V/gE/jVzho3XyPhs8ApgVWQkkF/8r/KSVKxatc1BZHNz+UM2fC6PZbnm7bGOXXXEtG8iblVy95OlW+MuRlDtv/vMd/gOAzaMJj5Tz91NfbM7aPS60O0FlQHgIXGqaDjHi/LHi1x5/syrm/9CziZgpdj1dTj4eBgxyTwle8OSp1HkQYgoZ08+Y2sTsimY1DBZemK5oaGNaT09FEaDEWhHZgkEv9FwBceAum/NnMDChAPoVUkx5YfPr+Y2+Jqs=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I59344.46!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "One Bedroom Beach Villa with Private Pool  Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 58,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eSA!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nSA!~|nEDMC!~|o1!~|p1!~|x30071156!~|M8409.79!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR000119!~|AJR000119!~|BJR000119!~|C30|30!~|EGuest Room with Balcony Double!~|FGuest Room with Balcony Double!~|G1!~|U2,0,1785319200|2,8409.79,1816423200|2,8409.79,1817028000!~|HPackage!~|Ifalse!~|HratePlan!~|IzjCZqD+1u3fbm/3xpEg3DFhVEBWuXVGj2T/ahRSPF5KDi78VO4sIWKrjFFOv2+A2B83bjWeh04muqjlc+t0I0pKW+xntXur6UqESaIembTO4JStptjJbQE/DWdmPSibxDOBPWWKiRXVN5gk0uf6+8DW1r3V/PRFcmphCHPfEHNWKMuDvJiJidxXXYgnJ1WbjAOmjX/u9OgCj7fDSWUJxgh9k6tuYjNL3+DwARmA9ZmYuv96lt+C75m5hOyliiWaYFJ4dAgm7XqOwwm0/L+XSjgf+ALO+7yOcXksu7bAtUoCNjiR69kKVH8I46f7ibBXF62wI3RstMdIKce2gdf+mfyFWUYdzxwDwhvawPmduKYOPB+9eWClxGV704qPlKxAQapXKpR1D2caamI1Bf8pJK4vW0ePcLTTs+gJjBPL8QF4RA/t2cZkOT3Pmfb6hIaCZnF9cQ4hQKorjJIPJ605ayMRPznIcZhKQz1mecQplSGBq04cfm0JT2T9l3gFkkrKPZFzUNZqGzYm0uMXoBM6Natru/1XghYaMyrHUfuDopmxffnDUfghVqWmQHNMLnjF00Fxd94zuE55PvEaqSHwZaNQLRIHj0Zxc+AM+ZatzZG99H19zmkSL0JvPSvzlsQ92D+vffveuJHyGVTJRtCbDs1MPsOGp5asTvwQpFMmNfjKq++XTOKf94i2Ao1yMn7ay4svVLPb8Sof0nFBJBVzuegMJZuLJpLX4HaBQYswUs3u4jsajMUNZXnRIVpeIioL+YRY1HWbJxf9grDX8nPuGWMFcMz4wcF3N697EFGcZfAbgzOInLQLOSWIOoGvJEvcRhz9I7w+Q2rjkk9xzG61zbiUChE3u9MYtu0qYg0Q/LzLw/wzZ/WoR/Q3QXZQGrSDBCnVIOpYAfQ0R++faojh8ylOBUltR5KK6W9fKyTc0AOXx3wV41ygqyL8y/cCmpT+WAqifAO29sacDrqM45uc6mE8BIVDNAqWAaBZFByEK33hKGfkubeJLxPCtXjte8voHRz1ExGrSLudmyb3q5QFdFYT+HbJHFCRyNy2viPHimnE6pDvcr7C0+sK9w6sbARQMbG7ZYVXNhbd1HcT95Y4IXNkprXQyTNxFkiGA5ZWxrPB64SlIwi3ud04xy5UYPj8+D0u3SAHjdpWSTr1zoOp+rjc6tb+yjjnJp1KZcInr1fx+5Hhh2nzd/oFu2X0/0/NlVO8Ttitny20Zqem+7QMPoGSv5ALhRk7enSmu2wJnpG/3o14wdl7L95nN06HdXe4iitzp8BDMyMe8NonWtbJqAjCGc/mFcFG575h1N+0/OsscNz2UZAQHNQtBW9g1y0e/WHhotqhH2zGlhLpuNrEUtGTIwZlYzJRuKkayfxlONhesifHiPOJH4At8itISKuWdZpZVYnbYTQRbHqnJu7IMlli7ivrrep+xEuQi7j3yn8okt9DjW2cEe9WiOIoH3wBr!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I8409.79!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Guest Room with Balcony Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "Room Only",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 59,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eTI!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nTI!~|nEDMC!~|o1!~|p1!~|x30071156!~|M10931.83!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR000119!~|AJR000119!~|BJR000119!~|C30|30!~|EGuest Room with Balcony Double!~|FGuest Room with Balcony Double!~|G1!~|U2,0,1785319200|2,10931.83,1816596000|2,10931.83,1816682400|2,10931.83,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMGgXoM1byNgr1bQCRRLo2pbAQVpniEVn6K6z4pOLzZ1Cm/UUeKxaWGiqSWNC3TxtVhUuhTE+OZ0cssU6pRHPHKRl1qlWrkCMEvucKf4MjFEsEIUJ+iuQOT9Nut43ZgDyU67pX5PKc5spCCH3YmlwRHzab6IkKmbjKup81XXwspwgu8u51UF6PIIDL31yC3d5PU71g0uR0XV0L99eawIuVkL3Tkoi6ZAJ1ShBcwG+4qFz1uhWlkqLXl/tDYB5cbpQVYeyBzSElG5r0Z2DeAbVvBmSvu9Wb+6qpRqZfIuWRW5zq8XvS4OIZ6IjNKW34gVlqGiFRLZ7LTe4C6bAtWsUBuevOTsMJB5AbjbgVPdVHGAvx/j+T5YvYK8BhlPkijtlJY=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I10931.83!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Guest Room with Balcony Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 60,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eTI!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nTI!~|nEDMC!~|o1!~|p1!~|x30071156!~|M11621.89!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR001978!~|AJR001978!~|BJR001978!~|C30|30!~|EResort Room with Terrace or Balcony Double (Twin Bed)!~|FResort Room with Terrace or Balcony Double (Twin Bed)!~|G1!~|U2,0,1785319200|2,11621.89,1816596000|2,11621.89,1816682400|2,11621.89,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMENJ0xuL2aTNzOXgnVBqkCWfE1b/7YVYFoBU8KOlLggsXAuhh8pUeMpHIMboCwBh8tWJbLYvC3GNqXh/ymuitTjBOl+yyQuphyQtRda7W4qkj0btqiir+7MyeTmIdgpvySdX3vVJ98tNkKAX3vKuAJyfsyeULIvStGbHCWt/nJ8dmIG3OKcyTUqSeeo+juhJNa0vLl9MGq2HVbSGkms+8ErnHnkC5BadEwLwhl1ZCbl36qYhFITHf8ZH5FRsDAESgecbRVCQRFTycl5AvC0v4+NNEJFhvN/VJ0f96/gxYb48Uvzkbj4fhWf4X8r2cJwN3EAmztWb5xKdcMN+5Y+Ja8NewLuJHkE0/SjxCraNVHsqCUAnb8jWVWQnfI+LWcOgnM=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I11621.89!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Resort Room with Terrace or Balcony Double (Twin Bed)",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 61,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eTI!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nTI!~|nEDMC!~|o1!~|p1!~|x30071156!~|M13001.94!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR000625!~|AJR000625!~|BJR000625!~|C30|30!~|ESea View Room with Balcony Double!~|FSea View Room with Balcony Double!~|G1!~|U2,0,1785319200|2,13001.94,1816596000|2,13001.94,1816682400|2,13001.94,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMHiRVRJ8J0bkOTgrBXhBC8eLz25S6MDpAAfHViAD1106Nqjkt9VLsMK6AyYHLz78/LyDKxdllXsfC11/QUJavnkWfngY5MkwBVjpS61Ax80Ryy4UX0PseKjdGZRVcXap7a1XWUUuLNxSGcIF4Vd6Vc5G/CnjNoXQRlleLhIBObbsi+HaoN/LmLrHKi4njvDtePo7o8Pigx1gKN/thQsWzFNf2LriOwPc40May8XswXvNEXCsQodukNY4LXygaU7Fm+pMLNOI2Gl3n0i2zgzRV2qMVFlwE5Rou/BCAB9qLMXqIL2Zj2hlZWkNrrUAocjuPGNKN+8j8lSgfnx09De0/6+5hT//14SuA+aBLxxwt3wVgmWm+copOM1umM0gofMkOY=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I13001.94!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Sea View Room with Balcony Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 62,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eTI!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nTI!~|nEDMC!~|o1!~|p1!~|x30071156!~|M15072.12!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR32924017!~|AJR32924017!~|BJR32924017!~|C30|30!~|ESea View Room with Lounge Access and Balcony Double!~|FSea View Room with Lounge Access and Balcony Double!~|G1!~|U2,0,1785319200|2,15072.12,1816596000|2,15072.12,1816682400|2,15072.12,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMGpMh7pvxPnc6a7mj5j59vzGU+Spg+OBhNDMeaWJnOAAR6jJ4UZF1+XSdRoFFI6NEwbnv+iwpfm+snvbcguoDo5DV1/rGKLyjW30wwEDxHZmyvNpYFi9QA9hfGWVteJ1nNDUD4zRqAMaqKGWeiGBE3UHRvm7WKIwwVx8GW9VKXadpWXju70HdmD4mSzDiZ4zhDgWM2YY5heEylVK9yf2ogAhPgZtpGM0v3FZQMAk4q6KBAmbBqFfL/fAoiDTBzg77qSZScLj3I/1SFQOAdzSW738QJtYHv0g2dW+bkJmpa/GHfuXWo1cJIa+UFUjqTMA4IPRYkBpaDpMEcf9cxU6JhSIldgkSR5dTUnsDcNnfvt+r/+M20QPk7DBbsj+AGdXwE=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I15072.12!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Sea View Room with Lounge Access and Balcony Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 63,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eTI!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nTI!~|nEDMC!~|o1!~|p1!~|x30071156!~|M18522.42!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR041829!~|AJR041829!~|BJR041829!~|C30|30!~|EResort Family Connected Room Max 4!~|FResort Family Connected Room Max 4!~|G1!~|U2,0,1785319200|2,18522.42,1816596000|2,18522.42,1816682400|2,18522.42,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgME7vk02Lam4wAFZ2fr9l+UDtGzQTzsk4Grwvy4AAy0emyWRRousK2R8HrI9kYV6ETFlZzJgo0gCeqkIg/3N+ZFNG4KEIRJjfLFM9K0Sta+wAd/4v0i7yNSMt9eOnGmCIoZhKBKVI3e98qh8ytJs3n55TMJhP22O9m1qzQVyw8VmYImKx5dhnlxJLdNmtWbk49DsZyFuHwkEsOtVaQMKcCJWEbGWdr0oetPyBw7S2nKlkXGol0PjClAxJa1Eq74rT4Uh6WG3NQ4vqQLrHk07P2XkyIj5MZaQZ6GGRKxf0En9hc6vGPTMJbu/a4rpoYJykMueQyWczF6V6rdidx/V3i1blMOjBiVwbJZFW3USVH1GQ4o+FrzZUjrQ+4VrpyBWre0=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I18522.42!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Resort Family Connected Room Max 4",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 64,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eTI!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nTI!~|nEDMC!~|o1!~|p1!~|x30071156!~|M26803.07!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR040623!~|AJR040623!~|BJR040623!~|C30|30!~|ESeaview Family Connected Room Max 4!~|FSeaview Family Connected Room Max 4!~|G1!~|U2,0,1785319200|2,26803.07,1816596000|2,26803.07,1816682400|2,26803.07,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMGOfHWPvGDljI+5BSn4f4SU7PvLDAK8CU61ZwyadX5TO+4HeBv3AbWkOJiEdU1FfZO64vqZUnaiL8DiBTQYzccoBXdd6aBxxfHGO9K4RytzAlG+9NBNuCE/JZwe+8A7CUx6gRzcULJ7dLVKzW5vWKB6BkCr1rTlj0I5dLaV9PkXzMEPUgSUAnLf1n7dUei3HEr5IhCEVmkmTTkB+f2477DN6zcaRp/w7RcHVKvrn/7DSXuLkdXC6xrZlKQ/ghSpVQPvBKEy9wamC2ZMzL1uLkoS7Br1f/xfDTsd2AXcXuS4DAr+wCZt2Lb/PgXEGVS5r6iA5p5zDKtmt0NNnr6gfYgCgHnm3qpHWJv/aypG9z1cxjKwiAE7OzrCzMpL8ZeIYcI=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I26803.07!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "Seaview Family Connected Room Max 4",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 65,
+            "code": "33!~|a0!~|b270801!~|c270808!~|dJP02780Z!~|eTI!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32684!~|mJP02780Z!~|nTI!~|nEDMC!~|o1!~|p1!~|x30071156!~|M62903.68!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#JR34089630!~|AJR34089630!~|BJR34089630!~|C30|30!~|EOne Bedroom Beach Villa with Private Pool  Double!~|FOne Bedroom Beach Villa with Private Pool  Double!~|G1!~|U2,0,1785319200|2,62903.68,1816596000|2,62903.68,1816682400|2,62903.68,1816941600!~|HPackage!~|Ifalse!~|HratePlan!~|IhgE56o1JH1fynXACLyqZva86XO+H/BCT++g/WcHJgMH2QD0cVKtmh7G1xfhHx5ZYm2Cdysy6PAGy43SXJ5EYMB6jOtsQjcp57yhW5qFjcyf1+jcy8H26OV/o0+B05GitmHRnFy0QkO3aa6uZzJkPgxi8/9mTJ8FIi/p/fQ98smzpBOUhc07pPJkACYIPLIMdz7F6lrC3IA3gHyi4VaRi+jY9Zc1Y0X/8sMjNeODUAidP6MfpUYFx+QmLVOCCG6RdR2SgyROJrEeq7PEjYr4JTOALIwlPLV/ZEQMBCu+CcEpLpRWf5ONYPNqqsko9UrzI5zqZ1pCsZw9TSgTCq8s7PdszqREsHPK/vwW0wmk39S0hP3dOlB16/w0N2n4L8q8cj58V8NQaUL9mIsku2ea7PLKmRtEiu0/cXJ+C8pA3ulo=!~|HCurrency!~|IAED!~|HlanguageCode!~|Ien!~|HOptionTaxes!~|I!~|HnonRefundable!~|Ifalse!~|Htgx_price!~|I62903.68!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "One Bedroom Beach Villa with Private Pool  Double",
+            "provider": "ElevateDMC",
+            "providerHotelId": "JP02780Z",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 66,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d214-486748!~|e7!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32796!~|m214-486748!~|n7!~|nILS!~|o1!~|p1!~|x30071156!~|M8131.41!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A1324760264!~|B1324760264!~|C30|30!~|EDOUBLE GUEST ROOM WITH BALCONY (2AD)!~|FDOUBLE GUEST ROOM WITH BALCONY (2AD)!~|G1!~|U2,8131.41,1816646400!~|HcityCode!~|IAUH!~|HtokenNumber!~|ITRA_STG: 20260730_115634!~|HroomConfig!~|I1#7#1324760264#2053/H4sIAAAAAAAAA51Uy46jOhD9oNkYkrQ6i1kk2BDTsQnGNoFdAz28O63Jg8fXj20i3V5cXenOwnKpHqdOlcv1Mfmn_MC-MnsTpXHqpw5-wQ2Z8XnzmvBd9etzrEmTDwHcjUY34xWB5RA47o9fXjjSBq2V91rbUuFPaez-Zr07F8aeDEYPCkff7-h5x_Ju7k5yZvyuxi-DZKI8tI3MkU14OZOm1Bzu4affJfHNS84UGHvHHD5jbXuQSGEcFn4fkAwE5iPhwuBwjkfSJHc6KR-0Nnm4nVbZgXZaFu6Tg4s0VkSMTLQsDF6DGoa2MmxHF6NCMkkFdv0TB6CUoBORs3dCMUIONil2yikU4ZeOCwU7SeETFu0PUkgunX3EwZZit_AlKsuwdUkItkEc7S6kddGbrgH5iFvS4UiUzJKusMJStNsTj_bnSDKMkb_niJ5415Zv0N8zp9U8IZn3r2Q2b-X-DVfW_g3X3PRbcnQlfDccoZoDntgBxIBAwwWbXqL2nxmRzMEcVRLhKmkSQHlXB7G4BR4ZUgeMJE7GI--6ICY3MqdtwquOcloTGM4mVqxNbChSDxsOF8MhWmonS75y0Uk2FbHQ-jczH-hq9PzJjc47M-MRRw02s3EZFiz0HWtFlj_gU4gtMq3N7EWN0R0Xn2GJg_lA6me9c2lRiEAA89V_-QdLf6a0T4aAyy6tgU1jMR0561Ke3AJejmQCdsLRKoXEInPVB7BdajKxy7_5VtPGYD__17_lLdD2aG5BH1m_6ZIVe-SfZt5t43fItWxwcvOvkIn70LKDr7jzH5ltwcxmHW4u9f-et3qow3NavcdjlfRjJ_rtI1NcingDcPN1L-LxenR8vYusrGfGR-lB_ik7padqv1yFN1ZZSx-pJ-qgyb9x2vTvcWHlvQve4-09ikNlR8pOQXL2AfNckEZ6v-FB7bSb2mPquELN68vz1CqHq_Ki5LzUR5rdRCeg3kodN1S75bIc3Yu2ehSevIb2tn3ijtQB6t2TFYWlxgoUjt6tVeZ14EP7tGoH6h7EzMoODGYreVeaF6J1dvWVeWyf2nJWNWfnM_j5BzStTbigBQAA!~|Htgx_price!~|I8131.41!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "DOUBLE GUEST ROOM WITH BALCONY (2AD)",
+            "provider": "Illusions",
+            "providerHotelId": "214-486748",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 67,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d214-486748!~|e7!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32796!~|m214-486748!~|n7!~|nILS!~|o1!~|p1!~|x30071156!~|M8765.46!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A402322031!~|B402322031!~|C30|30!~|EDOUBLE GARDEN VIEW 2AD!~|FDOUBLE GARDEN VIEW 2AD!~|G1!~|U2,8765.46,1816646400!~|HcityCode!~|IAUH!~|HtokenNumber!~|ITRA_STG: 20260730_115634!~|HroomConfig!~|I1#7#402322031#2053/H4sIAAAAAAAAA4VUy5abOBD9oGywjXPiRRYYCSzGEo2QhNGuMWnMy91nbDePr49UpJOZRZKFjnSqbt1bqirp2xQ9nQ_8rVhvU53pSPvkM2noTE7bL7nwLi_XsabNeYiRN4JtJhuKqiH2g08vYTKyBrsG7VqfltGks-Bf3gdzCf58ALtT-nZ_xj_2TD1g75TggLsBrkB0YiJZw1ngNRXVTJvK5vBIrlGXZ_cwPzEH_B33xUys752mhuOw5PcN0YGi80iFBB4hyBQL8mCotdiYWj286_NsnLWNC_ZKOon1cYuXDdxZ2LOy2MPrSBz-pGREebo_JCrCXLqVartATd6USIjdc7xTSTsGBJd72fJA1PsslepEULSHO-IIi5XyBZYVd4KUYxWTQEdcnSvaBtjqJTMdXkz-9szlXzXDv2ueoSZK4BsV3nBEplciX8eIOBTBPclSj_ZXHxX3iaAXhcklb3KHia6OM3mPQzpo3xlplo9H0XVxRu901m0uLh0TrKYomSFWuhCbSB0SW1_8CjmkM-jRRa9abIpPZSat_R_oIb6BXfzIjc0ezGEqcEMm4BoWLvxfrg1d5jRiSLrMd7cwmz-x3v-xCGYmouLsmlkbGao2bPoTvlrwve4palc6y--sUR2tHUdncn0UrakpvbMej2ydzExQVzfVFriWWTouXMPCj8xbgrt2XVH_RvfAn1Kb00Eh8y4fOmNOsYmgFuXCuYFZh7mHWoxLnJ3xoT76UVqsd_dkvWt1at5z-8dZsvh92QdvRRjURag-YlfFNanjfrsqwuFGuqjTV_XQgJF1fIXe3Ui7Mu9yTEzs40OPTUMt-917Idl70es3vVFTfoI_Bv4Xmhr_hl_OV46NvSPNq_ljvIlNjvlXnIGqxLzh12X5xGgYXcwvpdWtyWR6uDkKz7VLIW-Im2WReqjTcGf6Mpq6ffBi5ygSlzVnJwaureHpTF7B7fnEtxbDHQI10Ad1KzF7L7OtY-yTsaHnsLtpHFz1idZxdy9fkq9fvwMu7pU2NAUAAA!~|Htgx_price!~|I8765.46!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "DOUBLE GARDEN VIEW 2AD",
+            "provider": "Illusions",
+            "providerHotelId": "214-486748",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 68,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d214-486748!~|e11!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32796!~|m214-486748!~|n11!~|nILS!~|o1!~|p1!~|x30071156!~|M8509.06!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A1324760264!~|B1324760264!~|C30|30!~|EDOUBLE GUEST ROOM WITH BALCONY (2AD)!~|FDOUBLE GUEST ROOM WITH BALCONY (2AD)!~|G1!~|U2,8509.06,1816646400!~|HcityCode!~|IAUH!~|HtokenNumber!~|ITRA_STG: 20260730_115634!~|HroomConfig!~|I1#11#1324760264#2053/H4sIAAAAAAAAA51UTZPbKBD9QXvBlpwaHXKQBbLRGGQQIItbZGX06ZmptWck-dcvoEmyqU2lanOgkLpfPx5Nd3-dk-N5z1_L9SbTuU50hD_hjtzxafNQiLB5ep5a0p3HFIaTs92xR2A9plH819OOTbRDvkH71qdl05Q7_cQuQXO-MBt7IQ5X7Vlr9-ZjH4bS7a9KAof7e8GNd9JJQJ0P_MRd9v_hflMoORKHfXDazhBZu4kJR3pHExWF_aekwzPNfEDtGcgfLVasdVPu6WC_ZawEt77YxWdOS0zst7T-rx3qOAoU66cYo0pxRSWOk6MAoFZgkFm0jZicoAAbjaN6ZpK92jgm-VHJhPBsu1dSCRVtMwECiuMqUaiuWR8TBoI0z8IX0sfoMbP6EiRWKhJI1nylYrliteyDo8i2p0xxjFGyFYgexdDXjzDZ8qi3OiG5bx_Mve13_Cdaef8nWs8u70qgKxHheIDmvUSxTiEGBDot2OUS9T_eUvEIC9wohJuiKwAVQ5vm8pbuyKgjMJG8mA5iGNKc3Mhd94VoBipoSyC7u1jpu1gm9Q47DS9OQ7bcnSzn1YtN8bnKpbU_Eoe9Orv40EbvoavzTCBTIY5rXLjQv7k8svRBQiFbkcj3Xe1_x4Y_YyF2WCLOPhWmP2Dt0fl3-HrBX_SFwH6l8-JGOzWQFgCdy_VB9Can5EYvpp7X7E4F8XVXbxxX57gOC9e48EPTq-6uHz32q3P3_JhZTXsFTd-_6ZyC0ktcLqqF03N1b3n2LhfTEmdrbWwPUZKV6-DG1kGvMzMv_nft4Cvu43WRD9ciT65aJe_legVLT71VZv6Uz-paRmMrL-pS5ZveYcw51T5Z6WxsRa6aMt6a2I3RzwfcvUwks_jgvZT0vbzoV-2puTi5ueZmmvN7vDk_c2TsNsbMtXCmMzCzDIxEsZHAl2VFVp9604g31U62aYtn867eQYS-XQqGY9otC7djm-0C81bTNy2GF4GDYD7tziB1XBvDMxhd8fXLiW8shgNs87jVe3WtEH039wTGPhsb_LIbrhrFz_pE2nS4VU_s8-d_AGJ6LZaoBQAA!~|Htgx_price!~|I8509.06!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "DOUBLE GUEST ROOM WITH BALCONY (2AD)",
+            "provider": "Illusions",
+            "providerHotelId": "214-486748",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 69,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d214-486748!~|e11!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32796!~|m214-486748!~|n11!~|nILS!~|o1!~|p1!~|x30071156!~|M9225.02!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A402322031!~|B402322031!~|C30|30!~|EDOUBLE GARDEN VIEW 2AD!~|FDOUBLE GARDEN VIEW 2AD!~|G1!~|U2,9225.02,1816646400!~|HcityCode!~|IAUH!~|HtokenNumber!~|ITRA_STG: 20260730_115634!~|HroomConfig!~|I1#11#402322031#2053/H4sIAAAAAAAAA4VU23KbOhT9oL5gbDrxQx_ACFscSwQhCaO3Aom5OplDYi5fX2mTdpo5c9oHRmLvtda-jp7m8LE4sdfcdhKVqlAd8FfckAVfnIeMu9XzbapJU4yR705gW_CW-NcxOgRfno_xRBu00-id8SlRVflRPcf9vir62HB7ArjyFNfmrD7OrsvhfJXCAty_K25cSCMsCj7rk3be_kf7XaLwkQD2AXIrfGTsmuOOdEET5Zn5p6SJJ1LvbNBFu9Fgua2q_EQ7cxeB5MzED4CfQC4BMXdh_E8Nahjay7idAoxKT7Qs4LWXJkJesB96wEUB4ht54EhcmRUkDMkIBypksriSNkBGJ27ZoxQhYYl3imWImNhdZdsFcnbnWEBNPlm8B52_uQd_j6n-GpMtUJMkyTgR3x0Iv-q-ZjvdkxHqRFfoR8KRrX26_9dKIlzRQyD0rGraxJsoxY5KrF22eO2Zo0k16C1KhZPN1kJ7VkVHsSE2HqlPgMtr4HqszSrQbiCH8xpvXOOtswrlKdyoxNhfYIbJmi_5yE3vGswhJAlpVi131Up-1yqmFd9akY8354bMn7Cf4hYj7AxqJ7pcN9RHmlNs_4SPVu1Z9dkYcdmp2rJpKuYzZ53i2Vuke0pmy8442iqfbMhS9ZHfGq1_Vq1h3Tkf9DFdXAe0U_n-f3FLtD_DKeg9750u27J7cYNe2IA7FeYOOoXpxQkB78ncD3jAXXjP7Y2f26zDzUv9513S-Daws7QbsjQclPzgbuV7qd-D_CaH_DDWopd9mTotYBL8tYTZjTVPZZUHnuY6P-NNet80fn_PIX_1qrZyzi7wzsAbA_4tq4obQ9oOOZLGnels6X5bI5F6P_2X9YP85LtCrCqPoo5qPBMfb8_c3ZlP-u4YNeuH67FOjntLpdOv2kmDrDOPd7QprAi0HK3T6byC4fuFOdAfC9fnQ-ipkxxKRO-6TkvbZ23zvx-7QaHgpi6kjrq38jn-9u0HX-KMsDgFAAA!~|Htgx_price!~|I9225.02!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "DOUBLE GARDEN VIEW 2AD",
+            "provider": "Illusions",
+            "providerHotelId": "214-486748",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 70,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d214-486748!~|e17!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32796!~|m214-486748!~|n17!~|nILS!~|o1!~|p1!~|x30071156!~|M16268.97!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A1324760264!~|B1324760264!~|C30|30!~|EDOUBLE GUEST ROOM WITH BALCONY (2AD)!~|FDOUBLE GUEST ROOM WITH BALCONY (2AD)!~|G1!~|U2,16268.97,1816646400!~|HcityCode!~|IAUH!~|HtokenNumber!~|ITRA_STG: 20260730_115634!~|HroomConfig!~|I1#17#1324760264#2053/H4sIAAAAAAAAA51UTXOjOBD9QXuRbdiKD3PASBgRS1hCEka3wUwwH05cixPAv34lkf2Yqq2Z2jmoBK3Xr1-31P1tTo7nmN_KtZ_pXCc6xL_jljzwyX8qRHB5eZ0a0p7HFAaTsz3whsB6TMPot5c9m2iLPIP27JmW0VBG26S80qE60Vt1VS8sn4YTWPVFPlquK3F-Vcwau18-974v3X5TEjCL-2PBjQ_SSkDdGfguVtn9NNa7QsmRON8np_0MkbUbjmCkDzRRUdh_SiFe0dDzXU7IGy1WrPWljGlvv2WkBLdnkfPPnLaI2G9pz7-1qOVoq1g3RRhViisqcZQcBQC1Ar3Mwl3I5AQF8DUO65lJdrN-TPKjkgnh2S5WUgkV7jIBthRHVaJQXbMuIgxs0zwL3kgXoefM6kuQWKlQIFnzlYrkitWy2x5FtjtlimOMkp1A9Cj6rn6GyY6HndUJyWP3ZPK239GvaOXdr2g9u7orgQYigvEAzf2JYp1CDAh0WrCrJer-uVvFQyzkRSF8KdoCUNE3aS7v6Z6MOgQTyYvpIPo-zcmdPHRXiEtPBW0IZA_nKz3ny6TeY6fhzWnIltzJEq9ebIrPVS6t_Zk47ODs4lMbfQSuDzKBWjw7rnHhQv_m2pClT5IUyjHNPN-917-xwfdYiB2WiLNHhekfWG_o_CN8veCv-kpgt9J5caet6kkDgM7l-iA6U1Nyp1fzntfsQQXxdFv7jqt1XIeFa1z4oelll-tnz_1X3JgfM6spVtDMhXedU1BuEleLauHcuHdveWJXi2nxs29tbA5hkpXr7Z2tt53OzDz5328HD7iL1kXeD0WeDFolH-V6BcuNeq_MfCpf1VCGYyOv6lrlfucwJk4VJyudjY3I1aWMdsbXN_p5j9u3ic4Wv_0oJf0or_qmN2ouTm7uuZlHjJ_c8Mv5lSNjtz5m7gUznYGZdWAkio0Evi0rtPrUu0b8Uu1lkzZ4Nve6OYjAs0vBYEzbZeFmbLL91tzV9JcWw4vAQTCPtmeQOi7f8PRGVzR8PXHfYjjAto47HauhQvTD5AmMfTY2-HXfDxpFr_pEmrS_Vy_sy5c_AUm-aOPIBQAA!~|Htgx_price!~|I16268.97!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "DOUBLE GUEST ROOM WITH BALCONY (2AD)",
+            "provider": "Illusions",
+            "providerHotelId": "214-486748",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 71,
+            "code": "33!~|a0!~|b270801!~|c270808!~|d214-486748!~|e17!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l32796!~|m214-486748!~|n17!~|nILS!~|o1!~|p1!~|x30071156!~|M16900.08!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1!~|A402322031!~|B402322031!~|C30|30!~|EDOUBLE GARDEN VIEW 2AD!~|FDOUBLE GARDEN VIEW 2AD!~|G1!~|U2,16900.08,1816646400!~|HcityCode!~|IAUH!~|HtokenNumber!~|ITRA_STG: 20260730_115634!~|HroomConfig!~|I1#17#402322031#2053/H4sIAAAAAAAAA4VUy3LjKhD9oNnIsjQVL2YhG7DRNShCgCx2Iymxnk7qKrEeXz-AMlM3iztZUDTN6dOH7i6e5vCxOLHX3PUTlapQHfB33JAFX_yHjAfV822qSVOMEQgm61vwloDrGB3Qt-djPNEGehrtmTsl0JCjXZj3dCgv9LXs5XOcTsPF2XRZOhqunti48hTXZq8-9q7L7f4qhRMb3L8rblxIIxxq75xPufL2y1zvEoaPxMY-WO0FgMavOYKRLnCiPDNnSkE8k4M3Wiz0RoPlrqryE-2MLZDkzOhBNj6x2hAxtjD3Tw1sGNzJuJ0QhuVetAzxep8mQl4wCPc2FiLIN_LAobgyByUMyggjFTJZXEmLoOGJW_YoRUhYsj_FMoRMeFfZdkjOwRwLWxdAlv2D1m9s9HVO9WVOttg3SZKMEwHBQPhV1znzSBOP9p3wauuRcOjqO92PayUhrnRPhO5dTZt4E6XYV4njZcu-PXM4qQa-Ranws9lZaM-q6Cg2xMUjBcTG8jV2z9qsstyN1XBe841rvrVXoTyFG5UY_4vtYbLqJR_a9CzaPoQkIc3KFaxcyX-5imnFt14E4vHcBM4n7Ke8xccctBNdrhsKoBOBYvs3fLRyz6rPxojLTtWOS1MxnznrFM_eIl1TMjtuxuFWAbIhS9VHoDVc_6xcwzpzwPJjugS-5U7l-__lLeHubHdB73nvd9mW3YubrYVrcafC2JanMLU4QRv3ZOwDHnAX3nN3A3KXdbh5qf8-SxrfIjdLuyFLw0HJj9itfC_1f5Hf5JAfxlr0si9Tv7WYBH8vbe_GmqeyytFex_q_8010NvjdPbf61avayjm72H_I_kF6HmuxZVVxY1D7rUbSBDOdHV1vZyRSzyd4WZfVJ98VZFV5FHVU45kAvD3zwDNLgmCMmnXheqyT485R6fTn7aSBzpnHHm0KJ7JcvubptC40_Lww39bHwfX5EO7VSQ4lpHf9Tkf7Z-0DP4_doCC6qQupo-6tfI5__PgFNpZ4a1gFAAA!~|Htgx_price!~|I16900.08!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+            "roomName": "DOUBLE GARDEN VIEW 2AD",
+            "provider": "Illusions",
+            "providerHotelId": "214-486748",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 72,
+            "code": "24889188/7264487672904980555/13",
+            "roomName": "DOUBLE GUEST ROOM WITH BALCONY (2AD) -",
+            "provider": "GoGlobal",
+            "providerHotelId": "536756",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 73,
+            "code": "19659092/7264487672904980555/39",
+            "roomName": "Guest Room with Balcony Double",
+            "provider": "GoGlobal",
+            "providerHotelId": "536756",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 74,
+            "code": "24889188/7264487672904980555/11",
+            "roomName": "DOUBLE GUEST ROOM WITH BALCONY (2AD) -",
+            "provider": "GoGlobal",
+            "providerHotelId": "536756",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 75,
+            "code": "24889188/7264487672904980555/8",
+            "roomName": "DOUBLE GARDEN VIEW 2AD -",
+            "provider": "GoGlobal",
+            "providerHotelId": "536756",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 76,
+            "code": "30213906/7264487672904980555/565",
+            "roomName": "Guest Room with Balcony Double Guest Room with Balcony",
+            "provider": "GoGlobal",
+            "providerHotelId": "536756",
+            "boardBasis": "Bed and Breakfast",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 77,
+            "code": "24889188/7264487672904980555/12",
+            "roomName": "DOUBLE GARDEN VIEW 2AD -",
+            "provider": "GoGlobal",
+            "providerHotelId": "536756",
+            "boardBasis": "Half Board",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 78,
+            "code": "24889188/7264487672904980555/9",
+            "roomName": "DOUBLE GUEST ROOM WITH BALCONY (2AD) -",
+            "provider": "GoGlobal",
+            "providerHotelId": "536756",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        },
+        {
+            "index": 79,
+            "code": "24889188/7264487672904980555/10",
+            "roomName": "DOUBLE GARDEN VIEW 2AD -",
+            "provider": "GoGlobal",
+            "providerHotelId": "536756",
+            "boardBasis": "All Inclusive",
+            "beds": null,
+            "roomDescription": null
+        }
+    ]
+}

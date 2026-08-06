@@ -6,6 +6,7 @@ from app.services.dataset_store import (
 )
 from app.services.training_pair_generator import (
     deduplicate_pairs,
+    generate_easy_negative_pairs,
     generate_hard_negative_pairs,
     generate_positive_pairs,
 )
@@ -87,6 +88,14 @@ def build_training_dataset():
             positive_pairs = deduplicate_pairs(
                 raw_positive_pairs
             )
+            raw_easy_negative_pairs = generate_easy_negative_pairs(
+                input_data=case["input"],
+                vervotech_response=case["vervotech"],
+            )
+
+            easy_negative_pairs = deduplicate_pairs(
+                raw_easy_negative_pairs
+            )
 
             raw_negative_pairs = generate_hard_negative_pairs(
                 input_data=case["input"],
@@ -127,13 +136,26 @@ def build_training_dataset():
                         "label": 0,
                     }
                 )
+            for pair in easy_negative_pairs:
+                all_pairs.append(
+                    {
+                        "case_id": case_id,
+                        "hotel_id": hotel_id,
+                        "room_a_index": pair["room_a_index"],
+                        "room_b_index": pair["room_b_index"],
+                        "room_a_name": pair["room_a_name"],
+                        "room_b_name": pair["room_b_name"],
+                        "fuzzy_score": pair["fuzzy_score"],
+                        "label": 0,
+                    }
+                )
 
             print(
                 f"{case_id}: "
                 f"{len(positive_pairs)} positive, "
-                f"{len(negative_pairs)} negative"
+                f"{len(negative_pairs)} hard negative, "
+                f"{len(easy_negative_pairs)} easy negative"
             )
-
         except Exception as error:
             print(f"FAILED: {case_id}")
             print(f"Error: {error}")
@@ -175,6 +197,19 @@ def build_training_dataset():
         for pair in all_pairs
         if pair["label"] == 0
     )
+    hard_negative_count = sum(
+        1
+        for pair in all_pairs
+        if pair["label"] == 0
+        and float(pair["fuzzy_score"]) >= 70
+    )
+
+    easy_negative_count = sum(
+        1
+        for pair in all_pairs
+        if pair["label"] == 0
+        and float(pair["fuzzy_score"]) < 70
+    )
 
     print("\n")
     print("#" * 70)
@@ -184,6 +219,8 @@ def build_training_dataset():
     print(f"Total pairs: {len(all_pairs)}")
     print(f"Positive pairs: {positive_count}")
     print(f"Negative pairs: {negative_count}")
+    print(f"Hard negative pairs: {hard_negative_count}")
+    print(f"Easy negative pairs: {easy_negative_count}")
     print(f"Saved to: {OUTPUT_FILE}")
 
 

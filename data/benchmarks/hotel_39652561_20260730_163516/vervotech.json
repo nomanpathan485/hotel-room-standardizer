@@ -1,0 +1,1483 @@
+{
+    "standardRooms": [
+        {
+            "id": "39652561-64",
+            "standardName": "Junior Suite, Central Park View",
+            "masterTitle": "Jr. Suite Central Park View",
+            "category": "Junior Suite",
+            "view": "Central Park",
+            "beds": [
+                {
+                    "type": "King",
+                    "count": 1
+                }
+            ],
+            "bedInfo": "King",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 1,
+                    "roomCode": "1336950816-559",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 14,
+                    "roomCode": "1157325!TB!34!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 15,
+                    "roomCode": "1157325!TB!16!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 24,
+                    "roomCode": "1157325!TB!38!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 25,
+                    "roomCode": "1157325!TB!11!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 27,
+                    "roomCode": "1157325!TB!39!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 60,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p0!~|x30071102!~|r240594418064056287!~|s240594418064056287!~|M57539.14!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#240594418064056287!~|A23742641!~|B23742641!~|C30|30!~|EJunior Suite Central Park View King!~|FJunior Suite Central Park View King!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I57539.14!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 65,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r-885980312808551731!~|s-885980312808551731!~|M67676.92!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-885980312808551731!~|A23742641!~|B23742641!~|C30|30!~|EJunior Suite Central Park View King!~|FJunior Suite Central Park View King!~|G1!~|U2,11279.47,1790622000|2,67676.92,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I67676.92!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 85,
+                    "roomCode": "25203656/6756350443216466365/721",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 90,
+                    "roomCode": "32671403/6756350443216466365/1308",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [
+                {
+                    "name": "Internet"
+                },
+                {
+                    "name": "Television"
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "RoomSize",
+                    "value": "500 SQFT"
+                }
+            ],
+            "occupancyType": "Triple"
+        },
+        {
+            "id": "39652561-62",
+            "standardName": "Junior Suite, City View",
+            "masterTitle": "Jr. Suite City View",
+            "category": "Junior Suite",
+            "view": "City",
+            "beds": [
+                {
+                    "type": "King",
+                    "count": 1
+                }
+            ],
+            "bedInfo": "King",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 2,
+                    "roomCode": "1336950816-561",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 12,
+                    "roomCode": "1157325!TB!31!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 13,
+                    "roomCode": "1157325!TB!43!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 18,
+                    "roomCode": "1157325!TB!12!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 21,
+                    "roomCode": "1157325!TB!37!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 23,
+                    "roomCode": "1157325!TB!30!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 59,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p0!~|x30071102!~|r-1287570009878799919!~|s-1287570009878799919!~|M55359.18!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-1287570009878799919!~|A23599276!~|B23599276!~|C30|30!~|EJunior Suite City View King!~|FJunior Suite City View King!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I55359.18!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 63,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r-1620067876942302532!~|s-1620067876942302532!~|M65112.24!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-1620067876942302532!~|A23599276!~|B23599276!~|C30|30!~|EJunior Suite City View King!~|FJunior Suite City View King!~|G1!~|U2,10852.04,1790622000|2,65112.24,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I65112.24!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 81,
+                    "roomCode": "25203656/6756350443216466365/720",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 84,
+                    "roomCode": "32671403/6756350443216466365/1310",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [
+                {
+                    "name": "Internet"
+                },
+                {
+                    "name": "Television"
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "RoomSize",
+                    "value": "500 SQFT"
+                }
+            ],
+            "occupancyType": "Triple"
+        },
+        {
+            "standardName": "Central Park Suite, Accessible",
+            "category": "Central Park Suite",
+            "beds": [
+                {
+                    "type": "King",
+                    "count": 1
+                }
+            ],
+            "bedInfo": "King",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 3,
+                    "roomCode": "1336950816-562",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 33,
+                    "roomCode": "1157325!TB!44!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 36,
+                    "roomCode": "1157325!TB!27!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 37,
+                    "roomCode": "1157325!TB!47!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 39,
+                    "roomCode": "1157325!TB!15!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 42,
+                    "roomCode": "1157325!TB!25!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 69,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p0!~|x30071102!~|r2097316267151503012!~|s2097316267151503012!~|M96834.73!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#2097316267151503012!~|A23742644!~|B23742644!~|C30|30!~|EAccessible Central Park Suite King!~|FAccessible Central Park Suite King!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I96834.73!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 71,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r-7078615301016718530!~|s-7078615301016718530!~|M113898.19!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-7078615301016718530!~|A23742644!~|B23742644!~|C30|30!~|EAccessible Central Park Suite King!~|FAccessible Central Park Suite King!~|G1!~|U2,18983.03,1790622000|2,113898.19,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I113898.19!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 95,
+                    "roomCode": "25203656/6756350443216466365/719",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 97,
+                    "roomCode": "32671403/6756350443216466365/1304",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "Accessible",
+                    "value": "Yes"
+                }
+            ]
+        },
+        {
+            "standardName": "Junior Suite, City View, Highfloor",
+            "category": "Junior Suite",
+            "view": "City",
+            "roomLocation": "Highfloor",
+            "beds": [
+                {
+                    "type": "King",
+                    "count": 1
+                }
+            ],
+            "bedInfo": "King",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 4,
+                    "roomCode": "1336950816-565",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 16,
+                    "roomCode": "1157325!TB!8!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 17,
+                    "roomCode": "1157325!TB!13!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 26,
+                    "roomCode": "1157325!TB!46!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 28,
+                    "roomCode": "1157325!TB!1!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 29,
+                    "roomCode": "1157325!TB!14!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 61,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p0!~|x30071102!~|r-5800062922459380115!~|s-5800062922459380115!~|M58892.52!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-5800062922459380115!~|A23742643!~|B23742643!~|C30|30!~|EJunior Suite City View Upper Floor!~|FJunior Suite City View Upper Floor!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I58892.52!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 66,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r8523417562443359457!~|s8523417562443359457!~|M69269.34!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#8523417562443359457!~|A23742643!~|B23742643!~|C30|30!~|EJunior Suite City View Upper Floor!~|FJunior Suite City View Upper Floor!~|G1!~|U2,11544.89,1790622000|2,69269.34,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I69269.34!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 86,
+                    "roomCode": "25203656/6756350443216466365/717",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 91,
+                    "roomCode": "32671403/6756350443216466365/1307",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Manhattan Suite, 2 Bedroom",
+            "category": "Manhattan Suite",
+            "beds": [],
+            "bedroomCount": 2,
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 5,
+                    "roomCode": "1336950816-567",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 49,
+                    "roomCode": "1157325!TB!20!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 56,
+                    "roomCode": "1157325!TB!21!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 75,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p0!~|x30071102!~|r-8964552453488749087!~|s-8964552453488749087!~|M153136.52!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-8964552453488749087!~|A23742639!~|B23742639!~|C30|30!~|EManhattan Two Bedroom Suite!~|FManhattan Two Bedroom Suite!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I153136.52!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 79,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r-720585825386269189!~|s-720585825386269189!~|M180126.24!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-720585825386269189!~|A23742639!~|B23742639!~|C30|30!~|EManhattan Two Bedroom Suite!~|FManhattan Two Bedroom Suite!~|G1!~|U2,30021.04,1790622000|2,180126.24,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I180126.24!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 106,
+                    "roomCode": "25203656/6756350443216466365/716",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Junior Suite, Central Park View, Highfloor",
+            "category": "Junior Suite",
+            "view": "Central Park",
+            "roomLocation": "Highfloor",
+            "beds": [
+                {
+                    "type": "King",
+                    "count": 1
+                }
+            ],
+            "bedInfo": "King",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 6,
+                    "roomCode": "1336950816-569",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 20,
+                    "roomCode": "1157325!TB!42!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 22,
+                    "roomCode": "1157325!TB!40!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 30,
+                    "roomCode": "1157325!TB!17!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 31,
+                    "roomCode": "1157325!TB!18!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 32,
+                    "roomCode": "1157325!TB!3!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 64,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p0!~|x30071102!~|r3214611711455242338!~|s3214611711455242338!~|M65587.22!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#3214611711455242338!~|A23742642!~|B23742642!~|C30|30!~|EJunior Suite Central Park View Upper Floor King!~|FJunior Suite Central Park View Upper Floor King!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I65587.22!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 67,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r-8734068048771885370!~|s-8734068048771885370!~|M77145.72!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-8734068048771885370!~|A23742642!~|B23742642!~|C30|30!~|EJunior Suite Central Park View Upper Floor King!~|FJunior Suite Central Park View Upper Floor King!~|G1!~|U2,12857.62,1790622000|2,77145.72,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I77145.72!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 92,
+                    "roomCode": "25203656/6756350443216466365/714",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 93,
+                    "roomCode": "32671403/6756350443216466365/1306",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Central Park Suite, Terrace",
+            "category": "Central Park Suite",
+            "beds": [
+                {
+                    "type": "King",
+                    "count": 1
+                }
+            ],
+            "bedInfo": "King",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 7,
+                    "roomCode": "1336950816-570",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": [
+                        {
+                            "key": "HasTerrace",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 44,
+                    "roomCode": "1157325!TB!7!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": [
+                        {
+                            "key": "HasTerrace",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 45,
+                    "roomCode": "1157325!TB!6!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": [
+                        {
+                            "key": "HasTerrace",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 51,
+                    "roomCode": "1157325!TB!23!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": [
+                        {
+                            "key": "HasTerrace",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 52,
+                    "roomCode": "1157325!TB!33!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": [
+                        {
+                            "key": "HasTerrace",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 53,
+                    "roomCode": "1157325!TB!36!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": [
+                        {
+                            "key": "HasTerrace",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 73,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p0!~|x30071102!~|r-8882739724848429996!~|s-8882739724848429996!~|M141457.14!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-8882739724848429996!~|A23742646!~|B23742646!~|C30|30!~|ECentral Park Suite King with Terrace!~|FCentral Park Suite King with Terrace!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I141457.14!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": [
+                        {
+                            "key": "HasTerrace",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 77,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r8431853919893948318!~|s8431853919893948318!~|M166395.13!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#8431853919893948318!~|A23742646!~|B23742646!~|C30|30!~|ECentral Park Suite King with Terrace!~|FCentral Park Suite King with Terrace!~|G1!~|U2,27732.52,1790622000|2,166395.13,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I166395.13!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": [
+                        {
+                            "key": "HasTerrace",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 103,
+                    "roomCode": "25203656/6756350443216466365/713",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": [
+                        {
+                            "key": "HasTerrace",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "inputIndex": 104,
+                    "roomCode": "32671403/6756350443216466365/1302",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": [
+                        {
+                            "key": "HasTerrace",
+                            "value": "Yes"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "HasTerrace",
+                    "value": "Yes"
+                }
+            ]
+        },
+        {
+            "standardName": "Suite, 2 Bedroom",
+            "category": "Suite",
+            "beds": [
+                {
+                    "type": "King",
+                    "count": 2
+                }
+            ],
+            "bedroomCount": 2,
+            "bedInfo": "2 King",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 8,
+                    "roomCode": "1336950816-572",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 47,
+                    "roomCode": "1157325!TB!45!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 55,
+                    "roomCode": "1157325!TB!22!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 58,
+                    "roomCode": "1157325!TB!32!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 74,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p0!~|x30071102!~|r7393092066779521966!~|s7393092066779521966!~|M153136.52!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#7393092066779521966!~|A24638834!~|B24638834!~|C30|30!~|ESuite, 2 Bedrooms (Manatthan, 2 King)!~|FSuite, 2 Bedrooms (Manatthan, 2 King)!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I153136.52!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 78,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r-4915880597766763014!~|s-4915880597766763014!~|M180126.24!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-4915880597766763014!~|A24638834!~|B24638834!~|C30|30!~|ESuite, 2 Bedrooms (Manatthan, 2 King)!~|FSuite, 2 Bedrooms (Manatthan, 2 King)!~|G1!~|U2,30021.04,1790622000|2,180126.24,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I180126.24!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 105,
+                    "roomCode": "25203656/6756350443216466365/712",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "id": "39652561-67",
+            "standardName": "Manhattan Suite",
+            "masterTitle": "Manhattan Suite",
+            "category": "Manhattan Suite",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 9,
+                    "roomCode": "1336950816-574",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 99,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 43,
+                    "roomCode": "1157325!TB!41!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 99,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 48,
+                    "roomCode": "1157325!TB!29!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 50,
+                    "roomCode": "1157325!TB!19!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 99,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 72,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p0!~|x30071102!~|r1596255011278153259!~|s1596255011278153259!~|M131282.76!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#1596255011278153259!~|A23742645!~|B23742645!~|C30|30!~|EManhattan Suite!~|FManhattan Suite!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I131282.76!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 99,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 76,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r366513867221890697!~|s366513867221890697!~|M154425.01!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#366513867221890697!~|A23742645!~|B23742645!~|C30|30!~|EManhattan Suite!~|FManhattan Suite!~|G1!~|U2,25737.50,1790622000|2,154425.01,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I154425.01!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 99,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 101,
+                    "roomCode": "25203656/6756350443216466365/711",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 99,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 102,
+                    "roomCode": "32671403/6756350443216466365/1303",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "id": "39652561-66",
+            "standardName": "Junior Suite, Accessible, City View",
+            "masterTitle": "Jr. Suite City View Accessible",
+            "category": "Junior Suite",
+            "view": "City",
+            "beds": [
+                {
+                    "type": "King",
+                    "count": 1
+                }
+            ],
+            "bedInfo": "King",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 10,
+                    "roomCode": "1336950816-576",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 19,
+                    "roomCode": "1157325!TB!4!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 62,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r-3308282100499478691!~|s-3308282100499478691!~|M65112.24!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#-3308282100499478691!~|A25771319!~|B25771319!~|C30|30!~|EJunior Suite, 1 King Bed, City View (Accessible)!~|FJunior Suite, 1 King Bed, City View (Accessible)!~|G1!~|U2,10852.04,1790622000|2,65112.24,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I65112.24!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 80,
+                    "roomCode": "25203656/6756350443216466365/718",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 82,
+                    "roomCode": "27672864/6756350443216466365/1325",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "facilities": [
+                {
+                    "name": "Internet"
+                },
+                {
+                    "name": "Television"
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "Accessible",
+                    "value": "Yes"
+                },
+                {
+                    "key": "RoomSize",
+                    "value": "550 SQFT"
+                }
+            ],
+            "occupancyType": "Triple"
+        },
+        {
+            "standardName": "Central Park Suite",
+            "category": "Central Park Suite",
+            "beds": [
+                {
+                    "type": "King",
+                    "count": 1
+                }
+            ],
+            "bedInfo": "King",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 11,
+                    "roomCode": "1336950816-578",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 34,
+                    "roomCode": "1157325!TB!35!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 35,
+                    "roomCode": "1157325!TB!26!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 38,
+                    "roomCode": "1157325!TB!2!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 40,
+                    "roomCode": "1157325!TB!28!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 41,
+                    "roomCode": "1157325!TB!5!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 68,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p0!~|x30071102!~|r8582804220502371972!~|s8582804220502371972!~|M96834.73!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#8582804220502371972!~|A22515474!~|B22515474!~|C30|30!~|ECentral Park Suite King!~|FCentral Park Suite King!~|G1!~|Hcurrency!~|IAED!~|Htgx_price!~|I96834.73!~|tOK!~|uSith!~|v0!~|w!~|yNON_REFUNDABLE!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 70,
+                    "roomCode": "33!~|a0!~|b261001!~|c261007!~|d1815!~|e1!~|f0!~|gES!~|hGB!~|ien!~|jAED!~|k0!~|l33343!~|m1815!~|n1!~|nDIDA!~|o1!~|p1!~|x30071102!~|r6642855564923845218!~|s6642855564923845218!~|M113898.19!~|N0!~|Ofalse!~|PAED!~|Q!~|R0!~|S!~|T!~|z1#6642855564923845218!~|A22515474!~|B22515474!~|C30|30!~|ECentral Park Suite King!~|FCentral Park Suite King!~|G1!~|U2,18983.03,1790622000|2,113898.19,1790697600!~|Hcurrency!~|IAED!~|Htgx_price!~|I113898.19!~|tOK!~|uSith!~|v0!~|w!~|y!~|qHOTEL!~|q0!~|y!~|",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 94,
+                    "roomCode": "25203656/6756350443216466365/715",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 96,
+                    "roomCode": "27672864/6756350443216466365/1323",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 98,
+                    "roomCode": "32671403/6756350443216466365/1305",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 96,
+                    "cfs": 96,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Manhattan Suite, 1 King and 2 Twin, 2 Bedroom",
+            "category": "Manhattan Suite",
+            "beds": [
+                {
+                    "type": "King",
+                    "count": 1
+                },
+                {
+                    "type": "Twin",
+                    "count": 2
+                }
+            ],
+            "bedroomCount": 2,
+            "bedInfo": "1 King and 2 Twin",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 46,
+                    "roomCode": "1157325!TB!9!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 54,
+                    "roomCode": "1157325!TB!24!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 57,
+                    "roomCode": "1157325!TB!10!TB!1f8ec77b-8c06-11f1-ae6d-aa39ca19500c!TB!N!TB!AFF!",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                },
+                {
+                    "inputIndex": 107,
+                    "roomCode": "32671403/6756350443216466365/1300",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Junior Suite Cosmopolitan",
+            "category": "Junior Suite Cosmopolitan",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 83,
+                    "roomCode": "27672864/6756350443216466365/1326",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Junior Suite Manhattan, City/Park View",
+            "category": "Junior Suite Manhattan",
+            "view": "City/Park",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 87,
+                    "roomCode": "27672864/6756350443216466365/1324",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 97,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Junior Suite",
+            "category": "Junior Suite",
+            "beds": [
+                {
+                    "type": "King"
+                }
+            ],
+            "bedInfo": "King",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 88,
+                    "roomCode": "27672864/6756350443216466365/1444",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Junior Suite, Accessible, View",
+            "category": "Junior Suite",
+            "view": "view",
+            "beds": [],
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 89,
+                    "roomCode": "27672864/6756350443216466365/1445",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "Accessible",
+                    "value": "Yes"
+                }
+            ]
+        },
+        {
+            "standardName": "Suite, Accessible",
+            "category": "Suite",
+            "beds": [
+                {
+                    "type": "King"
+                }
+            ],
+            "bedInfo": "King",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 99,
+                    "roomCode": "27672864/6756350443216466365/1440",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": [
+                {
+                    "key": "Accessible",
+                    "value": "Yes"
+                }
+            ]
+        },
+        {
+            "standardName": "Suite, King",
+            "category": "Suite",
+            "beds": [
+                {
+                    "type": "King"
+                }
+            ],
+            "bedInfo": "King",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 100,
+                    "roomCode": "27672864/6756350443216466365/1441",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Suite, 2 King",
+            "category": "Suite",
+            "beds": [
+                {
+                    "type": "King",
+                    "count": 2
+                }
+            ],
+            "bedInfo": "2 King",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 108,
+                    "roomCode": "27672864/6756350443216466365/1438",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        },
+        {
+            "standardName": "Suite, 3 Bed",
+            "category": "Suite",
+            "beds": [
+                {
+                    "count": 3
+                }
+            ],
+            "bedInfo": "3 Bed",
+            "mappedRoomRates": [
+                {
+                    "inputIndex": 109,
+                    "roomCode": "27672864/6756350443216466365/1439",
+                    "boardBasis": "Room Only",
+                    "refundability": "Unknown",
+                    "isDefault": false,
+                    "matchScore": 100,
+                    "cfs": 100,
+                    "attributes": []
+                }
+            ],
+            "attributes": []
+        }
+    ],
+    "success": true,
+    "statusCode": 1000,
+    "message": "Success"
+}

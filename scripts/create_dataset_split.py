@@ -42,26 +42,91 @@ def get_hotel_stats():
 def create_split():
     hotel_stats = get_hotel_stats()
 
-    hotel_ids = list(hotel_stats.keys())
+    split_ratios = {
+        "train": 0.70,
+        "validation": 0.15,
+        "test": 0.15,
+    }
 
-    # Makes the random split repeatable.
+    total_pairs = sum(
+        stats["total"]
+        for stats in hotel_stats.values()
+    )
+
+    total_positive = sum(
+        stats["positive"]
+        for stats in hotel_stats.values()
+    )
+
+    total_negative = sum(
+        stats["negative"]
+        for stats in hotel_stats.values()
+    )
+
+    targets = {
+        split_name: {
+            "total": total_pairs * ratio,
+            "positive": total_positive * ratio,
+            "negative": total_negative * ratio,
+        }
+        for split_name, ratio in split_ratios.items()
+    }
+
     random.seed(RANDOM_SEED)
+
+    hotel_ids = list(hotel_stats.keys())
     random.shuffle(hotel_ids)
 
-    train_hotels = hotel_ids[:10]
-    validation_hotels = hotel_ids[10:12]
-    test_hotels = hotel_ids[12:]
+    # Large hotels are assigned first because they are
+    # the hardest hotels to place without breaking balance.
+    hotel_ids.sort(
+        key=lambda hotel_id: hotel_stats[hotel_id]["total"],
+        reverse=True,
+    )
 
-    splits = {
-        "TRAIN": train_hotels,
-        "VALIDATION": validation_hotels,
-        "TEST": test_hotels,
+    split_hotels = {
+        "train": [],
+        "validation": [],
+        "test": [],
     }
-    split_output = {
-        "train": train_hotels,
-        "validation": validation_hotels,
-        "test": test_hotels,
+
+    split_stats = {
+        split_name: {
+            "total": 0,
+            "positive": 0,
+            "negative": 0,
+        }
+        for split_name in split_ratios
     }
+
+    for hotel_id in hotel_ids:
+        hotel = hotel_stats[hotel_id]
+
+        best_split = None
+        best_score = None
+
+        for split_name in split_ratios:
+            candidate_stats = {
+                key: split_stats[split_name][key] + hotel[key]
+                for key in ("total", "positive", "negative")
+            }
+
+            score = sum(
+                (
+                    candidate_stats[key]
+                    / targets[split_name][key]
+                ) ** 2
+                for key in ("total", "positive", "negative")
+            )
+
+            if best_score is None or score < best_score:
+                best_score = score
+                best_split = split_name
+
+        split_hotels[best_split].append(hotel_id)
+
+        for key in ("total", "positive", "negative"):
+            split_stats[best_split][key] += hotel[key]
 
     with open(
         "data/dataset_split.json",
@@ -69,46 +134,46 @@ def create_split():
         encoding="utf-8",
     ) as file:
         json.dump(
-            split_output,
+            split_hotels,
             file,
             indent=4,
         )
 
-    for split_name, hotels in splits.items():
-        positive = sum(
-            hotel_stats[hotel]["positive"]
-            for hotel in hotels
-        )
-
-        negative = sum(
-            hotel_stats[hotel]["negative"]
-            for hotel in hotels
-        )
-
-        total = sum(
-            hotel_stats[hotel]["total"]
-            for hotel in hotels
-        )
+    for split_name, hotels in split_hotels.items():
+        stats = split_stats[split_name]
 
         print("\n" + "=" * 70)
-        print(split_name)
+        print(split_name.upper())
         print("=" * 70)
 
-        for hotel in hotels:
-            stats = hotel_stats[hotel]
+        for hotel_id in hotels:
+            hotel = hotel_stats[hotel_id]
 
             print(
-                f"{hotel} | "
-                f"Positive: {stats['positive']} | "
-                f"Negative: {stats['negative']} | "
-                f"Total: {stats['total']}"
+                f"{hotel_id} | "
+                f"Positive: {hotel['positive']} | "
+                f"Negative: {hotel['negative']} | "
+                f"Total: {hotel['total']}"
             )
+
+        pair_percentage = (
+            stats["total"] / total_pairs * 100
+        )
+
+        positive_percentage = (
+            stats["positive"] / total_positive * 100
+        )
 
         print("-" * 70)
         print(f"Hotels: {len(hotels)}")
-        print(f"Positive pairs: {positive}")
-        print(f"Negative pairs: {negative}")
-        print(f"Total pairs: {total}")
+        print(f"Positive pairs: {stats['positive']}")
+        print(f"Negative pairs: {stats['negative']}")
+        print(f"Total pairs: {stats['total']}")
+        print(f"Pair share: {pair_percentage:.2f}%")
+        print(
+            f"Positive-pair share: "
+            f"{positive_percentage:.2f}%"
+        )
 
 
 if __name__ == "__main__":
