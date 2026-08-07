@@ -25,6 +25,23 @@ def compare_feature(value_a, value_b, unknown_values=None):
     return CONFLICT
 
 def has_hard_conflict(features_a: dict, features_b: dict) -> bool:
+     # Smoking status
+    smoking_status_a = features_a.get(
+        "smoking_status",
+        "unspecified",
+    )
+    smoking_status_b = features_b.get(
+        "smoking_status",
+        "unspecified",
+    )
+
+    a_is_smoking = smoking_status_a == "smoking"
+    b_is_smoking = smoking_status_b == "smoking"
+
+    # An unspecified room is treated as non-smoking.
+    if a_is_smoking != b_is_smoking:
+        return True
+
     # 1. Major room category
     category_a = features_a.get("category")
     category_b = features_b.get("category")
@@ -1353,17 +1370,17 @@ def _passes_ml_model(
     room_b: dict,
     probability_threshold: float = 0.85,
 ) -> bool:
-    normalized_a = room_a["normalized_name"]
-    normalized_b = room_b["normalized_name"]
+    normalized_a = _get_normalized_name(room_a)
+    normalized_b = _get_normalized_name(room_b)
 
-    if normalized_a == normalized_b:
-        return True
-
-    features_a = room_a["features"]
-    features_b = room_b["features"]
+    features_a = _get_features(room_a)
+    features_b = _get_features(room_b)
 
     if has_hard_conflict(features_a, features_b):
         return False
+
+    if normalized_a == normalized_b:
+        return True
 
     prediction = predict_room_match(
         room_a_name=normalized_a,
@@ -1377,7 +1394,6 @@ def _passes_ml_model(
         prediction["match_probability"]
         >= probability_threshold
     )
-
 from enum import Enum
 
 from rapidfuzz.fuzz import token_set_ratio
@@ -1583,7 +1599,7 @@ def decide_room_match_ml(
 ) -> MatchDecision:
     features_a = _get_features(room_a)
     features_b = _get_features(room_b)
-
+    
     if has_hard_conflict(features_a, features_b):
         return MatchDecision.NO_MATCH
 
@@ -1669,7 +1685,7 @@ def decide_room_match_ml(
 
     strong_semantic_evidence = (
         token_set_score >= 85
-        and len(positive_evidence) >= 3
+        and len(positive_evidence) >= 2
         and automatic_match_allowed
     )
     strong_identity_evidence = (
@@ -1677,12 +1693,25 @@ def decide_room_match_ml(
         and bool(shared_non_view_tokens)
         and automatic_match_allowed
     )
+    print("\nMATCH DIAGNOSTICS")
+    print("NORMALIZED A:", normalized_a)
+    print("NORMALIZED B:", normalized_b)
+    print("TOKEN SET SCORE:", token_set_score)
+    print("TOKEN SORT SCORE:", token_sort_score)
+    print("POSITIVE EVIDENCE:", positive_evidence)
+    print("IDENTITY ASYMMETRIES:", identity_asymmetries)
+    print("STRONG NAME:", strong_name_evidence)
+    print("STRONG SEMANTIC:", strong_semantic_evidence)
+    print("STRONG IDENTITY:", strong_identity_evidence)
+    print("AUTOMATIC MATCH ALLOWED:", automatic_match_allowed)
         
 
     if not (
         strong_name_evidence
+        or strong_semantic_evidence
         or strong_identity_evidence
     ):
+        
         return MatchDecision.UNCERTAIN
 
     model_accepts_pair = _passes_ml_model(

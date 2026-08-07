@@ -3,7 +3,10 @@ from rapidfuzz.fuzz import (
     token_set_ratio,
     token_sort_ratio,
 )
-from app.services.feature_extractor import extract_features
+from app.services.feature_extractor import (
+    bed_configurations_are_compatible,
+    extract_features,
+)
 from app.services.normalizer import normalize_room_name
 def is_known(value) -> bool:
     return value not in (
@@ -264,8 +267,10 @@ def extract_pair_features(
             and has_bed_configuration(
                 features_b["bed_configuration"]
             )
-            and features_a["bed_configuration"]
-            == features_b["bed_configuration"]
+            and bed_configurations_are_compatible(
+                features_a["bed_configuration"],
+                features_b["bed_configuration"],
+            )
         ),
 
         "occupancy_both_known": int(

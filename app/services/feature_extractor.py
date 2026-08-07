@@ -265,6 +265,60 @@ def get_room_category(room_name: str) -> str:
 
     return "unknown"
 
+def bed_configurations_are_compatible(
+    config_a: list[dict],
+    config_b: list[dict],
+) -> bool:
+    if not config_a and not config_b:
+        return True
+
+    if not config_a or not config_b:
+        detailed_config = config_a or config_b
+
+        detailed_types = {
+            bed.get("type")
+            for bed in detailed_config
+            if bed.get("type")
+        }
+
+        if len(detailed_types) > 1:
+            return False
+
+        has_explicit_multiple_beds = any(
+            bed.get("count") is not None
+            and bed["count"] > 1
+            for bed in detailed_config
+        )
+
+        if has_explicit_multiple_beds:
+            return False
+        if detailed_types == {"twin"}:
+            return False
+
+        # Missing bed information may match one simple bed,
+        # but not multiple beds or multiple bed types.
+        return True
+
+    signature_a = {
+        (
+            bed.get("type"),
+            1 if bed.get("count") is None else bed["count"],
+        )
+        for bed in config_a
+        if bed.get("type")
+    }
+
+    signature_b = {
+        (
+            bed.get("type"),
+            1 if bed.get("count") is None else bed["count"],
+        )
+        for bed in config_b
+        if bed.get("type")
+    }
+
+    return signature_a == signature_b
+
 def get_room_class(room_name: str) -> str:
     room_name = normalize_room_name(room_name)
 
@@ -1036,6 +1090,90 @@ def get_building_block(room_name: str) -> str | None:
 
     return None
 
+import re
+
+
+def get_smoking_status(room_name: str) -> str:
+    normalized_name = room_name.lower()
+    normalized_name = re.sub(r"[-_/]", " ", normalized_name)
+    normalized_name = re.sub(r"[^a-z0-9\s]", " ", normalized_name)
+    normalized_name = re.sub(r"\s+", " ", normalized_name).strip()
+
+    # These descriptions do not guarantee either smoking status.
+    ambiguous_patterns = (
+        r"\bsmoking or non smoking\b",
+        r"\bsmoking and non smoking\b",
+        r"\bsmoking non smoking\b",
+        r"\bsmoking preference\b",
+        r"\bsmoking preference subject to availability\b",
+        r"\bsmoking subject to availability\b",
+    )
+
+    non_smoking_patterns = (
+        r"\bnon smoking\b",
+        r"\bnonsmoking\b",
+        r"\bnon smoker\b",
+        r"\bnonsmoker\b",
+        r"\bnon smoke\b",
+        r"\bno smoking\b",
+        r"\bno smoke\b",
+        r"\bsmoke free\b",
+        r"\bsmoking free\b",
+        r"\bsmoking prohibited\b",
+        r"\bsmoking forbidden\b",
+        r"\bsmoking not allowed\b",
+        r"\bsmoking not permitted\b",
+        r"\bsmoking is not allowed\b",
+        r"\bsmoking is not permitted\b",
+        r"\bwithout smoking\b",
+        r"\bnon smoking room\b",
+        r"\bnon smoking rooms\b",
+        r"\bno smoking room\b",
+        r"\bno smoking rooms\b",
+        r"\bns room\b",
+        r"\bnsmk\b",
+        r"\bnon smk\b",
+    )
+
+    smoking_patterns = (
+        r"\bsmoking\b",
+        r"\bsmoker\b",
+        r"\bsmoking room\b",
+        r"\bsmoking rooms\b",
+        r"\bsmoking allowed\b",
+        r"\bsmoking permitted\b",
+        r"\bsmoking available\b",
+        r"\bsmoking accommodation\b",
+        r"\bsmoking unit\b",
+        r"\bsmoking option\b",
+        r"\bsmk room\b",
+        r"\bsmk\b",
+    )
+
+    # Ambiguous wording must be checked first because it contains
+    # both "smoking" and "non smoking".
+    if any(
+        re.search(pattern, normalized_name)
+        for pattern in ambiguous_patterns
+    ):
+        return "unspecified"
+
+    # Check non-smoking before smoking because
+    # "non smoking" also contains the word "smoking".
+    if any(
+        re.search(pattern, normalized_name)
+        for pattern in non_smoking_patterns
+    ):
+        return "non_smoking"
+
+    if any(
+        re.search(pattern, normalized_name)
+        for pattern in smoking_patterns
+    ):
+        return "smoking"
+
+    return "unspecified"
+
 def extract_features(room_name: str) -> dict:
     category = get_room_category(room_name)
     room_class = get_room_class(room_name)
@@ -1048,7 +1186,7 @@ def extract_features(room_name: str) -> dict:
         "identity_tokens": get_identity_tokens(room_name),
         "category": category,
         "room_class": room_class,
-
+        "smoking_status": get_smoking_status(room_name),
         "building_block": get_building_block(room_name),
         "suite_type": get_suite_type(room_name),
         "layout": get_layout(room_name),
